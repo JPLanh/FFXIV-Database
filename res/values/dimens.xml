@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tagButtonWidth">230dp</dimen>
+    <dimen name="editButtonWidth">75dp</dimen>
+    <dimen name="itemNameWidth">255dp</dimen>
+    <dimen name="itemAmountWidth">25dp</dimen>
+
+</resources>

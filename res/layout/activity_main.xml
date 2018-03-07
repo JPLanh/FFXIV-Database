@@ -1,0 +1,201 @@
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.ffxivitemdatabase.MainActivity" >
+
+    <TableRow
+        android:id="@+id/tableRow0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/background_dark" >
+
+        <EditText
+            android:id="@+id/searchBox"
+            android:layout_width="286dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:ems="10"
+            android:text="@string/searchItem"
+            android:textColor="@android:color/holo_blue_light" >
+
+            <requestFocus />
+        </EditText>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/materialNameRow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true" >
+
+
+        <LinearLayout
+            android:id="@+id/searchButtonLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/searchButton"
+                android:layout_width="130dp"
+                android:layout_height="35dp"
+                android:layout_weight="0.24"
+                android:text="@string/searchButtonText"
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/addToListButton"
+                android:layout_width="130dp"
+                android:layout_height="35dp"
+                android:layout_weight="0.27"
+                android:text="@string/addToList"
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/materialLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".97" >
+
+        <ScrollView
+            android:id="@+id/queryScrollView"
+            android:layout_width="match_parent"
+            android:layout_span="2"
+            android:padding="5dp" >
+
+            <TableLayout
+                android:id="@+id/queryTableLayout"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:padding="5dp"
+                android:stretchColumns="*" >
+            </TableLayout>
+        </ScrollView>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/confirmRow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/ComposeListLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/ComposeListButton"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:text="@string/composeList"
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="12dp" />
+
+            <Button
+                android:id="@+id/ComposeGathererButton"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:text="@string/composeGatherer"
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="12dp" />
+
+                android:text="Button" />
+
+        </LinearLayout>
+
+    </TableRow>
+
+    <TextView
+        android:id="@+id/listTestText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/holo_blue_light"
+        android:visibility="invisible" />
+
+    <TableRow
+        android:id="@+id/backRow"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:layout_weight="0.01" >
+
+        <LinearLayout
+            android:id="@+id/ClearAllLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/ClearAll"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clearQuery"
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/logIn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Log In"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/loggedInAsText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Large Text"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="18sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <Button
+                    android:id="@+id/sendListButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Send"
+                    android:textColor="@android:color/holo_blue_light" 
+                    android:onClick="sendList"
+               		android:textSize="12sp" />
+
+                <Button
+                    android:id="@+id/GetListButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Get"
+                    android:textColor="@android:color/holo_blue_light" 
+                    android:onClick="getList"
+               		android:textSize="12sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </TableRow>
+
+</LinearLayout>
