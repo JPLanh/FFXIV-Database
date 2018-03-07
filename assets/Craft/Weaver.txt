@@ -1,0 +1,654 @@
+Hempen_Yarn 1 1 9 40 312 1 Lightning_Shard 2 Moko_Grass
+Undyed_Hempen_Cloth 2 1 10 40 325 1 Lightning_Shard 2 Hempen_Yarn
+Hempen_Halfgloves 2 1 20 60 325 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Hempen_Yarn
+Hempen_Underpants 2 1 20 60 325 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 2 Hempen_Yarn
+Hempen_Pantalettes 2 1 20 60 325 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 2 Hempen_Yarn
+Hempen_Coif 3 1 20 60 339 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather
+Hempen_Undershirt 3 1 20 60 339 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn
+Hempen_Camise 3 1 20 60 339 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn
+Hempen_Breeches_of_Crafting 3 1 20 60 339 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather
+Hempen_Coif_of_Gathering 4 1 21 60 352 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather
+Hempen_Dalmatica 4 1 21 60 352 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Animal_Sinew
+Hempen_Kurta 4 1 21 60 352 1 Lightning_Shard 1 Wind_Shard 3 Undyed_Hempen_Cloth 1 Hempen_Yarn
+Hempen_Breeches 4 1 21 60 352 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather
+Hempen_Shepherd's_Slops 4 1 21 60 352 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Leather 1 Animal_Sinew
+Hempen_Bandana 5 1 33 60 451 1 Lightning_Shard 1 Wind_Shard 3 Undyed_Hempen_Cloth
+Hempen_Cowl 5 1 33 60 451 1 Lightning_Shard 1 Wind_Shard 4 Undyed_Hempen_Cloth 1 Hempen_Yarn
+Hempen_Dalmatica_of_Gathering 5 1 33 60 451 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Animal_Sinew
+Hempen_Tunic 5 1 33 60 451 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather
+Hempen_Chausses 5 1 33 60 451 1 Lightning_Shard 1 Wind_Shard 3 Undyed_Hempen_Cloth 1 Hempen_Yarn
+Hempen_Sarouel 5 1 33 60 451 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather 1 Animal_Sinew
+Hempen_Tights 5 1 33 60 451 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn
+Hull_Interior_Component 1 1 19 60 312 2 Lightning_Shard 2 Wind_Shard 1 Hull_Interior_Component_Materials
+Bladder_Component 1 1 19 60 312 1 Lightning_Shard 1 Wind_Shard 1 Bladder_Component_Materials
+Bladder_Lining_Component 1 1 28 60 234 1 Lightning_Shard 1 Wind_Shard 1 Bladder_Lining_Component_Materials
+Starboard_Hull_Component 1 1 19 60 312 1 Lightning_Shard 1 Wind_Shard 1 Starboard_Hull_Component_Materials
+Larboard_Hull_Component 1 1 9 40 312 1 Lightning_Shard 1 Wind_Shard 1 Larboard_Hull_Component_Materials
+Propulsion_Engine_Component 3 1 30 60 254 2 Lightning_Shard 2 Wind_Shard 1 Propulsion_Engine_Component_Materials
+Gyrodrive_Component 3 1 20 60 339 1 Lightning_Shard 1 Wind_Shard 1 Gyrodrive_Component_Materials
+Rigging_Component 3 1 36 60 169 1 Lightning_Shard 1 Wind_Shard 1 Rigging_Component_Materials
+Deck_Component 3 1 30 60 254 1 Lightning_Shard 1 Wind_Shard 1 Deck_Component_Materials
+Engine_Casing_Component 3 1 10 40 339 1 Lightning_Shard 1 Wind_Shard 1 Engine_Casing_Component_Materials
+Crafting_Tool_Component 3 1 30 60 254 1 Lightning_Shard 1 Wind_Shard 1 Crafting_Tool_Component_Materials
+Hempen_Hat 6 1 36 60 474 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Cock_Feather
+Hempen_Shepherd's_Tunic 6 1 36 60 474 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Copper_Ingot
+Hempen_Tabard 6 1 36 60 474 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather 1 Animal_Sinew
+Hempen_Shortgloves 6 1 36 60 474 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn
+Hempen_Halfrobe 7 1 37 60 492 1 Lightning_Shard 1 Wind_Shard 3 Undyed_Hempen_Cloth 3 Hempen_Yarn
+Hempen_Work_Gloves 7 1 37 60 492 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Moko_Grass
+Hempen_Sash 7 1 37 60 492 1 Lightning_Shard 1 Wind_Shard 3 Undyed_Hempen_Cloth
+Hempen_Acton 8 1 41 60 526 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Moko_Grass
+Hempen_Kecks 8 1 41 60 526 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather 1 Copper_Ingot
+Hempen_Gaskins 8 1 41 60 526 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Hempen_Yarn 2 Leather
+Amateur's_Doublet_Vest 9 1 42 60 545 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather 1 Copper_Ingot
+Amateur's_Kurta 9 1 42 60 545 1 Lightning_Shard 1 Wind_Shard 3 Undyed_Hempen_Cloth 1 Hempen_Yarn
+Amateur's_Slops 9 1 42 60 545 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Leather 1 Animal_Sinew
+Hempen_Bottoms 9 1 42 60 545 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Copper_Ingot
+Amateur's_Hempen_Coif 10 1 45 60 629 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Hard_Leather
+Amateur's_Dalmatica 10 1 45 60 629 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Cock_Feather
+Amateur's_Breeches 10 1 45 60 629 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather
+Hempen_Trousers 10 1 45 60 629 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather 1 Animal_Sinew 1 Bronze_Rivets
+Engine_Jointing_Component 6 1 18 40 474 2 Lightning_Shard 2 Wind_Shard 1 Engine_Jointing_Component_Materials
+Cockpit_Exterior_Component 6 1 18 40 474 1 Lightning_Shard 1 Wind_Shard 1 Cockpit_Exterior_Component_Materials
+Cockpit_Interior_Component 6 1 18 40 474 1 Lightning_Shard 1 Wind_Shard 1 Cockpit_Interior_Component_Materials
+Ballast_Component 6 1 36 60 474 1 Lightning_Shard 1 Wind_Shard 1 Ballast_Component_Materials
+Instrument_Panel_Component 6 1 115 60 237 1 Lightning_Shard 1 Wind_Shard 1 Instrument_Panel_Component_Materials
+Aerodynamo_Component 6 1 36 60 474 1 Lightning_Shard 1 Wind_Shard 1 Aerodynamo_Component_Materials
+Starboard_Wing_Component 10 1 22 40 629 1 Lightning_Shard 1 Wind_Shard 1 Starboard_Wing_Component_Materials
+Larboard_Wing_Component 10 1 22 40 629 1 Lightning_Shard 1 Wind_Shard 1 Larboard_Wing_Component_Materials
+Starboard_Wing_Control_Component 10 1 67 60 471 1 Lightning_Shard 1 Wind_Shard 1 Starboard_Wing_Control_Component_Materials
+Larboard_Wing_Control_Component 10 1 67 60 471 1 Lightning_Shard 1 Wind_Shard 1 Larboard_Wing_Control_Component_Materials
+Transmission_Component 10 1 144 60 314 1 Lightning_Shard 1 Wind_Shard 1 Transmission_Component_Materials
+Heat_Vent_Component 10 1 144 60 314 1 Lightning_Shard 1 Wind_Shard 1 Heat_Vent_Component_Materials
+Straw_Hat 11 1 48 60 665 1 Lightning_Shard 1 Wind_Shard 3 Straw
+Hempen_Dress_Gloves 11 1 48 60 665 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 2 Hempen_Yarn
+Hempen_Bracers 11 1 48 60 665 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Hempen_Cloth 1 Hard_Leather 1 Bronze_Ingot
+Cotton_Yarn 12 1 26 40 702 1 Lightning_Shard 2 Cotton_Boll
+Stablemaid's_Hat 12 1 53 60 702 1 Lightning_Shard 1 Wind_Shard 3 Straw 1 Carnation
+Hempen_Robe 12 1 53 60 702 1 Lightning_Shard 1 Wind_Shard 3 Undyed_Hempen_Cloth 3 Hempen_Yarn
+Hempen_Doublet_Vest_of_Crafting 12 1 53 60 702 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather 1 Copper_Ingot
+Hempen_Doublet_Vest_of_Gathering 12 1 53 60 702 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Hempen_Yarn 1 Leather 1 Copper_Ingot
+Undyed_Cotton_Cloth 13 1 27 40 726 1 Lightning_Shard 2 Cotton_Yarn
+Stablehand's_Hat 13 1 54 60 726 1 Lightning_Shard 1 Wind_Shard 3 Straw 1 Undyed_Cotton_Cloth
+Cotton_Turban 13 1 54 60 726 1 Lightning_Shard 1 Wind_Shard 3 Undyed_Cotton_Cloth
+Striped_Cotton_Slops 13 1 54 60 726 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Hard_Leather 1 Animal_Sinew
+Cotton_Cowl 14 1 54 60 751 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 2 Undyed_Hempen_Cloth 1 Cotton_Yarn
+Cotton_Shirt 14 1 54 60 751 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 2 Hard_Leather
+Cotton_Longsash 14 1 54 60 751 1 Lightning_Shard 1 Wind_Shard 3 Undyed_Cotton_Cloth 1 Hempen_Yarn
+Cotton_Chausses 14 1 54 60 751 1 Lightning_Shard 1 Wind_Shard 3 Undyed_Cotton_Cloth 1 Cotton_Yarn
+Cotton_Tights 14 1 54 60 751 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn
+Cotton_Sarouel 14 1 54 60 751 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Hard_Leather 1 Beast_Sinew
+Cotton_Scarf 15 1 55 70 807 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn
+Cotton_Halfgloves 15 1 55 70 807 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn
+Cotton_Shepherd's_Slops 15 1 55 70 807 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Undyed_Hempen_Cloth
+Helm_Component 15 1 99 70 1452 2 Lightning_Shard 2 Wind_Shard 1 Helm_Component_Materials
+Speaking_Tube_Component 15 1 82 70 605 1 Lightning_Shard 1 Wind_Shard 1 Speaking_Tube_Component_Materials
+Lamp_Component 15 1 27 40 807 1 Lightning_Shard 1 Wind_Shard 1 Lamp_Component_Materials
+Exhaust_Outlet_Component 15 1 99 70 1452 1 Lightning_Shard 1 Wind_Shard 1 Exhaust_Outlet_Component_Materials
+Disposal_Unit_Component 15 1 176 70 403 1 Lightning_Shard 1 Wind_Shard 1 Disposal_Unit_Component_Materials
+Ceruleum_Tank_Component 15 1 176 70 403 1 Lightning_Shard 1 Wind_Shard 1 Ceruleum_Tank_Component_Materials
+Steering_Mechanism_Component 15 1 82 70 605 1 Lightning_Shard 1 Wind_Shard 1 Steering_Mechanism_Component_Materials
+Hunting_Hat 16 1 63 70 866 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Hard_Leather
+Cotton_Tabard 16 1 63 70 866 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Hard_Leather 1 Animal_Sinew
+Cotton_Shepherd's_Tunic 16 1 63 70 866 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Brass_Ingot
+Rope_Belt 16 1 63 70 866 1 Lightning_Shard 1 Wind_Shard 3 Straw
+Padded_Hempen_Trousers 16 1 63 70 866 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Hempen_Cloth 1 Cotton_Yarn 1 Hard_Leather 1 Beast_Sinew
+Cotton_Dalmatica 17 1 66 70 898 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Beast_Sinew
+Cotton_Dalmatica_of_Gathering 17 1 66 70 898 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Beast_Sinew
+Cotton_Trousers 17 1 66 70 898 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Leather 1 Animal_Sinew 1 Bronze_Rivets
+Cotton_Canvas 18 1 33 40 939 1 Lightning_Shard 2 Cotton_Yarn 1 Hempen_Yarn 1 Beeswax
+Cotton_Kurta 18 1 67 70 939 1 Lightning_Shard 1 Wind_Shard 3 Undyed_Cotton_Cloth 1 Cotton_Yarn
+Cotton_Coif 19 1 68 70 982 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Hard_Leather
+Cotton_Coif_of_Gathering 19 1 68 70 982 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Hard_Leather
+Cotton_Acton 19 1 68 70 982 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Dodo_Feather
+Cotton_Breeches 19 1 68 70 982 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Leather
+Cotton_Breeches_of_Crafting 19 1 68 70 982 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Leather
+Initiate's_Doublet_Vest 20 1 74 70 1053 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Hard_Leather 1 Brass_Ingot
+Cotton_Work_Gloves 20 1 74 70 1053 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Undyed_Hempen_Cloth 1 Cotton_Yarn 1 Cotton_Boll
+Padded_Cotton_Trousers 20 1 74 70 1053 1 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Hard_Leather 1 Animal_Sinew 1 Iron_Rivets
+Initiate's_Slops 20 1 74 70 1053 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Beast_Sinew
+Riviera_Bed 16 1 201 70 433 1 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 2 Maple_Lumber 2 Bronze_Ingot
+Glade_Cottage_Roof_(Wood) 17 1 211 70 449 4 Lightning_Shard 4 Wind_Shard 4 Straw 4 Elm_Lumber 4 Iron_Joint_Plate 4 Iron_Nails
+Escape_Flyer_Component 16 1 113 70 1558 1 Lightning_Shard 1 Wind_Shard 1 Escape_Flyer_Component_Materials
+Spare_Tank_Component 16 1 201 70 433 1 Lightning_Shard 1 Wind_Shard 1 Spare_Tank_Component_Materials
+Refabrication_Component 16 1 31 40 866 1 Lightning_Shard 1 Wind_Shard 1 Refabrication_Component_Materials
+Isolator_Component 16 1 63 70 866 1 Lightning_Shard 1 Wind_Shard 1 Isolator_Component_Materials
+Hyperconductor_Component 16 1 201 70 433 1 Lightning_Shard 1 Wind_Shard 1 Hyperconductor_Component_Materials
+Auxiliary_Aerodynamo_Component 16 1 63 70 866 1 Lightning_Shard 1 Wind_Shard 1 Auxiliary_Aerodynamo_Component_Materials
+Decorative_Plating_Component 16 1 201 70 433 1 Lightning_Shard 1 Wind_Shard 1 Decorative_Plating_Component_Materials
+Finishing_Component 18 1 120 70 1690 2 Lightning_Shard 2 Wind_Shard 1 Finishing_Component_Materials
+Figurehead_Component 18 1 214 70 469 2 Lightning_Shard 2 Wind_Shard 1 Figurehead_Component_Materials
+Cotton_Dress_Gloves 21 1 75 70 1090 2 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 2 Cotton_Yarn
+Cotton_Sash 21 1 75 70 1090 2 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn
+Cotton_Halfrobe 22 1 75 70 1122 2 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 2 Cotton_Yarn
+Cotton_Gaskins 22 1 75 70 1122 2 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 2 Hard_Leather
+Cotton_Dress_Shoes 22 1 75 70 1122 2 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Rubber
+Dew_Thread 23 1 39 40 1169 2 Lightning_Shard 2 Diremite_Web
+Cotton_Sugarloaf_Hat 23 1 79 70 1169 2 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Iron_Ingot
+Cotton_Trapper's_Tunic 23 1 79 70 1169 2 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Hard_Leather 1 Beast_Sinew
+Cotton_Doublet_Vest_of_Crafting 23 1 79 70 1169 2 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Hard_Leather 1 Brass_Ingot
+Cotton_Doublet_Vest_of_Gathering 23 1 79 70 1169 2 Lightning_Shard 1 Wind_Shard 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Hard_Leather 1 Brass_Ingot
+Cotton_Bracers 23 1 79 70 1169 2 Lightning_Shard 1 Wind_Shard 2 Undyed_Cotton_Cloth 1 Hard_Leather 1 Iron_Ingot
+Undyed_Velveteen 24 1 42 40 1239 2 Lightning_Shard 1 Cotton_Yarn 1 Dew_Thread
+Cotton_Robe 24 1 85 70 1239 2 Lightning_Shard 2 Wind_Shard 2 Undyed_Cotton_Cloth 2 Dew_Thread
+Initiate's_Gown 24 1 85 70 1239 2 Lightning_Shard 2 Wind_Shard 2 Undyed_Velveteen 1 Dew_Thread 1 Cotton_Boll 1 Iron_Ingot
+Velveteen_Halfgloves 24 1 85 70 1239 2 Lightning_Shard 2 Wind_Shard 1 Undyed_Velveteen 1 Dew_Thread
+Velveteen_Chausses 24 1 85 70 1239 2 Lightning_Shard 2 Wind_Shard 2 Undyed_Velveteen 1 Dew_Thread
+Cotton_Kecks 24 1 85 70 1239 2 Lightning_Shard 2 Wind_Shard 2 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Leather 1 Iron_Ingot
+Velveteen_Bandana 25 1 89 70 1296 2 Lightning_Shard 2 Wind_Shard 2 Undyed_Velveteen 1 Sunrise_Tellin 1 Bat_Fang
+Velveteen_Sarouel 25 1 89 70 1296 2 Lightning_Shard 2 Wind_Shard 1 Undyed_Velveteen 1 Dew_Thread 1 Aldgoat_Leather 1 Beast_Sinew
+Velveteen_Sarouel_of_Gathering 25 1 89 70 1296 2 Lightning_Shard 2 Wind_Shard 1 Undyed_Velveteen 1 Dew_Thread 1 Aldgoat_Leather 1 Beast_Sinew
+Striped_Velveteen_Slops 25 1 89 70 1296 2 Lightning_Shard 2 Wind_Shard 2 Undyed_Velveteen 1 Aldgoat_Leather 1 Beast_Sinew
+Glade_Cottage_Roof_(Stone) 21 1 240 70 545 8 Lightning_Shard 8 Wind_Shard 8 Straw 8 Yew_Lumber 8 Iron_Joint_Plate 8 Iron_Nails
+Velveteen_Turban 26 1 90 70 1332 2 Lightning_Shard 2 Wind_Shard 2 Undyed_Velveteen
+Velveteen_Shirt 26 1 90 70 1332 2 Lightning_Shard 2 Wind_Shard 1 Undyed_Velveteen 1 Dew_Thread 2 Aldgoat_Leather
+Tarred_Velveteen_Longsash 26 1 90 70 1332 2 Lightning_Shard 2 Wind_Shard 2 Undyed_Velveteen 1 Cotton_Yarn
+Velveteen_Wedge_Cap_of_Crafting 27 1 91 70 1368 3 Lightning_Shard 3 Wind_Shard 1 Undyed_Velveteen 1 Undyed_Cotton_Cloth 1 Dew_Thread
+Velveteen_Cowl 27 1 91 70 1368 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 1 Dew_Thread
+Velveteen_Rope_Belt 27 1 91 70 1368 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen
+Velveteen_Tights 27 1 91 70 1368 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 1 Dew_Thread
+Velveteen_Wedge_Cap_of_Gathering 28 1 100 70 1498 3 Lightning_Shard 3 Wind_Shard 1 Undyed_Velveteen 1 Undyed_Cotton_Cloth 1 Dew_Thread
+Velveteen_Coatee_of_Gathering 28 1 100 70 1498 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 3 Dew_Thread 1 Silver_Ingot
+Velveteen_Half_Apron 28 1 100 70 1498 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 1 Dew_Thread 1 Silver_Ingot
+Velveteen_Trousers 28 1 100 70 1498 3 Lightning_Shard 3 Wind_Shard 1 Undyed_Velveteen 1 Dew_Thread 1 Aldgoat_Leather 1 Beast_Sinew 1 Iron_Rivets
+Velveteen_Gaiters 28 1 100 70 1498 3 Lightning_Shard 3 Wind_Shard 1 Undyed_Velveteen 1 Undyed_Cotton_Cloth 1 Silver_Ingot 1 Rubber
+Velveteen_Beret 29 1 101 70 1544 3 Lightning_Shard 3 Wind_Shard 1 Undyed_Velveteen 1 Dew_Thread 1 Dodo_Feather 1 Cotton_Boll
+Velveteen_Coatee_of_Crafting 29 1 101 70 1544 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 3 Dew_Thread 1 Silver_Ingot
+Velveteen_Shortgloves 29 1 101 70 1544 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 1 Dew_Thread
+Velveteen_Gown 30 1 102 70 1584 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 1 Dew_Thread 1 Cotton_Boll 1 Silver_Ingot
+Velveteen_Work_Gloves 30 1 102 70 1584 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 1 Dew_Thread 1 Cotton_Boll
+Padded_Velveteen_Trousers 30 1 102 70 1584 3 Lightning_Shard 3 Wind_Shard 1 Undyed_Velveteen 1 Dew_Thread 1 Toad_Leather 1 Diremite_Sinew 1 Iron_Rivets
+Velveteen_Bottom 30 1 102 70 1584 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 1 Dew_Thread 1 Iron_Ingot
+Velveteen_Dress_Shoes 30 1 102 70 1584 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 1 Dew_Thread 1 Rubber
+Glade_Bed 28 1 320 70 749 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 3 Elm_Lumber
+Snow_White_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Grey_Pigment
+Soot_Black_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Grey_Pigment
+Dalamud_Red_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Red_Pigment
+Wine_Red_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Red_Pigment
+Sunset_Orange_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Brown_Pigment
+Kobold_Brown_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Brown_Pigment
+Pumpkin_Orange_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Brown_Pigment
+Loam_Brown_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Brown_Pigment
+Honey_Yellow_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Yellow_Pigment
+Millioncorn_Yellow_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Yellow_Pigment
+Hunter_Green_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Green_Pigment
+Ochu_Green_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Green_Pigment
+Deepwood_Green_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Green_Pigment
+Celeste_Green_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Green_Pigment
+Morbol_Green_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Green_Pigment
+Woad_Blue_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Othard_Blue_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Storm_Blue_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Void_Blue_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Royal_Blue_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Abyssal_Blue_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Lotus_Pink_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Purple_Pigment
+Colibri_Pink_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Purple_Pigment
+Plum_Purple_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Purple_Pigment
+Regal_Purple_Dye 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Purple_Pigment
+Grade_1_Glamour_Prism_(Clothcraft) 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Grade_1_Clear_Prism 2 Undyed_Velveteen
+Grade_2_Glamour_Prism_(Clothcraft) 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Grade_2_Clear_Prism 2 Undyed_Velveteen
+Grade_3_Glamour_Prism_(Clothcraft) 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Grade_3_Clear_Prism 2 Undyed_Velveteen
+Grade_4_Glamour_Prism_(Clothcraft) 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Grade_4_Clear_Prism 2 Undyed_Velveteen
+Grade_5_Glamour_Prism_(Clothcraft) 30 1 51 70 1584 1 Lightning_Crystal 1 Wind_Crystal 1 Grade_5_Clear_Prism 2 Undyed_Velveteen
+Velveteen_Robe 31 1 106 80 1670 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 3 Dew_Thread 1 Silver_Ingot
+Velveteen_Dress_Gloves 31 1 106 80 1670 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 3 Dew_Thread
+Velveteen_Sash 31 1 106 80 1670 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 1 Dew_Thread
+Velveteen_Gaskins 31 1 106 80 1670 3 Lightning_Shard 3 Wind_Shard 1 Undyed_Velveteen 1 Dew_Thread 1 Toad_Leather
+Linen_Yarn 32 1 55 40 1697 3 Lightning_Shard 3 Flax
+Velveteen_Sugarloaf_Hat 32 1 110 80 1697 3 Lightning_Shard 3 Wind_Shard 1 Undyed_Velveteen 1 Dew_Thread 1 Steel_Ingot
+Velveteen_Doublet_Vest_of_Crafting 32 1 110 80 1697 3 Lightning_Shard 3 Wind_Shard 1 Undyed_Velveteen 1 Dew_Thread 1 Aldgoat_Leather 1 Silver_Ingot 1 Brimstone
+Undyed_Linen 33 1 55 40 1757 4 Lightning_Shard 4 Linen_Yarn
+Velveteen_Doublet_Vest_of_Gathering 33 1 111 80 1757 4 Lightning_Shard 4 Wind_Shard 1 Undyed_Velveteen 1 Dew_Thread 1 Aldgoat_Leather 1 Silver_Ingot 1 Brimstone
+Linen_Halfgloves 33 1 111 80 1757 4 Lightning_Shard 4 Wind_Shard 1 Undyed_Linen 1 Linen_Yarn
+Linen_Chausses 33 1 111 80 1757 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 1 Linen_Yarn
+Linen_Turban 34 1 115 80 1811 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen
+Linen_Shirt 34 1 115 80 1811 4 Lightning_Shard 4 Wind_Shard 1 Undyed_Linen 1 Linen_Yarn 4 Aldgoat_Leather
+Linen_Sarouel_of_Gathering 34 1 115 80 1811 4 Lightning_Shard 4 Wind_Shard 1 Undyed_Linen 1 Linen_Yarn 1 Aldgoat_Leather 1 Diremite_Sinew
+Linen_Sarouel 34 1 115 80 1811 4 Lightning_Shard 4 Wind_Shard 1 Undyed_Linen 1 Linen_Yarn 1 Aldgoat_Leather 1 Diremite_Sinew
+Linen_Hat 35 1 123 80 1853 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 1 Linen_Yarn 1 Crow_Feather
+Linen_Robe 35 1 123 80 1853 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 4 Linen_Yarn 1 Sunrise_Tellin
+Linen_Tights 35 1 123 80 1853 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 1 Linen_Yarn
+Vintage_Half_Apron 35 1 123 80 1853 1 Lightning_Crystal 1 Greasy_Half_Apron 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Iron_Ingot
+Riviera_Awning 32 1 352 80 848 3 Lightning_Shard 3 Wind_Shard 3 Cotton_Canvas 3 Cotton_Yarn 3 Yew_Lumber
+Oasis_Leaf_Rug 32 1 352 80 848 3 Lightning_Shard 3 Wind_Shard 3 Undyed_Velveteen 3 Undyed_Cotton_Cloth 3 Cotton_Yarn
+Oasis_Bed 34 1 368 80 905 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 4 Oak_Lumber 4 Iron_Ingot
+Glade_House_Roof_(Wood) 34 1 368 80 905 16 Lightning_Shard 16 Wind_Shard 16 Bloodgrass 16 Walnut_Lumber 16 Steel_Joint_Plate 16 Steel_Nails
+Spotted_Interior_Wall 35 1 393 80 926 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 4 Linen_Yarn 4 Mortar
+Linen_Canvas 36 1 62 40 1882 4 Lightning_Shard 4 Linen_Yarn 1 Cotton_Yarn 1 Beeswax
+Angler's_Hat 36 1 124 80 1882 4 Lightning_Shard 4 Wind_Shard 4 Straw 1 Peiste_Leather 1 Undyed_Linen
+Linen_Cowl 36 1 124 80 1882 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 1 Linen_Yarn
+Linen_Longsash 36 1 124 80 1882 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 1 Cotton_Yarn
+Linen_Trousers 36 1 124 80 1882 4 Lightning_Shard 4 Wind_Shard 1 Undyed_Linen 1 Linen_Yarn 1 Toad_Leather 1 Diremite_Sinew 1 Steel_Rivets
+Linen_Wedge_Cap_of_Crafting 37 1 128 80 1905 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 1 Linen_Yarn 1 Electrum_Ingot
+Linen_Half_Apron 37 1 128 80 1905 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 1 Linen_Yarn 1 Electrum_Ingot
+Linen_Bottom 37 1 128 80 1905 4 Lightning_Shard 4 Wind_Shard 1 Undyed_Linen 1 Linen_Yarn 1 Undyed_Velveteen
+Linen_Gaiters 37 1 128 80 1905 4 Lightning_Shard 4 Wind_Shard 1 Undyed_Linen 1 Undyed_Velveteen 1 Electrum_Ingot 1 Rubber
+Vintage_Coatee 37 1 128 80 1905 1 Lightning_Crystal 1 Moth-eaten_Coatee 2 Undyed_Cotton_Cloth 1 Iron_Ingot 1 Cotton_Yarn
+Woolen_Yarn 38 1 64 40 1961 4 Lightning_Shard 4 Fleece
+Linen_Wedge_Cap_of_Gathering 38 1 129 80 1961 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 1 Linen_Yarn 1 Electrum_Ingot
+Linen_Coatee_of_Crafting 38 1 129 80 1961 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 4 Linen_Yarn 1 Electrum_Ingot
+Linen_Coatee_of_Gathering 38 1 129 80 1961 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 4 Linen_Yarn 1 Electrum_Ingot
+Linen_Shortgloves 38 1 129 80 1961 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 1 Linen_Yarn
+Vintage_Doublet_Vest 38 1 129 80 1961 1 Wind_Crystal 1 Frayed_Cotton_Doublet_Vest 1 Undyed_Cotton_Cloth 2 Hard_Leather 1 Cotton_Yarn 1 Brass_Ingot
+Undyed_Woolen_Cloth 39 1 68 40 2026 5 Lightning_Shard 5 Woolen_Yarn
+Woolen_Coif 39 1 137 80 2026 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Linen_Yarn 1 Aldgoat_Leather
+Woolen_Turban 39 1 137 80 2026 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Aldgoat_Leather
+Woolen_Shirt 39 1 137 80 2026 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 5 Aldgoat_Leather
+Linen_Bliaud 39 1 137 80 2026 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Linen 1 Woolen_Yarn 1 Aldgoat_Leather 1 Hippogryph_Sinew
+Woolen_Sash 39 1 137 80 2026 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Woolen_Yarn
+Padded_Linen_Trousers 39 1 137 80 2026 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Linen 1 Linen_Yarn 1 Boar_Leather 1 Diremite_Sinew 1 Steel_Rivets
+Linen_Gaskins 39 1 137 80 2026 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Linen 1 Linen_Yarn 5 Boar_Leather
+Woolen_Hat 40 1 138 80 2050 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Dodo_Feather
+Linen_Deerstalker 40 1 138 80 2050 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Linen 1 Undyed_Velveteen 5 Linen_Yarn
+Woolen_Coif_of_Gathering 40 1 138 80 2050 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Linen_Yarn 1 Aldgoat_Leather
+Woolen_Sarouel 40 1 138 80 2050 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Aldgoat_Leather 1 Diremite_Sinew
+Woolen_Sarouel_of_Gathering 40 1 138 80 2050 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Aldgoat_Leather 1 Diremite_Sinew
+Vintage_Chef's_Apron 40 1 138 80 2050 1 Lightning_Crystal 1 Stained_Chef's_Apron 1 Undyed_Velveteen 1 Undyed_Linen 1 Dew_Thread
+Riviera_Rug 37 1 409 80 952 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 4 Undyed_Velveteen 4 Linen_Yarn
+Glade_Fringed_Rug 37 1 409 80 952 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 4 Undyed_Velveteen 4 Linen_Yarn
+Oasis_Rug 37 1 409 80 952 4 Lightning_Shard 4 Wind_Shard 4 Undyed_Linen 4 Undyed_Velveteen 4 Linen_Yarn
+Glade_House_Roof_(Stone) 38 1 412 80 980 16 Lightning_Shard 16 Wind_Shard 16 Bloodgrass 16 Oak_Lumber 16 Steel_Joint_Plate 16 Steel_Nails
+Linen_Parasol 39 1 438 80 1013 5 Lightning_Shard 5 Wind_Shard 5 Linen_Canvas 5 Mythril_Ingot 5 Silver_Ingot
+Stuffed_Ahriman 40 1 441 80 1025 5 Lightning_Shard 5 Wind_Shard 1 Ahriman_Tears 1 Exquisite_Buttons 1 Undyed_Velveteen 1 Dew_Thread
+Glade_Awning 40 1 441 80 1025 5 Lightning_Shard 5 Wind_Shard 5 Linen_Canvas 5 Linen_Yarn 5 Oak_Lumber
+Glade_Rug 40 1 441 80 1025 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 5 Undyed_Linen 5 Boar_Leather 5 Woolen_Yarn
+Riviera_Doormat 40 1 441 80 1025 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 5 Undyed_Linen 5 Woolen_Yarn
+Woolen_Robe 41 1 143 80 2109 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 5 Woolen_Yarn 1 Mythril_Ingot
+Linen_Smock 41 1 143 80 2109 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Linen 1 Undyed_Velveteen 1 Linen_Yarn 1 Lanolin
+Woolen_Dress_Gloves 41 1 143 80 2109 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Woolen_Yarn
+Woolen_Tights 41 1 143 80 2109 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Woolen_Yarn
+Vintage_Chef's_Hat 41 1 143 80 2109 1 Lightning_Crystal 1 Ripped_Chef's_Hat 1 Undyed_Velveteen 1 Undyed_Linen 1 Dew_Thread
+Felt_Lining 42 1 72 40 2147 5 Lightning_Shard 5 Fleece 1 Grenade_Ash 1 Natron
+Woolen_Cavalier's_Hat 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Wildfowl_Feather 1 Brass_Ingot
+Ranger's_Hat 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Dew_Thread 1 Boar_Leather 1 Chocobo_Feather
+Woolen_Beret 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Apkallu_Down 1 Chocobo_Feather
+Ranger's_Tunic 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Aldgoat_Leather 1 Hippogryph_Sinew
+Woolen_Gown 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Undyed_Linen 1 Woolen_Yarn 1 Mythril_Ingot
+Linen_Doublet 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Linen 1 Linen_Yarn 1 Boar_Leather 1 Steel_Ingot
+Woolen_Bracers 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 1 Boar_Leather 1 Aldgoat_Leather 1 Undyed_Woolen_Cloth 1 Hippogryph_Sinew
+Woolen_Gaskins 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Dew_Thread 5 Toad_Leather
+Woolen_Kecks 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Undyed_Linen 1 Woolen_Yarn 1 Boar_Leather 1 Steel_Ingot
+Woolen_Chausses 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Undyed_Linen 1 Woolen_Yarn
+Linen_Slops 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Linen 1 Linen_Yarn 1 Boar_Leather
+Woolen_Dress_Shoes 42 1 144 80 2147 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Rubber
+Undyed_Felt 43 1 77 40 2251 5 Lightning_Shard 5 Fleece 1 Snurble_Tufts 1 Natron
+Felt_Coif 43 1 155 80 2251 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Felt 1 Woolen_Yarn 1 Aldgoat_Leather
+Woolen_Bliaud 43 1 155 80 2251 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Toad_Leather 1 Hippogryph_Sinew
+Woolen_Halfgloves 43 1 155 80 2251 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Boar_Leather 1 Mythril_Ingot
+Woolen_Work_Gloves 43 1 155 80 2251 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Toad_Leather 1 Cotton_Boll
+Woolen_Trousers 43 1 155 80 2251 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Boar_Leather 1 Raptor_Sinew 1 Mythril_Rivets
+Vintage_Hose 43 1 155 80 2251 1 Wind_Crystal 1 Ripped_Hose 1 Linen_Yarn
+Felt_Hat 44 1 156 80 2277 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Felt 1 Woolen_Yarn 1 Wildfowl_Feather 1 Electrum_Ingot
+Woolen_Deerstalker 44 1 156 80 2277 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 5 Woolen_Yarn
+Felt_Coif_of_Gathering 44 1 156 80 2277 5 Lightning_Shard 5 Wind_Shard 1 Undyed_Felt 1 Woolen_Yarn 1 Aldgoat_Leather
+Felt_Robe 44 1 156 80 2277 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Felt 5 Woolen_Yarn 1 Electrum_Ingot
+Woolen_Smock 44 1 156 80 2277 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Undyed_Linen 1 Woolen_Yarn 1 Lanolin
+Woolen_Doublet 44 1 156 80 2277 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Raptor_Leather 1 Cobalt_Ingot
+Woolen_Slops 44 1 156 80 2277 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Raptor_Leather
+Vintage_Seneschal_Coatee 44 1 156 80 2277 1 Lightning_Crystal 1 Moth-eaten_Seneschal_Coatee 1 Undyed_Linen 1 Undyed_Velveteen 1 Silver_Ingot 1 Linen_Yarn
+Rainmaker's_Hat 45 1 158 80 2309 6 Lightning_Shard 6 Wind_Shard 1 Undyed_Felt 1 Woolen_Yarn 1 Boar_Leather 1 Chocobo_Feather
+Rainmaker's_Tunic 45 1 158 80 2309 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 1 Woolen_Yarn 1 Boar_Leather 1 Raptor_Sinew
+Felt_Gown 45 1 158 80 2309 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 1 Woolen_Yarn 1 Apkallu_Down 1 Cobalt_Ingot
+Woolen_Cowl 45 1 158 80 2309 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Woolen_Cloth 1 Undyed_Linen 1 Woolen_Yarn
+Felt_Halfgloves 45 1 158 80 2309 6 Lightning_Shard 6 Wind_Shard 1 Undyed_Felt 1 Woolen_Yarn 1 Boar_Leather 1 Electrum_Ingot
+Felt_Sash 45 1 158 80 2309 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 1 Woolen_Yarn
+Felt_Kecks 45 1 158 80 2309 6 Lightning_Shard 6 Wind_Shard 1 Undyed_Felt 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Raptor_Leather 1 Mythril_Ingot
+Felt_Chausses 45 1 158 80 2309 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 1 Undyed_Woolen_Cloth 1 Woolen_Yarn
+Vintage_Jester's_Cap 45 1 158 80 2309 1 Wind_Crystal 1 Moldering_Jester's_Cap 1 Undyed_Woolen_Cloth
+Riviera_Flora_Interior_Wall 41 1 457 80 1054 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 5 Woolen_Yarn 5 Mortar
+Glade_Flora_Interior_Wall 41 1 457 80 1054 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 5 Woolen_Yarn 5 Mortar
+Oasis_Flora_Interior_Wall 41 1 457 80 1054 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 5 Woolen_Yarn 5 Mortar
+Riviera_Armchair 42 1 460 80 1073 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 5 Woolen_Yarn 5 Apkallu_Down 1 Walnut_Lumber 1 Steel_Plate
+Oasis_Bench 42 1 460 80 1073 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 5 Mahogany_Lumber 5 Electrum_Ingot
+Glade_Doormat 42 1 460 80 1073 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 5 Undyed_Velveteen 5 Woolen_Yarn
+Oasis_Awning 44 1 499 80 1138 5 Lightning_Shard 5 Wind_Shard 5 Linen_Canvas 5 Cobalt_Ingot 5 Cut_Stone
+Riviera_Couch 44 1 499 80 1138 5 Lightning_Shard 5 Wind_Shard 5 Undyed_Woolen_Cloth 5 Woolen_Yarn 5 Apkallu_Down 5 Walnut_Lumber 1 Steel_Plate
+Glade_Thatch_Wall 44 1 499 80 1138 20 Lightning_Shard 20 Wind_Shard 20 Bloodgrass 20 Mahogany_Lumber 20 Steel_Ingot
+Oasis_Armchair 45 1 505 80 1154 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 6 Undyed_Woolen_Cloth 6 Mahogany_Lumber 6 Electrum_Ingot
+Striped_Interior_Wall 45 1 505 80 1154 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 6 Woolen_Yarn 6 Mortar
+Goobbue_Rug 45 1 505 80 1154 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 1 Undyed_Linen 6 Linen_Yarn 6 Exquisite_Buttons
+Oasis_Doormat 45 1 505 80 1154 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 6 Undyed_Woolen_Cloth 6 Woolen_Yarn
+Felt_Beret 46 1 159 80 2372 6 Lightning_Shard 6 Wind_Shard 1 Undyed_Felt 1 Woolen_Yarn 1 Apkallu_Down 1 Chocobo_Feather
+Felt_Bracers 46 1 159 80 2372 6 Lightning_Shard 6 Wind_Shard 6 Boar_Leather 1 Undyed_Felt 1 Raptor_Sinew
+Felt_Work_Gloves 46 1 159 80 2372 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 1 Woolen_Yarn 1 Boar_Leather 1 Cotton_Boll
+Felt_Dress_Shoes 46 1 159 80 2372 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 1 Woolen_Yarn 1 Rubber
+Vintage_Coif 46 1 159 80 2372 1 Lightning_Crystal 1 Torn_Coif 1 Aldgoat_Leather 1 Undyed_Woolen_Cloth 1 Diremite_Sinew
+Felt_Cavalier's_Hat 47 1 167 80 2421 6 Lightning_Shard 6 Wind_Shard 1 Undyed_Felt 1 Woolen_Yarn 1 Chocobo_Feather 1 Mythril_Ingot
+Felt_Gaskins 47 1 167 80 2421 6 Lightning_Shard 6 Wind_Shard 1 Undyed_Felt 1 Woolen_Yarn 6 Boar_Leather
+Padded_Woolen_Trousers 47 1 167 80 2421 6 Lightning_Shard 6 Wind_Shard 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Raptor_Leather 1 Raptor_Sinew 1 Cobalt_Rivets
+Vintage_Robe 47 1 167 80 2421 1 Lightning_Crystal 1 Tattered_Robe 1 Linen_Yarn 1 Jadeite 1 Boar_Leather 1 Diremite_Sinew
+Felt_Bliaud 48 1 172 80 2524 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 1 Woolen_Yarn 1 Boar_Leather 1 Raptor_Sinew
+Felt_Dress_Gloves 48 1 172 80 2524 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 6 Woolen_Yarn
+Felt_Trousers 48 1 172 80 2524 6 Lightning_Shard 6 Wind_Shard 1 Undyed_Felt 1 Woolen_Yarn 1 Raptor_Leather 1 Raptor_Sinew 1 Cobalt_Rivets
+Patrician's_Wedge_Cap 50 1 186 80 2641 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 1 Woolen_Yarn 1 Linen_Yarn 1 Electrum_Ingot
+Patrician's_Coatee 50 1 186 80 2641 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 6 Woolen_Yarn 1 Linen_Yarn 1 Electrum_Ingot
+Patrician's_Gloves 50 1 186 80 2641 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 1 Woolen_Yarn 1 Linen_Yarn
+Patrician's_Bottoms 50 1 186 80 2641 6 Lightning_Shard 6 Wind_Shard 1 Undyed_Felt 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Linen_Yarn 1 Electrum_Ingot
+Patrician's_Gaiters 50 1 186 80 2641 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 1 Woolen_Yarn 1 Linen_Yarn 1 Rubber
+Wind-up_Aldgoat 50 1 93 80 2641 99 Lightning_Shard 1 Vanya_Silk 1 Twinthread 1 Chocobo_Feather
+Wind-up_Qiqirn 50 1 93 80 2641 99 Lightning_Shard 1 Vanya_Silk 1 Twinthread 1 Chocobo_Feather
+Twinthread 50 1 97 40 2646 3 Lightning_Crystal 3 Silkworm_Cocoon 1 Effervescent_Water
+Jute_Yarn 50 1 97 40 2646 3 Lightning_Crystal 3 Jute
+Militia_Hat 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Woolen_Cloth 1 Twinthread 1 Chocobo_Feather 1 Silver_Ingot
+Imperial_Operative_Hat 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Woolen_Cloth 1 Twinthread 1 Rose_Gold_Nugget
+Coronal_Straw_Hat 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Straw 1 Trillium 1 Chamomile 1 Carnation 1 Twinthread
+Militia_Robe 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Woolen_Cloth 3 Twinthread 1 Electrum_Ingot
+Imperial_Operative_Dalmatica 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Woolen_Cloth 3 Twinthread 1 Raptor_Sinew
+Sailor_Shirt 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Mariner_Cotton_Cloth 1 Boar_Leather 1 Undyed_Velveteen 1 Twinthread
+Militia_Trousers 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Undyed_Woolen_Cloth 1 Twinthread 1 Dodore_Leather 1 Raptor_Sinew 1 Darksteel_Rivets
+Militia_Tights 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Woolen_Cloth 3 Twinthread
+Sailor_Brais 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Mariner_Cotton_Cloth 3 Twinthread
+Carpenter's_Hood 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Woolen_Cloth 1 Twinthread 1 Rosewood_Branch
+Weaver's_Gibus 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Undyed_Woolen_Cloth 3 Twinthread 1 Chocobo_Feather
+Culinarian's_Hat 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Rose_Gold_Nugget 1 Undyed_Felt 1 Twinthread 1 Undyed_Linen
+Hamlet_Cutter's_Hat 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Undyed_Woolen_Cloth 1 Twinthread 1 Hippogryph_Leather 1 Silver_Ingot
+Carpenter's_Gown 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 3 Undyed_Woolen_Cloth 3 Twinthread
+Armorer's_Gown 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 3 Boar_Leather 3 Twinthread
+Goldsmith's_Doublet 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Twinthread 3 Electrum_Ingot 1 Tourmaline 1 Turquoise
+Weaver's_Swallowtail 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Woolen_Cloth 1 Twinthread 1 Rose_Gold_Nugget 1 Hippogryph_Leather
+Alchemist's_Coat 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 3 Undyed_Woolen_Cloth 1 Twinthread 3 Rose_Gold_Nugget
+Culinarian's_Apron 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 3 Undyed_Woolen_Cloth 1 Twinthread 1 Darksteel_Nugget
+Alchemist's_Gloves 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 3 Twinthread
+Culinarian's_Mitts 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Undyed_Felt 1 Undyed_Woolen_Cloth 1 Twinthread 1 Hippogryph_Sinew
+Botanist's_Gloves 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 3 Twinthread 1 Hippogryph_Sinew
+Blacksmith's_Slops 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Twinthread 1 Darksteel_Nugget
+Armorer's_Slops 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 3 Twinthread
+Goldsmith's_Trousers 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 3 Twinthread
+Leatherworker's_Trousers 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Rose_Gold_Nugget 1 Twinthread
+Weaver's_Trousers 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Undyed_Woolen_Cloth 1 Twinthread 1 Rose_Gold_Nugget
+Alchemist's_Trousers 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Hippogryph_Leather 1 Rose_Gold_Nugget
+Culinarian's_Trousers 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Undyed_Woolen_Cloth 1 Twinthread
+Botanist's_Slops 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 3 Twinthread
+Fisher's_Gaskins 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Twinthread 1 Hippogryph_Leather
+Vanya_Silk 50 1 116 40 2921 1 Lightning_Cluster 2 Twinthread 2 Potash
+Vanya_Silk_Hat_Lining 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk 2 Twinthread
+Vanya_Silk_Robe_Lining 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk 2 Twinthread
+Vanya_Silk_Glove_Lining 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk 2 Twinthread
+Vanya_Silk_Crakow_Lining 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk 2 Twinthread
+Vanya_Hat_of_Casting 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk_Hat_Lining 1 Twinthread 1 Rose_Gold_Nugget
+Vanya_Hat_of_Healing 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk_Hat_Lining 1 Twinthread 1 Rose_Gold_Nugget
+Vanya_Robe_of_Casting 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk_Robe_Lining 2 Twinthread 1 Rose_Gold_Nugget 1 Silver_Ingot
+Vanya_Robe_of_Healing 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk_Robe_Lining 2 Twinthread 1 Rose_Gold_Nugget 1 Silver_Ingot
+Taffeta_Shawl 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Taffeta_Cloth 1 Twinthread 1 Rose_Gold_Ingot
+Vanya_Gloves_of_Casting 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk_Glove_Lining 1 Twinthread 1 Rose_Gold_Nugget 1 Silver_Ingot
+Vanya_Gloves_of_Healing 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk_Glove_Lining 1 Twinthread 1 Rose_Gold_Nugget 1 Silver_Ingot
+Vanya_Sash_of_Healing 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Garlean_Fiber 1 Vanya_Silk 1 Twinthread
+Vanya_Sash_of_Casting 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Garlean_Fiber 1 Vanya_Silk 1 Twinthread
+Vanya_Trousers 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk 1 Twinthread 1 Hippogryph_Leather 1 Raptor_Sinew 1 Darksteel_Nugget
+Vanya_Breeches_of_Casting 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk 1 Undyed_Felt 1 Twinthread 1 Hippogryph_Leather
+Vanya_Breeches_of_Healing 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk 1 Undyed_Felt 1 Twinthread 1 Hippogryph_Leather
+Taffeta_Loincloth 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Taffeta_Cloth 1 Hard_Hippogryph_Leather 1 Twinthread
+Vanya_Crakows 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk_Crakow_Lining 1 Twinthread 1 Rose_Gold_Nugget 1 Rubber
+Spring_Straw_Hat 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 1 Halone_Gerbera 1 Straw 1 Vanya_Silk
+Cloche 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 1 Nymeia_Lily 1 Vanya_Silk 1 Twinthread
+Spring_Dress 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 2 Dress_Material 1 Vanya_Silk 1 Twinthread 1 Desert_Saffron
+Coronal_Wristbands 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 1 Azeyma_Rose 1 Vanya_Silk
+Spring_Skirt 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 2 Dress_Material 1 Vanya_Silk 1 Twinthread
+Plain_Long_Skirt 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 1 Dress_Material 1 Vanya_Silk 1 Twinthread
+Spring_Dress_Shoes 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 1 Dress_Material 1 Hard_Hippogryph_Leather 1 Twinthread
+Plush_Cushion 50 1 222 80 4980 99 Lightning_Shard 1 Glazenut 1 Jute_Yarn 1 Undyed_Cotton_Cloth 1 Cotton_Boll
+Nana_Bear 50 1 293 80 5783 99 Lightning_Shard 1 Arachne_Web 1 Cashmere_Cloth 99 Apkallu_Down 1 Twinthread
+Wavy_Interior_Wall 46 1 508 80 1186 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 6 Woolen_Yarn 6 Mortar
+Oasis_Argyle_Rug 46 1 508 80 1186 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 6 Undyed_Woolen_Cloth 6 Woolen_Yarn
+Oasis_Couch 47 1 534 80 1210 6 Lightning_Shard 6 Wind_Shard 6 Undyed_Felt 6 Undyed_Woolen_Cloth 6 Mahogany_Lumber 6 Electrum_Ingot
+Chocobo_Interior_Wall 48 1 550 80 1262 6 Lightning_Shard 6 Wind_Shard 6 Chocobo_Feather 6 Mortar 1 Undyed_Felt 1 Woolen_Yarn
+Chocobo_Flooring 48 1 550 80 1262 6 Lightning_Shard 6 Wind_Shard 6 Chocobo_Feather 6 Undyed_Felt 6 Woolen_Yarn
+Stuffed_Chocobo 49 1 556 80 1275 6 Lightning_Shard 6 Wind_Shard 1 Undyed_Woolen_Cloth 1 Apkallu_Down 6 Woolen_Yarn 6 Chocobo_Feather 6 Exquisite_Buttons
+Tonberry_Floor_Lamp 50 1 624 80 1323 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Spruce_Lumber 3 Darksteel_Nugget 3 Tallow_Candle 1 Frosted_Glass_Lens
+Tonberry_Round_Table 50 1 624 80 1323 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Woolen_Cloth 1 Blue_Fox_Hide 3 Twinthread 3 Mahogany_Lumber 3 Cobalt_Ingot
+Classic_Interior_Wall 50 1 624 80 1323 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 3 Twinthread 3 Mortar
+Tonberry_Bed 50 1 624 80 1323 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Woolen_Cloth 1 Blue_Fox_Hide 3 Mahogany_Lumber 3 Electrum_Ingot 3 Apkallu_Down
+Tonberry_Dining_Table 50 1 624 80 1323 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Woolen_Cloth 1 Blue_Fox_Hide 3 Twinthread 3 Mahogany_Lumber 3 Cobalt_Ingot
+Tatami_Mat 50 1 624 80 1323 3 Lightning_Crystal 3 Wind_Crystal 3 Rush_Grass 3 Straw 3 Cotton_Yarn 3 Fieldcraft_Demimateria_I
+Tonberry_Oval_Rug 50 1 624 80 1323 3 Lightning_Crystal 3 Wind_Crystal 3 Jute_Yarn 3 Undyed_Woolen_Cloth 3 Woolen_Yarn
+Tonberry_Square_Rug 50 1 624 80 1323 3 Lightning_Crystal 3 Wind_Crystal 3 Jute_Yarn 3 Undyed_Woolen_Cloth 3 Woolen_Yarn
+Glade_Mansion_Roof_(Wood) 50 1 624 80 1323 12 Lightning_Crystal 12 Wind_Crystal 12 Maiden_Grass 12 Mahogany_Lumber 12 Cobalt_Joint_Plate 12 Cobalt_Nails 12 Felt_Lining
+Glade_Mansion_Roof_(Stone) 50 1 624 80 1323 12 Lightning_Crystal 12 Wind_Crystal 12 Maiden_Grass 12 Spruce_Lumber 12 Cobalt_Joint_Plate 12 Cobalt_Nails 12 Felt_Lining
+South_Seas_Armchair 50 1 745 80 1460 1 Lightning_Cluster 1 Wind_Cluster 3 Vanya_Silk 3 Apkallu_Down 3 Twinthread 3 Rosewood_Lumber
+Riviera_Cushion 50 1 745 80 1460 1 Lightning_Cluster 1 Wind_Cluster 3 Waterfowl_Feather 3 Undyed_Woolen_Cloth 3 Twinthread 3 Fieldcraft_Demimateria_II
+Glade_Cushion 50 1 745 80 1460 1 Lightning_Cluster 1 Wind_Cluster 3 Waterfowl_Feather 3 Undyed_Woolen_Cloth 3 Twinthread 3 Fieldcraft_Demimateria_II
+Oasis_Cushion 50 1 745 80 1460 1 Lightning_Cluster 1 Wind_Cluster 3 Waterfowl_Feather 3 Undyed_Woolen_Cloth 3 Twinthread 3 Fieldcraft_Demimateria_II
+Stuffed_Moogle 50 1 745 80 1460 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk 4 Undyed_Woolen_Cloth 4 Apkallu_Down 4 Woolen_Yarn
+Moogle_Interior_Wall 50 1 745 80 1460 1 Lightning_Cluster 1 Wind_Cluster 1 Moggle_Mog_XII's_Whisker 6 Mortar 6 Undyed_Felt 6 Woolen_Yarn
+Moogle_Flooring 50 1 745 80 1460 1 Lightning_Cluster 1 Wind_Cluster 1 Moggle_Mog_XII's_Whisker 5 Undyed_Felt 5 Woolen_Yarn
+Tatami_Flooring 50 1 745 80 1460 1 Lightning_Cluster 1 Wind_Cluster 6 Rush_Grass 6 Straw 6 Cotton_Yarn 1 Fieldcraft_Demimateria_III
+South_Seas_Couch 50 1 745 80 1460 1 Lightning_Cluster 1 Wind_Cluster 3 Vanya_Silk 3 Apkallu_Down 3 Twinthread 3 Rosewood_Lumber
+Double_Feather_Bed 50 1 745 80 1460 1 Lightning_Cluster 1 Wind_Cluster 6 Waterfowl_Feather 6 Vanya_Silk 6 Mahogany_Lumber 6 Darksteel_Nugget 6 Fieldcraft_Demimateria_II
+Moogle_Rug 50 1 745 80 1460 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk 4 Undyed_Woolen_Cloth 4 Undyed_Linen 4 Woolen_Yarn
+Carbuncle_Round_Table 50 1 1424 80 2490 2 Lightning_Cluster 1 Wind_Cluster 1 Ruby 2 Undyed_Woolen_Cloth 2 Spruce_Lumber 2 Boar_Leather 2 Twinthread
+Large_Woven_Rug 50 1 1424 80 2490 2 Lightning_Cluster 1 Wind_Cluster 2 Jute_Yarn 2 Cashmere_Fleece 2 Undyed_Felt
+Wolf_Ranger's_Hat 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Undyed_Felt 1 Twinthread 1 Boar_Leather 1 Chocobo_Feather
+Wolf_Cavalier's_Hat 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Undyed_Felt 1 Twinthread 1 Chocobo_Feather 1 Mythril_Ingot
+Wolf_Hat 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Twinthread 1 Wildfowl_Feather 1 Electrum_Ingot
+Wolf_Tunic 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Twinthread 1 Boar_Leather 1 Raptor_Sinew
+Wolf_Bliaud 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Twinthread 1 Boar_Leather 1 Raptor_Sinew
+Wolf_Robe 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Twinthread 1 Woolen_Yarn 1 Electrum_Ingot
+Wolf_Bracers 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Undyed_Felt 1 Hippogryph_Leather 1 Boar_Leather 1 Raptor_Sinew
+Wolf_Dress_Gloves 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 3 Twinthread
+Wolf_Sash 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Twinthread
+Wolf_Trousers 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Undyed_Woolen_Cloth 1 Twinthread 1 Raptor_Leather 1 Raptor_Sinew 1 Cobalt_Rivets
+Wolf_Kecks 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Undyed_Felt 1 Twinthread 1 Undyed_Woolen_Cloth 1 Raptor_Leather 1 Mythril_Ingot
+Wolf_Gaskins 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 1 Undyed_Felt 1 Twinthread 3 Boar_Leather
+Wolf_Tights 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Woolen_Cloth 1 Twinthread
+Wolf_Dress_Shoes 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Undyed_Felt 1 Twinthread 1 Rubber
+Pearl_Roselle_Capeline 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Straw 1 Twinthread 1 Pearl_Roselle 3 Fieldcraft_Demimateria_I
+Straw_Capeline 50 1 195 80 2646 3 Lightning_Crystal 3 Wind_Crystal 3 Straw 3 Twinthread 3 Fieldcraft_Demimateria_I
+Silver_Brocade 50 1 419 80 5257 11 Lightning_Shard 11 Wind_Shard 11 Twinthread 1 Silver_Ingot
+Airship_Repair_Materials 50 1 233 80 2921 5 Lightning_Crystal 5 Wind_Crystal 1 Dark_Matter_Cluster 5 Grade_6_Dark_Matter
+Crescent_Moon_Cone 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Mist_Silk 1 Floss_Silk 5 Fieldcraft_Demimateria_II
+Crescent_Moon_Nightcap 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Mist_Silk 1 Twinthread 5 Fieldcraft_Demimateria_II
+Crescent_Moon_Nightgown 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 2 Mist_Silk 1 Twinthread 2 Fieldcraft_Demimateria_II
+Best_Man's_Jacket 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 2 Vanya_Silk 1 Undyed_Woolen_Cloth 1 Twinthread 1 Fieldcraft_Demimateria_II
+Bridesmaid's_Dress 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 2 Vanya_Silk 2 Twinthread 1 Fieldcraft_Demimateria_II
+Crescent_Moon_Bottoms 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Mist_Silk 1 Twinthread 5 Fieldcraft_Demimateria_II
+Best_Man's_Slacks 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk 2 Undyed_Woolen_Cloth 1 Twinthread 1 Fieldcraft_Demimateria_II
+Bridesmaid's_Tights 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Vanya_Silk 2 Twinthread 1 Fieldcraft_Demimateria_II
+Crescent_Moon_Slippers 50 1 233 80 2921 1 Lightning_Cluster 1 Wind_Cluster 1 Mist_Silk 1 Floss_Silk 1 Rubber 5 Fieldcraft_Demimateria_II
+Intricate_Silver_Brocade 50 1 801 80 8964 12 Lightning_Shard 12 Wind_Shard 1 Silver_Brocade 12 Fieldcraft_Demimateria_III
+Camlet 50 1 222 40 4980 3 Lightning_Cluster 3 Wind_Cluster 3 Camel_Hair 1 Cashmere_Fleece 1 Diluted_Vitriol
+Cashmere_Cloth 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 1 Cashmere_Fleece 1 Diluted_Vitriol
+Perfect_Cloth 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 1 Stained_Cloth 2 Pumice 1 Linen_Yarn 1 Effervescent_Water
+Cashmere_Hat_of_Aiming 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 1 Cashmere_Cloth 2 Terminus_Putty 1 Twinthread 1 Hippogryph_Leather 1 Wildfowl_Feather
+Cashmere_Hat_of_Casting 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 1 Cashmere_Cloth 2 Terminus_Putty 1 Hippogryph_Leather 1 Twinthread
+Cashmere_Robe_of_Casting 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 2 Cashmere_Cloth 2 Terminus_Putty 1 Hippogryph_Leather 1 Sylphic_Silk 2 Mega-Potion_of_Intelligence
+Cashmere_Robe_of_Healing 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 2 Cashmere_Cloth 2 Terminus_Putty 1 Undyed_Felt 2 Twinthread 1 Hippogryph_Leather
+Cashmere_Skirt_of_Striking 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 2 Cashmere_Cloth 2 Terminus_Putty 1 Hippogryph_Leather 1 Undyed_Felt 2 Twinthread
+Cashmere_Skirt_of_Aiming 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 2 Cashmere_Cloth 2 Terminus_Putty 1 Hippogryph_Leather 1 Undyed_Felt 1 Twinthread 1 Rose_Gold_Nugget
+Cashmere_Breeches_of_Casting 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 2 Cashmere_Cloth 2 Terminus_Putty 1 Undyed_Felt 2 Twinthread 1 Hippogryph_Leather
+Cashmere_Skirt_of_Healing 50 1 445 80 4980 2 Lightning_Cluster 1 Wind_Cluster 2 Cashmere_Cloth 2 Terminus_Putty 1 Undyed_Felt 2 Twinthread 1 Hippogryph_Leather
+Augmented_Cashmere_Robe_of_Casting 50 1 667 80 3735 2 Lightning_Cluster 1 Wind_Cluster 1 Cashmere_Robe_of_Casting 1 Battlecraft_Demimateria_III 2 Battlecraft_Demimateria_II 2 Cashmere_Cloth
+Augmented_Cashmere_Robe_of_Healing 50 1 667 80 3735 2 Lightning_Cluster 1 Wind_Cluster 1 Cashmere_Robe_of_Healing 1 Battlecraft_Demimateria_III 2 Battlecraft_Demimateria_II 2 Cashmere_Cloth
+Arachne_Velveteen 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 1 Allagan_Silk 1 Arachne_Web
+Arachne_Bandana_of_Striking 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Emerald 1 Pinprick_Pebble
+Arachne_Bandana_of_Scouting 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Ruby 1 Astral_Eye
+Arachne_Shirt_of_Striking 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Topaz 1 Hippogryph_Leather 1 Twinthread
+Arachne_Shirt_of_Scouting 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Topaz 1 Hippogryph_Leather 1 Twinthread
+Arachne_Bolero 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Iolite 1 Rose_Gold_Nugget 1 Twinthread
+Arachne_Robe 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Iolite 1 Rose_Gold_Nugget 1 Twinthread
+Artisan's_Apron 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 1 Mastercraft_Demimateria 1 Platinum_Nugget 1 Vanya_Silk 2 Twinthread 2 Ehcatl_Sealant
+Forager's_Vest 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 1 Mastercraft_Demimateria 1 Platinum_Nugget 1 Vanya_Silk 2 Twinthread 2 Ehcatl_Sealant
+Arachne_Field_Dressing_of_Striking 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Cashmere_Cloth 1 Twinthread
+Arachne_Field_Dressing_of_Scouting 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Cashmere_Cloth 1 Twinthread
+Arachne_Sash 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Cashmere_Cloth 1 Twinthread
+Arachne_Gaskins_of_Striking 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Cashmere_Cloth 1 Hippogryph_Leather 1 Twinthread
+Arachne_Gaskins_of_Scouting 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Cashmere_Cloth 1 Hippogryph_Leather 1 Twinthread
+Arachne_Culottes_of_Casting 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Saurian_Leather 2 Hippogryph_Leather
+Arachne_Culottes_of_Healing 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 2 Arachne_Velveteen 1 Platinum_Nugget 1 Saurian_Leather 2 Hippogryph_Leather
+Artisan's_Culottes 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 1 Mastercraft_Demimateria 1 Platinum_Nugget 1 Vanya_Silk 2 Hippogryph_Leather 2 Ehcatl_Sealant
+Forager's_Slops 50 1 586 80 5783 2 Lightning_Cluster 2 Wind_Cluster 1 Mastercraft_Demimateria 1 Platinum_Nugget 1 Vanya_Silk 2 Hippogryph_Leather 2 Ehcatl_Sealant
+Rainbow_Cloth 51 1 169 40 3951 3 Lightning_Crystal 3 Rainbow_Thread 1 Dew_Thread
+Rainbow_Thread 51 1 169 40 3951 3 Lightning_Crystal 3 Rainbow_Cotton_Boll 3 Cotton_Boll
+Rainbow_Cap_of_Aiming 51 1 339 80 3951 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Rainbow_Thread
+Rainbow_Coif_of_Scouting 51 1 339 80 3951 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Mythrite_Nugget 1 Rainbow_Thread
+Holy_Rainbow_Cap_of_Casting 51 1 339 80 3951 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Rainbow_Thread
+Rainbow_Cap_of_Healing 51 1 339 80 3951 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Rainbow_Thread
+Rainbow_Halfgloves_of_Scouting 51 1 339 80 3951 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Rainbow_Thread
+Rainbow_Sash_of_Aiming 51 1 339 80 3951 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Rainbow_Thread
+Rainbow_Sash_of_Scouting 51 1 339 80 3951 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Rainbow_Thread
+Rainbow_Sash_of_Casting 51 1 339 80 3951 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Rainbow_Thread
+Rainbow_Sash_of_Healing 51 1 339 80 3951 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Rainbow_Thread
+Rainbow_Bolero_of_Striking 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Archaeornis_Leather 1 Rainbow_Thread 1 Electrum_Ingot 1 Spinel
+Rainbow_Robe_of_Aiming 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Archaeornis_Leather 1 Rainbow_Thread 1 Electrum_Ingot
+Rainbow_Shirt_of_Scouting 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Archaeornis_Leather 1 Rainbow_Thread 1 Electrum_Ingot
+Rainbow_Robe_of_Casting 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Archaeornis_Leather 1 Rainbow_Thread 1 Electrum_Ingot
+Rainbow_Robe_of_Healing 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Archaeornis_Leather 1 Rainbow_Thread 1 Electrum_Ingot
+Rainbow_Culottes_of_Striking 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 3 Archaeornis_Leather 1 Rainbow_Thread
+Rainbow_Slops_of_Aiming 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Archaeornis_Leather 1 Rainbow_Thread
+Rainbow_Sarouel_of_Scouting 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Archaeornis_Leather 1 Rainbow_Thread
+Rainbow_Slops_of_Casting 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Archaeornis_Leather 1 Rainbow_Thread
+Rainbow_Slops_of_Healing 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Archaeornis_Leather 1 Rainbow_Thread
+Rainbow_Ribbon_of_Slaying 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Agate 1 Rainbow_Thread
+Rainbow_Ribbon_of_Aiming 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Agate 1 Rainbow_Thread
+Rainbow_Ribbon_of_Casting 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Agate 1 Rainbow_Thread
+Rainbow_Ribbon_of_Healing 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Agate 1 Rainbow_Thread
+Rainbow_Ribbon_of_Fending 51 1 421 80 4561 3 Lightning_Crystal 3 Wind_Crystal 3 Rainbow_Cloth 1 Agate 1 Rainbow_Thread
+Holy_Rainbow_Cloth 52 1 251 40 5172 3 Lightning_Crystal 1 Rainbow_Cloth 3 Holy_Water
+Holy_Rainbow_Hat_of_Aiming 52 1 503 80 5172 3 Lightning_Crystal 3 Wind_Crystal 3 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Mythrite_Nugget 1 Chocobo_Feather
+Holy_Rainbow_Scarf_of_Scouting 52 1 503 80 5172 3 Lightning_Crystal 3 Wind_Crystal 3 Holy_Rainbow_Cloth 1 Rainbow_Thread
+Holy_Rainbow_Sarouel_of_Maiming 52 1 503 80 5172 3 Lightning_Crystal 3 Wind_Crystal 3 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather
+Holy_Rainbow_Sarouel_of_Striking 52 1 503 80 5172 3 Lightning_Crystal 3 Wind_Crystal 3 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather
+Holy_Rainbow_Sarouel_of_Aiming 52 1 503 80 5172 3 Lightning_Crystal 3 Wind_Crystal 3 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather
+Holy_Rainbow_Sarouel_of_Scouting 52 1 503 80 5172 3 Lightning_Crystal 3 Wind_Crystal 3 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather
+Holy_Rainbow_Sarouel_of_Casting 52 1 503 80 5172 3 Lightning_Crystal 3 Wind_Crystal 3 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather
+Holy_Rainbow_Sarouel_of_Healing 52 1 503 80 5172 3 Lightning_Crystal 3 Wind_Crystal 3 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather
+Holy_Rainbow_Sarouel_of_Fending 52 1 503 80 5172 3 Lightning_Crystal 3 Wind_Crystal 3 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather
+Holy_Rainbow_Wedge_Cap 53 1 586 80 5783 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Mythrite_Nugget
+Holy_Rainbow_Hat 53 1 586 80 5783 4 Lightning_Crystal 4 Wind_Crystal 1 Holy_Rainbow_Cloth 1 Wyvern_Leather 1 Rainbow_Thread 4 Straw
+Holy_Rainbow_Shirt_of_Maiming 53 1 586 80 5783 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather 1 Mythrite_Nugget
+Holy_Rainbow_Shirt_of_Striking 53 1 586 80 5783 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather 1 Mythrite_Nugget
+Holy_Rainbow_Shirt_of_Aiming 53 1 586 80 5783 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather 1 Mythrite_Nugget
+Holy_Rainbow_Shirt_of_Scouting 53 1 586 80 5783 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather 1 Mythrite_Nugget
+Holy_Rainbow_Shirt_of_Casting 53 1 586 80 5783 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather 1 Mythrite_Nugget
+Holy_Rainbow_Shirt_of_Healing 53 1 586 80 5783 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather 1 Mythrite_Nugget
+Holy_Rainbow_Shirt_of_Fending 53 1 586 80 5783 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Wyvern_Leather 1 Mythrite_Nugget
+Holy_Rainbow_Gloves 53 1 586 80 5783 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread
+Holy_Rainbow_Work_Gloves 53 1 586 80 5783 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Wyvern_Leather 1 Rainbow_Thread
+Ramie_Cloth 54 1 320 40 6042 4 Lightning_Crystal 4 Ramie_Thread 1 Linen_Yarn
+Ramie_Thread 54 1 320 40 6042 4 Lightning_Crystal 3 Stalk_of_Ramie 2 Flax
+Holy_Rainbow_Hat_of_Healing 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Mythrite_Nugget
+Holy_Rainbow_Coatee 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Mythrite_Nugget
+Ramie_Halfgloves_of_Casting 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Dhalmel_Leather 1 Ramie_Thread
+Ramie_Halfgloves_of_Healing 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Dhalmel_Leather 1 Ramie_Thread
+Holy_Rainbow_Apron 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Ramie_Thread 1 Mythrite_Nugget
+Holy_Rainbow_Bottoms 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Wyvern_Leather 1 Rainbow_Thread
+Holy_Rainbow_Shoes 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Mythrite_Nugget 1 Rubber
+Ramie_Ribbon_of_Slaying 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Larimar 1 Ramie_Thread 1 Grade_1_Strength_Dissolvent
+Ramie_Ribbon_of_Aiming 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Larimar 1 Ramie_Thread 1 Grade_1_Dexterity_Dissolvent
+Ramie_Ribbon_of_Casting 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Larimar 1 Ramie_Thread 1 Grade_1_Intelligence_Dissolvent
+Ramie_Ribbon_of_Healing 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Larimar 1 Ramie_Thread 1 Grade_1_Mind_Dissolvent
+Ramie_Ribbon_of_Fending 54 1 641 80 6042 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Larimar 1 Ramie_Thread 1 Grade_1_Vitality_Dissolvent
+Ramie_Turban_of_Crafting 55 1 697 70 6301 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Ramie_Thread 1 Rose_Gold_Nugget 1 Star_Sapphire
+Ramie_Robe_of_Casting 55 1 697 70 6301 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Dhalmel_Leather 1 Ramie_Thread 1 Rose_Gold_Nugget
+Ramie_Robe_of_Healing 55 1 697 70 6301 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Dhalmel_Leather 1 Ramie_Thread 1 Rose_Gold_Nugget
+Ramie_Trousers_of_Striking 55 1 697 70 6301 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 4 Dhalmel_Leather 1 Ramie_Thread
+Ramie_Trousers_of_Aiming 55 1 697 70 6301 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 4 Dhalmel_Leather 1 Ramie_Thread
+Ramie_Trousers_of_Scouting 55 1 697 70 6301 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 4 Dhalmel_Leather 1 Ramie_Thread
+Ramie_Tonban_of_Casting 55 1 697 70 6301 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Dhalmel_Leather 1 Ramie_Thread
+Ramie_Tonban_of_Healing 55 1 697 70 6301 4 Lightning_Crystal 4 Wind_Crystal 4 Ramie_Cloth 1 Dhalmel_Leather 1 Ramie_Thread
+Farreach_Canvas 53 1 586 80 5783 1 Lightning_Cluster 1 Wind_Cluster 3 Red_Moko_Grass 3 Potash
+Company_Tabard 55 1 697 70 6301 1 Lightning_Cluster 1 Wind_Cluster 3 Dusk_Leather 3 Ramie_Cloth 1 Ramie_Thread 1 Rose_Gold_Nugget
+Hallowed_Ramie_Cloth 56 1 376 35 6561 5 Lightning_Crystal 1 Ramie_Cloth 5 Hallowed_Water
+Ramie_Doublet_of_Crafting 56 1 752 70 6561 5 Lightning_Crystal 5 Wind_Crystal 5 Ramie_Cloth 5 Dhalmel_Leather 1 Ramie_Thread 1 Hardsilver_Nugget
+Ramie_Shirt 56 1 752 70 6561 5 Lightning_Crystal 5 Wind_Crystal 5 Ramie_Cloth 1 Ramie_Thread 1 Dragon_Leather 1 Cobalt_Ingot
+Hallowed_Ramie_Sash_of_Aiming 56 1 752 70 6561 5 Lightning_Crystal 5 Wind_Crystal 5 Hallowed_Ramie_Cloth 1 Ramie_Thread 1 Grade_1_Dexterity_Dissolvent
+Hallowed_Ramie_Sash_of_Casting 56 1 752 70 6561 5 Lightning_Crystal 5 Wind_Crystal 5 Hallowed_Ramie_Cloth 1 Ramie_Thread 1 Grade_1_Intelligence_Dissolvent
+Hallowed_Ramie_Sash_of_Healing 56 1 752 70 6561 5 Lightning_Crystal 5 Wind_Crystal 5 Hallowed_Ramie_Cloth 1 Ramie_Thread 1 Grade_1_Mind_Dissolvent
+Ramie_Skirt 56 1 752 70 6561 5 Lightning_Crystal 5 Wind_Crystal 5 Ramie_Cloth 1 Holy_Rainbow_Cloth 1 Ramie_Thread
+Ramie_Trousers_of_Gathering 56 1 752 70 6561 5 Lightning_Crystal 5 Wind_Crystal 5 Ramie_Cloth 1 Dhalmel_Leather 1 Ramie_Thread
+Orthodox_Barding 56 1 376 70 6561 5 Lightning_Crystal 5 Wind_Crystal 5 Ramie_Cloth 1 Dhalmel_Leather 1 Electrum_Ingot 5 Larimar
+Crawler_Silk 57 1 404 35 6820 5 Lightning_Crystal 5 Crawler_Cocoon 5 Silkworm_Cocoon 1 Effervescent_Water
+Hallowed_Ramie_Doublet_of_Aiming 57 1 808 70 6820 5 Lightning_Crystal 5 Wind_Crystal 5 Hallowed_Ramie_Cloth 1 Dhalmel_Leather 1 Opal 5 Grade_1_Dexterity_Dissolvent
+Hallowed_Ramie_Doublet_of_Casting 57 1 808 70 6820 5 Lightning_Crystal 5 Wind_Crystal 5 Hallowed_Ramie_Cloth 1 Dhalmel_Leather 1 Opal 5 Grade_1_Intelligence_Dissolvent
+Hallowed_Ramie_Doublet_of_Healing 57 1 808 70 6820 5 Lightning_Crystal 5 Wind_Crystal 5 Hallowed_Ramie_Cloth 1 Dhalmel_Leather 1 Opal 5 Grade_1_Mind_Dissolvent
+Hallowed_Ramie_Gaskins_of_Aiming 57 1 808 70 6820 5 Lightning_Crystal 5 Wind_Crystal 5 Hallowed_Ramie_Cloth 1 Dhalmel_Leather 1 Ramie_Thread 5 Grade_1_Dexterity_Dissolvent
+Hallowed_Ramie_Gaskins_of_Casting 57 1 808 70 6820 5 Lightning_Crystal 5 Wind_Crystal 5 Hallowed_Ramie_Cloth 1 Dhalmel_Leather 1 Ramie_Thread 5 Grade_1_Intelligence_Dissolvent
+Hallowed_Ramie_Gaskins_of_Healing 57 1 808 70 6820 5 Lightning_Crystal 5 Wind_Crystal 5 Hallowed_Ramie_Cloth 1 Dhalmel_Leather 1 Ramie_Thread 5 Grade_1_Mind_Dissolvent
+Chimerical_Felt 58 1 431 35 7080 5 Lightning_Crystal 5 Chimera_Mane 1 Fleece 1 Natron
+Chimerical_Felt_Cap_of_Striking 58 1 863 70 7080 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Aurum_Regis_Nugget 1 Titanium_Ingot 1 Grade_1_Strength_Dissolvent
+Chimerical_Felt_Cap_of_Aiming 58 1 863 70 7080 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Aurum_Regis_Nugget 1 Titanium_Ingot 1 Grade_1_Dexterity_Dissolvent
+Chimerical_Felt_Cap_of_Scouting 58 1 863 70 7080 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Aurum_Regis_Nugget 1 Titanium_Ingot 1 Grade_1_Dexterity_Dissolvent
+Chimerical_Felt_Klobuk_of_Healing 58 1 863 70 7080 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Hallowed_Chestnut_Lumber 1 Crawler_Silk 1 Grade_1_Mind_Dissolvent
+Chimerical_Felt_Gloves_of_Healing 58 1 863 70 7080 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Dragon_Leather 1 Crawler_Silk 1 Grade_1_Mind_Dissolvent
+Chimerical_Felt_Corset_of_Casting 58 1 863 70 7080 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Crawler_Silk 1 Grade_1_Intelligence_Dissolvent
+Chimerical_Felt_Corset_of_Healing 58 1 863 70 7080 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Crawler_Silk 1 Grade_1_Mind_Dissolvent
+Chimerical_Felt_Cyclas_of_Striking 59 1 919 70 7339 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Titanium_Ingot 1 Crawler_Silk 1 Rose_Gold_Nugget 5 Grade_1_Strength_Dissolvent
+Chimerical_Felt_Cyclas_of_Aiming 59 1 919 70 7339 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Titanium_Ingot 1 Crawler_Silk 1 Rose_Gold_Nugget 5 Grade_1_Dexterity_Dissolvent
+Chimerical_Felt_Cyclas_of_Scouting 59 1 919 70 7339 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Titanium_Ingot 1 Crawler_Silk 1 Rose_Gold_Nugget 5 Grade_1_Dexterity_Dissolvent
+Chimerical_Felt_Robe_of_Casting 59 1 919 70 7339 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Hallowed_Ramie_Cloth 1 Crawler_Silk 1 Ramie_Thread 5 Grade_1_Intelligence_Dissolvent
+Chimerical_Felt_Alb_of_Healing 59 1 919 70 7339 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 5 Crawler_Silk 1 Carnelian 5 Grade_1_Mind_Dissolvent
+Chimerical_Felt_Hose_of_Striking 59 1 919 70 7339 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Dragon_Leather 1 Crawler_Silk 5 Grade_1_Strength_Dissolvent
+Chimerical_Felt_Hose_of_Aiming 59 1 919 70 7339 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Dragon_Leather 1 Crawler_Silk 5 Grade_1_Dexterity_Dissolvent
+Chimerical_Felt_Hose_of_Scouting 59 1 919 70 7339 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Dragon_Leather 1 Crawler_Silk 5 Grade_1_Dexterity_Dissolvent
+Chimerical_Felt_Breeches_of_Casting 59 1 919 70 7339 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Dragon_Leather 1 Crawler_Silk 1 Rose_Gold_Nugget 5 Grade_1_Intelligence_Dissolvent
+Chimerical_Felt_Chausses_of_Healing 59 1 919 70 7339 5 Lightning_Crystal 5 Wind_Crystal 5 Chimerical_Felt 1 Dragon_Leather 1 Crawler_Silk 1 Rose_Gold_Nugget 5 Grade_1_Mind_Dissolvent
+Chimerical_Felt_Sash_of_Aiming 59 1 919 70 7339 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Crawler_Silk 1 Grade_1_Dexterity_Dissolvent
+Chimerical_Felt_Sash_of_Casting 59 1 919 70 7339 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Crawler_Silk 1 Grade_1_Intelligence_Dissolvent
+Chimerical_Felt_Coif_of_Striking 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 1 Crystal_Glass 2 Chimerical_Felt 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Grade_1_Strength_Dissolvent
+Chimerical_Felt_Coif_of_Aiming 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 1 Crystal_Glass 2 Chimerical_Felt 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Grade_1_Dexterity_Dissolvent
+Chimerical_Felt_Coif_of_Scouting 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 1 Crystal_Glass 2 Chimerical_Felt 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Grade_1_Dexterity_Dissolvent
+Chimerical_Felt_Hat_of_Casting 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Amphiptere_Leather 1 Crawler_Silk 1 Grade_1_Intelligence_Dissolvent
+Chimerical_Felt_Turban_of_Crafting 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Crawler_Silk 1 Aurum_Regis_Nugget 1 Carnelian
+Chimerical_Felt_Tabard_of_Striking 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 2 Grade_1_Strength_Dissolvent
+Chimerical_Felt_Tabard_of_Aiming 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 2 Grade_1_Dexterity_Dissolvent
+Chimerical_Felt_Tabard_of_Scouting 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 2 Grade_1_Dexterity_Dissolvent
+Chimerical_Felt_Coat_of_Casting 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Amphiptere_Leather 1 Crawler_Silk 1 Hardsilver_Ingot 2 Grade_1_Intelligence_Dissolvent
+Chimerical_Felt_Robe_of_Healing 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Hardsilver_Ingot 1 Crawler_Silk 1 Larimar 2 Grade_1_Mind_Dissolvent
+Chimerical_Felt_Doublet_of_Crafting 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 2 Amphiptere_Leather 1 Crawler_Silk 1 Hardsilver_Ingot
+Chimerical_Felt_Breeches_of_Fending 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Adamantite_Nugget 1 Hardsilver_Ingot 2 Grade_1_Vitality_Dissolvent
+Chimerical_Felt_Breeches_of_Healing 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Amphiptere_Leather 1 Crawler_Silk 2 Grade_1_Mind_Dissolvent
+Chimerical_Felt_Skirt 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Hallowed_Ramie_Cloth 1 Crawler_Silk
+Chimerical_Felt_Trousers 60 1 956 70 7851 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Amphiptere_Leather 1 Crawler_Silk
+Cloud_Cloth 60 1 558 35 8377 2 Lightning_Cluster 1 Wind_Cluster 2 Cloud_Cotton_Boll 1 Ramie_Thread
+Thavnairian_Turban 60 1 1116 70 8377 2 Lightning_Cluster 1 Wind_Cluster 2 Thavnairian_Silk 1 Crawler_Silk 1 Aurum_Regis_Nugget 1 Chrysolite 1 Dawnborne_Aethersand
+Thavnairian_Headdress 60 1 1116 70 8377 2 Lightning_Cluster 1 Wind_Cluster 2 Thavnairian_Silk 1 Crawler_Silk 1 Aurum_Regis_Nugget 1 Larimar 1 Dawnborne_Aethersand
+Chivalric_Doublet_of_Casting 60 1 1116 70 8377 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Aurum_Regis_Nugget 1 Hallowed_Ramie_Cloth 1 Crawler_Silk 2 Grade_1_Intelligence_Dissolvent 2 Dawnborne_Aethersand
+Chivalric_Doublet_of_Healing 60 1 1116 70 8377 2 Lightning_Cluster 1 Wind_Cluster 2 Chimerical_Felt 1 Aurum_Regis_Nugget 1 Hallowed_Ramie_Cloth 1 Crawler_Silk 2 Grade_1_Mind_Dissolvent 2 Dawnborne_Aethersand
+Thavnairian_Bustier 60 1 1116 70 8377 2 Lightning_Cluster 1 Wind_Cluster 2 Thavnairian_Silk 1 Crawler_Silk 1 Aurum_Regis_Nugget 1 Iolite 2 Dawnborne_Aethersand
+High_House_Justaucorps 60 1 1116 70 8377 2 Lightning_Cluster 1 Wind_Cluster 2 Wind_Silk 1 Chimerical_Felt 1 Crawler_Silk 1 Rose_Gold_Ingot
+High_House_Bustle 60 1 1116 70 8377 2 Lightning_Cluster 1 Wind_Cluster 2 Wind_Silk 1 Chimerical_Felt 1 Crawler_Silk 1 Hardsilver_Ingot
+Falconer_Shirt 60 1 1116 70 8377 2 Lightning_Cluster 1 Wind_Cluster 2 Falconer's_Hemp 1 Ramie_Thread 1 Dragon_Leather 1 Titanium_Ingot
+Thavnairian_Armlets 60 1 1116 70 8377 2 Lightning_Cluster 1 Wind_Cluster 2 Thavnairian_Silk 1 Crawler_Silk 1 Aurum_Regis_Nugget 1 Dawnborne_Aethersand
+Thavnairian_Sarouel 60 1 1116 70 8377 2 Lightning_Cluster 1 Wind_Cluster 2 Thavnairian_Silk 1 Crawler_Silk 1 Aurum_Regis_Nugget 1 Dawnborne_Aethersand
+High_House_Breeches 60 1 1116 70 8377 2 Lightning_Cluster 1 Wind_Cluster 1 Wind_Silk 1 Chimerical_Felt 1 Crawler_Silk 1 Rose_Gold_Ingot
+Wind-up_Illuminatus 60 1 558 70 8377 99 Lightning_Shard 1 Blood_Pepper 1 Chimerical_Felt 1 Crawler_Silk 1 Titanium_Ingot
+Wind-up_Ifrit 60 1 558 70 8377 99 Fire_Shard 1 Blood_Pepper 1 Chimerical_Felt 1 Crawler_Silk 1 Ifrit's_Horn
+Astral_Silk 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Crawler_Silk 2 Moonbeam_Silk 1 Astral_Oil
+Millmaster's_Cap 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Griffin_Leather 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Boltmaster's_Gibus 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Crawler_Silk 1 Aurum_Regis_Nugget 1 Star_Sapphire 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Galleymaster's_Toque 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Chimerical_Felt 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Sky_Pirate's_Vest_of_Aiming 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Cloud_Cloth 1 Titanium_Alloy_Ingot 1 Amphiptere_Leather 1 Crawler_Silk 2 Grade_1_Dexterity_Dissolvent 2 Dawnborne_Aethersand
+Sky_Pirate's_Coat_of_Casting 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Cloud_Cloth 1 Pterodactyl_Leather 1 Chimerical_Felt 1 Hardsilver_Nugget 2 Grade_1_Intelligence_Dissolvent 2 Dawnborne_Aethersand
+Sky_Pirate's_Coat_of_Healing 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Cloud_Cloth 1 Pterodactyl_Leather 1 Chimerical_Felt 1 Hardsilver_Nugget 2 Grade_1_Mind_Dissolvent 2 Dawnborne_Aethersand
+Astral_Silk_Doublet_of_Casting 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Aurum_Regis_Ingot 1 Chimerical_Felt 1 Crawler_Silk 2 Grade_2_Intelligence_Dissolvent 2 Landborne_Aethersand
+Astral_Silk_Doublet_of_Healing 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Aurum_Regis_Ingot 1 Chimerical_Felt 1 Crawler_Silk 2 Grade_2_Mind_Dissolvent 2 Landborne_Aethersand
+Millmaster's_Apron 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Griffin_Leather 2 Crawler_Silk 1 Aurum_Regis_Nugget 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Forgemaster's_Redingote 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Chimerical_Felt 1 Crawler_Silk 1 Hardsilver_Ingot 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Gemmaster's_Gown 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Griffin_Leather 1 Aurum_Regis_Ingot 2 Crawler_Silk 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Boltmaster's_Dreadnought 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Chimerical_Felt 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Cauldronmaster's_Overcoat 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Chimerical_Felt 2 Crawler_Silk 1 Aurum_Regis_Nugget 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Galleymaster's_Whites 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Griffin_Leather 2 Crawler_Silk 1 Aurum_Regis_Nugget 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Astral_Silk_Dress_Gloves_of_Casting 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Chimerical_Felt 1 Crawler_Silk 1 Grade_2_Intelligence_Dissolvent 2 Leafborne_Aethersand
+Astral_Silk_Gloves_of_Healing 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Chimerical_Felt 1 Crawler_Silk 1 Grade_2_Mind_Dissolvent 2 Leafborne_Aethersand
+Cauldronmaster's_Gloves 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Leafborne_Aethersand 2 Fieldcraft_Demimateria_III
+Astral_Silk_Sash_of_Striking 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Crawler_Silk 1 Grade_2_Strength_Dissolvent 1 Seaborne_Aethersand
+Astral_Silk_Sash_of_Aiming 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Crawler_Silk 1 Grade_2_Dexterity_Dissolvent 1 Seaborne_Aethersand
+Astral_Silk_Sash_of_Scouting 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Crawler_Silk 1 Grade_2_Dexterity_Dissolvent 1 Seaborne_Aethersand
+Sky_Pirate's_Gaskins_of_Fending 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Cloud_Cloth 1 Pterodactyl_Leather 2 Crawler_Silk 2 Grade_1_Vitality_Dissolvent 2 Dawnborne_Aethersand
+Sky_Pirate's_Gaskins_of_Maiming 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Cloud_Cloth 1 Pterodactyl_Leather 2 Crawler_Silk 2 Grade_1_Strength_Dissolvent 2 Dawnborne_Aethersand
+Sky_Pirate's_Trousers_of_Striking 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Cloud_Cloth 1 Pterodactyl_Leather 1 Crawler_Silk 1 Titanium_Nugget 2 Grade_1_Strength_Dissolvent 2 Dawnborne_Aethersand
+Sky_Pirate's_Halfslops_of_Aiming 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Cloud_Cloth 1 Titanium_Alloy_Ingot 1 Amphiptere_Leather 1 Hardsilver_Nugget 2 Grade_1_Dexterity_Dissolvent 2 Dawnborne_Aethersand
+Sky_Pirate's_Trousers_of_Scouting 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Cloud_Cloth 1 Pterodactyl_Leather 1 Crawler_Silk 1 Titanium_Nugget 2 Grade_1_Dexterity_Dissolvent 2 Dawnborne_Aethersand
+Sky_Pirate's_Bottoms_of_Casting 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Cloud_Cloth 1 Amphiptere_Leather 1 Hardsilver_Nugget 2 Grade_1_Intelligence_Dissolvent 2 Dawnborne_Aethersand
+Sky_Pirate's_Bottoms_of_Healing 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Cloud_Cloth 1 Amphiptere_Leather 1 Hardsilver_Nugget 2 Grade_1_Mind_Dissolvent 2 Dawnborne_Aethersand
+Astral_Silk_Slops_of_Aiming 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Griffin_Leather 2 Crawler_Silk 2 Grade_2_Dexterity_Dissolvent 2 Seaborne_Aethersand
+Astral_Silk_Bottoms_of_Casting 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Aurum_Regis_Ingot 1 Chimerical_Felt 1 Crawler_Silk 2 Grade_2_Intelligence_Dissolvent 2 Seaborne_Aethersand
+Astral_Silk_Bottoms_of_Healing 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Aurum_Regis_Ingot 1 Chimerical_Felt 1 Crawler_Silk 2 Grade_2_Mind_Dissolvent 2 Seaborne_Aethersand
+Millmaster's_Slops 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Griffin_Leather 2 Crawler_Silk 1 Aurum_Regis_Nugget 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Forgemaster's_Slops 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Griffin_Leather 2 Crawler_Silk 1 Hardsilver_Ingot 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Hammermaster's_Slops 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 2 Crawler_Silk 1 Hardsilver_Ingot 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Gemmaster's_Trousers 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Aurum_Regis_Ingot 1 Archaeornis_Leather 2 Crawler_Silk 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Hidemaster's_Trousers 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 1 Chimerical_Felt 2 Crawler_Silk 1 Hardsilver_Ingot 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Boltmaster's_Slacks 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 2 Griffin_Leather 2 Crawler_Silk 1 Aurum_Regis_Nugget 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Cauldronmaster's_Longkilt 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 2 Crawler_Silk 1 Aurum_Regis_Nugget 1 Iolite 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Galleymaster's_Trousers 60 1 1436 70 9430 2 Lightning_Cluster 2 Wind_Cluster 2 Astral_Silk 2 Griffin_Leather 2 Crawler_Silk 1 Aurum_Regis_Nugget 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III

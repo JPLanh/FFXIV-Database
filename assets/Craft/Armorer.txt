@@ -1,0 +1,453 @@
+Bronze_Ingot 1 1 9 40 312 1 Ice_Shard 2 Copper_Ore 1 Tin_Ore
+Bronze_Rings 2 1 10 40 325 1 Ice_Shard 1 Bronze_Ingot
+Bronze_Rivets 2 1 10 40 325 1 Ice_Shard 1 Bronze_Ingot
+Bronze_Plate 3 1 10 40 339 1 Ice_Shard 2 Bronze_Ingot
+Bronze_Alembic 3 1 20 60 339 1 Ice_Shard 1 Earth_Shard 1 Bronze_Plate 1 Bronze_Rivets
+Bronze_Skillet 4 1 21 60 352 1 Ice_Shard 1 Earth_Shard 1 Bronze_Plate 1 Maple_Lumber
+Bronze_Hoplon 5 1 33 60 451 1 Ice_Shard 1 Earth_Shard 2 Bronze_Plate 1 Maple_Lumber
+Hull_Interior_Component 1 1 19 60 312 2 Ice_Shard 2 Earth_Shard 1 Hull_Interior_Component_Materials
+Bladder_Component 1 1 19 60 312 1 Ice_Shard 1 Earth_Shard 1 Bladder_Component_Materials
+Bladder_Lining_Component 1 1 28 60 234 1 Ice_Shard 1 Earth_Shard 1 Bladder_Lining_Component_Materials
+Starboard_Hull_Component 1 1 19 60 312 1 Ice_Shard 1 Earth_Shard 1 Starboard_Hull_Component_Materials
+Larboard_Hull_Component 1 1 9 40 312 1 Ice_Shard 1 Earth_Shard 1 Larboard_Hull_Component_Materials
+Propulsion_Engine_Component 3 1 30 60 254 2 Ice_Shard 2 Earth_Shard 1 Propulsion_Engine_Component_Materials
+Gyrodrive_Component 3 1 20 60 339 1 Ice_Shard 1 Earth_Shard 1 Gyrodrive_Component_Materials
+Rigging_Component 3 1 36 60 169 1 Ice_Shard 1 Earth_Shard 1 Rigging_Component_Materials
+Deck_Component 3 1 30 60 254 1 Ice_Shard 1 Earth_Shard 1 Deck_Component_Materials
+Engine_Casing_Component 3 1 10 40 339 1 Ice_Shard 1 Earth_Shard 1 Engine_Casing_Component_Materials
+Crafting_Tool_Component 3 1 30 60 254 1 Ice_Shard 1 Earth_Shard 1 Crafting_Tool_Component_Materials
+Bronze_Haubergeon 6 1 36 60 474 1 Ice_Shard 1 Earth_Shard 3 Bronze_Rings 1 Undyed_Hempen_Cloth
+Bronze_Sollerets 7 1 37 60 492 1 Ice_Shard 1 Earth_Shard 1 Bronze_Plate 1 Bronze_Rings 1 Leather
+Bronze_Sallet 8 1 41 60 526 1 Ice_Shard 1 Earth_Shard 1 Bronze_Plate 1 Bronze_Ingot 1 Bronze_Rivets
+Bronze_Chain_Coif 8 1 41 60 526 1 Ice_Shard 1 Earth_Shard 1 Bronze_Plate 1 Bronze_Rings 1 Leather
+Amateur's_Alembic 9 1 42 60 545 1 Ice_Shard 1 Earth_Shard 1 Bronze_Plate 1 Bronze_Rivets 1 Copper_Ingot
+Bronze_Mitt_Gauntlets 9 1 42 60 545 1 Ice_Shard 1 Earth_Shard 1 Bronze_Plate 1 Bronze_Rivets 1 Leather
+Bronze_Scutum 10 1 45 60 629 1 Ice_Shard 1 Earth_Shard 2 Bronze_Plate 2 Bronze_Rivets
+Bronze_Barbut 10 1 45 60 629 1 Ice_Shard 1 Earth_Shard 1 Bronze_Plate 1 Bronze_Rivets 1 Copper_Ingot
+Engine_Jointing_Component 6 1 18 40 474 2 Ice_Shard 2 Earth_Shard 1 Engine_Jointing_Component_Materials
+Cockpit_Exterior_Component 6 1 18 40 474 1 Ice_Shard 1 Earth_Shard 1 Cockpit_Exterior_Component_Materials
+Cockpit_Interior_Component 6 1 18 40 474 1 Ice_Shard 1 Earth_Shard 1 Cockpit_Interior_Component_Materials
+Ballast_Component 6 1 36 60 474 1 Ice_Shard 1 Earth_Shard 1 Ballast_Component_Materials
+Instrument_Panel_Component 6 1 115 60 237 1 Ice_Shard 1 Earth_Shard 1 Instrument_Panel_Component_Materials
+Aerodynamo_Component 6 1 36 60 474 1 Ice_Shard 1 Earth_Shard 1 Aerodynamo_Component_Materials
+Starboard_Wing_Component 10 1 22 40 629 1 Ice_Shard 1 Earth_Shard 1 Starboard_Wing_Component_Materials
+Larboard_Wing_Component 10 1 22 40 629 1 Ice_Shard 1 Earth_Shard 1 Larboard_Wing_Component_Materials
+Starboard_Wing_Control_Component 10 1 67 60 471 1 Ice_Shard 1 Earth_Shard 1 Starboard_Wing_Control_Component_Materials
+Larboard_Wing_Control_Component 10 1 67 60 471 1 Ice_Shard 1 Earth_Shard 1 Larboard_Wing_Control_Component_Materials
+Transmission_Component 10 1 144 60 314 1 Ice_Shard 1 Earth_Shard 1 Transmission_Component_Materials
+Heat_Vent_Component 10 1 144 60 314 1 Ice_Shard 1 Earth_Shard 1 Heat_Vent_Component_Materials
+Amateur's_Skillet 11 1 48 60 665 1 Ice_Shard 1 Earth_Shard 1 Bronze_Plate 1 Ash_Lumber
+Bronze_Plate_Belt 11 1 48 60 665 1 Ice_Shard 1 Earth_Shard 2 Bronze_Plate 1 Hard_Leather
+Bronze_Celata 12 1 53 60 702 1 Ice_Shard 1 Earth_Shard 2 Bronze_Plate 1 Bronze_Rings
+Bronze_Cuirass 12 1 53 60 702 1 Ice_Shard 1 Earth_Shard 2 Bronze_Plate 1 Bronze_Rings
+Iron_Ingot 13 1 27 40 726 1 Ice_Shard 3 Iron_Ore
+Bronze_Sabatons 13 1 54 60 726 1 Ice_Shard 1 Earth_Shard 2 Bronze_Plate 1 Bronze_Rings 1 Hard_Leather
+Iron_Plate 14 1 27 40 751 1 Ice_Shard 2 Iron_Ingot
+Iron_Rivets 14 1 27 40 751 1 Ice_Shard 1 Iron_Ingot
+Bronze_Gauntlets 14 1 54 60 751 1 Ice_Shard 1 Earth_Shard 2 Bronze_Plate 1 Iron_Rivets
+Iron_Rings 15 1 27 40 807 1 Ice_Shard 1 Iron_Ingot
+Iron_Joint_Plate 15 1 27 40 807 1 Ice_Shard 1 Iron_Ingot
+Brass_Alembic 15 1 82 70 605 1 Ice_Shard 1 Earth_Shard 1 Amateur's_Alembic 1 Bronze_Rivets 1 Brass_Ingot
+Iron_Skillet 15 1 55 70 807 1 Ice_Shard 1 Earth_Shard 1 Iron_Plate 1 Ash_Lumber
+Bronze_Buckler 15 1 55 70 807 1 Ice_Shard 1 Earth_Shard 1 Bronze_Plate 1 Bronze_Ingot 1 Iron_Rivets
+Riviera_Lantern 14 1 172 60 375 1 Ice_Shard 1 Earth_Shard 1 Bronze_Plate 1 Undyed_Hempen_Cloth 1 Beeswax_Candle
+Helm_Component 15 1 99 70 1452 2 Ice_Shard 2 Earth_Shard 1 Helm_Component_Materials
+Speaking_Tube_Component 15 1 82 70 605 1 Ice_Shard 1 Earth_Shard 1 Speaking_Tube_Component_Materials
+Lamp_Component 15 1 27 40 807 1 Ice_Shard 1 Earth_Shard 1 Lamp_Component_Materials
+Exhaust_Outlet_Component 15 1 99 70 1452 1 Ice_Shard 1 Earth_Shard 1 Exhaust_Outlet_Component_Materials
+Disposal_Unit_Component 15 1 176 70 403 1 Ice_Shard 1 Earth_Shard 1 Disposal_Unit_Component_Materials
+Ceruleum_Tank_Component 15 1 176 70 403 1 Ice_Shard 1 Earth_Shard 1 Ceruleum_Tank_Component_Materials
+Steering_Mechanism_Component 15 1 82 70 605 1 Ice_Shard 1 Earth_Shard 1 Steering_Mechanism_Component_Materials
+Decorated_Bronze_Barbut 16 1 94 70 649 1 Ice_Shard 1 Earth_Shard 1 Bronze_Barbut 1 Copper_Ingot 1 Brass_Ingot
+Decorated_Bronze_Mitt_Gauntlets 16 1 94 70 649 1 Ice_Shard 1 Earth_Shard 1 Bronze_Mitt_Gauntlets 1 Bronze_Rivets 1 Leather 1 Brass_Ingot
+Iron_Hoplon 17 1 66 70 898 1 Ice_Shard 1 Earth_Shard 2 Iron_Plate 1 Elm_Lumber
+Initiate's_Alembic 18 1 67 70 939 1 Ice_Shard 1 Earth_Shard 1 Iron_Plate 1 Bronze_Rivets
+Initiate's_Skillet 18 1 67 70 939 1 Ice_Shard 1 Earth_Shard 1 Iron_Plate 1 Elm_Lumber
+Iron_Sallet 19 1 68 70 982 1 Ice_Shard 1 Earth_Shard 1 Iron_Plate 1 Iron_Ingot 1 Iron_Rivets
+Iron_Plate_Belt 19 1 68 70 982 1 Ice_Shard 1 Earth_Shard 2 Iron_Plate 1 Aldgoat_Leather
+Iron_Sabatons 19 1 68 70 982 1 Ice_Shard 1 Earth_Shard 2 Iron_Plate 1 Bronze_Rings 1 Hard_Leather
+Ironclad_Bronze_Buckler 20 1 111 70 789 1 Ice_Shard 1 Earth_Shard 1 Bronze_Buckler 1 Bronze_Ingot 1 Iron_Rivets
+Iron_Celata 20 1 74 70 1053 1 Ice_Shard 1 Earth_Shard 2 Iron_Plate 1 Iron_Rings
+Iron_Cuirass 20 1 74 70 1053 1 Ice_Shard 1 Earth_Shard 2 Iron_Plate 1 Iron_Rings
+Iron_Gauntlets 20 1 74 70 1053 1 Ice_Shard 1 Earth_Shard 2 Iron_Plate 1 Iron_Rings
+Brass_Bench 16 1 201 70 433 1 Ice_Shard 1 Earth_Shard 2 Bronze_Plate 2 Brass_Ingot
+Riviera_Placard 19 1 217 70 491 1 Ice_Shard 1 Earth_Shard 3 Iron_Plate 3 Brass_Ingot 3 Elm_Lumber 3 Iron_Rivets
+Oasis_Dining_Table 20 1 236 70 526 1 Ice_Shard 1 Earth_Shard 2 Iron_Plate 1 Iron_Rivets 2 Elm_Lumber 1 Beeswax
+Escape_Flyer_Component 16 1 113 70 1558 1 Ice_Shard 1 Earth_Shard 1 Escape_Flyer_Component_Materials
+Spare_Tank_Component 16 1 201 70 433 1 Ice_Shard 1 Earth_Shard 1 Spare_Tank_Component_Materials
+Refabrication_Component 16 1 31 40 866 1 Ice_Shard 1 Earth_Shard 1 Refabrication_Component_Materials
+Isolator_Component 16 1 63 70 866 1 Ice_Shard 1 Earth_Shard 1 Isolator_Component_Materials
+Hyperconductor_Component 16 1 201 70 433 1 Ice_Shard 1 Earth_Shard 1 Hyperconductor_Component_Materials
+Auxiliary_Aerodynamo_Component 16 1 63 70 866 1 Ice_Shard 1 Earth_Shard 1 Auxiliary_Aerodynamo_Component_Materials
+Decorative_Plating_Component 16 1 201 70 433 1 Ice_Shard 1 Earth_Shard 1 Decorative_Plating_Component_Materials
+Finishing_Component 18 1 120 70 1690 2 Ice_Shard 2 Earth_Shard 1 Finishing_Component_Materials
+Figurehead_Component 18 1 214 70 469 2 Ice_Shard 2 Earth_Shard 1 Figurehead_Component_Materials
+Iron_Lantern_Shield 21 1 75 70 1090 2 Ice_Shard 1 Earth_Shard 2 Iron_Plate 1 Tallow_Candle
+Iron_Vambraces 21 1 75 70 1090 2 Ice_Shard 1 Earth_Shard 1 Iron_Plate 2 Aldgoat_Leather
+Iron_Elmo 22 1 75 70 1122 2 Ice_Shard 1 Earth_Shard 2 Iron_Plate 1 Iron_Rivets 1 Aldgoat_Leather
+Iron-plated_Jackboots 22 1 75 70 1122 2 Ice_Shard 1 Earth_Shard 1 Iron_Ingot 1 Aldgoat_Leather 1 Beast_Sinew
+Iron_Alembic 23 1 79 70 1169 2 Ice_Shard 1 Earth_Shard 1 Iron_Plate 1 Iron_Rivets
+Iron_Frypan 23 1 79 70 1169 2 Ice_Shard 1 Earth_Shard 1 Iron_Plate 1 Yew_Lumber
+Iron_Scale_Mail 23 1 79 70 1169 2 Ice_Shard 1 Earth_Shard 1 Iron_Plate 2 Aldgoat_Leather 1 Silver_Ingot
+Iron_Scale_Fingers 23 1 79 70 1169 2 Ice_Shard 1 Earth_Shard 1 Iron_Plate 1 Iron_Ingot 1 Aldgoat_Leather
+Iron_Scale_Greaves 23 1 79 70 1169 2 Ice_Shard 1 Earth_Shard 2 Iron_Plate 1 Iron_Ingot 1 Aldgoat_Leather
+Iron_Scutum 24 1 85 70 1239 2 Ice_Shard 2 Earth_Shard 2 Iron_Plate 2 Iron_Rivets
+Reinforced_Iron_Sallet 24 1 127 70 929 2 Ice_Shard 2 Earth_Shard 1 Iron_Sallet 1 Iron_Rivets 1 Brass_Ingot
+Reinforced_Iron_Plate_Belt 24 1 85 70 1239 2 Ice_Shard 2 Earth_Shard 2 Iron_Plate 1 Aldgoat_Leather
+Heavy_Iron_Armor 25 1 89 70 1296 2 Ice_Shard 2 Earth_Shard 2 Iron_Plate 1 Brass_Ingot
+Heavy_Iron_Gauntlets 25 1 89 70 1296 2 Ice_Shard 2 Earth_Shard 2 Iron_Plate 1 Iron_Rings
+Heavy_Iron_Flanchard 25 1 89 70 1296 2 Ice_Shard 2 Earth_Shard 2 Iron_Ingot 2 Iron_Rings 1 Aldgoat_Leather
+Oasis_Pendant_Lamp 22 1 240 70 561 2 Ice_Shard 1 Earth_Shard 2 Iron_Plate 2 Beeswax_Candle
+Glade_Placard 25 1 284 70 648 2 Ice_Shard 2 Earth_Shard 2 Iron_Plate 2 Walnut_Lumber 2 Iron_Rivets
+Glade_Dining_Table 25 1 284 70 648 2 Ice_Shard 2 Earth_Shard 2 Iron_Plate 1 Iron_Rivets 2 Yew_Lumber 1 Beeswax
+Steel_Ingot 26 1 45 40 1332 2 Ice_Shard 1 Bomb_Ash 2 Iron_Ore
+Steel_Hinge 26 1 45 40 1332 2 Ice_Shard 1 Steel_Ingot
+Conical_Alembic 26 1 135 70 999 2 Ice_Shard 2 Earth_Shard 1 Iron_Alembic 1 Iron_Rivets 1 Brass_Ingot
+Steel_Plate 27 1 45 40 1368 3 Ice_Shard 3 Steel_Ingot
+Steel_Rivets 27 1 45 40 1368 3 Ice_Shard 1 Steel_Ingot
+Steel_Joint_Plate 27 1 45 40 1368 3 Ice_Shard 1 Steel_Ingot
+Bomb_Frypan 27 1 91 70 1368 3 Ice_Shard 3 Earth_Shard 1 Steel_Plate 1 Yew_Lumber 1 Bomb_Ash
+Iron_Kite_Shield 27 1 91 70 1368 3 Ice_Shard 3 Earth_Shard 3 Iron_Plate 1 Iron_Rivets
+Steel_Rings 28 1 50 40 1498 3 Ice_Shard 1 Steel_Ingot
+Steel_Chainmail 28 1 100 70 1498 3 Ice_Shard 3 Earth_Shard 3 Steel_Rings 1 Undyed_Velveteen
+Steel_Tassets 28 1 100 70 1498 3 Ice_Shard 3 Earth_Shard 3 Steel_Plate 1 Aldgoat_Leather
+Steel_Alembic 29 1 101 70 1544 3 Ice_Shard 3 Earth_Shard 1 Steel_Plate 1 Steel_Rivets
+Steel_Skillet 29 1 101 70 1544 3 Ice_Shard 3 Earth_Shard 1 Steel_Plate 1 Elm_Lumber
+Steel_Sallet 29 1 101 70 1544 3 Ice_Shard 3 Earth_Shard 1 Iron_Plate 1 Steel_Ingot 1 Steel_Rivets 1 Steel_Plate
+Steel_Celata 30 1 102 70 1584 3 Ice_Shard 3 Earth_Shard 3 Steel_Plate 1 Iron_Rings 1 Brass_Ingot
+Steel_Cuirass 30 1 102 70 1584 3 Ice_Shard 3 Earth_Shard 3 Steel_Plate 1 Iron_Rings 1 Brass_Ingot
+Steel_Gauntlets 30 1 102 70 1584 3 Ice_Shard 3 Earth_Shard 3 Steel_Plate 1 Steel_Rings 1 Toad_Leather 1 Brass_Ingot
+Steel-plated_Jackboots 30 1 102 70 1584 3 Ice_Shard 3 Earth_Shard 1 Steel_Plate 1 Aldgoat_Leather 1 Diremite_Sinew
+Steel_Sabatons 30 1 102 70 1584 3 Ice_Shard 3 Earth_Shard 3 Steel_Plate 1 Steel_Rings 1 Toad_Leather 1 Brass_Ingot
+Deluxe_Oasis_Pendant_Lamp 27 1 291 70 684 3 Ice_Shard 3 Earth_Shard 3 Steel_Plate 3 Silver_Ingot 3 Tallow_Candle
+Oasis_Arched_Door 29 1 323 70 772 3 Ice_Shard 3 Earth_Shard 3 Steel_Ingot 3 Steel_Hinge 3 Walnut_Lumber 3 Limestone
+Iron_Plate_Flooring 29 1 323 70 772 3 Ice_Shard 3 Earth_Shard 3 Iron_Plate 3 Steel_Plate 3 Steel_Rivets
+Manor_Desk 29 1 323 70 772 3 Ice_Shard 3 Earth_Shard 1 Steel_Plate 1 Steel_Rivets 3 Walnut_Lumber 3 Fine_Wax
+Cast-iron_Cookpot 30 1 326 70 792 3 Ice_Shard 3 Earth_Shard 3 Steel_Plate 1 Steel_Ingot 3 Ash_Lumber
+Snow_White_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Grey_Pigment
+Soot_Black_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Grey_Pigment
+Dalamud_Red_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Red_Pigment
+Wine_Red_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Red_Pigment
+Sunset_Orange_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Brown_Pigment
+Kobold_Brown_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Brown_Pigment
+Pumpkin_Orange_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Brown_Pigment
+Loam_Brown_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Brown_Pigment
+Honey_Yellow_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Yellow_Pigment
+Millioncorn_Yellow_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Yellow_Pigment
+Hunter_Green_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Green_Pigment
+Ochu_Green_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Green_Pigment
+Deepwood_Green_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Green_Pigment
+Celeste_Green_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Green_Pigment
+Morbol_Green_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Green_Pigment
+Woad_Blue_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Othard_Blue_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Storm_Blue_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Void_Blue_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Royal_Blue_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Abyssal_Blue_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Lotus_Pink_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Purple_Pigment
+Colibri_Pink_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Purple_Pigment
+Plum_Purple_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Purple_Pigment
+Regal_Purple_Dye 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Purple_Pigment
+Grade_1_Glamour_Prism_(Armorcraft) 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Grade_1_Clear_Prism 2 Steel_Rivets
+Grade_2_Glamour_Prism_(Armorcraft) 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Grade_2_Clear_Prism 2 Steel_Rivets
+Grade_3_Glamour_Prism_(Armorcraft) 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Grade_3_Clear_Prism 2 Steel_Rivets
+Grade_4_Glamour_Prism_(Armorcraft) 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Grade_4_Clear_Prism 2 Steel_Rivets
+Grade_5_Glamour_Prism_(Armorcraft) 30 1 51 70 1584 1 Ice_Crystal 1 Earth_Crystal 1 Grade_5_Clear_Prism 2 Steel_Rivets
+Bull_Hoplon 31 1 106 80 1670 3 Ice_Shard 3 Earth_Shard 1 Steel_Plate 3 Steel_Ingot 1 Walnut_Lumber
+Steel_Elmo 31 1 106 80 1670 3 Ice_Shard 3 Earth_Shard 3 Steel_Plate 1 Steel_Rivets 1 Toad_Leather
+Steel_Vambraces 31 1 106 80 1670 3 Ice_Shard 3 Earth_Shard 1 Steel_Plate 3 Aldgoat_Leather
+Steel_Plate_Belt 31 1 106 80 1670 3 Ice_Shard 3 Earth_Shard 3 Steel_Plate 1 Boar_Leather
+Steel_Scale_Mail 32 1 110 80 1697 3 Ice_Shard 3 Earth_Shard 1 Steel_Plate 3 Aldgoat_Leather 1 Silver_Ingot
+Steel_Scale_Fingers 32 1 110 80 1697 3 Ice_Shard 3 Earth_Shard 1 Steel_Plate 1 Steel_Ingot 1 Toad_Leather
+Steel_Scale_Greaves 32 1 110 80 1697 3 Ice_Shard 3 Earth_Shard 3 Steel_Plate 1 Steel_Ingot 1 Aldgoat_Leather
+White_Skillet 33 1 111 80 1757 4 Ice_Shard 4 Earth_Shard 1 Steel_Plate 1 Walnut_Lumber
+Decorated_Buckler 33 1 166 80 1317 4 Ice_Shard 4 Earth_Shard 1 Ironclad_Bronze_Buckler 1 Silver_Ingot 1 Iron_Rivets
+Silver_Alembic 34 1 115 80 1811 4 Ice_Shard 4 Earth_Shard 1 Steel_Plate 1 Steel_Rivets 1 Silver_Ingot 1 Eye_of_Fire
+Decorated_Iron_Scutum 34 1 172 80 1358 4 Ice_Shard 4 Earth_Shard 1 Iron_Scutum 4 Iron_Rivets 1 Toad_Leather
+Heavy_Steel_Armor 34 1 115 80 1811 4 Ice_Shard 4 Earth_Shard 4 Steel_Plate 1 Brass_Ingot
+Heavy_Steel_Gauntlets 34 1 115 80 1811 4 Ice_Shard 4 Earth_Shard 4 Steel_Plate 1 Steel_Rings
+Reinforced_Steel_Plate_Belt 34 1 115 80 1811 4 Ice_Shard 4 Earth_Shard 4 Steel_Plate 1 Aldgoat_Leather
+Steel_Barbut 35 1 123 80 1853 4 Ice_Shard 4 Earth_Shard 1 Iron_Plate 1 Steel_Plate 1 Steel_Rivets 1 Steel_Ingot
+Steel_Mitt_Gauntlets 35 1 123 80 1853 4 Ice_Shard 4 Earth_Shard 1 Iron_Plate 1 Steel_Plate 1 Steel_Rivets 1 Boar_Leather
+Heavy_Steel_Flanchard 35 1 123 80 1853 4 Ice_Shard 4 Earth_Shard 4 Steel_Ingot 4 Steel_Rings 1 Boar_Leather
+Steel-plated_Caligae 35 1 123 80 1853 4 Ice_Shard 4 Earth_Shard 1 Boar_Leather 1 Steel_Plate 1 Steel_Rivets 1 Animal_Sinew
+Vintage_Hoplon 35 1 123 80 1853 1 Ice_Crystal 1 Tarnished_Hoplon 1 Bronze_Plate
+Riviera_Round_Table 32 1 352 80 848 3 Ice_Shard 3 Earth_Shard 3 Steel_Plate 3 Walnut_Lumber
+Riviera_Wardrobe 32 1 352 80 848 3 Ice_Shard 3 Earth_Shard 3 Steel_Hinge 3 Iron_Plate 3 Walnut_Lumber
+Ahriman_Round_Table 34 1 368 80 905 4 Ice_Shard 4 Earth_Shard 1 Steel_Plate 1 Steel_Rivets 1 Walnut_Lumber 1 Linseed_Oil 1 Ahriman_Tears
+Riviera_Rounded_Chimney 34 1 368 80 905 4 Ice_Shard 4 Earth_Shard 4 Steel_Plate 4 Steel_Ingot 4 Steel_Rivets
+Riviera_Dining_Table 34 1 368 80 905 4 Ice_Shard 4 Earth_Shard 4 Steel_Plate 1 Steel_Rivets 4 Walnut_Lumber 1 Linseed_Oil
+Explorer's_Campfire 35 1 221 80 926 4 Ice_Shard 4 Earth_Shard 1 Cast-iron_Cookpot 4 Stump_Stool 1 Campfire
+Mythril_Ingot 36 1 62 40 1882 4 Ice_Shard 4 Mythril_Ore
+Steel_Frypan 36 1 124 80 1882 4 Ice_Shard 4 Earth_Shard 1 Steel_Plate 1 Oak_Lumber
+Mythril_Rings 37 1 64 40 1905 4 Ice_Shard 1 Mythril_Ingot
+Mythril_Rivets 37 1 64 40 1905 4 Ice_Shard 1 Mythril_Ingot
+Bladed_Lantern_Shield 37 1 128 80 1905 4 Ice_Shard 4 Earth_Shard 1 Steel_Plate 1 Steel_Rivets 4 Iron_Ingot 1 Tallow_Candle
+Horn_Scale_Greaves 37 1 128 80 1905 4 Ice_Shard 4 Earth_Shard 1 Antelope_Horn 4 Steel_Plate 1 Steel_Ingot
+Mythril_Plate 38 1 64 40 1961 4 Ice_Shard 4 Mythril_Ingot
+Mythril_Celata 38 1 129 80 1961 4 Ice_Shard 4 Earth_Shard 4 Mythril_Plate 1 Mythril_Rings
+Horn_Scale_Fingers 38 1 129 80 1961 4 Ice_Shard 4 Earth_Shard 4 Antelope_Horn 4 Steel_Plate 1 Boar_Leather
+Mythril_Plate_Belt 38 1 129 80 1961 4 Ice_Shard 4 Earth_Shard 4 Mythril_Plate 1 Peiste_Leather
+Vintage_Celata 38 1 129 80 1961 1 Ice_Crystal 1 Dented_Celata 1 Bronze_Plate
+Mythril_Cuirass 39 1 137 80 2026 5 Ice_Shard 5 Earth_Shard 5 Mythril_Plate 1 Mythril_Rings 1 Electrum_Ingot
+Mythril_Gauntlets 39 1 137 80 2026 5 Ice_Shard 5 Earth_Shard 5 Mythril_Plate 1 Mythril_Rings
+Mythril_Sabatons 39 1 137 80 2026 5 Ice_Shard 5 Earth_Shard 5 Mythril_Plate 1 Mythril_Rings 1 Boar_Leather
+Mythril_Alembic 40 1 138 80 2050 5 Ice_Shard 5 Earth_Shard 1 Mythril_Plate 1 Mythril_Rivets 1 Steel_Ingot 1 Eye_of_Earth
+Mythril_Elmo 40 1 138 80 2050 5 Ice_Shard 5 Earth_Shard 5 Mythril_Plate 1 Mythril_Rivets 1 Boar_Leather
+Horn_Scale_Mail 40 1 138 80 2050 5 Ice_Shard 5 Earth_Shard 1 Aldgoat_Horn 5 Boar_Leather 1 Steel_Ingot
+Vintage_Scutum 40 1 138 80 2050 1 Earth_Crystal 1 Rusting_Scutum 1 Iron_Plate
+Glade_Wall_Chimney 36 1 396 80 941 4 Ice_Shard 4 Earth_Shard 4 Steel_Plate 4 Steel_Rivets 4 Limestone 1 Oak_Lumber
+Belah'dian_Crystal_Lantern 38 1 412 80 980 4 Ice_Shard 4 Earth_Shard 1 Mythril_Plate 4 Mythril_Rings 4 Belah'dian_Glass 4 Tallow_Candle
+Mythril_Table 39 1 438 80 1013 5 Ice_Shard 5 Earth_Shard 5 Mythril_Plate 5 Oak_Lumber 5 Mythril_Rivets
+Mythril_Barbut 41 1 143 80 2109 5 Ice_Shard 5 Earth_Shard 1 Steel_Plate 1 Mythril_Plate 1 Mythril_Rivets 1 Mythril_Ingot
+Mythril_Vambraces 41 1 143 80 2109 5 Ice_Shard 5 Earth_Shard 1 Mythril_Plate 1 Boar_Leather 1 Peiste_Leather
+Mythril-plated_Jackboots 41 1 143 80 2109 5 Ice_Shard 5 Earth_Shard 1 Mythril_Plate 1 Boar_Leather 1 Mythril_Ingot 1 Hippogryph_Sinew
+Vintage_Scale_Mail 41 1 143 80 2109 1 Ice_Crystal 1 Blackened_Scale_Mail 1 Iron_Plate
+Cobalt_Ingot 42 1 72 40 2147 5 Ice_Shard 5 Cobalt_Ore 1 Iron_Ore
+Electrum_Alembic 42 1 216 80 1610 5 Ice_Shard 5 Earth_Shard 1 Mythril_Alembic 5 Electrum_Ingot
+Mythril_Chain_Coif 42 1 144 80 2147 5 Ice_Shard 5 Earth_Shard 1 Mythril_Plate 5 Mythril_Rings 1 Aldgoat_Leather
+Mythril_Mesail 42 1 144 80 2147 5 Ice_Shard 5 Earth_Shard 1 Mythril_Plate 1 Mythril_Rivets 1 Aldgoat_Leather
+Mythril_Haubergeon 42 1 144 80 2147 5 Ice_Shard 5 Earth_Shard 5 Mythril_Rings 1 Undyed_Woolen_Cloth 1 Steel_Plate 1 Aldgoat_Leather
+Mythril_Sollerets 42 1 144 80 2147 5 Ice_Shard 5 Earth_Shard 1 Mythril_Plate 5 Mythril_Rings 1 Aldgoat_Leather 1 Hippogryph_Sinew
+Mythril-plated_Caligae 42 1 144 80 2147 5 Ice_Shard 5 Earth_Shard 1 Peiste_Leather 1 Mythril_Plate 1 Mythril_Rivets 1 Bronze_Ingot 1 Hippogryph_Sinew
+Cobalt_Plate 43 1 77 40 2251 5 Ice_Shard 5 Cobalt_Ingot
+Cobalt_Rings 43 1 77 40 2251 5 Ice_Shard 1 Cobalt_Ingot
+Cobalt_Skillet 43 1 155 80 2251 5 Ice_Shard 5 Earth_Shard 1 Cobalt_Plate 1 Mahogany_Lumber
+High_Mythril_Gauntlets 43 1 155 80 2251 5 Ice_Shard 5 Earth_Shard 5 Mythril_Plate 1 Mythril_Rings
+Mythril_Mitt_Gauntlets 43 1 155 80 2251 5 Ice_Shard 5 Earth_Shard 1 Steel_Plate 1 Mythril_Plate 1 Mythril_Rivets 1 Peiste_Leather
+High_Mythril_Plate_Belt 43 1 155 80 2251 5 Ice_Shard 5 Earth_Shard 5 Mythril_Plate 1 Peiste_Leather
+High_Mythril_Flanchard 43 1 155 80 2251 5 Ice_Shard 5 Earth_Shard 5 Mythril_Ingot 5 Cobalt_Rings 1 Raptor_Leather
+Vintage_Buckler 43 1 155 80 2251 1 Earth_Crystal 1 Notched_Buckler 1 Mahogany_Lumber
+Cobalt_Rivets 44 1 78 40 2277 5 Ice_Shard 1 Cobalt_Ingot
+Cobalt_Joint_Plate 44 1 78 40 2277 5 Ice_Shard 1 Cobalt_Ingot
+Cobalt_Scutum 44 1 156 80 2277 5 Ice_Shard 5 Earth_Shard 5 Cobalt_Plate 5 Cobalt_Rivets
+Reinforced_Mythril_Elmo 44 1 234 80 1707 5 Ice_Shard 5 Earth_Shard 1 Mythril_Elmo 1 Mythril_Rivets 1 Peiste_Leather
+High_Mythril_Armor 44 1 156 80 2277 5 Ice_Shard 5 Earth_Shard 5 Mythril_Plate 1 Electrum_Ingot
+Cobalt_Vambraces 44 1 156 80 2277 5 Ice_Shard 5 Earth_Shard 5 Cobalt_Plate 1 Boar_Leather 1 Raptor_Leather
+Cobalt_Elmo 45 1 158 80 2309 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 1 Cobalt_Rivets 1 Raptor_Leather
+Tortoiseshell_Scale_Mail 45 1 158 80 2309 6 Ice_Shard 6 Earth_Shard 1 Adamantoise_Shell 1 Boar_Leather 1 Raptor_Leather 1 Cobalt_Ingot
+Tortoiseshell_Scale_Fingers 45 1 158 80 2309 6 Ice_Shard 6 Earth_Shard 1 Adamantoise_Shell 1 Cobalt_Plate 1 Cobalt_Ingot
+Cobalt-plated_Jackboots 45 1 158 80 2309 6 Ice_Shard 6 Earth_Shard 1 Cobalt_Plate 1 Raptor_Leather 1 Cobalt_Ingot 1 Raptor_Sinew
+Tortoiseshell_Scale_Greaves 45 1 158 80 2309 6 Ice_Shard 6 Earth_Shard 1 Adamantoise_Shell 6 Cobalt_Plate 1 Cobalt_Ingot
+Vintage_Kite_Shield 45 1 158 80 2309 1 Ice_Crystal 1 Scarred_Kite_Shield 1 Aldgoat_Leather 1 Mahogany_Lumber 1 Siltstone_Whetstone
+Glade_Hanging_Placard 41 1 457 80 1054 5 Ice_Shard 5 Earth_Shard 5 Steel_Plate 5 Oak_Lumber 5 Steel_Rivets 5 Raptor_Sinew
+Riviera_Hanging_Placard 43 1 496 80 1125 5 Ice_Shard 5 Earth_Shard 5 Steel_Plate 5 Brass_Ingot 5 Mahogany_Lumber 5 Steel_Rivets
+Glade_Rounded_Chimney 45 1 505 80 1154 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 6 Cobalt_Ingot 6 Rosewood_Lumber 6 Cobalt_Rivets
+Moogle_Letter_Box 45 1 505 80 1154 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 6 Mahogany_Lumber 6 Undyed_Woolen_Cloth 1 Moggle_Mog_XII's_Whisker
+Cobalt_Barbut 46 1 159 80 2372 6 Ice_Shard 6 Earth_Shard 1 Steel_Plate 1 Cobalt_Plate 1 Cobalt_Rivets 1 Cobalt_Ingot
+Cobalt-plated_Caligae 46 1 159 80 2372 6 Ice_Shard 6 Earth_Shard 1 Raptor_Leather 1 Cobalt_Plate 1 Cobalt_Rivets 1 Brass_Ingot 1 Raptor_Sinew
+Vintage_Haubergeon 46 1 159 80 2372 1 Earth_Crystal 1 Ripped_Haubergeon 1 Iron_Rings
+Hells'_Kitchen 47 1 167 80 2421 6 Ice_Shard 6 Earth_Shard 1 Cobalt_Plate 1 Rosewood_Lumber
+Mosshorn_Scale_Mail 47 1 167 80 2421 1 Ice_Crystal 2 Mossy_Horn 1 Iron_Plate
+Cobalt_Mitt_Gauntlets 48 1 172 80 2524 6 Ice_Shard 6 Earth_Shard 1 Steel_Plate 1 Cobalt_Plate 1 Cobalt_Rivets 1 Raptor_Leather
+Cobalt_Bladed_Lantern_Shield 49 1 174 80 2551 6 Ice_Shard 6 Earth_Shard 1 Cobalt_Plate 6 Cobalt_Ingot 1 Tallow_Candle
+Cobalt_Sallet 49 1 174 80 2551 6 Ice_Shard 6 Earth_Shard 1 Cobalt_Plate 6 Cobalt_Ingot 1 Cobalt_Rivets
+Cobalt_Mesail 49 1 174 80 2551 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 1 Cobalt_Rivets 1 Boar_Leather
+Thermal_Alembic 50 1 186 80 2641 6 Ice_Shard 6 Earth_Shard 1 Cobalt_Plate 1 Cobalt_Rivets 1 Iron_Ingot
+Kite_Shield 50 1 186 80 2641 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 1 Cobalt_Rivets 1 Iron_Ingot
+Cobalt_Celata 50 1 186 80 2641 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 1 Mythril_Rings 1 Electrum_Ingot
+Cobalt_Chain_Coif 50 1 186 80 2641 6 Ice_Shard 6 Earth_Shard 1 Cobalt_Plate 6 Cobalt_Rings 1 Boar_Leather
+Cobalt_Cuirass 50 1 186 80 2641 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 1 Mythril_Rings 1 Electrum_Ingot
+Cobalt_Haubergeon 50 1 186 80 2641 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Rings 1 Undyed_Felt 1 Mythril_Plate 1 Boar_Leather
+Cobalt_Gauntlets 50 1 186 80 2641 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 1 Cobalt_Rings 1 Boar_Leather 1 Electrum_Ingot
+Cobalt_Plate_Belt 50 1 186 80 2641 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 1 Boar_Leather
+Cobalt_Sabatons 50 1 186 80 2641 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 1 Cobalt_Rings 1 Boar_Leather 1 Electrum_Ingot
+Cobalt_Sollerets 50 1 186 80 2641 6 Ice_Shard 6 Earth_Shard 1 Cobalt_Plate 6 Cobalt_Rings 1 Boar_Leather 1 Raptor_Sinew
+Wind-up_Dullahan 50 1 93 80 2641 99 Ice_Shard 99 Darksteel_Nugget
+Darksteel_Nugget 50 1 97 40 2646 3 Ice_Crystal 3 Darksteel_Ore
+Darksteel_Plate 50 1 97 40 2646 3 Ice_Crystal 3 Darksteel_Nugget
+Darksteel_Rings 50 1 97 40 2646 3 Ice_Crystal 1 Darksteel_Nugget
+Darksteel_Rivets 50 1 97 40 2646 3 Ice_Crystal 1 Darksteel_Nugget
+Militia_Armet 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Rings
+Militia_Barbut 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Plate 1 Cobalt_Rivets 1 Cobalt_Ingot
+Militia_Cuirass 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Rings
+Militia_Gauntlets 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Rings 1 Hippogryph_Leather
+Militia_Mitt_Gauntlets 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Plate 1 Cobalt_Rivets 1 Hippogryph_Leather
+Militia_Sabatons 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Rings 1 Hippogryph_Leather
+Armorer's_Visor 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Plate 1 Hippogryph_Leather 1 Boar_Leather
+Hamlet_Digger's_Helmet 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 3 Darksteel_Nugget 1 Rose_Gold_Nugget
+Blacksmith's_Workboots 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Hippogryph_Leather 1 Hippogryph_Sinew
+Darksteel_Ingot 50 1 116 40 2921 1 Ice_Cluster 2 Darksteel_Nugget 2 Coke
+Darksteel_Breastplate 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 2 Darksteel_Rivets
+Darksteel_Gauntlet_Plates 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 2 Darksteel_Rivets
+Darksteel_Couters 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 2 Darksteel_Rivets
+Darksteel_Scutum 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 2 Darksteel_Plate 2 Darksteel_Rivets
+Darksteel_Buckler 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 1 Darksteel_Plate 1 Darksteel_Nugget 1 Darksteel_Rivets
+Darksteel_Chain_Coif 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 1 Darksteel_Plate 1 Darksteel_Rivets 1 Darksteel_Rings
+Heavy_Darksteel_Armor 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Breastplate 2 Darksteel_Plate 1 Rose_Gold_Nugget 1 Silver_Ingot
+Darksteel_Haubergeon 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Garlean_Steel_Plate 1 Darksteel_Ingot 1 Hippogryph_Leather 1 Undyed_Felt 1 Darksteel_Rings
+Light_Steel_Galerus 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Light_Steel_Plate 1 Hippogryph_Leather 1 Darksteel_Ingot
+Heavy_Darksteel_Gauntlets 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Gauntlet_Plates 1 Darksteel_Plate 1 Darksteel_Rings 1 Rose_Gold_Nugget 1 Silver_Ingot
+Darksteel_Mitt_Gauntlets 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 1 Darksteel_Plate 2 Darksteel_Nugget
+Darksteel_Tassets 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 2 Darksteel_Plate 1 Hippogryph_Leather
+Heavy_Darksteel_Flanchard 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Couters 1 Darksteel_Plate 1 Darksteel_Rings 1 Rose_Gold_Nugget 1 Silver_Ingot
+Light_Steel_Subligar 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Light_Steel_Plate 1 Hippogryph_Leather 1 Darksteel_Ingot
+Darksteel_Sollerets 50 1 233 80 2921 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 2 Darksteel_Plate 1 Darksteel_Rings
+Tidal_Barding 50 1 222 80 4980 2 Ice_Cluster 1 Earth_Cluster 1 Leviathan's_Barb 1 Gold_Ingot 1 Darksteel_Plate 1 Hippogryph_Leather
+Metal_Interior_Wall 46 1 508 80 1186 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 6 Steel_Plate 6 Steel_Rivets
+Metal_Flooring 46 1 508 80 1186 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 6 Steel_Plate 6 Steel_Rivets
+Riviera_Desk 46 1 508 80 1186 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 6 Cobalt_Rivets 6 Rosewood_Lumber 6 Varnish
+Riviera_Bookshelf 48 1 550 80 1262 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 6 Cobalt_Ingot 6 Mahogany_Lumber 6 Varnish
+Company_Chest 48 1 550 80 1262 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 6 Electrum_Ingot 6 Steel_Hinge
+Manor_Fireplace 48 1 550 80 1262 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 6 Rosewood_Lumber 6 Clinker_Bricks 6 Fine_Wax
+Oasis_Chandelier 49 1 556 80 1275 6 Ice_Shard 6 Earth_Shard 6 Cobalt_Plate 6 Mythril_Ingot 6 Tallow_Candle
+Diagnostics_Module 50 1 745 80 1460 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 6 Rose_Gold_Nugget 6 Clear_Glass_Lens 1 ADS_Plating
+Miniature_Magitek_Reaper 50 1 745 80 1460 1 Ice_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 3 Mythril_Plate 1 Electrum_Ingot 3 Frosted_Glass_Lens
+Incensory 50 1 1424 80 2490 2 Ice_Cluster 1 Earth_Cluster 2 Gold_Ingot 2 Mythril_Plate 2 Clove_Oil 2 Lavender_Oil
+Dead_Man's_Chest 50 1 1424 80 2490 2 Ice_Cluster 1 Earth_Cluster 2 Splintered_Chest 1 Wolfram_Square 2 Gold_Ingot 1 Ruby 1 Sapphire
+Manor_Marching_Horn 50 1 1424 80 2490 2 Ice_Cluster 1 Earth_Cluster 2 Manor_Varnish 1 Glazenut 2 Mahogany_Lumber 2 Darksteel_Plate
+Alchemy_Furnace 50 1 1424 80 2490 2 Ice_Cluster 1 Earth_Cluster 1 Glazenut 1 Wolfram_Ingot 2 Darksteel_Plate 2 Darksteel_Rivets 1 Coke
+Projection_Module 50 1 1424 80 2490 2 Ice_Cluster 1 Earth_Cluster 1 White_Raven_Armor_Fragment 2 Gold_Ingot 2 Rose_Gold_Nugget 2 Cobalt_Plate
+Purification_Module 50 1 1424 80 2490 2 Ice_Cluster 1 Earth_Cluster 1 White_Raven_Armor_Fragment 2 Darksteel_Plate 2 Cobalt_Plate
+Wolf_Kite_Shield 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 3 Cobalt_Plate 1 Cobalt_Rivets 1 Iron_Ingot
+Wolf_Celata 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Plate 1 Mythril_Rings 1 Electrum_Ingot
+Wolf_Elmo 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Plate 1 Cobalt_Rivets 1 Raptor_Leather
+Wolf_Sallet 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 3 Cobalt_Ingot 1 Cobalt_Rivets
+Wolf_Cuirass 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Plate 1 Mythril_Rings 1 Electrum_Ingot
+Wolf_Scale_Mail 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Adamantoise_Shell 1 Boar_Leather 1 Raptor_Leather
+Wolf_Gauntlets 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Plate 1 Cobalt_Rings 1 Boar_Leather 1 Electrum_Ingot
+Wolf_Scale_Fingers 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Adamantoise_Shell 1 Cobalt_Plate
+Wolf_Plate_Belt 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Plate 1 Boar_Leather
+Wolf_Tassets 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Mythril_Plate 1 Raptor_Leather
+Wolf_Sabatons 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Plate 1 Cobalt_Plate 1 Cobalt_Rings 1 Boar_Leather 1 Electrum_Ingot
+Wolf_Scale_Greaves 50 1 195 80 2646 3 Ice_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Adamantoise_Shell 3 Cobalt_Plate
+Darksteel_Wire 50 1 419 80 5257 11 Ice_Shard 11 Earth_Shard 11 Darksteel_Nugget
+Airship_Repair_Materials 50 1 233 80 2921 5 Ice_Crystal 5 Earth_Crystal 1 Dark_Matter_Cluster 5 Grade_6_Dark_Matter
+Reinforced_Darksteel_Wire 50 1 801 80 8964 12 Ice_Shard 12 Earth_Shard 1 Darksteel_Wire 12 Fieldcraft_Demimateria_III
+Lapdog_Collar_Bell 50 1 222 40 4980 3 Ice_Cluster 3 Earth_Cluster 3 Heat-resistant_Plaster 1 Scheelite 1 Ferberite
+Wolfram_Square 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 1 Scheelite 1 Ferberite 1 Cobalt_Ore
+Perfect_Mortar 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 1 Aged_Mortar_Pieces 1 Belah'dian_Silver 1 Mahogany_Lumber
+Heavy_Wolfram_Helm 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 2 Terminus_Putty 1 Darksteel_Plate 1 Darksteel_Rings
+Wolfram_Mask 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 2 Terminus_Putty 1 Hippogryph_Leather 1 Raptor_Sinew
+Heavy_Wolfram_Cuirass 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 2 Wolfram_Ingot 2 Terminus_Putty 1 Darksteel_Plate 1 Darksteel_Rings 1 Hippogryph_Leather
+Wolfram_Cuirass 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 2 Wolfram_Ingot 2 Terminus_Putty 1 Darksteel_Plate 1 Hippogryph_Leather 1 Rose_Gold_Nugget
+Heavy_Wolfram_Gauntlets 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 2 Terminus_Putty 1 Darksteel_Plate 1 Darksteel_Rings 1 Hippogryph_Leather
+Wolfram_Gauntlets 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 2 Terminus_Putty 1 Darksteel_Plate 1 Undyed_Felt 1 Twinthread 1 Hippogryph_Leather
+Heavy_Wolfram_Plate_Belt 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 1 Terminus_Putty 1 Darksteel_Plate 1 Hippogryph_Leather
+Wolfram_Tassets 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 1 Terminus_Putty 1 Darksteel_Plate 1 Hippogryph_Leather
+Heavy_Wolfram_Cuisses 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 2 Wolfram_Ingot 2 Terminus_Putty 2 Darksteel_Rings 1 Hippogryph_Leather
+Heavy_Wolfram_Sabatons 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 2 Terminus_Putty 1 Darksteel_Plate 1 Darksteel_Rings 1 Hippogryph_Leather
+Wolfram_Sabatons 50 1 445 80 4980 2 Ice_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 2 Terminus_Putty 1 Darksteel_Plate 1 Undyed_Felt 1 Twinthread 1 Hippogryph_Leather
+Augmented_Heavy_Wolfram_Cuirass 50 1 667 80 3735 2 Ice_Cluster 1 Earth_Cluster 1 Heavy_Wolfram_Cuirass 1 Battlecraft_Demimateria_III 2 Battlecraft_Demimateria_II 2 Wolfram_Square
+Augmented_Wolfram_Cuirass 50 1 667 80 3735 2 Ice_Cluster 1 Earth_Cluster 1 Wolfram_Cuirass 1 Battlecraft_Demimateria_III 2 Battlecraft_Demimateria_II 2 Wolfram_Square
+Wootz_Shield 50 1 586 80 5783 2 Ice_Cluster 2 Earth_Cluster 2 Allagan_Catalyst 1 Battlecraft_Demimateria_III 2 Wootz_Ingot 1 Wolfram_Square 1 Hippogryph_Leather
+Wootz_Sallet 50 1 586 80 5783 2 Ice_Cluster 2 Earth_Cluster 2 Wootz_Ingot 1 Platinum_Nugget 1 Wolfram_Square 1 Darksteel_Rings
+Wootz_Mask 50 1 586 80 5783 2 Ice_Cluster 2 Earth_Cluster 2 Wootz_Ingot 1 Platinum_Nugget 1 Wolfram_Ingot 1 Darksteel_Nugget
+Wootz_Cuirass 50 1 586 80 5783 2 Ice_Cluster 2 Earth_Cluster 2 Wootz_Ingot 1 Platinum_Nugget 1 Wolfram_Square 1 Darksteel_Rings 1 Hippogryph_Leather
+Wootz_Mail 50 1 586 80 5783 2 Ice_Cluster 2 Earth_Cluster 2 Wootz_Ingot 1 Platinum_Nugget 1 Wolfram_Ingot 1 Darksteel_Nugget 1 Hippogryph_Leather
+Wootz_Mitten_Gauntlets 50 1 586 80 5783 2 Ice_Cluster 2 Earth_Cluster 2 Wootz_Ingot 1 Platinum_Nugget 1 Wolfram_Square 1 Hippogryph_Leather
+Wootz_Gauntlets 50 1 586 80 5783 2 Ice_Cluster 2 Earth_Cluster 2 Wootz_Ingot 1 Platinum_Nugget 1 Wolfram_Ingot 1 Hippogryph_Leather
+Wootz_Plate_Belt 50 1 586 80 5783 2 Ice_Cluster 2 Earth_Cluster 2 Wootz_Ingot 1 Platinum_Nugget 1 Wolfram_Square 1 Hippogryph_Leather
+Wootz_Sabatons 50 1 586 80 5783 2 Ice_Cluster 2 Earth_Cluster 2 Wootz_Ingot 1 Platinum_Nugget 1 Wolfram_Square 1 Hippogryph_Leather
+Wootz_Sollerets 50 1 586 80 5783 2 Ice_Cluster 2 Earth_Cluster 2 Wootz_Ingot 1 Platinum_Nugget 1 Wolfram_Ingot 1 Hippogryph_Leather
+Mythrite_Nugget 51 1 169 40 3951 3 Ice_Crystal 3 Mythrite_Sand 1 Mythril_Ore
+Mythrite_Sallet_of_Maiming 51 1 339 80 3951 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Archaeornis_Leather 1 Electrum_Ingot
+Mythrite_Sallet_of_Fending 51 1 339 80 3951 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Archaeornis_Leather 1 Electrum_Ingot
+Mythrite_Tassets_of_Maiming 51 1 339 80 3951 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Archaeornis_Leather
+Mythrite_Tassets_of_Fending 51 1 339 80 3951 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Archaeornis_Leather
+Mythrite_Rivets 51 1 210 40 4561 3 Ice_Crystal 1 Mythrite_Nugget
+Mythrite_Scutum 51 1 421 80 4561 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Mythrite_Rivets 1 Archaeornis_Leather
+Mythrite_Hauberk_of_Maiming 51 1 421 80 4561 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Archaeornis_Leather 1 Darksteel_Rings 1 Electrum_Ingot
+Mythrite_Hauberk_of_Fending 51 1 421 80 4561 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Archaeornis_Leather 1 Darksteel_Rings 1 Electrum_Ingot
+Mythrite_Gauntlets_of_Maiming 51 1 421 80 4561 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Archaeornis_Leather 1 Electrum_Ingot
+Mythrite_Gauntlets_of_Fending 51 1 421 80 4561 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Archaeornis_Leather 1 Electrum_Ingot
+Mythrite_Sabatons_of_Maiming 51 1 421 80 4561 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Archaeornis_Leather 1 Electrum_Ingot
+Mythrite_Sabatons_of_Fending 51 1 421 80 4561 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Archaeornis_Leather 1 Electrum_Ingot
+Mythrite_Ingot 52 1 251 40 5172 3 Ice_Crystal 3 Mythrite_Ore 1 Mythrite_Nugget
+Mythrite_Alembic 52 1 503 80 5172 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Mythrite_Rivets
+Frypan_Caliente 52 1 503 80 5172 3 Ice_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Cedar_Lumber 1 Mythrite_Rivets
+Mythrite_Bladed_Lantern_Shield 53 1 586 80 5783 4 Ice_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 4 Mythrite_Rivets 4 Darksteel_Nugget
+Titanium_Plate_Belt_of_Maiming 53 1 586 80 5783 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dhalmel_Leather
+Titanium_Plate_Belt_of_Fending 53 1 586 80 5783 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dhalmel_Leather
+Titanium_Nugget 54 1 320 40 6042 4 Ice_Crystal 4 Titanium_Ore 1 Iron_Ore 1 Grenade_Ash
+Titanium_Rivets 54 1 320 40 6042 4 Ice_Crystal 1 Titanium_Nugget
+Hardsilver_Alembic 54 1 641 80 6042 4 Ice_Crystal 4 Earth_Crystal 4 Hardsilver_Nugget 4 Titanium_Rivets 1 Larimar
+Titanium_Frypan 54 1 641 80 6042 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dark_Chestnut_Lumber 1 Titanium_Rivets
+Titanium_Sallet_of_Maiming 54 1 641 80 6042 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Titanium_Rivets 1 Dhalmel_Leather 1 Rose_Gold_Nugget
+Titanium_Mask_of_Striking 54 1 641 80 6042 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dhalmel_Leather 1 Rose_Gold_Nugget
+Titanium_Mask_of_Aiming 54 1 641 80 6042 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dhalmel_Leather 1 Rose_Gold_Nugget
+Titanium_Mask_of_Scouting 54 1 641 80 6042 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dhalmel_Leather 1 Rose_Gold_Nugget
+Titanium_Mask_of_Fending 54 1 641 80 6042 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Titanium_Rivets 1 Rose_Gold_Nugget
+Titanium_Kite_Shield 55 1 697 70 6301 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 4 Titanium_Rivets 4 Darksteel_Nugget
+Titanium_Cuirass_of_Maiming 55 1 697 70 6301 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dhalmel_Leather 1 Titanium_Rivets 1 Rose_Gold_Nugget
+Titanium_Mail_of_Fending 55 1 697 70 6301 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dhalmel_Leather 4 Ramie_Cloth 1 Rose_Gold_Nugget
+Titanium_Mitt_Gauntlets_of_Maiming 55 1 697 70 6301 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 4 Dhalmel_Leather 1 Rose_Gold_Nugget
+Titanium_Gauntlets_of_Fending 55 1 697 70 6301 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 4 Dhalmel_Leather 1 Rose_Gold_Nugget
+Titanium_Sabatons_of_Maiming 55 1 697 70 6301 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dhalmel_Leather 1 Titanium_Rivets 1 Rose_Gold_Nugget
+Titanium_Sollerets_of_Fending 55 1 697 70 6301 4 Ice_Crystal 4 Earth_Crystal 4 Titanium_Nugget 4 Dhalmel_Leather 1 Rose_Gold_Nugget
+Garlond_Steel 52 1 503 80 5172 1 Ice_Cluster 1 Earth_Cluster 3 Vivianite 3 Coke 3 Cobalt_Ore
+Company_Escutcheon 55 1 697 70 6301 1 Ice_Cluster 1 Earth_Cluster 3 Titanium_Nugget 1 Titanium_Rivets 1 Rose_Gold_Nugget 1 Dusk_Leather
+Titanium_Ingot 56 1 376 35 6561 5 Ice_Crystal 5 Cloud_Mica 1 Titanium_Nugget
+Titanium_Helm_of_Fending 56 1 752 70 6561 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dhalmel_Leather 1 Hardsilver_Ingot 1 Grade_1_Vitality_Dissolvent
+Titanium_Mask_of_Maiming 56 1 752 70 6561 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dhalmel_Leather 1 Darksteel_Nugget 1 Grade_1_Strength_Dissolvent
+Titanium_Headgear_of_Striking 56 1 752 70 6561 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dhalmel_Leather 1 Darksteel_Nugget 1 Grade_1_Strength_Dissolvent
+Titanium_Headgear_of_Scouting 56 1 752 70 6561 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dhalmel_Leather 1 Darksteel_Nugget 1 Grade_1_Dexterity_Dissolvent
+Titanium_Vambraces_of_Fending 56 1 752 70 6561 5 Ice_Crystal 5 Earth_Crystal 1 Titanium_Ingot 1 Dragon_Leather 1 Dhalmel_Leather 1 Hardsilver_Ingot 1 Grade_1_Vitality_Dissolvent
+Titanium_Vambraces_of_Maiming 56 1 752 70 6561 5 Ice_Crystal 5 Earth_Crystal 1 Titanium_Ingot 1 Dragon_Leather 1 Dhalmel_Leather 1 Hardsilver_Ingot 1 Grade_1_Strength_Dissolvent
+Titanium_Vambraces_of_Striking 56 1 752 70 6561 5 Ice_Crystal 5 Earth_Crystal 1 Titanium_Ingot 1 Dragon_Leather 1 Dhalmel_Leather 1 Hardsilver_Ingot 1 Grade_1_Strength_Dissolvent
+Titanium_Vambraces_of_Scouting 56 1 752 70 6561 5 Ice_Crystal 5 Earth_Crystal 1 Titanium_Ingot 1 Dragon_Leather 1 Dhalmel_Leather 1 Hardsilver_Ingot 1 Grade_1_Dexterity_Dissolvent
+Titanium_Tassets_of_Fending 56 1 752 70 6561 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dhalmel_Leather 1 Grade_1_Vitality_Dissolvent
+Titanium_Alembic 57 1 808 70 6820 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Electrum_Ingot 5 Titanium_Rivets 1 Opal
+Mandragoras_Frypan 57 1 808 70 6820 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Hallowed_Chestnut_Lumber 1 Titanium_Rivets
+Titanium_Hoplon 57 1 808 70 6820 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Hallowed_Chestnut_Lumber 1 Titanium_Rivets
+Titanium_Cuirass_of_Fending 57 1 808 70 6820 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dragon_Leather 1 Hardsilver_Ingot 5 Grade_1_Vitality_Dissolvent
+Titanium_Mail_of_Maiming 57 1 808 70 6820 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dragon_Leather 1 Hallowed_Ramie_Cloth 1 Hardsilver_Ingot 5 Grade_1_Strength_Dissolvent
+Titanium_Mail_of_Striking 57 1 808 70 6820 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dragon_Leather 1 Hallowed_Ramie_Cloth 1 Hardsilver_Ingot 5 Grade_1_Strength_Dissolvent
+Titanium_Mail_of_Scouting 57 1 808 70 6820 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dragon_Leather 1 Hallowed_Ramie_Cloth 1 Hardsilver_Ingot 5 Grade_1_Dexterity_Dissolvent
+Titanium_Sabatons_of_Fending 57 1 808 70 6820 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dragon_Leather 1 Hardsilver_Ingot 1 Grade_1_Vitality_Dissolvent
+Titanium_Sollerets_of_Maiming 57 1 808 70 6820 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dragon_Leather 1 Hardsilver_Ingot 1 Grade_1_Strength_Dissolvent
+Titanium_Sabatons_of_Striking 57 1 808 70 6820 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dragon_Leather 1 Hardsilver_Ingot 1 Grade_1_Strength_Dissolvent
+Titanium_Sabatons_of_Scouting 57 1 808 70 6820 5 Ice_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dragon_Leather 1 Hardsilver_Ingot 1 Grade_1_Dexterity_Dissolvent
+Adamantite_Nugget 58 1 431 35 7080 5 Ice_Crystal 5 Adamantite_Ore 1 Darksteel_Ore
+Adamantite_Rivets 58 1 431 35 7080 5 Ice_Crystal 1 Adamantite_Nugget
+Adamantite_Helm_of_Fending 58 1 863 70 7080 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Dragon_Leather 5 Chimera_Mane 1 Grade_1_Vitality_Dissolvent
+Adamantite_Helm_of_Maiming 58 1 863 70 7080 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Dragon_Leather 1 Titanium_Ingot 1 Grade_1_Strength_Dissolvent
+Adamantite_Gauntlets_of_Fending 58 1 863 70 7080 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Dragon_Leather 1 Titanium_Rivets 1 Darksteel_Nugget 1 Grade_1_Vitality_Dissolvent
+Adamantite_Gauntlets_of_Maiming 58 1 863 70 7080 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Dragon_Leather 1 Titanium_Rivets 1 Rose_Gold_Nugget 1 Grade_1_Strength_Dissolvent
+Adamantite_Tassets_of_Fending 58 1 863 70 7080 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Dragon_Leather 1 Grade_1_Vitality_Dissolvent
+Adamantite_Tassets_of_Maiming 58 1 863 70 7080 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Dragon_Leather 1 Grade_1_Strength_Dissolvent
+Adamantite_Sabatons_of_Fending 58 1 863 70 7080 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Dragon_Leather 1 Titanium_Rivets 1 Darksteel_Nugget 1 Grade_1_Vitality_Dissolvent
+Adamantite_Sabatons_of_Maiming 58 1 863 70 7080 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Dragon_Leather 1 Titanium_Rivets 1 Rose_Gold_Nugget 1 Grade_1_Strength_Dissolvent
+Adamantite_Scutum 59 1 919 70 7339 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 5 Titanium_Ingot 1 Amphiptere_Leather 1 Rose_Gold_Nugget
+Adamantite_Armor_of_Fending 59 1 919 70 7339 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Hallowed_Ramie_Cloth 1 Titanium_Rivets 1 Darksteel_Nugget 5 Grade_1_Vitality_Dissolvent
+Adamantite_Armor_of_Maiming 59 1 919 70 7339 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Hallowed_Ramie_Cloth 1 Titanium_Rivets 1 Rose_Gold_Nugget 5 Grade_1_Strength_Dissolvent
+Adamantite_Chain_Hose_of_Fending 59 1 919 70 7339 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 5 Dragon_Leather 5 Grade_1_Vitality_Dissolvent
+Adamantite_Chain_Hose_of_Maiming 59 1 919 70 7339 5 Ice_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 5 Dragon_Leather 5 Grade_1_Strength_Dissolvent
+Adamantite_Circlet_of_Fending 59 1 919 70 7339 2 Ice_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Amphiptere_Leather 1 Adamantite_Rivets 1 Grade_1_Vitality_Dissolvent
+Adamantite_Plate_Belt_of_Fending 59 1 919 70 7339 2 Ice_Cluster 1 Earth_Cluster 1 Adamantite_Nugget 1 Amphiptere_Leather 1 Adamantite_Rivets 1 Grade_1_Vitality_Dissolvent
+Adamantite_Alembic 60 1 956 70 7851 2 Ice_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Aurum_Regis_Nugget 2 Adamantite_Rivets
+Adamantite_Frypan 60 1 956 70 7851 2 Ice_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Birch_Lumber 1 Adamantite_Rivets
+Adamantite_Hoplon 60 1 956 70 7851 2 Ice_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Aurum_Regis_Nugget 1 Birch_Lumber 1 Adamantite_Rivets
+Adamantite_Lorica_of_Fending 60 1 956 70 7851 2 Ice_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Amphiptere_Leather 1 Adamantite_Rivets 2 Grade_1_Vitality_Dissolvent
+Adamantite_Mail_of_Maiming 60 1 956 70 7851 2 Ice_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 2 Chimerical_Felt 1 Aurum_Regis_Nugget 2 Grade_1_Strength_Dissolvent
+Heavy_Adamantite_Gauntlets_of_Fending 60 1 956 70 7851 2 Ice_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Amphiptere_Leather 1 Adamantite_Rivets 1 Grade_1_Vitality_Dissolvent
+Adamantite_Greaves_of_Fending 60 1 956 70 7851 2 Ice_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Chimerical_Felt 1 Adamantite_Rivets 1 Grade_1_Vitality_Dissolvent
+Adamantite_Leg_Guards_of_Maiming 60 1 956 70 7851 2 Ice_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Grade_1_Strength_Dissolvent
+Aurum_Regis_Sollerets_of_Healing 60 1 956 70 7851 2 Ice_Cluster 1 Earth_Cluster 1 Adamantite_Nugget 1 Aurum_Regis_Nugget 1 Amphiptere_Leather 1 Grade_1_Mind_Dissolvent
+Iron_Dwarf 60 1 558 70 8377 99 Ice_Shard 99 Iron_Giant_Core 99 Iron_Giant_Scrap 99 Garlean_Steel_Joint 1 Glazenut 1 Dawnborne_Aethersand
+Steam-powered_Gobwalker_G-VII 60 1 558 70 8377 99 Ice_Shard 99 Gobwalker_Shielding 1 Stuffed_Goblin 99 Garlean_Steel_Plate 1 Glazenut 1 Dawnborne_Aethersand
+Expanse_Barding 60 1 558 70 8377 2 Ice_Cluster 1 Earth_Cluster 1 Bismarck's_Baleen 2 Titanium_Ingot 1 Aurum_Regis_Nugget 2 Hallowed_Ramie_Cloth
+Hive_Barding 60 1 558 70 8377 2 Ice_Cluster 1 Earth_Cluster 1 Ravana's_Forewing 2 Adamantite_Nugget 1 Aurum_Regis_Nugget 2 Dhalmel_Leather
+Gordian_Chair 60 1 2008 70 4188 2 Ice_Cluster 1 Earth_Cluster 1 Gordian_Gear 2 Adamantite_Nugget 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 2 Allagan_Catalyst
+Chivalric_Coat_of_Fending 60 1 1116 70 8377 2 Ice_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Archaeornis_Leather 2 Aurum_Regis_Nugget 2 Grade_1_Vitality_Dissolvent 2 Dawnborne_Aethersand
+Chivalric_Coat_of_Maiming 60 1 1116 70 8377 2 Ice_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Archaeornis_Leather 2 Aurum_Regis_Nugget 2 Grade_1_Strength_Dissolvent 2 Dawnborne_Aethersand
+Adamantite_Ingot 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 1 Sun_Mica 2 Adamantite_Nugget 1 Blue_Quartz 2 Purified_Coke
+Adamantite_Barbut_of_Fending 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Grade_2_Vitality_Dissolvent 2 Landborne_Aethersand
+Adamantite_Barbut_of_Maiming 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Grade_2_Strength_Dissolvent 2 Landborne_Aethersand
+Adamantite_Pauldroncoat_of_Fending 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Griffin_Leather 2 Aurum_Regis_Nugget 2 Grade_2_Vitality_Dissolvent 2 Landborne_Aethersand
+Adamantite_Pauldroncoat_of_Maiming 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Griffin_Leather 2 Aurum_Regis_Nugget 2 Grade_2_Strength_Dissolvent 2 Landborne_Aethersand
+Adamantite_Vambraces_of_Fending 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Grade_2_Vitality_Dissolvent 2 Leafborne_Aethersand
+Adamantite_Vambraces_of_Maiming 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Grade_2_Strength_Dissolvent 2 Leafborne_Aethersand
+Adamantite_Sollerets_of_Fending 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Grade_2_Vitality_Dissolvent 2 Seaborne_Aethersand
+Adamantite_Sollerets_of_Maiming 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Grade_2_Strength_Dissolvent 2 Seaborne_Aethersand
+Savage_Gordian_Chair 60 1 2584 70 4715 2 Ice_Cluster 2 Earth_Cluster 1 Large_Gordian_Gear 2 Adamantite_Ingot 2 Adamantite_Nugget 1 Amphiptere_Leather 1 Aurum_Regis_Nugget 2 Allagan_Catalyst
+Cauldronmaster's_Alembic 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 1 Crystal_Glass 2 Adamantite_Ingot 2 Aurum_Regis_Ingot 1 Hardsilver_Ingot 2 Leafborne_Aethersand 1 Mastercraft_Demimateria
+Galleymaster's_Frypan 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Astral_Birch_Lumber 1 Aurum_Regis_Nugget 2 Leafborne_Aethersand 1 Mastercraft_Demimateria
+Sky_Pirate's_Helm_of_Fending 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Titanium_Alloy_Ingot 1 Chimerical_Felt 1 Titanium_Rivets 1 Grade_1_Vitality_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Helm_of_Maiming 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Titanium_Alloy_Ingot 1 Chimerical_Felt 1 Titanium_Rivets 1 Grade_1_Strength_Dissolvent 1 Dawnborne_Aethersand
+Hammermaster's_Visor 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Griffin_Leather 2 Adamantite_Rivets 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Sky_Pirate's_Coat_of_Fending 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Titanium_Alloy_Ingot 1 Cloud_Cloth 1 Amphiptere_Leather 1 Titanium_Rivets 2 Grade_1_Vitality_Dissolvent 2 Dawnborne_Aethersand
+Sky_Pirate's_Coat_of_Maiming 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Titanium_Alloy_Ingot 1 Cloud_Cloth 1 Amphiptere_Leather 1 Titanium_Rivets 2 Grade_1_Strength_Dissolvent 2 Dawnborne_Aethersand
+Sky_Pirate's_Gauntlets_of_Fending 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Titanium_Alloy_Ingot 1 Amphiptere_Leather 1 Titanium_Rivets 1 Grade_1_Vitality_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Gauntlets_of_Maiming 60 1 1436 70 9430 2 Ice_Cluster 2 Earth_Cluster 2 Titanium_Alloy_Ingot 1 Amphiptere_Leather 1 Titanium_Rivets 1 Grade_1_Strength_Dissolvent 1 Dawnborne_Aethersand

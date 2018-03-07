@@ -1,0 +1,765 @@
+Copper_Ingot 1 1 9 40 312 1 Wind_Shard 3 Copper_Ore
+Bone_Hora 2 1 20 60 325 1 Wind_Shard 1 Fire_Shard 2 Bone_Chip 1 Animal_Sinew
+Bone_Brand 3 1 20 60 339 1 Wind_Shard 1 Fire_Shard 1 Marbled_Eye 1 Bone_Chip
+Copper_Rings 4 1 10 40 352 1 Wind_Shard 1 Copper_Ingot
+Bone_Staff 5 1 33 60 451 1 Wind_Shard 1 Fire_Shard 1 Marbled_Eye 1 Soiled_Femur 1 Bone_Chip
+Copper_Gorget 5 1 33 60 451 1 Wind_Shard 1 Fire_Shard 2 Copper_Ingot 1 Leather
+Copper_Wristlets 5 1 33 60 451 1 Wind_Shard 1 Fire_Shard 1 Copper_Ingot 2 Copper_Rings
+Hull_Interior_Component 1 1 19 60 312 2 Wind_Shard 2 Fire_Shard 1 Hull_Interior_Component_Materials
+Bladder_Component 1 1 19 60 312 1 Wind_Shard 1 Fire_Shard 1 Bladder_Component_Materials
+Bladder_Lining_Component 1 1 28 60 234 1 Wind_Shard 1 Fire_Shard 1 Bladder_Lining_Component_Materials
+Starboard_Hull_Component 1 1 19 60 312 1 Wind_Shard 1 Fire_Shard 1 Starboard_Hull_Component_Materials
+Larboard_Hull_Component 1 1 9 40 312 1 Wind_Shard 1 Fire_Shard 1 Larboard_Hull_Component_Materials
+Propulsion_Engine_Component 3 1 30 60 254 2 Wind_Shard 2 Fire_Shard 1 Propulsion_Engine_Component_Materials
+Gyrodrive_Component 3 1 20 60 339 1 Wind_Shard 1 Fire_Shard 1 Gyrodrive_Component_Materials
+Rigging_Component 3 1 36 60 169 1 Wind_Shard 1 Fire_Shard 1 Rigging_Component_Materials
+Deck_Component 3 1 30 60 254 1 Wind_Shard 1 Fire_Shard 1 Deck_Component_Materials
+Engine_Casing_Component 3 1 10 40 339 1 Wind_Shard 1 Fire_Shard 1 Engine_Casing_Component_Materials
+Crafting_Tool_Component 3 1 30 60 254 1 Wind_Shard 1 Fire_Shard 1 Crafting_Tool_Component_Materials
+Ragstone_Whetstone 6 1 18 40 474 1 Wind_Shard 2 Ragstone
+Copper_Earrings 6 1 36 60 474 1 Wind_Shard 1 Fire_Shard 1 Copper_Ingot 1 Ragstone_Whetstone
+Bone_Ring 7 1 37 60 492 1 Wind_Shard 1 Fire_Shard 1 Bone_Chip 1 Ragstone_Whetstone
+Copper_Ring 7 1 37 60 492 1 Wind_Shard 1 Fire_Shard 1 Copper_Ingot 1 Ragstone_Whetstone
+Copper_Needle 8 1 41 60 526 1 Wind_Shard 1 Fire_Shard 1 Copper_Ingot 1 Ragstone_Whetstone
+Bone_Necklace 8 1 41 60 526 1 Wind_Shard 1 Fire_Shard 2 Soiled_Femur 1 Copper_Rings
+Ramhorn_Staff 9 1 42 60 545 1 Wind_Shard 1 Fire_Shard 1 Marbled_Eye 2 Ram_Horn
+Copper_Choker 9 1 42 60 545 1 Wind_Shard 1 Fire_Shard 2 Copper_Ingot 1 Hard_Leather
+Ramhorn_Claws 10 1 45 60 629 1 Wind_Shard 1 Fire_Shard 2 Ram_Horn 1 Animal_Sinew
+Copper_Scepter 10 1 45 60 629 1 Wind_Shard 1 Fire_Shard 1 Marbled_Eye 1 Copper_Ingot
+Bone_Armillae 10 1 45 60 629 1 Wind_Shard 1 Fire_Shard 3 Soiled_Femur
+Engine_Jointing_Component 6 1 18 40 474 2 Wind_Shard 2 Fire_Shard 1 Engine_Jointing_Component_Materials
+Cockpit_Exterior_Component 6 1 18 40 474 1 Wind_Shard 1 Fire_Shard 1 Cockpit_Exterior_Component_Materials
+Cockpit_Interior_Component 6 1 18 40 474 1 Wind_Shard 1 Fire_Shard 1 Cockpit_Interior_Component_Materials
+Ballast_Component 6 1 36 60 474 1 Wind_Shard 1 Fire_Shard 1 Ballast_Component_Materials
+Instrument_Panel_Component 6 1 115 60 237 1 Wind_Shard 1 Fire_Shard 1 Instrument_Panel_Component_Materials
+Aerodynamo_Component 6 1 36 60 474 1 Wind_Shard 1 Fire_Shard 1 Aerodynamo_Component_Materials
+Starboard_Wing_Component 10 1 22 40 629 1 Wind_Shard 1 Fire_Shard 1 Starboard_Wing_Component_Materials
+Larboard_Wing_Component 10 1 22 40 629 1 Wind_Shard 1 Fire_Shard 1 Larboard_Wing_Component_Materials
+Starboard_Wing_Control_Component 10 1 67 60 471 1 Wind_Shard 1 Fire_Shard 1 Starboard_Wing_Control_Component_Materials
+Larboard_Wing_Control_Component 10 1 67 60 471 1 Wind_Shard 1 Fire_Shard 1 Larboard_Wing_Control_Component_Materials
+Transmission_Component 10 1 144 60 314 1 Wind_Shard 1 Fire_Shard 1 Transmission_Component_Materials
+Heat_Vent_Component 10 1 144 60 314 1 Wind_Shard 1 Fire_Shard 1 Heat_Vent_Component_Materials
+Copper_Ear_Cuffs 11 1 48 60 665 1 Wind_Shard 1 Fire_Shard 2 Copper_Ingot 1 Ragstone_Whetstone
+Bronze_Scepter 12 1 53 60 702 1 Wind_Shard 1 Fire_Shard 1 Marbled_Eye 1 Bronze_Ingot
+Amateur's_Needle 12 1 53 60 702 1 Wind_Shard 1 Fire_Shard 1 Bat_Fang
+Sunstone 13 1 27 40 726 1 Wind_Shard 1 Raw_Sunstone
+Danburite 13 1 27 40 726 1 Wind_Shard 1 Raw_Danburite
+Fluorite 13 1 27 40 726 1 Wind_Shard 1 Raw_Fluorite
+Decorated_Bone_Staff 13 1 81 60 544 1 Wind_Shard 1 Fire_Shard 1 Bone_Staff 1 Soiled_Femur 2 Bat_Fang
+Malachite 14 1 27 40 751 1 Wind_Shard 1 Raw_Malachite
+Sphene 14 1 27 40 751 1 Wind_Shard 1 Raw_Sphene
+Lapis_Lazuli 14 1 27 40 751 1 Wind_Shard 1 Raw_Lapis_Lazuli
+Brass_Ingot 14 1 27 40 751 1 Wind_Shard 2 Copper_Ore 1 Zinc_Ore
+Brass_Cudgel 14 1 54 60 751 1 Wind_Shard 1 Fire_Shard 1 Bronze_Ingot 1 Marbled_Eye 1 Brass_Ingot
+Brass_Spectacles 14 1 54 60 751 1 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 1 Clear_Glass_Lens
+Brass_Rings 15 1 27 40 807 1 Wind_Shard 1 Brass_Ingot
+Brass_Gorget 15 1 55 70 807 1 Wind_Shard 1 Fire_Shard 2 Brass_Ingot 1 Hard_Leather
+Fang_Earrings 15 1 55 70 807 1 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 1 Bat_Fang 1 Hard_Leather
+Brass_Wristlets 15 1 55 70 807 1 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 2 Brass_Rings
+Brass_Pricket 15 1 176 70 403 1 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 3 Beeswax_Candle
+Helm_Component 15 1 99 70 1452 2 Wind_Shard 2 Fire_Shard 1 Helm_Component_Materials
+Speaking_Tube_Component 15 1 82 70 605 1 Wind_Shard 1 Fire_Shard 1 Speaking_Tube_Component_Materials
+Lamp_Component 15 1 27 40 807 1 Wind_Shard 1 Fire_Shard 1 Lamp_Component_Materials
+Exhaust_Outlet_Component 15 1 99 70 1452 1 Wind_Shard 1 Fire_Shard 1 Exhaust_Outlet_Component_Materials
+Disposal_Unit_Component 15 1 176 70 403 1 Wind_Shard 1 Fire_Shard 1 Disposal_Unit_Component_Materials
+Ceruleum_Tank_Component 15 1 176 70 403 1 Wind_Shard 1 Fire_Shard 1 Ceruleum_Tank_Component_Materials
+Steering_Mechanism_Component 15 1 82 70 605 1 Wind_Shard 1 Fire_Shard 1 Steering_Mechanism_Component_Materials
+Bat_Fang_Needle 16 1 63 70 866 1 Wind_Shard 1 Fire_Shard 1 Bat_Fang 1 Ragstone_Whetstone
+Brass_Wristlets_of_Crafting 16 1 63 70 866 1 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 2 Brass_Rings
+Toothed_Ramhorn_Staff 17 1 99 70 673 1 Wind_Shard 1 Fire_Shard 1 Ramhorn_Staff 2 Ram_Horn 1 Ragstone_Whetstone
+Fang_Necklace 17 1 66 70 898 1 Wind_Shard 1 Fire_Shard 2 Bat_Fang 1 Cotton_Yarn
+Brass_Earrings 17 1 66 70 898 1 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 1 Ragstone_Whetstone
+Brass_Circlet_(Sunstone) 18 1 67 70 939 1 Wind_Shard 1 Fire_Shard 1 Sunstone 3 Brass_Ingot
+Brass_Circlet_(Danburite) 18 1 67 70 939 1 Wind_Shard 1 Fire_Shard 1 Danburite 3 Brass_Ingot
+Brass_Circlet_(Fluorite) 18 1 67 70 939 1 Wind_Shard 1 Fire_Shard 1 Fluorite 3 Brass_Ingot
+Staghorn_Staff 19 1 68 70 982 1 Wind_Shard 1 Fire_Shard 1 Marbled_Eye 2 Antelope_Horn
+Brass_Circlet_(Malachite) 19 1 68 70 982 1 Wind_Shard 1 Fire_Shard 1 Malachite 3 Brass_Ingot
+Brass_Circlet_(Sphene) 19 1 68 70 982 1 Wind_Shard 1 Fire_Shard 1 Sphene 3 Brass_Ingot
+Brass_Circlet_(Lapis_Lazuli) 19 1 68 70 982 1 Wind_Shard 1 Fire_Shard 1 Lapis_Lazuli 3 Brass_Ingot
+Coral_Armillae 19 1 68 70 982 1 Wind_Shard 1 Fire_Shard 3 White_Coral
+Mudstone_Whetstone 20 1 37 40 1053 1 Wind_Shard 2 Mudstone
+Decorated_Copper_Scepter 20 1 111 70 789 1 Wind_Shard 1 Fire_Shard 1 Copper_Scepter 1 Brass_Ingot 1 Ragstone_Whetstone
+Brass_Ring 20 1 74 70 1053 1 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 1 Ragstone_Whetstone
+Brass_Ring_of_Crafting 20 1 74 70 1053 1 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 1 Ragstone_Whetstone
+Crow_Fly 20 3 74 70 1053 1 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 1 Crow_Feather
+Oasis_Partition 20 1 236 70 526 1 Wind_Shard 1 Fire_Shard 4 Brass_Ingot 4 Limestone 1 Mortar
+Oasis_Cottage_Roof_(Stone) 20 1 236 70 526 4 Wind_Shard 4 Fire_Shard 4 Brass_Ingot 4 Limestone 4 Mortar 4 Roof_Tile
+Riviera_Cottage_Wall_(Composite) 20 1 236 70 526 4 Wind_Shard 4 Fire_Shard 4 Limestone 4 Elm_Lumber 4 Iron_Joint_Plate 4 Iron_Nails
+Oasis_Cottage_Wall_(Stone) 20 1 236 70 526 4 Wind_Shard 4 Fire_Shard 4 Limestone 4 Firebricks 4 Mortar
+Escape_Flyer_Component 16 1 113 70 1558 1 Wind_Shard 1 Fire_Shard 1 Escape_Flyer_Component_Materials
+Spare_Tank_Component 16 1 201 70 433 1 Wind_Shard 1 Fire_Shard 1 Spare_Tank_Component_Materials
+Refabrication_Component 16 1 31 40 866 1 Wind_Shard 1 Fire_Shard 1 Refabrication_Component_Materials
+Isolator_Component 16 1 63 70 866 1 Wind_Shard 1 Fire_Shard 1 Isolator_Component_Materials
+Hyperconductor_Component 16 1 201 70 433 1 Wind_Shard 1 Fire_Shard 1 Hyperconductor_Component_Materials
+Auxiliary_Aerodynamo_Component 16 1 63 70 866 1 Wind_Shard 1 Fire_Shard 1 Auxiliary_Aerodynamo_Component_Materials
+Decorative_Plating_Component 16 1 201 70 433 1 Wind_Shard 1 Fire_Shard 1 Decorative_Plating_Component_Materials
+Finishing_Component 18 1 120 70 1690 2 Wind_Shard 2 Fire_Shard 1 Finishing_Component_Materials
+Figurehead_Component 18 1 214 70 469 2 Wind_Shard 2 Fire_Shard 1 Figurehead_Component_Materials
+Brass_Choker 21 1 75 70 1090 2 Wind_Shard 1 Fire_Shard 2 Brass_Ingot 1 Hard_Leather
+Brass_Ear_Cuffs 21 1 75 70 1090 2 Wind_Shard 1 Fire_Shard 2 Brass_Ingot 1 Ragstone_Whetstone
+Coral_Ring 21 1 75 70 1090 2 Wind_Shard 1 Fire_Shard 1 White_Coral 1 Mudstone_Whetstone
+Eye_of_Ice 22 1 37 40 1122 2 Wind_Shard 1 Ice_Rock
+Eye_of_Lightning 22 1 37 40 1122 2 Wind_Shard 1 Lightning_Rock
+Eye_of_Water 22 1 37 40 1122 2 Wind_Shard 1 Water_Rock
+Brass_Needle 22 1 75 70 1122 2 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 1 Mudstone_Whetstone
+Floating_Minnow 22 3 75 70 1122 2 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 1 Ash_Lumber
+Eye_of_Fire 23 1 39 40 1169 2 Wind_Shard 1 Fire_Rock
+Eye_of_Wind 23 1 39 40 1169 2 Wind_Shard 1 Wind_Rock
+Eye_of_Earth 23 1 39 40 1169 2 Wind_Shard 1 Earth_Rock
+Silver_Ingot 23 1 39 40 1169 2 Wind_Shard 2 Silver_Ore
+Wind_Brand 23 1 79 70 1169 2 Wind_Shard 1 Fire_Shard 1 Eye_of_Wind 1 Aldgoat_Leather 1 Antelope_Horn
+Sanguine_Horn_Staff 23 1 79 70 1169 2 Wind_Shard 1 Fire_Shard 1 Eye_of_Fire 1 Antelope_Horn 1 Beastkin_Blood
+Oval_Spectacles 23 1 79 70 1169 2 Wind_Shard 1 Fire_Shard 2 Clear_Glass_Lens 1 Silver_Ingot
+Contemporary_Pince-nez 23 1 79 70 1169 2 Wind_Shard 1 Fire_Shard 2 Clear_Glass_Lens 1 Silver_Ingot
+Brass_Spoon_Lure 23 3 79 70 1169 2 Wind_Shard 1 Fire_Shard 1 Brass_Ingot 1 Mudstone_Whetstone
+Silver_Rings 24 1 42 40 1239 2 Wind_Shard 1 Silver_Ingot
+Initiate's_Needle 24 1 85 70 1239 2 Wind_Shard 2 Fire_Shard 1 Iron_Ingot 1 Mudstone_Whetstone
+Silver_Spectacles 24 1 85 70 1239 2 Wind_Shard 2 Fire_Shard 1 Silver_Ingot 1 Clear_Glass_Lens
+Horn_Earrings 24 1 85 70 1239 2 Wind_Shard 2 Fire_Shard 1 Silver_Ingot 1 Antelope_Horn 1 Aldgoat_Leather
+Ice_Brand 25 1 89 70 1296 2 Wind_Shard 2 Fire_Shard 1 Eye_of_Ice 1 Antelope_Horn 1 Brass_Ingot
+Toothed_Staghorn_Staff 25 1 133 70 972 2 Wind_Shard 2 Fire_Shard 1 Staghorn_Staff 2 Antelope_Horn 1 Scalekin_Blood
+Silver_Magnifiers 25 1 133 70 972 2 Wind_Shard 2 Fire_Shard 1 Silver_Spectacles 1 Silver_Ingot 1 Clear_Glass_Lens
+Silver_Gorget 25 1 89 70 1296 2 Wind_Shard 2 Fire_Shard 2 Silver_Ingot 1 Aldgoat_Leather
+Silver_Wristlets 25 1 89 70 1296 2 Wind_Shard 2 Fire_Shard 1 Silver_Ingot 2 Silver_Rings
+Silver_Wristlets_of_Crafting 25 1 89 70 1296 2 Wind_Shard 2 Fire_Shard 1 Silver_Ingot 2 Silver_Rings
+Flawless_Band 25 1 89 70 1296 1 Water_Cluster 1 Silver_Ingot
+Oasis_Cottage_Roof_(Composite) 21 1 240 70 545 8 Wind_Shard 8 Fire_Shard 8 Brass_Ingot 8 Limestone 8 Ash_Lumber 8 Mortar 8 Roof_Tile
+Glade_Cottage_Wall_(Stone) 21 1 240 70 545 8 Wind_Shard 8 Fire_Shard 8 Limestone 8 Yew_Lumber 8 Mortar
+Oasis_Cottage_Wall_(Composite) 21 1 240 70 545 8 Wind_Shard 8 Fire_Shard 8 Limestone 8 Firebricks 8 Ash_Lumber 8 Mortar
+Riviera_Cottage_Wall_(Stone) 22 1 240 70 561 8 Wind_Shard 8 Fire_Shard 8 Limestone 8 Mortar
+Oasis_Lantern 24 1 272 70 619 2 Wind_Shard 2 Fire_Shard 2 Silver_Ingot 2 Clear_Glass_Lens 2 Tallow_Candle
+Oasis_Placard 24 1 272 70 619 2 Wind_Shard 2 Fire_Shard 2 Brass_Ingot 2 Yew_Lumber 2 Cotton_Yarn
+Ceramic_Tile_Flooring 25 1 284 70 648 2 Wind_Shard 2 Fire_Shard 2 Potter's_Clay 2 Straw 2 Mortar
+Silver_Scepter 26 1 90 70 1332 2 Wind_Shard 2 Fire_Shard 1 Marbled_Eye 1 Silver_Ingot 1 Brimstone
+Silver_Needle 26 1 90 70 1332 2 Wind_Shard 2 Fire_Shard 1 Silver_Ingot 1 Mudstone_Whetstone
+Horn_Necklace 26 1 90 70 1332 2 Wind_Shard 2 Fire_Shard 2 Antelope_Horn 1 Dew_Thread
+Silver_Earrings 26 1 90 70 1332 2 Wind_Shard 2 Fire_Shard 1 Silver_Ingot 1 Mudstone_Whetstone
+Silver_Ring 26 1 90 70 1332 2 Wind_Shard 2 Fire_Shard 1 Silver_Ingot 1 Mudstone_Whetstone
+Silver_Ring_of_Crafting 26 1 90 70 1332 2 Wind_Shard 2 Fire_Shard 1 Silver_Ingot 1 Mudstone_Whetstone
+Sunstone_Choker 27 1 91 70 1368 3 Wind_Shard 3 Fire_Shard 1 Sunstone 3 Silver_Ingot
+Danburite_Choker 27 1 91 70 1368 3 Wind_Shard 3 Fire_Shard 1 Danburite 3 Silver_Ingot
+Sunstone_Earrings 27 1 91 70 1368 3 Wind_Shard 3 Fire_Shard 3 Sunstone 1 Silver_Ingot
+Danburite_Earrings 27 1 91 70 1368 3 Wind_Shard 3 Fire_Shard 3 Danburite 1 Silver_Ingot
+Sunstone_Bracelet 27 1 91 70 1368 3 Wind_Shard 3 Fire_Shard 3 Sunstone 1 Silver_Ingot
+Danburite_Bracelet 27 1 91 70 1368 3 Wind_Shard 3 Fire_Shard 3 Danburite 1 Silver_Ingot
+Sunstone_Ring 27 1 91 70 1368 3 Wind_Shard 3 Fire_Shard 1 Sunstone 1 Silver_Ingot
+Danburite_Ring 27 1 91 70 1368 3 Wind_Shard 3 Fire_Shard 1 Danburite 1 Silver_Ingot
+Chocobo_Fly 27 3 91 70 1368 3 Wind_Shard 3 Fire_Shard 1 Silver_Ingot 1 Chocobo_Feather
+Fluorite_Choker 28 1 100 70 1498 3 Wind_Shard 3 Fire_Shard 1 Fluorite 3 Silver_Ingot
+Lapis_Lazuli_Choker 28 1 100 70 1498 3 Wind_Shard 3 Fire_Shard 1 Lapis_Lazuli 3 Silver_Ingot
+Fluorite_Earrings 28 1 100 70 1498 3 Wind_Shard 3 Fire_Shard 3 Fluorite 1 Silver_Ingot
+Lapis_Lazuli_Earrings 28 1 100 70 1498 3 Wind_Shard 3 Fire_Shard 3 Lapis_Lazuli 1 Silver_Ingot
+Fluorite_Bracelet 28 1 100 70 1498 3 Wind_Shard 3 Fire_Shard 3 Fluorite 1 Silver_Ingot
+Lapis_Lazuli_Bracelet 28 1 100 70 1498 3 Wind_Shard 3 Fire_Shard 3 Lapis_Lazuli 1 Silver_Ingot
+Fluorite_Ring 28 1 100 70 1498 3 Wind_Shard 3 Fire_Shard 1 Fluorite 1 Silver_Ingot
+Lapis_Lazuli_Ring 28 1 100 70 1498 3 Wind_Shard 3 Fire_Shard 1 Lapis_Lazuli 1 Silver_Ingot
+Sphene_Choker 29 1 101 70 1544 3 Wind_Shard 3 Fire_Shard 1 Sphene 3 Silver_Ingot
+Sphene_Earrings 29 1 101 70 1544 3 Wind_Shard 3 Fire_Shard 3 Sphene 1 Silver_Ingot
+Sphene_Bracelet 29 1 101 70 1544 3 Wind_Shard 3 Fire_Shard 3 Sphene 1 Silver_Ingot
+Sphene_Ring 29 1 101 70 1544 3 Wind_Shard 3 Fire_Shard 1 Sphene 1 Silver_Ingot
+Cut_Stone 30 1 51 40 1584 3 Wind_Shard 3 Granite
+Siltstone_Whetstone 30 1 51 40 1584 3 Wind_Shard 3 Siltstone
+Malachite_Choker 30 1 102 70 1584 3 Wind_Shard 3 Fire_Shard 1 Malachite 3 Silver_Ingot
+Malachite_Earrings 30 1 102 70 1584 3 Wind_Shard 3 Fire_Shard 3 Malachite 1 Silver_Ingot
+Malachite_Bracelet 30 1 102 70 1584 3 Wind_Shard 3 Fire_Shard 3 Malachite 1 Silver_Ingot
+Malachite_Ring 30 1 102 70 1584 3 Wind_Shard 3 Fire_Shard 1 Malachite 1 Silver_Ingot
+Manor_Candelabra 27 1 291 70 684 3 Wind_Shard 3 Fire_Shard 3 Silver_Ingot 3 Tallow_Candle 1 Fine_Wax
+Weighing_Scale 27 1 291 70 684 3 Wind_Shard 3 Fire_Shard 3 Silver_Ingot 1 Brass_Ingot 3 Brass_Rings 1 Yew_Lumber
+Riviera_Studded_Door 29 1 323 70 772 3 Wind_Shard 3 Fire_Shard 3 Limestone 3 Steel_Hinge 3 Walnut_Lumber 3 Steel_Rivets
+Oasis_Classical_Door 30 1 326 70 792 3 Wind_Shard 3 Fire_Shard 3 Limestone 3 Steel_Hinge 3 Steel_Ingot 3 Walnut_Lumber
+Oasis_Stone_Chimney 30 1 326 70 792 3 Wind_Shard 3 Fire_Shard 3 Cut_Stone 3 Granite 3 Mortar
+Snow_White_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Grey_Pigment
+Soot_Black_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Grey_Pigment
+Dalamud_Red_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Red_Pigment
+Wine_Red_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Red_Pigment
+Sunset_Orange_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Brown_Pigment
+Kobold_Brown_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Brown_Pigment
+Pumpkin_Orange_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Brown_Pigment
+Loam_Brown_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Brown_Pigment
+Honey_Yellow_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Yellow_Pigment
+Millioncorn_Yellow_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Yellow_Pigment
+Hunter_Green_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Green_Pigment
+Ochu_Green_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Green_Pigment
+Deepwood_Green_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Green_Pigment
+Celeste_Green_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Green_Pigment
+Morbol_Green_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Green_Pigment
+Woad_Blue_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Blue_Pigment
+Othard_Blue_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Blue_Pigment
+Storm_Blue_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Blue_Pigment
+Void_Blue_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Blue_Pigment
+Royal_Blue_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Blue_Pigment
+Abyssal_Blue_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Blue_Pigment
+Lotus_Pink_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Purple_Pigment
+Colibri_Pink_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Purple_Pigment
+Plum_Purple_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Purple_Pigment
+Regal_Purple_Dye 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Purple_Pigment
+Grade_1_Glamour_Prism_(Goldsmithing) 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Grade_1_Clear_Prism 2 Silver_Ingot
+Grade_2_Glamour_Prism_(Goldsmithing) 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Grade_2_Clear_Prism 2 Silver_Ingot
+Grade_3_Glamour_Prism_(Goldsmithing) 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Grade_3_Clear_Prism 2 Silver_Ingot
+Grade_4_Glamour_Prism_(Goldsmithing) 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Grade_4_Clear_Prism 2 Silver_Ingot
+Grade_5_Glamour_Prism_(Goldsmithing) 30 1 51 70 1584 1 Wind_Crystal 1 Fire_Crystal 1 Grade_5_Clear_Prism 2 Silver_Ingot
+Goathorn_Staff 31 1 106 80 1670 3 Wind_Shard 3 Fire_Shard 1 Marbled_Eye 3 Aldgoat_Horn
+Silver_Choker 31 1 106 80 1670 3 Wind_Shard 3 Fire_Shard 3 Silver_Ingot 1 Aldgoat_Leather
+Silver_Ear_Cuffs 31 1 106 80 1670 3 Wind_Shard 3 Fire_Shard 3 Silver_Ingot 1 Siltstone_Whetstone
+Horn_Armillae 31 1 106 80 1670 3 Wind_Shard 3 Fire_Shard 3 Aldgoat_Horn
+Horn_Ring 31 1 106 80 1670 3 Wind_Shard 3 Fire_Shard 1 Aldgoat_Horn 1 Siltstone_Whetstone
+Garnet 32 1 55 40 1697 3 Wind_Shard 1 Raw_Garnet
+Goshenite 32 1 55 40 1697 3 Wind_Shard 1 Raw_Goshenite
+Peridot 32 1 55 40 1697 3 Wind_Shard 1 Raw_Peridot
+Heliodor 32 1 55 40 1697 3 Wind_Shard 1 Raw_Heliodor
+Amethyst 32 1 55 40 1697 3 Wind_Shard 1 Raw_Amethyst
+Aquamarine 32 1 55 40 1697 3 Wind_Shard 1 Raw_Aquamarine
+Worm_Fang_Needle 32 1 110 80 1697 3 Wind_Shard 3 Fire_Shard 1 Sandworm_Fang 1 Siltstone_Whetstone
+Silver_Spoon_Lure 32 3 110 80 1697 3 Wind_Shard 3 Fire_Shard 3 Silver_Ingot 1 Mudstone_Whetstone
+Steel_Jig 32 3 110 80 1697 3 Wind_Shard 3 Fire_Shard 3 Steel_Ingot 1 Siltstone_Whetstone
+Silver_Circlet_(Garnet) 33 1 111 80 1757 4 Wind_Shard 4 Fire_Shard 1 Garnet 4 Silver_Ingot
+Silver_Circlet_(Goshenite) 33 1 111 80 1757 4 Wind_Shard 4 Fire_Shard 1 Goshenite 4 Silver_Ingot
+Silver_Circlet_(Peridot) 33 1 111 80 1757 4 Wind_Shard 4 Fire_Shard 1 Peridot 4 Silver_Ingot
+Silver_Circlet_(Heliodor) 33 1 111 80 1757 4 Wind_Shard 4 Fire_Shard 1 Heliodor 4 Silver_Ingot
+Silver_Circlet_(Amethyst) 33 1 111 80 1757 4 Wind_Shard 4 Fire_Shard 1 Amethyst 4 Silver_Ingot
+Silver_Circlet_(Aquamarine) 33 1 111 80 1757 4 Wind_Shard 4 Fire_Shard 1 Aquamarine 4 Silver_Ingot
+Mythril_Ingot 34 1 57 40 1811 4 Wind_Shard 4 Mythril_Ore
+Crabshell_Hora 34 1 115 80 1811 4 Wind_Shard 4 Fire_Shard 4 Green_Megalocrab_Shell 1 Hippogryph_Sinew
+Decorated_Silver_Scepter 34 1 172 80 1358 4 Wind_Shard 4 Fire_Shard 1 Silver_Scepter 4 Silver_Ingot 1 Scalekin_Blood
+Earth_Brand 34 1 115 80 1811 4 Wind_Shard 4 Fire_Shard 1 Eye_of_Earth 1 Aldgoat_Horn 1 Toad_Leather
+Silver_Star_Globe 34 1 115 80 1811 4 Wind_Shard 4 Fire_Shard 1 Silver_Ingot 1 Iron_Ingot 1 Brass_Ingot 1 Enchanted_Silver_Ink
+Mythril_Spectacles 34 1 115 80 1811 4 Wind_Shard 4 Fire_Shard 1 Mythril_Ingot 1 Clear_Glass_Lens
+Mythril_Magnifiers 34 1 172 80 1358 4 Wind_Shard 4 Fire_Shard 1 Mythril_Spectacles 1 Mythril_Ingot 1 Clear_Glass_Lens
+Steel_Goggles 34 1 115 80 1811 4 Wind_Shard 4 Fire_Shard 1 Steel_Plate 1 Clear_Glass_Lens 1 Aldgoat_Leather
+Sinking_Minnow 34 3 115 80 1811 4 Wind_Shard 4 Fire_Shard 1 Silver_Ingot 1 Oak_Lumber
+Mythril_Rings 35 1 61 40 1853 4 Wind_Shard 1 Mythril_Ingot
+Fire_Brand 35 1 123 80 1853 4 Wind_Shard 4 Fire_Shard 1 Silver_Ingot 1 Aldgoat_Horn 1 Eye_of_Fire
+Toothed_Goathorn_Staff 35 1 184 80 1389 4 Wind_Shard 4 Fire_Shard 1 Goathorn_Staff 4 Aldgoat_Horn 1 Scalekin_Blood
+Mythril_Gorget 35 1 123 80 1853 4 Wind_Shard 4 Fire_Shard 4 Mythril_Ingot 1 Toad_Leather
+Mythril_Earrings 35 1 123 80 1853 4 Wind_Shard 4 Fire_Shard 1 Mythril_Ingot 1 Siltstone_Whetstone
+Wolf_Earrings 35 1 123 80 1853 4 Wind_Shard 4 Fire_Shard 1 Wolf_Fang 1 Mythril_Ingot 1 Boar_Leather
+Mythril_Wristlets 35 1 123 80 1853 4 Wind_Shard 4 Fire_Shard 1 Mythril_Ingot 4 Mythril_Rings
+Mythril_Wristlets_of_Crafting 35 1 123 80 1853 4 Wind_Shard 4 Fire_Shard 1 Mythril_Ingot 4 Mythril_Rings
+Vintage_Cudgel 35 1 123 80 1853 1 Wind_Crystal 1 Damaged_Cudgel 1 Iron_Rivets 1 Siltstone_Whetstone
+Glade_Classical_Door 31 1 339 80 835 3 Wind_Shard 3 Fire_Shard 3 Limestone 3 Steel_Hinge 3 Walnut_Lumber
+Masonwork_Interior_Wall 31 1 339 80 835 3 Wind_Shard 3 Fire_Shard 3 Granite 3 Cut_Stone 3 Mortar
+Masonwork_Flooring 31 1 339 80 835 3 Wind_Shard 3 Fire_Shard 3 Granite 3 Cut_Stone 3 Mortar
+Riviera_Roofed_Wall 31 1 339 80 835 12 Wind_Shard 12 Fire_Shard 12 Cut_Stone 12 Roof_Tile 12 Mortar
+Masonwork_Stove 32 1 352 80 848 3 Wind_Shard 3 Fire_Shard 3 Granite 3 Cut_Stone 3 Mortar 3 Steel_Ingot 1 Firewood
+Glade_Cobblestone_Wall 32 1 352 80 848 12 Wind_Shard 12 Fire_Shard 12 Cut_Stone 12 Roof_Tile 12 Shroud_Seedling 12 Humus
+Straight_Stepping_Stones 33 1 355 80 878 4 Wind_Shard 4 Fire_Shard 4 Siltstone 4 Mortar
+Curved_Stepping_Stones 33 1 355 80 878 4 Wind_Shard 4 Fire_Shard 4 Siltstone 4 Mortar
+Mosaic_Interior_Wall 34 1 368 80 905 4 Wind_Shard 4 Fire_Shard 4 Granite 4 Cut_Stone 4 Mortar
+Ahriman_Flower_Vase 35 1 393 80 926 4 Wind_Shard 4 Fire_Shard 4 Silver_Ingot 1 Brass_Ingot 1 Copper_Ingot 1 Carnation 1 Ahriman_Tears
+Ahriman_Chronometer 35 1 393 80 926 4 Wind_Shard 4 Fire_Shard 4 Silver_Ingot 1 Brass_Ingot 1 Copper_Ingot 1 Clear_Glass_Lens 1 Ahriman_Tears
+Oasis_House_Roof_(Stone) 35 1 393 80 926 16 Wind_Shard 16 Fire_Shard 16 Silver_Ingot 16 Cut_Stone 16 Mortar 16 Roof_Tile
+Pearl 36 1 62 40 1882 4 Wind_Shard 1 Whitelip_Oyster
+Mythril_Needle 36 1 124 80 1882 4 Wind_Shard 4 Fire_Shard 1 Mythril_Ingot 1 Siltstone_Whetstone
+Wolf_Necklace 36 1 124 80 1882 4 Wind_Shard 4 Fire_Shard 4 Wolf_Fang 1 Linen_Yarn
+Mythril_Ring 36 1 124 80 1882 4 Wind_Shard 4 Fire_Shard 1 Mythril_Ingot 1 Siltstone_Whetstone
+Mythril_Ring_of_Crafting 36 1 124 80 1882 4 Wind_Shard 4 Fire_Shard 1 Mythril_Ingot 1 Siltstone_Whetstone
+Wildfowl_Fly 36 3 124 80 1882 4 Wind_Shard 4 Fire_Shard 1 Silver_Ingot 1 Wildfowl_Feather
+Garnet_Choker 37 1 128 80 1905 4 Wind_Shard 4 Fire_Shard 1 Garnet 4 Mythril_Ingot
+Goshenite_Choker 37 1 128 80 1905 4 Wind_Shard 4 Fire_Shard 1 Goshenite 4 Mythril_Ingot
+Peridot_Choker 37 1 128 80 1905 4 Wind_Shard 4 Fire_Shard 1 Peridot 4 Mythril_Ingot
+Heliodor_Choker 37 1 128 80 1905 4 Wind_Shard 4 Fire_Shard 1 Heliodor 4 Mythril_Ingot
+Amethyst_Choker 37 1 128 80 1905 4 Wind_Shard 4 Fire_Shard 1 Amethyst 4 Mythril_Ingot
+Aquamarine_Choker 37 1 128 80 1905 4 Wind_Shard 4 Fire_Shard 1 Aquamarine 4 Mythril_Ingot
+Pearl_Choker 37 1 128 80 1905 4 Wind_Shard 4 Fire_Shard 1 Pearl 4 Mythril_Ingot
+Mythril_Star_Globe 38 1 129 80 1961 4 Wind_Shard 4 Fire_Shard 1 Mythril_Ingot 1 Silver_Ingot 1 Enchanted_Mythril_Ink
+Garnet_Bracelet 38 1 129 80 1961 4 Wind_Shard 4 Fire_Shard 4 Garnet 1 Mythril_Ingot
+Goshenite_Bracelet 38 1 129 80 1961 4 Wind_Shard 4 Fire_Shard 4 Goshenite 1 Mythril_Ingot
+Peridot_Bracelet 38 1 129 80 1961 4 Wind_Shard 4 Fire_Shard 4 Peridot 1 Mythril_Ingot
+Heliodor_Bracelet 38 1 129 80 1961 4 Wind_Shard 4 Fire_Shard 4 Heliodor 1 Mythril_Ingot
+Amethyst_Bracelet 38 1 129 80 1961 4 Wind_Shard 4 Fire_Shard 4 Amethyst 1 Mythril_Ingot
+Aquamarine_Bracelet 38 1 129 80 1961 4 Wind_Shard 4 Fire_Shard 4 Aquamarine 1 Mythril_Ingot
+Pearl_Bracelet 38 1 129 80 1961 4 Wind_Shard 4 Fire_Shard 4 Pearl 1 Mythril_Ingot
+Garnet_Earrings 39 1 137 80 2026 5 Wind_Shard 5 Fire_Shard 5 Garnet 1 Mythril_Ingot
+Goshenite_Earrings 39 1 137 80 2026 5 Wind_Shard 5 Fire_Shard 5 Goshenite 1 Mythril_Ingot
+Amethyst_Earrings 39 1 137 80 2026 5 Wind_Shard 5 Fire_Shard 5 Amethyst 1 Mythril_Ingot
+Aquamarine_Earrings 39 1 137 80 2026 5 Wind_Shard 5 Fire_Shard 5 Aquamarine 1 Mythril_Ingot
+Garnet_Ring 39 1 137 80 2026 5 Wind_Shard 5 Fire_Shard 1 Garnet 1 Mythril_Ingot
+Goshenite_Ring 39 1 137 80 2026 5 Wind_Shard 5 Fire_Shard 1 Goshenite 1 Mythril_Ingot
+Amethyst_Ring 39 1 137 80 2026 5 Wind_Shard 5 Fire_Shard 1 Amethyst 1 Mythril_Ingot
+Aquamarine_Ring 39 1 137 80 2026 5 Wind_Shard 5 Fire_Shard 1 Aquamarine 1 Mythril_Ingot
+Spinner 39 3 137 80 2026 5 Wind_Shard 5 Fire_Shard 1 Mythril_Ingot 1 Whitelip_Oyster
+Jadeite 40 1 69 40 2050 5 Wind_Shard 1 Jade
+Basilisk_Whetstone 40 1 69 40 2050 5 Wind_Shard 1 Basilisk_Egg
+Classic_Spectacles 40 1 138 80 2050 5 Wind_Shard 5 Fire_Shard 1 Mythril_Ingot 1 Clear_Glass_Lens
+Oval_Reading_Glasses 40 1 138 80 2050 5 Wind_Shard 5 Fire_Shard 5 Clear_Glass_Lens 1 Mythril_Ingot
+Peridot_Earrings 40 1 138 80 2050 5 Wind_Shard 5 Fire_Shard 5 Peridot 1 Mythril_Ingot
+Heliodor_Earrings 40 1 138 80 2050 5 Wind_Shard 5 Fire_Shard 5 Heliodor 1 Mythril_Ingot
+Red_Coral_Armillae 40 1 138 80 2050 5 Wind_Shard 5 Fire_Shard 5 Red_Coral
+Peridot_Ring 40 1 138 80 2050 5 Wind_Shard 5 Fire_Shard 1 Peridot 1 Mythril_Ingot
+Heliodor_Ring 40 1 138 80 2050 5 Wind_Shard 5 Fire_Shard 1 Heliodor 1 Mythril_Ingot
+Heavy_Steel_Jig 40 3 138 80 2050 5 Wind_Shard 5 Fire_Shard 1 Steel_Ingot 1 Basilisk_Whetstone
+Riviera_Wall_Chimney 36 1 396 80 941 4 Wind_Shard 4 Fire_Shard 4 Cut_Stone 4 Firebricks 4 Mortar
+Oasis_Wall_Chimney 36 1 396 80 941 4 Wind_Shard 4 Fire_Shard 4 Cut_Stone 4 Walnut_Lumber 4 Silver_Ingot 4 Mortar
+Riviera_House_Wall_(Composite) 36 1 396 80 941 16 Wind_Shard 16 Fire_Shard 16 Granite 16 Walnut_Lumber 16 Steel_Joint_Plate 16 Steel_Nails
+Oasis_House_Wall_(Stone) 36 1 396 80 941 16 Wind_Shard 16 Fire_Shard 16 Cut_Stone 16 Firebricks 16 Granite 16 Mortar
+Riviera_Stone_Chimney 37 1 409 80 952 4 Wind_Shard 4 Fire_Shard 4 Cut_Stone 4 Firebricks 4 Mortar
+Riviera_Pillar 37 1 409 80 952 4 Wind_Shard 4 Fire_Shard 4 Cut_Stone 4 Oak_Lumber 4 Mortar
+Oasis_House_Roof_(Composite) 38 1 412 80 980 16 Wind_Shard 16 Fire_Shard 16 Silver_Ingot 16 Cut_Stone 16 Walnut_Lumber 16 Mortar 16 Roof_Tile
+Glade_House_Wall_(Stone) 38 1 412 80 980 16 Wind_Shard 16 Fire_Shard 16 Granite 16 Cut_Stone 16 Oak_Lumber 16 Mortar
+Oasis_House_Wall_(Composite) 38 1 412 80 980 16 Wind_Shard 16 Fire_Shard 16 Cut_Stone 16 Firebricks 16 Walnut_Lumber 16 Mortar
+Ahriman_Vase 39 1 438 80 1013 5 Wind_Shard 5 Fire_Shard 1 Umbrella_Fig 1 Ahriman_Tears 5 Brass_Ingot
+Oasis_Pillar 39 1 438 80 1013 5 Wind_Shard 5 Fire_Shard 5 Cut_Stone 5 Mahogany_Lumber 5 Mortar
+Riviera_House_Wall_(Stone) 39 1 438 80 1013 20 Wind_Shard 20 Fire_Shard 20 Cut_Stone 20 Granite 20 Mortar
+Oasis_Cobble_Flooring 40 1 441 80 1025 5 Wind_Shard 5 Fire_Shard 5 Clinker_Bricks 5 Granite 5 Cut_Stone 5 Mortar
+Rubellite 41 1 71 40 2109 5 Wind_Shard 1 Raw_Rubellite
+Zircon 41 1 71 40 2109 5 Wind_Shard 1 Raw_Zircon
+Tourmaline 41 1 71 40 2109 5 Wind_Shard 1 Raw_Tourmaline
+Amber 41 1 71 40 2109 5 Wind_Shard 1 Raw_Amber
+Spinel 41 1 71 40 2109 5 Wind_Shard 1 Raw_Spinel
+Turquoise 41 1 71 40 2109 5 Wind_Shard 1 Raw_Turquoise
+Horn_Staff 41 1 143 80 2109 5 Wind_Shard 5 Fire_Shard 1 Eye_of_Fire 5 Wolf_Fang 1 Aldgoat_Horn
+Mythril_Planisphere 41 1 143 80 2109 5 Wind_Shard 5 Fire_Shard 5 Mythril_Ingot 5 Jadeite 1 Enchanted_Mythril_Ink
+Mythril_Choker 41 1 143 80 2109 5 Wind_Shard 5 Fire_Shard 5 Mythril_Ingot 1 Toad_Leather
+Mythril_Ear_Cuffs 41 1 143 80 2109 5 Wind_Shard 5 Fire_Shard 5 Mythril_Ingot 1 Basilisk_Whetstone
+Pearl_Earrings 41 1 143 80 2109 5 Wind_Shard 5 Fire_Shard 5 Pearl 1 Mythril_Ingot
+Pearl_Ring 41 1 143 80 2109 5 Wind_Shard 5 Fire_Shard 1 Pearl 1 Mythril_Ingot
+Mythril_Spoon_Lure 41 3 143 80 2109 5 Wind_Shard 5 Fire_Shard 1 Mythril_Ingot 1 Basilisk_Whetstone
+Electrum_Ingot 42 1 72 40 2147 5 Wind_Shard 5 Electrum_Ore
+Tortoiseshell_Hora 42 1 144 80 2147 5 Wind_Shard 5 Fire_Shard 5 Adamantoise_Shell 1 Raptor_Sinew
+Lightning_Brand 42 1 144 80 2147 5 Wind_Shard 5 Fire_Shard 1 Eye_of_Lightning 1 Aldgoat_Horn 1 Boar_Leather
+Wolf_Fang_Needle 42 1 144 80 2147 5 Wind_Shard 5 Fire_Shard 1 Wolf_Fang 1 Basilisk_Whetstone
+Mythril_Circlet_(Rubellite) 42 1 144 80 2147 5 Wind_Shard 5 Fire_Shard 1 Rubellite 5 Mythril_Ingot
+Mythril_Circlet_(Zircon) 42 1 144 80 2147 5 Wind_Shard 5 Fire_Shard 1 Zircon 5 Mythril_Ingot
+Mythril_Circlet_(Tourmaline) 42 1 144 80 2147 5 Wind_Shard 5 Fire_Shard 1 Tourmaline 5 Mythril_Ingot
+Mythril_Circlet_(Amber) 42 1 144 80 2147 5 Wind_Shard 5 Fire_Shard 1 Amber 5 Mythril_Ingot
+Mythril_Circlet_(Spinel) 42 1 144 80 2147 5 Wind_Shard 5 Fire_Shard 1 Spinel 5 Mythril_Ingot
+Mythril_Circlet_(Turquoise) 42 1 144 80 2147 5 Wind_Shard 5 Fire_Shard 1 Turquoise 5 Mythril_Ingot
+Electrum_Rings 43 1 77 40 2251 5 Wind_Shard 1 Electrum_Ingot
+Water_Brand 43 1 155 80 2251 5 Wind_Shard 5 Fire_Shard 1 Eye_of_Water 1 Aldgoat_Horn 1 Electrum_Ingot
+Electrum_Scepter 43 1 155 80 2251 5 Wind_Shard 5 Fire_Shard 1 Eye_of_Water 1 Cobalt_Ingot 1 Electrum_Ingot 1 Quicksilver
+Thousand_Needle 43 1 155 80 2251 5 Wind_Shard 5 Fire_Shard 1 Cactuar_Needle 1 Basilisk_Whetstone
+Electrum_Gorget 43 1 155 80 2251 5 Wind_Shard 5 Fire_Shard 5 Electrum_Ingot 1 Peiste_Leather
+Red_Coral_Earrings 43 1 155 80 2251 5 Wind_Shard 5 Fire_Shard 1 Red_Coral 1 Electrum_Ingot 1 Boar_Leather
+Electrum_Wristlets 43 1 155 80 2251 5 Wind_Shard 5 Fire_Shard 1 Electrum_Ingot 5 Electrum_Rings
+Red_Coral_Ring 43 1 155 80 2251 5 Wind_Shard 5 Fire_Shard 1 Red_Coral 1 Basilisk_Whetstone
+Snurble_Fly 43 3 155 80 2251 5 Wind_Shard 5 Fire_Shard 1 Cobalt_Ingot 1 Snurble_Tufts
+Black_Horn_Staff 44 1 156 80 2277 5 Wind_Shard 5 Fire_Shard 1 Eye_of_Wind 5 Ogre_Horn
+Cobalt_Preserves 44 1 156 80 2277 5 Wind_Shard 5 Fire_Shard 1 Cobalt_Plate 1 Clear_Glass_Lens 1 Boar_Leather
+Electrum_Earrings 44 1 156 80 2277 5 Wind_Shard 5 Fire_Shard 1 Electrum_Ingot 1 Basilisk_Whetstone
+Electrum_Wristlets_of_Crafting 44 1 156 80 2277 5 Wind_Shard 5 Fire_Shard 1 Electrum_Ingot 5 Electrum_Rings
+Electrum_Ring 44 1 156 80 2277 5 Wind_Shard 5 Fire_Shard 1 Electrum_Ingot 1 Basilisk_Whetstone
+Topwater_Frog 44 3 156 80 2277 5 Wind_Shard 5 Fire_Shard 1 Cobalt_Ingot 1 Rosewood_Lumber
+Black_Pearl 45 1 79 40 2309 6 Wind_Shard 1 Blacklip_Oyster
+Electrum_Star_Globe 45 1 158 80 2309 6 Wind_Shard 6 Fire_Shard 1 Electrum_Ingot 6 Cobalt_Ingot 1 Enchanted_Electrum_Ink
+Electrum_Circlet_(Rubellite) 45 1 158 80 2309 6 Wind_Shard 6 Fire_Shard 1 Rubellite 6 Electrum_Ingot
+Electrum_Circlet_(Zircon) 45 1 158 80 2309 6 Wind_Shard 6 Fire_Shard 1 Zircon 6 Electrum_Ingot
+Electrum_Circlet_(Tourmaline) 45 1 158 80 2309 6 Wind_Shard 6 Fire_Shard 1 Tourmaline 6 Electrum_Ingot
+Electrum_Circlet_(Amber) 45 1 158 80 2309 6 Wind_Shard 6 Fire_Shard 1 Amber 6 Electrum_Ingot
+Electrum_Circlet_(Spinel) 45 1 158 80 2309 6 Wind_Shard 6 Fire_Shard 1 Spinel 6 Electrum_Ingot
+Electrum_Circlet_(Turquoise) 45 1 158 80 2309 6 Wind_Shard 6 Fire_Shard 1 Turquoise 6 Electrum_Ingot
+Electrum_Monocle 45 1 158 80 2309 6 Wind_Shard 6 Fire_Shard 1 Electrum_Ingot 1 Clear_Glass_Lens 1 Brass_Rings 1 Aquamarine
+Amber_Choker 45 1 158 80 2309 6 Wind_Shard 6 Fire_Shard 1 Amber 6 Electrum_Ingot
+Red_Coral_Necklace 45 1 158 80 2309 6 Wind_Shard 6 Fire_Shard 6 Red_Coral 1 Woolen_Yarn
+Electrum_Ring_of_Crafting 45 1 158 80 2309 6 Wind_Shard 6 Fire_Shard 1 Electrum_Ingot 1 Basilisk_Whetstone
+Vintage_Hora 45 1 158 80 2309 1 Fire_Crystal 1 Chipped_Hora 1 Raptor_Leather
+Oasis_Rounded_Chimney 41 1 457 80 1054 5 Wind_Shard 5 Fire_Shard 5 Cut_Stone 5 Silver_Ingot 5 Mahogany_Lumber 5 Mortar
+Sylphic_Chair 42 1 460 80 1073 5 Wind_Shard 5 Fire_Shard 5 Electrum_Ingot 5 Mahogany_Lumber 1 Apkallu_Down 5 Woolen_Yarn 1 Sylphic_Silk
+Sylphic_Table 42 1 460 80 1073 5 Wind_Shard 5 Fire_Shard 5 Electrum_Ingot 5 Mahogany_Lumber 1 Sylphic_Silk
+Gemscope 42 1 460 80 1073 5 Wind_Shard 5 Fire_Shard 5 Mythril_Ingot 1 Silver_Ingot 1 Brass_Ingot 1 Clear_Glass_Lens 1 Walnut_Lumber
+Sylphic_Screen 42 1 460 80 1073 5 Wind_Shard 5 Fire_Shard 5 Electrum_Ingot 5 Mahogany_Lumber 5 Steel_Hinge 5 Sylphic_Silk
+Sylphic_Cupboard 43 1 496 80 1125 5 Wind_Shard 5 Fire_Shard 5 Electrum_Ingot 5 Mahogany_Lumber 5 Clear_Glass_Lens 5 Sylphic_Silk 5 Steel_Hinge
+Sylphic_Bookshelf 43 1 496 80 1125 5 Wind_Shard 5 Fire_Shard 5 Electrum_Ingot 5 Mahogany_Lumber 5 Sylphic_Silk
+Sylphic_Wall_Lantern 43 1 496 80 1125 5 Wind_Shard 5 Fire_Shard 5 Electrum_Ingot 1 Mahogany_Lumber 5 Clear_Glass_Lens 5 Sylphic_Silk 5 Tallow_Candle
+Oasis_Stone_Wall 43 1 496 80 1125 20 Wind_Shard 20 Fire_Shard 20 Cut_Stone 20 Desert_Seedling 20 Humus 20 Mortar
+Sylphic_Dining_Table 44 1 499 80 1138 5 Wind_Shard 5 Fire_Shard 5 Electrum_Ingot 5 Mahogany_Lumber 5 Undyed_Woolen_Cloth 5 Sylphic_Silk
+Sylphic_Counter 44 1 499 80 1138 5 Wind_Shard 5 Fire_Shard 5 Electrum_Ingot 5 Mahogany_Lumber 1 Undyed_Woolen_Cloth 5 Sylphic_Silk
+Riviera_Picket_Wall 45 1 505 80 1154 24 Wind_Shard 24 Fire_Shard 24 Cut_Stone 24 Mahogany_Lumber 24 Mortar
+Rainbow_Spoon_Lure 46 3 159 80 2372 6 Wind_Shard 6 Fire_Shard 1 Cobalt_Ingot 1 Blacklip_Oyster
+Electrum_Needle 47 1 167 80 2421 6 Wind_Shard 6 Fire_Shard 1 Electrum_Ingot 1 Basilisk_Whetstone
+Zircon_Choker 47 1 167 80 2421 6 Wind_Shard 6 Fire_Shard 1 Zircon 6 Electrum_Ingot
+Spinel_Choker 47 1 167 80 2421 6 Wind_Shard 6 Fire_Shard 1 Spinel 6 Electrum_Ingot
+Turquoise_Choker 47 1 167 80 2421 6 Wind_Shard 6 Fire_Shard 1 Turquoise 6 Electrum_Ingot
+Zircon_Bracelet 47 1 167 80 2421 6 Wind_Shard 6 Fire_Shard 6 Zircon 1 Electrum_Ingot
+Amber_Bracelet 47 1 167 80 2421 6 Wind_Shard 6 Fire_Shard 6 Amber 1 Electrum_Ingot
+Spinel_Bracelet 47 1 167 80 2421 6 Wind_Shard 6 Fire_Shard 6 Spinel 1 Electrum_Ingot
+Turquoise_Bracelet 47 1 167 80 2421 6 Wind_Shard 6 Fire_Shard 6 Turquoise 1 Electrum_Ingot
+Amber_Ring 47 1 167 80 2421 6 Wind_Shard 6 Fire_Shard 1 Amber 1 Electrum_Ingot
+Spinnerbait 47 3 167 80 2421 6 Wind_Shard 6 Fire_Shard 1 Cobalt_Ingot 1 Undyed_Felt
+Cobalt_Planisphere 48 1 172 80 2524 6 Wind_Shard 6 Fire_Shard 6 Cobalt_Ingot 6 Rubellite 1 Enchanted_Electrum_Ink
+Rubellite_Choker 48 1 172 80 2524 6 Wind_Shard 6 Fire_Shard 1 Rubellite 6 Electrum_Ingot
+Tourmaline_Choker 48 1 172 80 2524 6 Wind_Shard 6 Fire_Shard 1 Tourmaline 6 Electrum_Ingot
+Black_Pearl_Choker 48 1 172 80 2524 6 Wind_Shard 6 Fire_Shard 1 Black_Pearl 6 Electrum_Ingot
+Rubellite_Bracelet 48 1 172 80 2524 6 Wind_Shard 6 Fire_Shard 6 Rubellite 1 Electrum_Ingot
+Tourmaline_Bracelet 48 1 172 80 2524 6 Wind_Shard 6 Fire_Shard 6 Tourmaline 1 Electrum_Ingot
+Black_Pearl_Bracelet 48 1 172 80 2524 6 Wind_Shard 6 Fire_Shard 6 Black_Pearl 1 Electrum_Ingot
+Streamer 48 3 172 80 2524 6 Wind_Shard 6 Fire_Shard 1 Cobalt_Ingot 1 Undyed_Felt 1 Chocobo_Feather
+Yumizuno 48 3 172 80 2524 6 Wind_Shard 6 Fire_Shard 1 Cobalt_Ingot 1 Snurble_Tufts 1 Blacklip_Oyster
+Jade_Scepter 49 1 174 80 2551 6 Wind_Shard 6 Fire_Shard 1 Jade 1 Ogre_Horn 1 Raptor_Leather
+Electrum_Choker 49 1 174 80 2551 6 Wind_Shard 6 Fire_Shard 6 Electrum_Ingot 1 Raptor_Leather
+Electrum_Ear_Cuffs 49 1 174 80 2551 6 Wind_Shard 6 Fire_Shard 6 Electrum_Ingot 6 Basilisk_Whetstone
+Tortoiseshell_Armillae 49 1 174 80 2551 6 Wind_Shard 6 Fire_Shard 6 Adamantoise_Shell
+Rubellite_Ring 49 1 174 80 2551 6 Wind_Shard 6 Fire_Shard 1 Rubellite 1 Electrum_Ingot
+Zircon_Ring 49 1 174 80 2551 6 Wind_Shard 6 Fire_Shard 1 Zircon 1 Electrum_Ingot
+Tourmaline_Ring 49 1 174 80 2551 6 Wind_Shard 6 Fire_Shard 1 Tourmaline 1 Electrum_Ingot
+Spinel_Ring 49 1 174 80 2551 6 Wind_Shard 6 Fire_Shard 1 Spinel 1 Electrum_Ingot
+Turquoise_Ring 49 1 174 80 2551 6 Wind_Shard 6 Fire_Shard 1 Turquoise 1 Electrum_Ingot
+Black_Pearl_Ring 49 1 174 80 2551 6 Wind_Shard 6 Fire_Shard 1 Black_Pearl 1 Electrum_Ingot
+Ivory_Staff 50 1 186 80 2641 6 Wind_Shard 6 Fire_Shard 1 Aldgoat_Horn 6 Wolf_Fang 1 Eye_of_Lightning 1 Spoken_Blood
+Rubellite_Earrings 50 1 186 80 2641 6 Wind_Shard 6 Fire_Shard 6 Rubellite 1 Electrum_Ingot
+Zircon_Earrings 50 1 186 80 2641 6 Wind_Shard 6 Fire_Shard 6 Zircon 1 Electrum_Ingot
+Tourmaline_Earrings 50 1 186 80 2641 6 Wind_Shard 6 Fire_Shard 6 Tourmaline 1 Electrum_Ingot
+Amber_Earrings 50 1 186 80 2641 6 Wind_Shard 6 Fire_Shard 6 Amber 1 Electrum_Ingot
+Spinel_Earrings 50 1 186 80 2641 6 Wind_Shard 6 Fire_Shard 6 Spinel 1 Electrum_Ingot
+Turquoise_Earrings 50 1 186 80 2641 6 Wind_Shard 6 Fire_Shard 6 Turquoise 1 Electrum_Ingot
+Black_Pearl_Earrings 50 1 186 80 2641 6 Wind_Shard 6 Fire_Shard 6 Black_Pearl 1 Electrum_Ingot
+Gravel_Golem 50 1 93 80 2641 99 Wind_Shard 99 Astral_Rock
+Model_Vanguard 50 1 93 80 2641 99 Wind_Shard 1 Garlean_Steel_Plate 1 Garlean_Steel_Joint
+Astral_Eye 50 1 97 40 2646 3 Wind_Crystal 1 Astral_Rock
+Rose_Gold_Nugget 50 1 97 40 2646 3 Wind_Crystal 3 Gold_Ore 1 Copper_Ore
+Shaded_Spectacles 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Polarized_Glass 1 Darksteel_Nugget
+Minstrel's_Spectacles 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Cobalt_Ingot 1 Polarized_Glass
+Imperial_Operative_Choker 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Rose_Gold_Nugget 1 Hippogryph_Leather
+Militia_Earrings 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Rose_Gold_Nugget 1 Basilisk_Whetstone
+Imperial_Operative_Wristlets 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Rose_Gold_Nugget
+Militia_Wristlets 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Rose_Gold_Nugget
+Militia_Bracelets 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Rose_Gold_Nugget 1 Basilisk_Whetstone
+Sanguine_Scepter 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Pinprick_Pebble 1 Darksteel_Nugget
+Blacksmith's_Goggles 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Hippogryph_Leather 1 Darksteel_Nugget 1 Undyed_Woolen_Cloth 1 Clear_Glass_Lens
+Goldsmith's_Turban 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Rose_Gold_Nugget 1 Undyed_Linen 1 Turquoise 1 Rubellite
+Alchemist's_Monocle 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Darksteel_Nugget 1 Rose_Gold_Nugget 1 Clear_Glass_Lens 1 Boar_Leather
+Aetheryte_Ring 50 1 195 80 2646 1 Water_Cluster 1 Rose_Gold_Nugget
+Radiant_Astral_Eye 50 1 116 40 2921 1 Wind_Cluster 2 Astral_Eye 2 Aqueous_Whetstone
+Rose_Gold_Ingot 50 1 116 40 2921 1 Wind_Cluster 2 Rose_Gold_Nugget 2 Peacock_Ore
+Astrolabe_Clinometer 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Radiant_Astral_Eye 2 Rose_Gold_Nugget
+Rose_Gold_Clasps 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Rose_Gold_Ingot 2 Darksteel_Nugget
+Astrolabe 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Astrolabe_Clinometer 2 Darksteel_Nugget 1 Rose_Gold_Nugget
+The_Evening_Star 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Enchanted_Rose_Gold_Ink 3 Darksteel_Nugget 1 Silver_Ingot 1 Rose_Gold_Ingot 1 Electrum_Ingot
+Rose_Gold_Circlet 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Legionary_Visor 1 Rose_Gold_Ingot
+Rimless_Glasses 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 2 Clear_Glass_Lens 1 Garlean_Fiber 1 Garlean_Steel_Joint
+Coeurl_Eyeglasses 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 2 Clear_Glass_Lens 1 Darksteel_Ingot
+Rose_Gold_Gorget 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Rose_Gold_Ingot 1 Hippogryph_Leather 1 Rose_Gold_Nugget
+Astral_Choker 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Rose_Gold_Ingot 1 Hippogryph_Leather 1 Astral_Eye
+Rose_Gold_Ear_Cuffs 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Rose_Gold_Ingot 1 Basilisk_Whetstone 1 Rose_Gold_Nugget
+Rose_Gold_Ear_Screws 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Rose_Gold_Clasps 1 Darksteel_Plate 1 Rose_Gold_Nugget
+Rose_Gold_Earrings 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Rose_Gold_Clasps 1 Darksteel_Plate 1 Rose_Gold_Nugget
+Rose_Gold_Bracelets 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Rose_Gold_Ingot 1 Rose_Gold_Nugget
+Astral_Bracelet 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Rose_Gold_Ingot 1 Basilisk_Whetstone 1 Astral_Eye
+Rose_Gold_Ring 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Rose_Gold_Ingot 1 Basilisk_Whetstone 1 Rose_Gold_Nugget
+Astral_Ring 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 1 Rose_Gold_Ingot 1 Basilisk_Whetstone 1 Astral_Eye
+Table_Chronometer 46 1 508 80 1186 6 Wind_Shard 6 Fire_Shard 6 Electrum_Ingot 1 Cobalt_Ingot 6 Cobalt_Rivets 1 Brass_Ingot
+Riviera_Table_Chronometer 46 1 508 80 1186 6 Wind_Shard 6 Fire_Shard 6 Electrum_Ingot 1 Cobalt_Ingot 6 Cobalt_Rivets 1 Rosewood_Lumber
+Oasis_Hanging_Placard 46 1 508 80 1186 6 Wind_Shard 6 Fire_Shard 6 Electrum_Ingot 6 Mahogany_Lumber 6 Linen_Yarn
+Cactuar_Weathervane 47 1 534 80 1210 6 Wind_Shard 6 Fire_Shard 6 Electrum_Ingot 6 Cut_Stone 6 Rosewood_Lumber 6 Mortar
+Llymlaen's_Embrace 48 1 550 80 1262 6 Wind_Shard 6 Fire_Shard 6 Marble 6 Electrum_Ingot 6 Bronze_Ingot 6 Lapis_Lazuli 6 Distilled_Water
+Wall_Chronometer 48 1 550 80 1262 6 Wind_Shard 6 Fire_Shard 6 Electrum_Ingot 1 Cobalt_Ingot 6 Cobalt_Rivets 1 Brass_Ingot 6 Rosewood_Lumber
+Glade_Wall_Chronometer 48 1 550 80 1262 6 Wind_Shard 6 Fire_Shard 6 Electrum_Ingot 1 Mahogany_Lumber 1 Oak_Lumber 1 Brass_Ingot 6 Cobalt_Rivets
+Astroscope 49 1 556 80 1275 6 Wind_Shard 6 Fire_Shard 6 Electrum_Ingot 6 Mahogany_Lumber 6 Raptor_Leather 1 Clear_Glass_Lens
+Mandragora_Floor_Lamp 50 1 595 80 1320 6 Wind_Shard 6 Fire_Shard 6 Electrum_Ingot 6 Raptor_Leather 6 Tallow_Candle 1 Frosted_Glass_Lens
+Tiled_Interior_Wall 50 1 595 80 1320 6 Wind_Shard 6 Fire_Shard 6 Marble 6 Cut_Stone 6 Mortar
+Tiled_Flooring 50 1 595 80 1320 6 Wind_Shard 6 Fire_Shard 6 Marble 6 Cut_Stone 6 Mortar
+Checkered_Flooring 50 1 595 80 1320 6 Wind_Shard 6 Fire_Shard 6 Marble 6 Clinker_Bricks 6 Varnish
+Amdapori_Beacon 50 1 595 80 1320 6 Wind_Shard 6 Fire_Shard 6 Amdapori_Stone 6 Rosewood_Branch 6 Grenade_Ash
+Riviera_Bathtub 50 1 595 80 1320 6 Wind_Shard 6 Fire_Shard 6 Cut_Stone 6 Darksteel_Nugget 6 Mahogany_Lumber 1 Clear_Glass_Lens 1 Firewood
+Oasis_Bathtub 50 1 595 80 1320 6 Wind_Shard 6 Fire_Shard 6 Cut_Stone 6 Rose_Gold_Nugget 6 Marble 1 Lavender_Oil 1 Firewood
+Amdapori_Wall_Lantern 50 1 595 80 1320 6 Wind_Shard 6 Fire_Shard 6 Amdapori_Stone 6 Mythril_Ingot 6 Darksteel_Nugget 6 Tallow_Candle
+Riviera_Stone_Wall 50 1 595 80 1320 24 Wind_Shard 24 Fire_Shard 24 Cut_Stone 24 Granite 24 Mortar
+Oasis_Ornate_Fence 50 1 595 80 1320 24 Wind_Shard 24 Fire_Shard 24 Cut_Stone 24 Electrum_Ingot 24 Cobalt_Ingot 24 Mortar
+Star_Chandelier 50 1 624 80 1323 3 Wind_Crystal 3 Fire_Crystal 3 Frosted_Glass_Lens 3 Rose_Gold_Nugget 3 Astral_Eye 3 Brass_Ingot 3 Tallow_Candle
+Personal_Astroscope 50 1 624 80 1323 3 Wind_Crystal 3 Fire_Crystal 3 Rose_Gold_Nugget 3 Darksteel_Nugget 3 Cobalt_Ingot 3 Cut_Stone 1 Clear_Glass_Lens
+Cragsoul_Lamp 50 1 351 80 1323 5 Earth_Crystal 5 Rose_Gold_Nugget 5 Darksteel_Nugget 1 Titan's_Heart 1 Frosted_Glass_Lens 5 Tallow_Candle
+Vodoriga_Sculpture 50 1 624 80 1323 3 Wind_Crystal 3 Fire_Crystal 3 Rose_Gold_Nugget 3 Mythril_Ingot 1 Oak_Lumber 3 Amdapori_Stone 1 Cutting_Oil
+Vortex_Couch 50 1 351 80 1323 5 Wind_Crystal 5 Undyed_Felt 5 Spruce_Lumber 1 Garuda's_Feather 1 Frosted_Glass_Lens 5 Electrum_Ingot 5 Tourmaline
+Inferno_Wall_Lamp 50 1 351 80 1323 5 Fire_Crystal 5 Rose_Gold_Nugget 5 Darksteel_Nugget 1 Ifrit's_Horn 1 Frosted_Glass_Lens 5 Tallow_Candle
+Oasis_Mansion_Roof_(Composite) 50 1 624 80 1323 12 Wind_Crystal 12 Fire_Crystal 12 Electrum_Ingot 12 Marble 12 Mahogany_Lumber 12 Mortar 12 Roof_Tile 12 Clinker_Bricks
+Oasis_Mansion_Roof_(Stone) 50 1 624 80 1323 12 Wind_Crystal 12 Fire_Crystal 12 Electrum_Ingot 12 Marble 12 Mortar 12 Roof_Tile 12 Clinker_Bricks
+Riviera_Mansion_Wall_(Composite) 50 1 624 80 1323 12 Wind_Crystal 12 Fire_Crystal 12 Cut_Stone 12 Rosewood_Lumber 12 Cobalt_Joint_Plate 12 Cobalt_Nails 12 Felt_Lining
+Riviera_Mansion_Wall_(Stone) 50 1 624 80 1323 12 Wind_Crystal 12 Fire_Crystal 12 Marble 12 Cut_Stone 12 Granite 12 Mortar
+Glade_Mansion_Wall_(Stone) 50 1 624 80 1323 12 Wind_Crystal 12 Fire_Crystal 12 Cut_Stone 12 Granite 12 Spruce_Lumber 12 Mortar 12 Clinker_Bricks
+Oasis_Mansion_Wall_(Composite) 50 1 624 80 1323 12 Wind_Crystal 12 Fire_Crystal 12 Cut_Stone 12 Clinker_Bricks 12 Mahogany_Lumber 12 Granite 12 Mortar
+Oasis_Mansion_Wall_(Stone) 50 1 624 80 1323 12 Wind_Crystal 12 Fire_Crystal 12 Marble 12 Clinker_Bricks 12 Cut_Stone 12 Granite 12 Mortar
+Oasis_Fence 50 1 624 80 1323 28 Wind_Shard 28 Fire_Shard 28 Cut_Stone 28 Granite 28 Marble 28 Mortar
+Amigo_Cactus_Floor_Lamp 50 1 745 80 1460 8 Wind_Shard 8 Fire_Shard 1 Rose_Gold_Ingot 1 Cut_Stone 8 Mythril_Ingot 8 Tallow_Candle 8 Frosted_Glass_Lens
+Marble_Flooring 50 1 745 80 1460 1 Wind_Cluster 1 Fire_Cluster 9 Marble 9 Aqueous_Whetstone 9 Mortar
+Monochrome_Flooring 50 1 745 80 1460 1 Wind_Cluster 1 Fire_Cluster 6 Marble 6 Black_Limestone 6 Aqueous_Whetstone 6 Mortar
+Illumination_Module 50 1 745 80 1460 1 Wind_Cluster 1 Fire_Cluster 2 Rose_Gold_Ingot 1 ADS_Illuminant 1 ADS_Plating 1 ADS_Frame 2 Frosted_Glass_Lens
+Titanic_Cragsoul_Lamp 50 1 419 80 1460 10 Earth_Crystal 10 Rose_Gold_Ingot 10 Darksteel_Nugget 1 Crag_Heart 10 Frosted_Glass_Lens 10 Tallow_Candle
+Savage_Arc_of_Triumph 50 1 745 80 1460 1 Wind_Cluster 1 Fire_Cluster 6 Electrum_Ingot 6 Darksteel_Ingot 1 Dimension_Blade_Fragment 6 Tourmaline
+Gargoyle_Sculpture 50 1 745 80 1460 1 Wind_Cluster 1 Fire_Cluster 1 Rose_Gold_Ingot 9 Marble 9 Cobalt_Plate 9 Fine_Wax 9 Cutting_Oil
+Raging_Vortex_Couch 50 1 419 80 1460 10 Wind_Crystal 10 Vanya_Silk 10 Spruce_Lumber 1 Vortex_Feather 10 Frosted_Glass_Lens 10 Electrum_Ingot 10 Tourmaline
+Megalodon_Jaws 50 1 745 80 1460 1 Wind_Cluster 1 Fire_Cluster 1 Megalodon 2 Treated_Spruce_Lumber 2 Mythril_Ingot 2 Shark_Oil
+Demon_Wall_Sculpture 50 1 745 80 1460 1 Wind_Cluster 1 Fire_Cluster 9 Marble 9 Mythril_Ingot 9 Amdapori_Stone 9 Cutting_Oil
+Blazing_Inferno_Wall_Lamp 50 1 419 80 1460 10 Fire_Crystal 10 Rose_Gold_Ingot 10 Darksteel_Nugget 1 Inferno_Horn 10 Frosted_Glass_Lens 10 Tallow_Candle
+Carbuncle_Lantern 50 1 1424 80 2490 2 Wind_Cluster 1 Fire_Cluster 1 Ruby 2 Frosted_Glass_Lens 2 Tallow_Candle 2 Rose_Gold_Nugget 2 Hippogryph_Leather
+Ice_Chandelier 50 1 801 80 2490 12 Ice_Crystal 1 Ice_Tear 12 Tallow_Candle 12 Gold_Ingot 12 Darksteel_Ingot 12 Fieldcraft_Demimateria_III
+Garden_Pond 50 1 1424 80 2490 2 Wind_Cluster 1 Fire_Cluster 2 Mossy_Rock 2 Unbreakable_Rock 2 Terminus_Putty
+Regal_Letter_Box 50 1 1424 80 2490 2 Wind_Cluster 1 Fire_Cluster 1 Kingly_Whisker 1 Gold_Ingot 2 Cobalt_Plate 1 Ancient_Lumber 2 Undyed_Woolen_Cloth
+Armorcraft_Forge 50 1 1424 80 2490 2 Wind_Cluster 1 Fire_Cluster 1 Glazenut 1 Wolfram_Ingot 2 Marble 2 Cut_Stone 2 Mortar 1 Coke
+Emperor's_Throne 50 1 1424 80 2490 2 Wind_Cluster 1 Fire_Cluster 1 Throne_Gem 2 Gold_Ingot 2 Aqueous_Whetstone 2 Fieldcraft_Demimateria_III
+Carbuncle_Chronometer 50 1 1424 80 2490 2 Wind_Cluster 1 Fire_Cluster 1 Ruby 2 Rose_Gold_Nugget 2 Mythril_Ingot 2 Cobalt_Rivets
+Diamond_Chandelier 50 1 1054 80 2891 14 Ice_Crystal 1 Diamond_Tear 14 Tallow_Candle 14 Platinum_Ingot 14 Wolfram_Ingot 14 Fieldcraft_Demimateria_III
+Syrcus_Tower 50 1 1875 80 2891 2 Wind_Cluster 2 Fire_Cluster 1 Syrcus_Shard 2 Black_Limestone 2 Gold_Ingot 1 Ruby 1 Allagan_Catalyst
+Wolf_Staff 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Rose_Gold_Nugget 1 Aldgoat_Horn 1 Wolf_Fang 1 Eye_of_Lightning 1 Spoken_Blood
+Wolf_Planisphere 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Rose_Gold_Nugget 1 Cobalt_Ingot 3 Rubellite 1 Enchanted_Electrum_Ink
+Wolf_Rubellite_Choker 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Rubellite 1 Rose_Gold_Nugget 1 Electrum_Ingot
+Wolf_Zircon_Choker 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Zircon 1 Rose_Gold_Nugget 1 Electrum_Ingot
+Wolf_Tourmaline_Choker 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Tourmaline 1 Rose_Gold_Nugget 1 Electrum_Ingot
+Wolf_Amber_Choker 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Amber 1 Rose_Gold_Nugget 1 Electrum_Ingot
+Wolf_Spinel_Choker 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Spinel 1 Rose_Gold_Nugget 1 Electrum_Ingot
+Wolf_Turquoise_Choker 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Turquoise 1 Rose_Gold_Nugget 1 Electrum_Ingot
+Wolf_Rubellite_Earrings 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Rubellite 1 Rose_Gold_Nugget
+Wolf_Zircon_Earrings 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Zircon 1 Rose_Gold_Nugget
+Wolf_Tourmaline_Earrings 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Tourmaline 1 Rose_Gold_Nugget
+Wolf_Amber_Earrings 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Amber 1 Rose_Gold_Nugget
+Wolf_Spinel_Earrings 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Spinel 1 Rose_Gold_Nugget
+Wolf_Turquoise_Earrings 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Turquoise 1 Rose_Gold_Nugget
+Wolf_Rubellite_Bracelet 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Rubellite 1 Rose_Gold_Nugget
+Wolf_Zircon_Bracelet 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Zircon 1 Rose_Gold_Nugget
+Wolf_Tourmaline_Bracelet 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Tourmaline 1 Rose_Gold_Nugget
+Wolf_Amber_Bracelet 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Amber 1 Rose_Gold_Nugget
+Wolf_Spinel_Bracelet 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Spinel 1 Rose_Gold_Nugget
+Wolf_Turquoise_Bracelet 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 3 Turquoise 1 Rose_Gold_Nugget
+Wolf_Rubellite_Ring 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Rubellite 1 Rose_Gold_Nugget
+Wolf_Zircon_Ring 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Zircon 1 Rose_Gold_Nugget
+Wolf_Tourmaline_Ring 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Tourmaline 1 Rose_Gold_Nugget
+Wolf_Amber_Ring 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Amber 1 Rose_Gold_Nugget
+Wolf_Spinel_Ring 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Spinel 1 Rose_Gold_Nugget
+Wolf_Turquoise_Ring 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Turquoise 1 Rose_Gold_Nugget
+Rose_Gold_Choker 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Rose_Gold_Nugget 1 Uraeus_Leather 3 Fieldcraft_Demimateria_I
+Mosshorn_Earrings 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Mossy_Horn 1 Uraeus_Leather 1 Rose_Gold_Nugget 3 Fieldcraft_Demimateria_I
+Rose_Gold_Earrings_of_Gathering 50 1 195 80 2646 3 Wind_Crystal 3 Fire_Crystal 1 Rose_Gold_Nugget 1 Basilisk_Whetstone 3 Fieldcraft_Demimateria_I
+Rose_Gold_Cog 50 1 419 80 5257 11 Wind_Shard 11 Fire_Shard 11 Rose_Gold_Nugget
+Airship_Repair_Materials 50 1 233 80 2921 5 Wind_Crystal 5 Fire_Crystal 1 Dark_Matter_Cluster 5 Grade_6_Dark_Matter
+Thick-rimmed_Glasses 50 1 233 80 2921 1 Wind_Cluster 1 Fire_Cluster 2 Clear_Glass_Lens 1 Garlean_Steel_Plate 1 Garlean_Rubber 2 Fieldcraft_Demimateria_II
+Fluorite_Lens 50 1 222 40 4980 3 Wind_Cluster 3 Fire_Cluster 3 Clear_Fluorite 1 Emery 1 Basilisk_Whetstone 1 Siltstone_Whetstone
+Calibrated_Rose_Gold_Cog 50 1 801 80 8964 12 Wind_Shard 12 Fire_Shard 1 Rose_Gold_Cog 12 Fieldcraft_Demimateria_III
+Ruby 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Emery 1 Raw_Ruby
+Diamond 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Emery 1 Raw_Diamond
+Emerald 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Emery 1 Raw_Emerald
+Topaz 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Emery 1 Raw_Topaz
+Iolite 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Emery 1 Raw_Iolite
+Sapphire 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Emery 1 Raw_Sapphire
+Gold_Ingot 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Raziqsand 1 Native_Gold 1 Gold_Ore
+Platinum_Nugget 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Platinum_Ore
+Furnace_Ring 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Aged_Eye_of_Fire 1 Belah'dian_Silver 1 Basilisk_Whetstone
+Plumes_of_the_Vortex 50 1 445 80 4980 12 Wind_Crystal 12 Demimateria_of_the_Vortex 12 Battlecraft_Demimateria_III 1 Vortex_Feather 12 Wolfram_Ingot 1 Electrum_Ingot
+Wile_of_the_Vortex 50 1 445 80 4980 12 Wind_Crystal 12 Demimateria_of_the_Vortex 12 Battlecraft_Demimateria_III 1 Vortex_Feather 12 Gold_Ingot 1 Jadeite
+Inferno_Cudgel 50 1 445 80 4980 12 Fire_Crystal 12 Demimateria_of_the_Inferno 12 Battlecraft_Demimateria_III 1 Inferno_Horn 12 Ruby 12 Mythril_Ingot
+Van_of_the_Vortex 50 1 445 80 4980 12 Wind_Crystal 12 Demimateria_of_the_Vortex 12 Battlecraft_Demimateria_III 1 Vortex_Feather 12 Gold_Ingot 1 Jadeite
+Inferno_Star_Globe 50 1 445 80 4980 12 Fire_Crystal 12 Demimateria_of_the_Inferno 12 Battlecraft_Demimateria_III 1 Inferno_Horn 12 Gold_Ingot 1 Enchanted_Gold_Ink
+Lift_of_the_Vortex 50 1 445 80 4980 12 Wind_Crystal 12 Demimateria_of_the_Vortex 12 Battlecraft_Demimateria_III 1 Vortex_Feather 12 Gold_Ingot 1 Enchanted_Gold_Ink
+Moonlit_Moggle_Moglobe 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Demimog_Demimateria 2 Battlecraft_Demimateria_III 1 Kingly_Whisker 2 Gold_Ingot 1 Enchanted_Gold_Ink
+Gold_Spectacles 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Gold_Ingot 2 Terminus_Putty 1 Clear_Glass_Lens 1 Rose_Gold_Nugget
+Ruby_Choker 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Ruby 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Diamond_Choker 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Diamond 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Emerald_Choker 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Emerald 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Topaz_Choker 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Topaz 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Iolite_Choker 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Iolite 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Sapphire_Choker 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Sapphire 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Ruby_Earrings 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Ruby 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Diamond_Earrings 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Diamond 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Emerald_Earrings 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Emerald 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Topaz_Earrings 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Topaz 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Iolite_Earrings 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Iolite 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Sapphire_Earrings 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Sapphire 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Ruby_Bracelet 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Ruby 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Diamond_Bracelet 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Diamond 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Emerald_Bracelet 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Emerald 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Topaz_Bracelet 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Topaz 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Iolite_Bracelet 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Iolite 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Sapphire_Bracelet 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 2 Sapphire 1 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Ruby_Ring 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Ruby 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Diamond_Ring 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Diamond 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Emerald_Ring 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Emerald 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Topaz_Ring 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Topaz 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Iolite_Ring 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Iolite 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Sapphire_Ring 50 1 445 80 4980 2 Wind_Cluster 1 Fire_Cluster 1 Sapphire 2 Gold_Ingot 2 Battlecraft_Demimateria_II 2 Battlecraft_Demimateria_I
+Platinum_Ingot 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 2 Platinum_Ore 2 Raziqsap
+Platinum_Planisphere 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 2 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Wootz_Ingot 2 Platinum_Ingot 1 Kirimu_Leather 1 Enchanted_Platinum_Ink
+Platinum_Circlet_of_Casting 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 2 Platinum_Ingot 1 Platinum_Nugget 1 Wolfram_Ingot 1 Twinthread
+Platinum_Circlet_of_Healing 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 2 Platinum_Ingot 1 Platinum_Nugget 1 Wolfram_Ingot 1 Twinthread
+Platinum_Scarf_of_Fending 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 1 Diamond 1 Cashmere_Cloth
+Platinum_Scarf_of_Slaying 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 1 Ruby 1 Cashmere_Cloth
+Platinum_Scarf_of_Ranging 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 1 Iolite 1 Cashmere_Cloth
+Platinum_Scarf_of_Casting 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 1 Sapphire 1 Cashmere_Cloth
+Platinum_Scarf_of_Healing 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 1 Emerald 1 Cashmere_Cloth
+Platinum_Earrings_of_Fending 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 2 Topaz
+Platinum_Earrings_of_Slaying 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 2 Ruby
+Platinum_Earrings_of_Ranging 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 2 Iolite
+Platinum_Earrings_of_Casting 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 2 Sapphire
+Platinum_Earrings_of_Healing 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 2 Emerald
+Platinum_Bangles_of_Fending 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 2 Topaz
+Platinum_Bangles_of_Slaying 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 2 Ruby
+Platinum_Bangles_of_Ranging 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 2 Iolite
+Platinum_Bangles_of_Casting 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 2 Sapphire
+Platinum_Bangles_of_Healing 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 2 Emerald
+Platinum_Ring_of_Fending 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 1 Topaz 1 Gold_Ingot
+Platinum_Ring_of_Slaying 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 1 Ruby 1 Gold_Ingot
+Platinum_Ring_of_Ranging 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 1 Iolite 1 Gold_Ingot
+Platinum_Ring_of_Casting 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 1 Sapphire 1 Gold_Ingot
+Platinum_Ring_of_Healing 50 1 586 80 5783 2 Wind_Cluster 2 Fire_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Platinum_Ingot 1 Emerald 1 Gold_Ingot
+Agate 51 1 169 40 3951 3 Wind_Crystal 3 Raw_Agate 1 Basilisk_Whetstone
+Mythrite_Nugget 51 1 169 40 3951 3 Wind_Crystal 3 Mythrite_Sand 1 Mythril_Ore
+Agate_Ring_of_Slaying 51 1 339 80 3951 3 Wind_Crystal 3 Fire_Crystal 1 Agate 1 Basilisk_Whetstone
+Agate_Ring_of_Aiming 51 1 339 80 3951 3 Wind_Crystal 3 Fire_Crystal 1 Agate 1 Basilisk_Whetstone
+Agate_Ring_of_Casting 51 1 339 80 3951 3 Wind_Crystal 3 Fire_Crystal 1 Agate 1 Basilisk_Whetstone
+Agate_Ring_of_Healing 51 1 339 80 3951 3 Wind_Crystal 3 Fire_Crystal 1 Agate 1 Basilisk_Whetstone
+Agate_Ring_of_Fending 51 1 339 80 3951 3 Wind_Crystal 3 Fire_Crystal 1 Agate 1 Basilisk_Whetstone
+Tiger's_Eye 51 1 210 40 4561 3 Wind_Crystal 3 Raw_Tiger's_Eye 1 Basilisk_Whetstone
+Yeti_Staff 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 1 Cedar_Lumber 3 Yeti_Fang 3 Agate 1 Void_Glue
+Mythrite_Star_Globe 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Nugget 3 Darksteel_Nugget 1 Enchanted_Mythrite_Ink
+Mythrite_Circlet_of_Striking 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Nugget 3 Wildfowl_Feather
+Mythrite_Goggles_of_Crafting 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 3 Crystal_Glass 3 Mythrite_Nugget 1 Archaeornis_Leather
+Mythrite_Goggles_of_Gathering 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 3 Crystal_Glass 3 Mythrite_Nugget 1 Archaeornis_Leather
+Mythrite_Earrings_of_Slaying 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Nugget 3 Jadeite
+Mythrite_Earrings_of_Aiming 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Nugget 3 Jadeite
+Mythrite_Earrings_of_Casting 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Nugget 3 Jadeite
+Mythrite_Earrings_of_Healing 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Nugget 3 Jadeite
+Mythrite_Earrings_of_Fending 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Nugget 3 Jadeite
+Mythrite_Bangle_of_Slaying 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 1 Mythrite_Nugget 3 Tiger's_Eye 3 Jadeite
+Mythrite_Bangle_of_Aiming 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 1 Mythrite_Nugget 3 Tiger's_Eye 3 Jadeite
+Mythrite_Bangle_of_Casting 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 1 Mythrite_Nugget 3 Tiger's_Eye 3 Jadeite
+Mythrite_Bangle_of_Healing 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 1 Mythrite_Nugget 3 Tiger's_Eye 3 Jadeite
+Mythrite_Bangle_of_Fending 51 1 421 80 4561 3 Wind_Crystal 3 Fire_Crystal 1 Mythrite_Nugget 3 Tiger's_Eye 3 Jadeite
+Mythrite_Ingot 52 1 251 40 5172 3 Wind_Crystal 3 Mythrite_Ore 1 Mythrite_Nugget
+Mythrite_Needle 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Nugget 1 Cedar_Lumber 1 Basilisk_Whetstone
+Mythrite_Earblades_of_Slaying 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 1 Mythrite_Ingot 1 Silver_Ingot 3 Cloud_Coral
+Mythrite_Earblades_of_Aiming 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 1 Mythrite_Ingot 1 Silver_Ingot 3 Cloud_Coral
+Mythrite_Earblades_of_Casting 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 1 Mythrite_Ingot 1 Silver_Ingot 3 Cloud_Coral
+Mythrite_Earblades_of_Healing 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 1 Mythrite_Ingot 1 Silver_Ingot 3 Cloud_Coral
+Mythrite_Earblades_of_Fending 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 1 Mythrite_Ingot 1 Silver_Ingot 3 Cloud_Coral
+Yeti_Fang_Earrings 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 3 Yeti_Fang 1 Mythrite_Nugget
+Mythrite_Earrings_of_Gathering 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Nugget 1 Holy_Water
+Mythrite_Bracelet_of_Slaying 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Ingot 1 Wyvern_Leather
+Mythrite_Bracelet_of_Aiming 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Ingot 1 Wyvern_Leather
+Mythrite_Bracelet_of_Casting 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Ingot 1 Wyvern_Leather
+Mythrite_Bracelet_of_Healing 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Ingot 1 Wyvern_Leather
+Mythrite_Bracelet_of_Fending 52 1 503 80 5172 3 Wind_Crystal 3 Fire_Crystal 3 Mythrite_Ingot 1 Wyvern_Leather
+Larimar 53 1 293 40 5783 4 Wind_Crystal 4 Raw_Larimar 1 Basilisk_Whetstone
+Obsidian_Longpole 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 4 Dragon_Obsidian 4 Darksteel_Nugget 1 Jadeite 1 Void_Glue
+Mythrite_Planisphere 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 4 Mythrite_Ingot 1 Electrum_Ingot 4 Spinel 1 Enchanted_Mythrite_Ink
+Mythrite_Necklace_of_Slaying 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 1 Mythrite_Ingot 4 Agate 1 Rainbow_Thread
+Mythrite_Necklace_of_Aiming 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 1 Mythrite_Ingot 4 Agate 1 Rainbow_Thread
+Mythrite_Necklace_of_Casting 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 1 Mythrite_Ingot 4 Agate 1 Rainbow_Thread
+Mythrite_Necklace_of_Healing 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 1 Mythrite_Ingot 4 Agate 1 Rainbow_Thread
+Mythrite_Necklace_of_Fending 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 1 Mythrite_Ingot 4 Agate 1 Rainbow_Thread
+Yeti_Fang_Ring_of_Slaying 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 1 Mythrite_Ingot 1 Yeti_Fang
+Yeti_Fang_Ring_of_Aiming 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 1 Mythrite_Ingot 1 Yeti_Fang
+Yeti_Fang_Ring_of_Casting 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 1 Mythrite_Ingot 1 Yeti_Fang
+Yeti_Fang_Ring_of_Healing 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 1 Mythrite_Ingot 1 Yeti_Fang
+Yeti_Fang_Ring_of_Fending 53 1 586 80 5783 4 Wind_Crystal 4 Fire_Crystal 1 Mythrite_Ingot 1 Yeti_Fang
+Mormorion 54 1 320 40 6042 4 Wind_Crystal 4 Raw_Mormorion 1 Aqueous_Whetstone
+Hardsilver_Nugget 54 1 320 40 6042 4 Wind_Crystal 4 Hardsilver_Sand 1 Silver_Ore
+Hardsilver_Staff 54 1 641 80 6042 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 1 Holy_Rainbow_Cloth 1 Larimar 1 Void_Glue
+Hardsilver_Needle 54 1 641 80 6042 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 1 Holy_Cedar_Lumber 1 Basilisk_Whetstone
+Hardsilver_Magnifiers_of_Casting 54 1 641 80 6042 4 Wind_Crystal 4 Fire_Crystal 4 Crystal_Glass 1 Hardsilver_Nugget
+Hardsilver_Monocle_of_Healing 54 1 641 80 6042 4 Wind_Crystal 4 Fire_Crystal 1 Crystal_Glass 1 Hardsilver_Nugget 1 Larimar
+Mormorion_Ring_of_Slaying 54 1 641 80 6042 4 Wind_Crystal 4 Fire_Crystal 1 Mormorion 1 Basilisk_Whetstone 1 Grade_1_Strength_Dissolvent
+Hardsilver_Ring_of_Aiming 54 1 641 80 6042 4 Wind_Crystal 4 Fire_Crystal 1 Mormorion 1 Basilisk_Whetstone 1 Grade_1_Dexterity_Dissolvent
+Hardsilver_Ring_of_Casting 54 1 641 80 6042 4 Wind_Crystal 4 Fire_Crystal 1 Mormorion 1 Basilisk_Whetstone 1 Grade_1_Intelligence_Dissolvent
+Hardsilver_Ring_of_Healing 54 1 641 80 6042 4 Wind_Crystal 4 Fire_Crystal 1 Mormorion 1 Basilisk_Whetstone 1 Grade_1_Mind_Dissolvent
+Hardsilver_Ring_of_Fending 54 1 641 80 6042 4 Wind_Crystal 4 Fire_Crystal 1 Mormorion 1 Basilisk_Whetstone 1 Grade_1_Vitality_Dissolvent
+Star_Ruby 55 1 348 35 6301 4 Wind_Crystal 4 Raw_Star_Ruby 1 Basilisk_Whetstone
+Star_Sapphire 55 1 348 35 6301 4 Wind_Crystal 4 Raw_Star_Sapphire 1 Basilisk_Whetstone
+Hardsilver_Star_Globe 55 1 697 70 6301 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 1 Titanium_Nugget 1 Electrum_Ingot 1 Enchanted_Hardsilver_Ink
+Hardsilver_Earrings_of_Slaying 55 1 697 70 6301 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 4 Star_Sapphire 1 Grade_1_Strength_Dissolvent
+Hardsilver_Earrings_of_Aiming 55 1 697 70 6301 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 4 Star_Sapphire 1 Grade_1_Dexterity_Dissolvent
+Hardsilver_Earrings_of_Casting 55 1 697 70 6301 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 4 Star_Sapphire 1 Grade_1_Intelligence_Dissolvent
+Hardsilver_Earrings_of_Healing 55 1 697 70 6301 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 4 Star_Sapphire 1 Grade_1_Mind_Dissolvent
+Hardsilver_Earrings_of_Fending 55 1 697 70 6301 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 4 Star_Sapphire 1 Grade_1_Vitality_Dissolvent
+Hardsilver_Bangle_of_Slaying 55 1 697 70 6301 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 4 Star_Sapphire 4 Star_Ruby 1 Grade_1_Strength_Dissolvent
+Hardsilver_Bangle_of_Aiming 55 1 697 70 6301 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 4 Star_Sapphire 4 Star_Ruby 1 Grade_1_Dexterity_Dissolvent
+Hardsilver_Bangle_of_Casting 55 1 697 70 6301 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 4 Star_Sapphire 4 Star_Ruby 1 Grade_1_Intelligence_Dissolvent
+Hardsilver_Bangle_of_Healing 55 1 697 70 6301 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 4 Star_Sapphire 4 Star_Ruby 1 Grade_1_Mind_Dissolvent
+Hardsilver_Bangle_of_Fending 55 1 697 70 6301 4 Wind_Crystal 4 Fire_Crystal 4 Hardsilver_Nugget 4 Star_Sapphire 4 Star_Ruby 1 Grade_1_Vitality_Dissolvent
+Stained_Crystal_Interior_Wall 53 1 1054 80 2891 4 Wind_Crystal 4 Fire_Crystal 4 Crystal_Glass 4 Mythrite_Ingot 4 Cut_Stone 4 Void_Glue
+Celestine 54 1 641 80 6042 1 Wind_Cluster 1 Fire_Cluster 3 Raw_Celestine 3 Aqueous_Whetstone
+Opal 56 1 376 35 6561 5 Wind_Crystal 5 Raw_Opal 1 Cloud_Mica_Whetstone
+Cloud_Mica_Whetstone 56 1 376 35 6561 5 Wind_Crystal 5 Cloud_Mica
+Hardsilver_Ingot 56 1 376 35 6561 5 Wind_Crystal 5 Hardsilver_Ore 1 Hardsilver_Nugget
+Dragon_Fang_Needle 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 1 Dragon_Fang 1 Hardsilver_Ingot 1 Dark_Chestnut_Lumber 1 Cloud_Mica_Whetstone
+Dragon_Fang_Earrings 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 5 Dragon_Fang 1 Hardsilver_Nugget
+Opal_Bracelet_of_Fending 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 5 Hardsilver_Ingot 1 Dragon_Leather 5 Opal 1 Grade_1_Vitality_Dissolvent
+Opal_Bracelet_of_Slaying 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 5 Hardsilver_Ingot 1 Dragon_Leather 5 Opal 1 Grade_1_Strength_Dissolvent
+Opal_Bracelets_of_Aiming 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 5 Hardsilver_Ingot 1 Dragon_Leather 5 Opal 1 Grade_1_Dexterity_Dissolvent
+Opal_Bracelets_of_Casting 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 5 Hardsilver_Ingot 1 Dragon_Leather 5 Opal 1 Grade_1_Intelligence_Dissolvent
+Opal_Bracelets_of_Healing 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 5 Hardsilver_Ingot 1 Dragon_Leather 5 Opal 1 Grade_1_Mind_Dissolvent
+Opal_Ring_of_Fending 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 1 Opal 1 Grade_1_Vitality_Dissolvent
+Opal_Ring_of_Slaying 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 1 Opal 1 Grade_1_Strength_Dissolvent
+Opal_Ring_of_Aiming 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 1 Opal 1 Grade_1_Dexterity_Dissolvent
+Opal_Ring_of_Casting 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 1 Opal 1 Grade_1_Intelligence_Dissolvent
+Opal_Ring_of_Healing 56 1 752 70 6561 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 1 Opal 1 Grade_1_Mind_Dissolvent
+Carnelian 57 1 404 35 6820 5 Wind_Crystal 5 Raw_Carnelian 1 Cloud_Mica_Whetstone
+Hardsilver_Pole 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 5 Hardsilver_Ingot 1 Dragon_Leather 1 Larimar 1 Tiger's_Eye
+Hardsilver_Planisphere 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 5 Hardsilver_Ingot 1 Titanium_Ingot 1 Electrum_Ingot 1 Carnelian 1 Enchanted_Hardsilver_Ink
+Opal_Choker_of_Fending 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 1 Opal 1 Dragon_Leather 1 Grade_1_Vitality_Dissolvent
+Opal_Choker_of_Slaying 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 1 Opal 1 Dragon_Leather 1 Grade_1_Strength_Dissolvent
+Opal_Choker_of_Aiming 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 1 Opal 1 Dragon_Leather 1 Grade_1_Dexterity_Dissolvent
+Opal_Choker_of_Casting 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 1 Opal 1 Dragon_Leather 1 Grade_1_Intelligence_Dissolvent
+Opal_Choker_of_Healing 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 1 Opal 1 Dragon_Leather 1 Grade_1_Mind_Dissolvent
+Opal_Earrings_of_Fending 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 5 Opal 1 Grade_1_Vitality_Dissolvent
+Opal_Earrings_of_Slaying 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 5 Opal 1 Grade_1_Strength_Dissolvent
+Opal_Earrings_of_Aiming 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 5 Opal 1 Grade_1_Dexterity_Dissolvent
+Opal_Earrings_of_Casting 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 5 Opal 1 Grade_1_Intelligence_Dissolvent
+Opal_Earrings_of_Healing 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 5 Opal 1 Grade_1_Mind_Dissolvent
+Hardsilver_Earrings_of_Gathering 57 1 808 70 6820 5 Wind_Crystal 5 Fire_Crystal 5 Hardsilver_Ingot 1 Hallowed_Water
+Aurum_Regis_Nugget 58 1 431 35 7080 5 Wind_Crystal 5 Aurum_Regis_Sand 1 Gold_Ore
+Aurum_Regis_Earrings_of_Fending 58 1 863 70 7080 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 1 Hardsilver_Ingot 5 Gloaming_Coral 1 Grade_1_Vitality_Dissolvent
+Aurum_Regis_Earrings_of_Slaying 58 1 863 70 7080 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 1 Hardsilver_Ingot 5 Gloaming_Coral 1 Grade_1_Strength_Dissolvent
+Aurum_Regis_Earrings_of_Aiming 58 1 863 70 7080 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 1 Hardsilver_Ingot 5 Gloaming_Coral 1 Grade_1_Dexterity_Dissolvent
+Aurum_Regis_Earrings_of_Casting 58 1 863 70 7080 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 1 Hardsilver_Ingot 5 Gloaming_Coral 1 Grade_1_Intelligence_Dissolvent
+Aurum_Regis_Earrings_of_Healing 58 1 863 70 7080 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 1 Hardsilver_Ingot 5 Gloaming_Coral 1 Grade_1_Mind_Dissolvent
+Aurum_Regis_Bracelet_of_Fending 58 1 863 70 7080 5 Wind_Crystal 5 Fire_Crystal 5 Aurum_Regis_Nugget 1 Archaeornis_Leather 1 Grade_1_Vitality_Dissolvent
+Aurum_Regis_Bracelet_of_Slaying 58 1 863 70 7080 5 Wind_Crystal 5 Fire_Crystal 5 Aurum_Regis_Nugget 1 Archaeornis_Leather 1 Grade_1_Strength_Dissolvent
+Aurum_Regis_Bracelet_of_Aiming 58 1 863 70 7080 5 Wind_Crystal 5 Fire_Crystal 5 Aurum_Regis_Nugget 1 Archaeornis_Leather 1 Grade_1_Dexterity_Dissolvent
+Aurum_Regis_Bracelet_of_Casting 58 1 863 70 7080 5 Wind_Crystal 5 Fire_Crystal 5 Aurum_Regis_Nugget 1 Archaeornis_Leather 1 Grade_1_Intelligence_Dissolvent
+Aurum_Regis_Bracelet_of_Healing 58 1 863 70 7080 5 Wind_Crystal 5 Fire_Crystal 5 Aurum_Regis_Nugget 1 Archaeornis_Leather 1 Grade_1_Mind_Dissolvent
+Goblin_Jig 58 1 863 70 7080 5 Wind_Crystal 5 Fire_Crystal 1 Hardsilver_Ingot 1 Cloud_Mica_Whetstone
+Citrine 59 1 459 35 7339 5 Wind_Crystal 5 Raw_Citrine 1 Cloud_Mica_Whetstone
+Aurum_Regis_Cylinder 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 1 Cloud_Mica_Whetstone
+Aurum_Regis_Longpole 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 5 Aurum_Regis_Nugget 1 Birch_Lumber 5 Wyrm_Obsidian 5 Spinel 1 Tourmaline
+Aurum_Regis_Orrery 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 5 Aurum_Regis_Nugget 1 Adamantite_Nugget 5 Hardsilver_Ingot 1 Enchanted_Aurum_Regis_Ink
+Aurum_Regis_Necklace_of_Fending 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 5 Larimar 1 Crawler_Silk 1 Grade_1_Vitality_Dissolvent
+Aurum_Regis_Necklace_of_Slaying 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 5 Larimar 1 Crawler_Silk 1 Grade_1_Strength_Dissolvent
+Aurum_Regis_Necklace_of_Aiming 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 5 Larimar 1 Crawler_Silk 1 Grade_1_Dexterity_Dissolvent
+Aurum_Regis_Necklace_of_Casting 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 5 Larimar 1 Crawler_Silk 1 Grade_1_Intelligence_Dissolvent
+Aurum_Regis_Necklace_of_Healing 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 5 Larimar 1 Crawler_Silk 1 Grade_1_Mind_Dissolvent
+Griffin_Talon_Ring_of_Fending 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 1 Griffin_Talon 1 Grade_1_Vitality_Dissolvent
+Griffin_Talon_Ring_of_Slaying 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 1 Griffin_Talon 1 Grade_1_Strength_Dissolvent
+Griffin_Talon_Ring_of_Aiming 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 1 Griffin_Talon 1 Grade_1_Dexterity_Dissolvent
+Griffin_Talon_Ring_of_Casting 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 1 Griffin_Talon 1 Grade_1_Intelligence_Dissolvent
+Griffin_Talon_Ring_of_Healing 59 1 919 70 7339 5 Wind_Crystal 5 Fire_Crystal 1 Aurum_Regis_Nugget 1 Griffin_Talon 1 Grade_1_Mind_Dissolvent
+Chrysolite 60 1 478 35 7851 6 Wind_Crystal 6 Raw_Chrysolite 1 Cloud_Mica_Whetstone
+Bladed_Steel_Jig 60 1 956 70 7851 6 Wind_Crystal 6 Fire_Crystal 1 Adamantite_Nugget 1 Cloud_Mica_Whetstone
+Citrine_Choker_of_Fending 59 1 919 70 7339 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 1 Citrine 1 Amphiptere_Leather 1 Grade_1_Vitality_Dissolvent
+Citrine_Choker_of_Slaying 59 1 919 70 7339 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 1 Citrine 1 Amphiptere_Leather 1 Grade_1_Strength_Dissolvent
+Citrine_Choker_of_Aiming 59 1 919 70 7339 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 1 Citrine 1 Amphiptere_Leather 1 Grade_1_Dexterity_Dissolvent
+Citrine_Choker_of_Casting 59 1 919 70 7339 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 1 Citrine 1 Amphiptere_Leather 1 Grade_1_Intelligence_Dissolvent
+Citrine_Choker_of_Healing 59 1 919 70 7339 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 1 Citrine 1 Amphiptere_Leather 1 Grade_1_Mind_Dissolvent
+Aurum_Regis_Staff 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 2 Aurum_Regis_Nugget 2 Adamantite_Nugget 1 Birch_Lumber 2 Carnelian 1 Wing_Glue
+Aurum_Regis_Planisphere 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 2 Aurum_Regis_Nugget 2 Hardsilver_Ingot 2 Mormorion 1 Enchanted_Aurum_Regis_Ink
+Griffin_Talon_Needle 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 1 Griffin_Talon 1 Adamantite_Nugget 1 Birch_Lumber 1 Cloud_Mica_Whetstone
+Aurum_Regis_Circlet_of_Healing 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 2 Aurum_Regis_Nugget 1 Chimerical_Felt 1 Hardsilver_Ingot 1 Grade_1_Mind_Dissolvent
+Chrysolite_Earrings_of_Fending 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 2 Chrysolite 1 Grade_1_Vitality_Dissolvent
+Chrysolite_Earrings_of_Slaying 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 2 Chrysolite 1 Grade_1_Strength_Dissolvent
+Chrysolite_Earrings_of_Aiming 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 2 Chrysolite 1 Grade_1_Dexterity_Dissolvent
+Chrysolite_Earrings_of_Casting 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 2 Chrysolite 1 Grade_1_Intelligence_Dissolvent
+Chrysolite_Earrings_of_Healing 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 2 Chrysolite 1 Grade_1_Mind_Dissolvent
+Chrysolite_Bracelet_of_Fending 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 2 Aurum_Regis_Nugget 2 Amphiptere_Leather 2 Chrysolite 1 Grade_1_Vitality_Dissolvent
+Chrysolite_Bracelets_of_Slaying 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 2 Aurum_Regis_Nugget 2 Amphiptere_Leather 2 Chrysolite 1 Grade_1_Strength_Dissolvent
+Chrysolite_Bracelets_of_Aiming 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 2 Aurum_Regis_Nugget 2 Amphiptere_Leather 2 Chrysolite 1 Grade_1_Dexterity_Dissolvent
+Chrysolite_Bracelets_of_Casting 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 2 Aurum_Regis_Nugget 2 Amphiptere_Leather 2 Chrysolite 1 Grade_1_Intelligence_Dissolvent
+Chrysolite_Bracelets_of_Healing 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 2 Aurum_Regis_Nugget 2 Amphiptere_Leather 2 Chrysolite 1 Grade_1_Mind_Dissolvent
+Chrysolite_Ring_of_Fending 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 1 Chrysolite 1 Grade_1_Vitality_Dissolvent
+Chrysolite_Ring_of_Slaying 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 1 Chrysolite 1 Grade_1_Strength_Dissolvent
+Chrysolite_Ring_of_Aiming 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 1 Chrysolite 1 Grade_1_Dexterity_Dissolvent
+Chrysolite_Ring_of_Casting 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 1 Chrysolite 1 Grade_1_Intelligence_Dissolvent
+Chrysolite_Ring_of_Healing 60 1 956 70 7851 2 Wind_Cluster 1 Fire_Cluster 1 Aurum_Regis_Nugget 1 Chrysolite 1 Grade_1_Mind_Dissolvent
+Expanse_Fountain 60 1 1720 70 3925 2 Wind_Cluster 1 Fire_Cluster 1 Bismarck's_Baleen 2 Aurum_Regis_Nugget 2 Adamantite_Nugget 2 Cut_Stone 2 Abalathian_Spring_Water 2 Fieldcraft_Demimateria_II
+Star_Sapphire_Music_Box 60 1 1720 70 3925 2 Wind_Cluster 1 Fire_Cluster 2 Aurum_Regis_Nugget 1 Aurum_Regis_Cylinder 1 Star_Sapphire 1 Hardsilver_Ingot 2 Fieldcraft_Demimateria_II
+Star_Ruby_Music_Box 60 1 1720 70 3925 2 Wind_Cluster 1 Fire_Cluster 2 Aurum_Regis_Nugget 1 Aurum_Regis_Cylinder 1 Star_Ruby 1 Hardsilver_Ingot 2 Fieldcraft_Demimateria_II
+Boundless_Expanse_Fountain 60 1 2008 70 4188 2 Wind_Cluster 1 Fire_Cluster 1 Expanse_Baleen 2 Aurum_Regis_Nugget 2 Adamantite_Nugget 2 Cut_Stone 2 Abalathian_Spring_Water 2 Fieldcraft_Demimateria_III
+Aurum_Regis_Ingot 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Aurum_Regis_Ore 1 Aurum_Regis_Nugget 1 Violet_Quartz 2 Raziqcoat
+Boltmaster's_Needle 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Aurum_Regis_Ingot 1 Astral_Birch_Lumber 2 Crawler_Silk 1 Sun_Mica 2 Leafborne_Aethersand 1 Mastercraft_Demimateria
+Sky_Pirate's_Mask_of_Striking 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Crystal_Glass 1 Titanium_Alloy_Ingot 1 Pterodactyl_Leather 1 Grade_1_Strength_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Mask_of_Scouting 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Crystal_Glass 1 Titanium_Alloy_Ingot 1 Pterodactyl_Leather 1 Grade_1_Dexterity_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Cap_of_Casting 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Crystal_Glass 1 Titanium_Alloy_Ingot 1 Pterodactyl_Leather 1 Grade_1_Intelligence_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Cap_of_Healing 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Crystal_Glass 1 Titanium_Alloy_Ingot 1 Pterodactyl_Leather 1 Grade_1_Mind_Dissolvent 1 Dawnborne_Aethersand
+Aurum_Regis_Circlet_of_Casting 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Aurum_Regis_Ingot 1 Amphiptere_Leather 1 Mormorion 1 Grade_2_Intelligence_Dissolvent 2 Landborne_Aethersand
+Aurum_Regis_Crown_of_Healing 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Aurum_Regis_Ingot 1 Amphiptere_Leather 1 Larimar 1 Grade_2_Mind_Dissolvent 2 Landborne_Aethersand
+Forgemaster's_Goggles 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Crystal_Glass 1 Aurum_Regis_Ingot 2 Astral_Silk 1 Crawler_Silk 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Gemmaster's_Coronal 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Aurum_Regis_Ingot 1 Hardsilver_Ingot 2 Larimar 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Cauldronmaster's_Spectacles 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Crystal_Glass 2 Aurum_Regis_Ingot 1 Hardsilver_Ingot 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Gemmaster's_Chaplets 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Aurum_Regis_Ingot 1 Hardsilver_Ingot 2 Larimar 2 Leafborne_Aethersand 2 Fieldcraft_Demimateria_III
+Aurum_Regis_Earrings_of_Crafting 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Aurum_Regis_Ingot 1 Astral_Oil 1 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Aurum_Regis_Earrings_of_Gathering 60 1 1436 70 9430 2 Wind_Cluster 2 Fire_Cluster 2 Aurum_Regis_Ingot 1 Astral_Oil 1 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Faerie_Chandelier 60 1 2584 70 4715 2 Wind_Cluster 2 Fire_Cluster 2 Crystal_Glass 2 Potters_Stone 2 Aurum_Regis_Nugget 2 Tallow_Candle

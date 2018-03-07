@@ -1,0 +1,522 @@
+Bronze_Ingot 1 1 9 40 312 1 Fire_Shard 2 Copper_Ore 1 Tin_Ore
+Bronze_Hatchet 1 1 19 60 312 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Maple_Lumber
+Bronze_Bastard_Sword 2 1 20 60 325 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Maple_Lumber 1 Bone_Chip
+Amateur's_File 2 1 20 60 325 1 Fire_Shard 1 Earth_Shard 2 Bronze_Ingot 1 Leather
+Bronze_Rivets 3 1 10 40 339 1 Fire_Shard 1 Bronze_Ingot
+Bronze_War_Axe 3 1 20 60 339 1 Fire_Shard 1 Earth_Shard 2 Bronze_Ingot 1 Maple_Lumber
+Amateur's_Pliers 3 1 20 60 339 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Bronze_Rivets 1 Fish_Oil
+Bronze_Saw 4 1 21 60 352 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Bronze_Rivets 1 Maple_Lumber
+Amateur's_Awl 4 1 21 60 352 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Maple_Lumber 1 Fish_Oil
+Bronze_Daggers 5 1 33 60 451 1 Fire_Shard 1 Earth_Shard 2 Bronze_Ingot 1 Maple_Lumber 1 Bone_Chip
+Amateur's_Claw_Hammer 5 1 33 60 451 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Maple_Lumber 1 Fish_Oil
+Bronze_Cross-pein_Hammer 5 1 33 60 451 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Undyed_Hempen_Cloth 1 Maple_Lumber
+Bronze_Doming_Hammer 5 1 33 60 451 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Maple_Lumber
+Hull_Interior_Component 1 1 19 60 312 2 Fire_Shard 2 Earth_Shard 1 Hull_Interior_Component_Materials
+Bladder_Component 1 1 19 60 312 1 Fire_Shard 1 Earth_Shard 1 Bladder_Component_Materials
+Bladder_Lining_Component 1 1 28 60 234 1 Fire_Shard 1 Earth_Shard 1 Bladder_Lining_Component_Materials
+Starboard_Hull_Component 1 1 19 60 312 1 Fire_Shard 1 Earth_Shard 1 Starboard_Hull_Component_Materials
+Larboard_Hull_Component 1 1 9 40 312 1 Fire_Shard 1 Earth_Shard 1 Larboard_Hull_Component_Materials
+Propulsion_Engine_Component 3 1 30 60 254 2 Fire_Shard 2 Earth_Shard 1 Propulsion_Engine_Component_Materials
+Gyrodrive_Component 3 1 20 60 339 1 Fire_Shard 1 Earth_Shard 1 Gyrodrive_Component_Materials
+Rigging_Component 3 1 36 60 169 1 Fire_Shard 1 Earth_Shard 1 Rigging_Component_Materials
+Deck_Component 3 1 30 60 254 1 Fire_Shard 1 Earth_Shard 1 Deck_Component_Materials
+Engine_Casing_Component 3 1 10 40 339 1 Fire_Shard 1 Earth_Shard 1 Engine_Casing_Component_Materials
+Crafting_Tool_Component 3 1 30 60 254 1 Fire_Shard 1 Earth_Shard 1 Crafting_Tool_Component_Materials
+Amateur's_Mortar 6 1 36 60 474 1 Fire_Shard 1 Earth_Shard 2 Bronze_Ingot 1 Maple_Lumber
+Amateur's_Culinary_Knife 6 1 36 60 474 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Maple_Lumber 1 Ragstone_Whetstone
+Viking_Sword 7 1 37 60 492 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Leather 1 Bone_Chip
+Bronze_Labrys 7 1 37 60 492 1 Fire_Shard 1 Earth_Shard 2 Bronze_Ingot 1 Maple_Lumber
+Bronze_Chaser_Hammer 7 1 37 60 492 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Bronze_Rivets 1 Maple_Lumber
+Bronze_Knives 8 1 41 60 526 1 Fire_Shard 1 Earth_Shard 2 Bronze_Ingot 1 Maple_Lumber
+Bronze_Head_Knife 8 1 41 60 526 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Maple_Lumber 1 Ragstone_Whetstone
+Bronze_Pickaxe 8 1 41 60 526 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Undyed_Hempen_Cloth 1 Maple_Lumber
+Cloud_Axe 9 1 63 60 408 1 Fire_Shard 1 Earth_Shard 1 Bronze_War_Axe 1 Bronze_Ingot
+Bronze_Claw_Hammer 9 1 42 60 545 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Maple_Lumber 1 Fish_Oil
+Bronze_Baselards 10 1 45 60 629 1 Fire_Shard 1 Earth_Shard 2 Bronze_Ingot 1 Ash_Lumber
+Amateur's_Cross-pein_Hammer 10 1 45 60 629 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Undyed_Hempen_Cloth 1 Ash_Lumber
+Bronze_File 10 1 45 60 629 1 Fire_Shard 1 Earth_Shard 2 Bronze_Ingot 1 Hard_Leather
+Bronze_Pliers 10 1 45 60 629 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Bronze_Rivets 1 Clove_Oil
+Amateur's_Chaser_Hammer 10 1 45 60 629 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Bronze_Rivets 1 Ash_Lumber
+Bronze_Mortar 10 1 45 60 629 1 Fire_Shard 1 Earth_Shard 2 Bronze_Ingot 1 Ash_Lumber
+Engine_Jointing_Component 6 1 18 40 474 2 Fire_Shard 2 Earth_Shard 1 Engine_Jointing_Component_Materials
+Cockpit_Exterior_Component 6 1 18 40 474 1 Fire_Shard 1 Earth_Shard 1 Cockpit_Exterior_Component_Materials
+Cockpit_Interior_Component 6 1 18 40 474 1 Fire_Shard 1 Earth_Shard 1 Cockpit_Interior_Component_Materials
+Ballast_Component 6 1 36 60 474 1 Fire_Shard 1 Earth_Shard 1 Ballast_Component_Materials
+Instrument_Panel_Component 6 1 115 60 237 1 Fire_Shard 1 Earth_Shard 1 Instrument_Panel_Component_Materials
+Aerodynamo_Component 6 1 36 60 474 1 Fire_Shard 1 Earth_Shard 1 Aerodynamo_Component_Materials
+Starboard_Wing_Component 10 1 22 40 629 1 Fire_Shard 1 Earth_Shard 1 Starboard_Wing_Component_Materials
+Larboard_Wing_Component 10 1 22 40 629 1 Fire_Shard 1 Earth_Shard 1 Larboard_Wing_Component_Materials
+Starboard_Wing_Control_Component 10 1 67 60 471 1 Fire_Shard 1 Earth_Shard 1 Starboard_Wing_Control_Component_Materials
+Larboard_Wing_Control_Component 10 1 67 60 471 1 Fire_Shard 1 Earth_Shard 1 Larboard_Wing_Control_Component_Materials
+Transmission_Component 10 1 144 60 314 1 Fire_Shard 1 Earth_Shard 1 Transmission_Component_Materials
+Heat_Vent_Component 10 1 144 60 314 1 Fire_Shard 1 Earth_Shard 1 Heat_Vent_Component_Materials
+Amateur's_Doming_Hammer 11 1 48 60 665 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Ash_Lumber
+Amateur's_Head_Knife 11 1 48 60 665 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Ash_Lumber 1 Ragstone_Whetstone
+Bronze_Awl 11 1 48 60 665 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Ash_Lumber 1 Jellyfish_Humours
+Amateur's_Pickaxe 11 1 48 60 665 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Undyed_Hempen_Cloth 1 Ash_Lumber
+Bronze_Scythe 11 1 48 60 665 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Ash_Lumber 1 Ragstone_Whetstone
+Amateur's_Saw 12 1 53 60 702 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Bronze_Rivets 1 Ash_Lumber
+Bronze_Ornamental_Hammer 12 1 79 60 526 1 Fire_Shard 1 Earth_Shard 1 Amateur's_Chaser_Hammer 2 Bronze_Rivets
+Bronze_Culinary_Knife 12 1 53 60 702 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Ash_Lumber 1 Ragstone_Whetstone
+Bronze_Sledgehammer 12 1 53 60 702 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Ash_Lumber 1 Animal_Glue
+Amateur's_Hatchet 12 1 53 60 702 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Ash_Lumber
+Bronze_Spatha 13 1 54 60 726 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Hard_Leather 1 Ram_Horn
+Bronze_Knuckles 13 1 54 60 726 1 Fire_Shard 1 Earth_Shard 2 Bronze_Ingot 1 Hard_Leather
+Spiked_Bronze_Labrys 14 1 54 60 751 1 Fire_Shard 1 Earth_Shard 3 Bronze_Ingot 1 Ash_Lumber
+Brass_Daggers 14 1 54 60 751 1 Fire_Shard 1 Earth_Shard 1 Brass_Ingot 1 Bronze_Ingot 1 Maple_Lumber
+Brass_Head_Knife 14 1 81 60 563 1 Fire_Shard 1 Earth_Shard 1 Bronze_Head_Knife 1 Ragstone_Whetstone 1 Brass_Ingot
+Birdsbeak_Hammer 15 1 55 70 807 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Undyed_Cotton_Cloth 1 Ash_Lumber 1 Jellyfish_Humours
+Bronze_Raising_Hammer 15 1 55 70 807 1 Fire_Shard 1 Earth_Shard 1 Bronze_Ingot 1 Bronze_Plate 1 Ash_Lumber
+Oasis_Octagonal_Window 15 1 176 70 403 1 Fire_Shard 1 Earth_Shard 3 Iron_Ingot 3 Clear_Glass_Lens 3 Ash_Lumber
+Helm_Component 15 1 99 70 1452 2 Fire_Shard 2 Earth_Shard 1 Helm_Component_Materials
+Speaking_Tube_Component 15 1 82 70 605 1 Fire_Shard 1 Earth_Shard 1 Speaking_Tube_Component_Materials
+Lamp_Component 15 1 27 40 807 1 Fire_Shard 1 Earth_Shard 1 Lamp_Component_Materials
+Exhaust_Outlet_Component 15 1 99 70 1452 1 Fire_Shard 1 Earth_Shard 1 Exhaust_Outlet_Component_Materials
+Disposal_Unit_Component 15 1 176 70 403 1 Fire_Shard 1 Earth_Shard 1 Disposal_Unit_Component_Materials
+Ceruleum_Tank_Component 15 1 176 70 403 1 Fire_Shard 1 Earth_Shard 1 Ceruleum_Tank_Component_Materials
+Steering_Mechanism_Component 15 1 82 70 605 1 Fire_Shard 1 Earth_Shard 1 Steering_Mechanism_Component_Materials
+Iron_Ingot 16 1 31 40 866 1 Fire_Shard 3 Iron_Ore
+Iron_Nails 16 1 31 40 866 1 Fire_Shard 1 Iron_Ingot
+Brass_Bastard_Sword 16 1 94 70 649 1 Fire_Shard 1 Earth_Shard 1 Bronze_Bastard_Sword 2 Brass_Ingot
+Brass_Knuckles 16 1 94 70 649 1 Fire_Shard 1 Earth_Shard 1 Bronze_Knuckles 1 Brass_Ingot
+Brass_Knives 16 1 63 70 866 1 Fire_Shard 1 Earth_Shard 1 Brass_Ingot 1 Bronze_Ingot 1 Ash_Lumber
+Chocobotail_Saw 16 1 94 70 649 1 Fire_Shard 1 Earth_Shard 1 Amateur's_Saw 2 Bronze_Rivets
+Plumed_Bronze_Pickaxe 16 1 94 70 649 1 Fire_Shard 1 Earth_Shard 1 Bronze_Pickaxe 1 Hard_Leather 1 Crow_Feather
+Iron_Labrys 17 1 66 70 898 1 Fire_Shard 1 Earth_Shard 2 Iron_Ingot 1 Elm_Lumber 1 Hard_Leather
+Iron_War_Axe 17 1 66 70 898 1 Fire_Shard 1 Earth_Shard 2 Iron_Ingot 1 Ash_Lumber
+Iron_Hatchet 17 1 66 70 898 1 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Ash_Lumber
+Iron_Rivets 18 1 33 40 939 1 Fire_Shard 1 Iron_Ingot
+Iron_Cross-pein_Hammer 18 1 67 70 939 1 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Undyed_Cotton_Cloth 1 Elm_Lumber
+Iron_Doming_Hammer 18 1 67 70 939 1 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Elm_Lumber
+Iron_Chaser_Hammer 18 1 67 70 939 1 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Iron_Rivets 1 Elm_Lumber
+Initiate's_Head_Knife 19 1 68 70 982 1 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Ash_Lumber 1 Mudstone_Whetstone
+Iron_Awl 19 1 68 70 982 1 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Elm_Lumber 1 Clove_Oil
+Initiate's_Sledgehammer 19 1 68 70 982 1 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Elm_Lumber 1 Fish_Glue
+Initiate's_Hatchet 19 1 68 70 982 1 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Elm_Lumber
+Carnage_Sword 20 1 111 70 789 1 Fire_Shard 1 Earth_Shard 1 Brass_Bastard_Sword 1 Aldgoat_Leather
+Brass_Viking_Sword 20 1 111 70 789 1 Fire_Shard 1 Earth_Shard 1 Viking_Sword 1 Brass_Ingot 1 Aldgoat_Leather
+Iron_Daggers 20 1 74 70 1053 1 Fire_Shard 1 Earth_Shard 2 Iron_Ingot 1 Elm_Lumber
+Initiate's_Saw 20 1 74 70 1053 1 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Iron_Rivets 1 Ash_Lumber
+Iron_Claw_Hammer 20 1 74 70 1053 1 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Elm_Lumber 1 Jellyfish_Humours
+Iron_Pickaxe 20 1 74 70 1053 1 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Undyed_Cotton_Cloth 1 Ash_Lumber
+Oasis_Round_Table 17 1 211 70 449 1 Fire_Shard 1 Earth_Shard 2 Iron_Ingot 2 Elm_Lumber
+Towel_Hanger 18 1 214 70 469 1 Fire_Shard 1 Earth_Shard 2 Iron_Ingot 1 Iron_Rivets 1 Undyed_Cotton_Cloth
+Riviera_Oblong_Window 18 1 214 70 469 1 Fire_Shard 1 Earth_Shard 4 Iron_Ingot 4 Clear_Glass_Lens 4 Elm_Lumber
+Oasis_Lancet_Window 20 1 236 70 526 1 Fire_Shard 1 Earth_Shard 4 Iron_Ingot 4 Clear_Glass_Lens 4 Limestone
+Escape_Flyer_Component 16 1 113 70 1558 1 Fire_Shard 1 Earth_Shard 1 Escape_Flyer_Component_Materials
+Spare_Tank_Component 16 1 201 70 433 1 Fire_Shard 1 Earth_Shard 1 Spare_Tank_Component_Materials
+Refabrication_Component 16 1 31 40 866 1 Fire_Shard 1 Earth_Shard 1 Refabrication_Component_Materials
+Isolator_Component 16 1 63 70 866 1 Fire_Shard 1 Earth_Shard 1 Isolator_Component_Materials
+Hyperconductor_Component 16 1 201 70 433 1 Fire_Shard 1 Earth_Shard 1 Hyperconductor_Component_Materials
+Auxiliary_Aerodynamo_Component 16 1 63 70 866 1 Fire_Shard 1 Earth_Shard 1 Auxiliary_Aerodynamo_Component_Materials
+Decorative_Plating_Component 16 1 201 70 433 1 Fire_Shard 1 Earth_Shard 1 Decorative_Plating_Component_Materials
+Finishing_Component 18 1 120 70 1690 2 Fire_Shard 2 Earth_Shard 1 Finishing_Component_Materials
+Figurehead_Component 18 1 214 70 469 2 Fire_Shard 2 Earth_Shard 1 Figurehead_Component_Materials
+Inferno_Axe 21 1 112 70 817 2 Fire_Shard 1 Earth_Shard 1 Iron_War_Axe 1 Iron_Ingot 1 Brass_Ingot
+Initiate's_Cross-pein_Hammer 21 1 75 70 1090 2 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Undyed_Cotton_Cloth 1 Yew_Lumber
+Initiate's_Doming_Hammer 21 1 75 70 1090 2 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Yew_Lumber
+Initiate's_Chaser_Hammer 21 1 75 70 1090 2 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Iron_Rivets 1 Yew_Lumber
+Iron_Mortar 21 1 75 70 1090 2 Fire_Shard 1 Earth_Shard 2 Iron_Ingot 1 Elm_Lumber
+Iron_Culinary_Knife 21 1 75 70 1090 2 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Elm_Lumber 1 Mudstone_Whetstone
+Iron_Scythe 21 1 75 70 1090 2 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Elm_Lumber 1 Mudstone_Whetstone
+Iron_Shortsword 22 1 75 70 1122 2 Fire_Shard 1 Earth_Shard 2 Iron_Ingot 1 Elm_Lumber 1 Aldgoat_Leather
+Iron_Pugiones 22 1 75 70 1122 2 Fire_Shard 1 Earth_Shard 2 Iron_Ingot 1 Hard_Leather 1 Soiled_Femur
+Iron_File 22 1 75 70 1122 2 Fire_Shard 1 Earth_Shard 2 Iron_Ingot 1 Aldgoat_Leather
+Iron_Pliers 22 1 75 70 1122 2 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Iron_Rivets 1 Clove_Oil
+Initiate's_Pickaxe 22 1 75 70 1122 2 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Undyed_Cotton_Cloth 1 Elm_Lumber
+Spiked_Knuckles 23 1 79 70 1169 2 Fire_Shard 1 Earth_Shard 1 Iron_Plate 1 Iron_Ingot 1 Aldgoat_Leather
+Initiate's_Awl 23 1 79 70 1169 2 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Yew_Lumber 1 Clove_Oil
+Iron_Sledgehammer 23 1 79 70 1169 2 Fire_Shard 1 Earth_Shard 1 Iron_Ingot 1 Elm_Lumber 1 Fish_Glue
+Iron_Bill 24 1 85 70 1239 2 Fire_Shard 2 Earth_Shard 2 Iron_Ingot 1 Yew_Lumber 1 Clove_Oil
+Bas-relief_Iron_Saw 24 1 85 70 1239 2 Fire_Shard 2 Earth_Shard 1 Iron_Ingot 1 Iron_Rivets 1 Elm_Lumber
+Initiate's_Claw_Hammer 24 1 85 70 1239 2 Fire_Shard 2 Earth_Shard 1 Iron_Ingot 1 Yew_Lumber 1 Crab_Oil
+Initiate's_Mortar 24 1 85 70 1239 2 Fire_Shard 2 Earth_Shard 2 Iron_Ingot 1 Yew_Lumber
+Brass_Hatchet 24 1 127 70 929 2 Fire_Shard 2 Earth_Shard 1 Initiate's_Hatchet 1 Brass_Ingot 1 Clove_Oil
+Iron_Spatha 25 1 89 70 1296 2 Fire_Shard 2 Earth_Shard 1 Iron_Ingot 1 Aldgoat_Leather 1 Antelope_Horn
+Iron_Round_Knife 25 1 89 70 1296 2 Fire_Shard 2 Earth_Shard 1 Iron_Ingot 1 Yew_Lumber 1 Mudstone_Whetstone
+Initiate's_Culinary_Knife 25 1 89 70 1296 2 Fire_Shard 2 Earth_Shard 1 Iron_Ingot 1 Yew_Lumber 1 Mudstone_Whetstone
+Initiate's_Scythe 25 1 89 70 1296 2 Fire_Shard 2 Earth_Shard 1 Iron_Ingot 1 Yew_Lumber 1 Mudstone_Whetstone
+Riviera_Chair 21 1 240 70 545 2 Fire_Shard 1 Earth_Shard 2 Iron_Ingot 2 Yew_Lumber
+Riviera_Pendant_Lamp 21 1 240 70 545 2 Fire_Shard 1 Earth_Shard 2 Iron_Ingot 2 Beeswax_Candle
+Riviera_Table 24 1 272 70 619 2 Fire_Shard 2 Earth_Shard 2 Iron_Ingot 2 Yew_Lumber 2 Beeswax
+Steel_Ingot 26 1 45 40 1332 2 Fire_Shard 1 Bomb_Ash 2 Iron_Ore
+Thunderstorm_Axe 26 1 135 70 999 2 Fire_Shard 2 Earth_Shard 1 Inferno_Axe 1 Iron_Ingot 1 Silver_Ingot
+Steel_Daggers 26 1 90 70 1332 2 Fire_Shard 2 Earth_Shard 2 Steel_Ingot 1 Yew_Lumber
+Crowsbeak_Hammer 26 1 90 70 1332 2 Fire_Shard 2 Earth_Shard 1 Iron_Ingot 1 Undyed_Cotton_Cloth 1 Walnut_Lumber 1 Clove_Oil
+Iron_Raising_Hammer 26 1 90 70 1332 2 Fire_Shard 2 Earth_Shard 1 Iron_Ingot 1 Iron_Plate 1 Walnut_Lumber
+Iron_Ornamental_Hammer 26 1 135 70 999 2 Fire_Shard 2 Earth_Shard 1 Initiate's_Chaser_Hammer 1 Iron_Rivets 1 Brass_Ingot
+Steel_Nails 27 1 45 40 1368 3 Fire_Shard 1 Steel_Ingot
+Initiate's_File 27 1 91 70 1368 3 Fire_Shard 3 Earth_Shard 3 Iron_Ingot 1 Toad_Leather
+Initiate's_Pliers 27 1 91 70 1368 3 Fire_Shard 3 Earth_Shard 1 Iron_Ingot 1 Iron_Rivets 1 Crab_Oil
+Iron_Dolabra 27 1 91 70 1368 3 Fire_Shard 3 Earth_Shard 1 Iron_Ingot 1 Iron_Plate 1 Walnut_Lumber 1 Aldgoat_Leather
+Steel_Broadsword 28 1 100 70 1498 3 Fire_Shard 3 Earth_Shard 1 Steel_Ingot 1 Walnut_Lumber 1 Wolf_Fang
+Spiked_Steel_Labrys 28 1 100 70 1498 3 Fire_Shard 3 Earth_Shard 3 Steel_Ingot 1 Walnut_Lumber 1 Toad_Leather
+Iron_Chocobotail_Saw 28 1 100 70 1498 3 Fire_Shard 3 Earth_Shard 1 Iron_Ingot 1 Iron_Rivets 1 Walnut_Lumber 1 Brass_Ingot
+Steel_Rivets 29 1 50 40 1544 3 Fire_Shard 1 Steel_Ingot
+Steel_Claws 29 1 101 70 1544 3 Fire_Shard 3 Earth_Shard 1 Steel_Plate 1 Steel_Ingot 1 Walnut_Lumber 1 Fish_Glue
+Heavy_Crowsbeak_Hammer 29 1 151 70 1158 3 Fire_Shard 3 Earth_Shard 1 Crowsbeak_Hammer 1 Iron_Ingot 1 Clove_Oil
+Wrapped_Iron_Raising_Hammer 29 1 151 70 1158 3 Fire_Shard 3 Earth_Shard 1 Iron_Raising_Hammer 1 Walnut_Lumber 1 Toad_Leather
+Iron_Head_Knife 29 1 101 70 1544 3 Fire_Shard 3 Earth_Shard 1 Iron_Ingot 1 Walnut_Lumber 1 Mudstone_Whetstone
+Plumed_Iron_Hatchet 29 1 101 70 1544 3 Fire_Shard 3 Earth_Shard 1 Iron_Ingot 1 Walnut_Lumber 1 Chocobo_Feather
+Steel_Knives 30 1 102 70 1584 3 Fire_Shard 3 Earth_Shard 3 Steel_Ingot 1 Walnut_Lumber
+Bas-relief_Steel_Saw 30 1 102 70 1584 3 Fire_Shard 3 Earth_Shard 1 Steel_Ingot 1 Steel_Rivets 1 Walnut_Lumber
+Steel_Chaser_Hammer 30 1 102 70 1584 3 Fire_Shard 3 Earth_Shard 1 Steel_Ingot 1 Steel_Rivets 1 Walnut_Lumber
+Silver_Head_Knife 30 1 153 70 1188 3 Fire_Shard 3 Earth_Shard 1 Iron_Head_Knife 1 Mudstone_Whetstone 1 Silver_Ingot
+Steel_Pickaxe 30 1 102 70 1584 3 Fire_Shard 3 Earth_Shard 1 Steel_Ingot 1 Undyed_Velveteen 1 Walnut_Lumber
+Steel_Sledgehammer 30 1 102 70 1584 3 Fire_Shard 3 Earth_Shard 1 Steel_Ingot 1 Walnut_Lumber 1 Fish_Glue
+Riviera_Ornate_Door 27 1 291 70 684 3 Fire_Shard 3 Earth_Shard 3 Steel_Ingot 3 Steel_Hinge 3 Walnut_Lumber 3 Clear_Glass_Lens
+Galleas_Wheel 27 1 291 70 684 3 Fire_Shard 3 Earth_Shard 1 Steel_Ingot 3 Iron_Ingot 3 Walnut_Lumber 3 Steel_Rivets
+Deluxe_Riviera_Pendant_Lamp 29 1 323 70 772 3 Fire_Shard 3 Earth_Shard 3 Steel_Ingot 3 Walnut_Lumber 3 Tallow_Candle
+Riviera_Lamppost 30 1 326 70 792 3 Fire_Shard 3 Earth_Shard 3 Steel_Ingot 3 Walnut_Lumber 3 Clear_Glass_Lens 3 Tallow_Candle
+Manor_Flower_Stand 30 1 326 70 792 3 Fire_Shard 3 Earth_Shard 3 Steel_Ingot 3 Silver_Ingot 3 Undyed_Velveteen 3 Fine_Wax
+Snow_White_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Grey_Pigment
+Soot_Black_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Grey_Pigment
+Dalamud_Red_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Red_Pigment
+Wine_Red_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Red_Pigment
+Sunset_Orange_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Brown_Pigment
+Kobold_Brown_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Brown_Pigment
+Pumpkin_Orange_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Brown_Pigment
+Loam_Brown_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Brown_Pigment
+Honey_Yellow_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Yellow_Pigment
+Millioncorn_Yellow_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Yellow_Pigment
+Hunter_Green_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Green_Pigment
+Ochu_Green_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Green_Pigment
+Deepwood_Green_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Green_Pigment
+Celeste_Green_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Green_Pigment
+Morbol_Green_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Green_Pigment
+Woad_Blue_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Othard_Blue_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Storm_Blue_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Void_Blue_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Royal_Blue_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Abyssal_Blue_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Blue_Pigment
+Lotus_Pink_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Purple_Pigment
+Colibri_Pink_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Purple_Pigment
+Plum_Purple_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Purple_Pigment
+Regal_Purple_Dye 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Purple_Pigment
+Grade_1_Glamour_Prism_(Smithing) 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Grade_1_Clear_Prism 2 Steel_Ingot
+Grade_2_Glamour_Prism_(Smithing) 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Grade_2_Clear_Prism 2 Steel_Ingot
+Grade_3_Glamour_Prism_(Smithing) 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Grade_3_Clear_Prism 2 Steel_Ingot
+Grade_4_Glamour_Prism_(Smithing) 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Grade_4_Clear_Prism 2 Steel_Ingot
+Grade_5_Glamour_Prism_(Smithing) 30 1 51 70 1584 1 Fire_Crystal 1 Earth_Crystal 1 Grade_5_Clear_Prism 2 Steel_Ingot
+Steel_Falchion 31 1 106 80 1670 3 Fire_Shard 3 Earth_Shard 3 Steel_Ingot 1 Walnut_Lumber 1 Siltstone_Whetstone
+Steel_Claw_Hammer 31 1 106 80 1670 3 Fire_Shard 3 Earth_Shard 1 Steel_Ingot 1 Walnut_Lumber 1 Crab_Oil
+Steel_Awl 31 1 106 80 1670 3 Fire_Shard 3 Earth_Shard 1 Steel_Ingot 1 Walnut_Lumber 1 Crab_Oil
+Steel_Bardiche 32 1 110 80 1697 3 Fire_Shard 3 Earth_Shard 3 Steel_Ingot 1 Yew_Branch 1 Wolf_Fang 1 Fish_Glue
+Steel_Cross-pein_Hammer 32 1 110 80 1697 3 Fire_Shard 3 Earth_Shard 1 Steel_Ingot 1 Undyed_Velveteen 1 Walnut_Lumber
+Steel_Ornamental_Hammer 32 1 110 80 1697 3 Fire_Shard 3 Earth_Shard 1 Steel_Ingot 1 Steel_Rivets 1 Walnut_Lumber
+Steel_Mortar 32 1 110 80 1697 3 Fire_Shard 3 Earth_Shard 3 Steel_Ingot 1 Walnut_Lumber
+Steel_Culinary_Knife 32 1 110 80 1697 3 Fire_Shard 3 Earth_Shard 1 Steel_Ingot 1 Walnut_Lumber 1 Siltstone_Whetstone
+Steel_Dolabra 33 1 111 80 1757 4 Fire_Shard 4 Earth_Shard 1 Steel_Ingot 1 Steel_Plate 1 Oak_Lumber 1 Undyed_Velveteen
+Wrapped_Steel_Sledgehammer 33 1 166 80 1317 4 Fire_Shard 4 Earth_Shard 1 Steel_Sledgehammer 1 Fish_Glue 1 Boar_Leather
+Steel_Hatchet 33 1 111 80 1757 4 Fire_Shard 4 Earth_Shard 1 Steel_Ingot 1 Oak_Lumber
+Steel_Scythe 33 1 111 80 1757 4 Fire_Shard 4 Earth_Shard 1 Steel_Ingot 1 Walnut_Lumber 1 Siltstone_Whetstone
+Steel_Baselards 34 1 115 80 1811 4 Fire_Shard 4 Earth_Shard 4 Steel_Ingot 1 Oak_Lumber
+Steel_Zweihander 34 1 115 80 1811 4 Fire_Shard 4 Earth_Shard 4 Steel_Ingot 1 Walnut_Lumber 1 Boar_Leather
+Steel-barreled_Musketoon 34 1 115 80 1811 4 Fire_Shard 4 Earth_Shard 4 Steel_Ingot 1 Walnut_Lumber 1 Toad_Leather 1 Wyvern_Obsidian 1 Black_Firesand
+Steel_Crowsbeak_Hammer 34 1 115 80 1811 4 Fire_Shard 4 Earth_Shard 1 Steel_Ingot 1 Undyed_Velveteen 1 Oak_Lumber 1 Linseed_Oil
+Steel_File 34 1 115 80 1811 4 Fire_Shard 4 Earth_Shard 4 Steel_Ingot 1 Toad_Leather
+Steel_Doming_Hammer 34 1 115 80 1811 4 Fire_Shard 4 Earth_Shard 1 Steel_Ingot 1 Oak_Lumber
+Steel_Bhuj 35 1 123 80 1853 4 Fire_Shard 4 Earth_Shard 4 Steel_Ingot 1 Oak_Lumber 1 Iron_Ingot
+Crosscut_Saw 35 1 123 80 1853 4 Fire_Shard 4 Earth_Shard 1 Steel_Ingot 1 Steel_Rivets 1 Oak_Lumber
+Steel_Pliers 35 1 123 80 1853 4 Fire_Shard 4 Earth_Shard 1 Steel_Ingot 1 Steel_Rivets 1 Linseed_Oil
+Heavy_Steel_Mortar 35 1 184 80 1389 4 Fire_Shard 4 Earth_Shard 1 Steel_Mortar 1 Walnut_Lumber
+Wrapped_Steel_Culinary_Knife 35 1 123 80 1853 4 Fire_Shard 4 Earth_Shard 1 Steel_Ingot 1 Oak_Lumber 1 Siltstone_Whetstone
+Plumed_Steel_Hatchet 35 1 123 80 1853 4 Fire_Shard 4 Earth_Shard 1 Steel_Ingot 1 Yew_Lumber 1 Chocobo_Feather
+Wrapped_Steel_Scythe 35 1 184 80 1389 4 Fire_Shard 4 Earth_Shard 1 Steel_Scythe 1 Siltstone_Whetstone 1 Boar_Leather
+Vintage_Bastard_Sword 35 1 123 80 1853 1 Fire_Crystal 1 Blunt_Bastard_Sword 1 Mudstone_Whetstone
+Oasis_Lamppost 32 1 352 80 848 3 Fire_Shard 3 Earth_Shard 3 Steel_Ingot 3 Tallow_Candle 3 Clear_Glass_Lens 3 Cut_Stone
+Oaken_Bench 33 1 355 80 878 4 Fire_Shard 4 Earth_Shard 4 Steel_Ingot 4 Oak_Lumber 4 Steel_Rivets
+Ahriman_Bookshelf 35 1 393 80 926 4 Fire_Shard 4 Earth_Shard 4 Steel_Ingot 4 Steel_Rivets 4 Walnut_Lumber 1 Ahriman_Tears
+Ahriman_Screen 35 1 393 80 926 4 Fire_Shard 4 Earth_Shard 4 Steel_Ingot 4 Steel_Rivets 4 Walnut_Lumber 1 Ahriman_Tears
+Ahriman_Sideboard 35 1 393 80 926 4 Fire_Shard 4 Earth_Shard 4 Walnut_Lumber 4 Steel_Ingot 1 Steel_Rivets 1 Ahriman_Tears
+Ahriman_Cupboard 35 1 393 80 926 4 Fire_Shard 4 Earth_Shard 4 Steel_Ingot 4 Steel_Rivets 4 Walnut_Lumber 4 Undyed_Velveteen 1 Ahriman_Tears
+Wrapped_Steel_Claw_Hammer 36 1 186 80 1411 4 Fire_Shard 4 Earth_Shard 1 Steel_Claw_Hammer 1 Boar_Leather 1 Linseed_Oil
+Steel_Round_Knife 36 1 124 80 1882 4 Fire_Shard 4 Earth_Shard 1 Steel_Ingot 1 Oak_Lumber 1 Siltstone_Whetstone
+Wrapped_Steel_Awl 36 1 186 80 1411 4 Fire_Shard 4 Earth_Shard 1 Steel_Awl 1 Toad_Leather 1 Linseed_Oil
+Steel_Longsword 37 1 128 80 1905 4 Fire_Shard 4 Earth_Shard 4 Steel_Ingot 1 Walnut_Lumber 1 Fish_Glue
+Mythril_Ingot 38 1 64 40 1961 4 Fire_Shard 4 Mythril_Ore
+Mythril_Broadsword 38 1 129 80 1961 4 Fire_Shard 4 Earth_Shard 1 Mythril_Ingot 1 Oak_Lumber 1 Wolf_Fang
+Mythril_Knives 38 1 129 80 1961 4 Fire_Shard 4 Earth_Shard 4 Mythril_Ingot 1 Oak_Lumber
+Mythril_Claymore 38 1 129 80 1961 4 Fire_Shard 4 Earth_Shard 4 Mythril_Ingot 1 Steel_Ingot 1 Bronze_Ingot 1 Oak_Lumber 1 Horn_Glue
+Mythril-barreled_Carbine 38 1 129 80 1961 4 Fire_Shard 4 Earth_Shard 1 Mythril_Ingot 1 Brass_Ingot 1 Oak_Lumber 1 Boar_Leather 1 Wyvern_Obsidian 1 Black_Firesand
+Wrapped_Crowsbeak_Hammer 38 1 193 80 1470 4 Fire_Shard 4 Earth_Shard 1 Steel_Crowsbeak_Hammer 1 Steel_Ingot 1 Boar_Leather
+Steel_Raising_Hammer 38 1 129 80 1961 4 Fire_Shard 4 Earth_Shard 1 Steel_Ingot 1 Steel_Plate 1 Oak_Lumber
+Plumed_Mythril_Pickaxe 38 1 129 80 1961 4 Fire_Shard 4 Earth_Shard 1 Mythril_Ingot 1 Undyed_Linen 1 Oak_Lumber 1 Wildfowl_Feather
+Mythril_Hatchet 38 1 129 80 1961 4 Fire_Shard 4 Earth_Shard 1 Mythril_Ingot 1 Oak_Lumber 1 Brass_Ingot
+Vintage_Viking_Sword 38 1 129 80 1961 1 Earth_Crystal 1 Nicked_Viking_Sword 1 Mudstone_Whetstone
+Mythril_Rivets 39 1 68 40 2026 5 Fire_Shard 1 Mythril_Ingot
+Mythril_Claws 39 1 137 80 2026 5 Fire_Shard 5 Earth_Shard 1 Mythril_Plate 1 Mythril_Ingot 1 Oak_Lumber 1 Fish_Glue
+Spiked_Mythril_Labrys 39 1 137 80 2026 5 Fire_Shard 5 Earth_Shard 5 Steel_Ingot 1 Oak_Lumber 1 Boar_Leather 1 Mythril_Ingot
+Mythril_Saw 39 1 137 80 2026 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Mythril_Rivets 1 Oak_Lumber
+Mythril_Head_Knife 39 1 137 80 2026 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Oak_Lumber 1 Siltstone_Whetstone
+Mythril_Bhuj 40 1 138 80 2050 5 Fire_Shard 5 Earth_Shard 5 Mythril_Ingot 1 Walnut_Lumber 1 Electrum_Ingot 1 Steel_Ingot
+Mythril_Claw_Hammer 40 1 138 80 2050 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Oak_Lumber 1 Linseed_Oil
+Mythril_File 40 1 138 80 2050 5 Fire_Shard 5 Earth_Shard 5 Mythril_Ingot 1 Boar_Leather
+Mythril_Ornamental_Hammer 40 1 138 80 2050 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Mythril_Rivets 1 Oak_Lumber
+Mythril_Awl 40 1 138 80 2050 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Oak_Lumber 1 Linseed_Oil
+Mythril_Baselards 41 1 143 80 2109 5 Fire_Shard 5 Earth_Shard 5 Mythril_Ingot 1 Walnut_Lumber
+Mythril_Zweihander 41 1 143 80 2109 5 Fire_Shard 5 Earth_Shard 5 Mythril_Ingot 1 Mahogany_Lumber 1 Peiste_Leather
+Mythril-barreled_Musketoon 41 1 143 80 2109 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Steel_Ingot 1 Mahogany_Lumber 1 Peiste_Leather 1 Wyvern_Obsidian 1 Black_Firesand
+Mythril_Mortar 41 1 143 80 2109 5 Fire_Shard 5 Earth_Shard 5 Mythril_Ingot 1 Mahogany_Lumber
+Mythril_Culinary_Knife 41 1 143 80 2109 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Mahogany_Lumber 1 Basilisk_Whetstone
+Mythril_Sledgehammer 41 1 143 80 2109 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Oak_Lumber 1 Horn_Glue
+Mythril_Scythe 41 1 143 80 2109 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Mahogany_Lumber 1 Basilisk_Whetstone
+Cobalt_Ingot 42 1 72 40 2147 5 Fire_Shard 5 Cobalt_Ore 1 Iron_Ore
+Cobalt_Katzbalger 42 1 144 80 2147 5 Fire_Shard 5 Earth_Shard 5 Cobalt_Ingot 1 Oak_Lumber 1 Boar_Leather 1 Electrum_Ingot
+Cobalt_Knuckles 42 1 144 80 2147 5 Fire_Shard 5 Earth_Shard 5 Cobalt_Ingot 1 Boar_Leather
+Mythril_Chocobotail_Saw 42 1 144 80 2147 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Mythril_Rivets 1 Mahogany_Lumber
+Cobalt_Cross-pein_Hammer 42 1 144 80 2147 5 Fire_Shard 5 Earth_Shard 1 Cobalt_Ingot 1 Mahogany_Lumber 1 Boar_Leather
+Mythril_Pliers 42 1 144 80 2147 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Mythril_Rivets 1 Linseed_Oil
+Mythril_Lapidary_Hammer 42 1 144 80 2147 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Mythril_Rivets 1 Mahogany_Lumber
+Mythril_Round_Knife 42 1 144 80 2147 5 Fire_Shard 5 Earth_Shard 1 Mythril_Ingot 1 Mahogany_Lumber 1 Peiste_Leather 1 Basilisk_Whetstone
+Goblin_Scimitar 42 1 144 80 2147 1 Fire_Crystal 1 Blunt_Goblin_Scimitar 1 Siltstone_Whetstone
+Cobalt_Rivets 43 1 77 40 2251 5 Fire_Shard 1 Cobalt_Ingot
+Cobalt_Shamshir 43 1 155 80 2251 5 Fire_Shard 5 Earth_Shard 5 Cobalt_Ingot 1 Aldgoat_Horn 1 Basilisk_Whetstone
+Buccaneer's_Bardiche 43 1 155 80 2251 5 Fire_Shard 5 Earth_Shard 5 Cobalt_Ingot 1 Rosewood_Branch 1 Horn_Glue
+Cobalt_Doming_Hammer 43 1 155 80 2251 5 Fire_Shard 5 Earth_Shard 1 Cobalt_Ingot 1 Oak_Lumber 1 Cobalt_Rivets
+Cobalt_Dolabra 43 1 155 80 2251 5 Fire_Shard 5 Earth_Shard 1 Cobalt_Ingot 1 Mahogany_Lumber 1 Aldgoat_Leather
+Cobalt_Hatchet 43 1 155 80 2251 5 Fire_Shard 5 Earth_Shard 1 Cobalt_Ingot 1 Mahogany_Lumber 1 Brass_Ingot
+Cobalt_Nails 44 1 78 40 2277 5 Fire_Shard 1 Cobalt_Ingot
+Cobalt_Claw_Hammer 44 1 156 80 2277 5 Fire_Shard 5 Earth_Shard 1 Cobalt_Ingot 1 Rosewood_Lumber 1 Shark_Oil
+Cobalt_Pliers 44 1 156 80 2277 5 Fire_Shard 5 Earth_Shard 1 Cobalt_Ingot 1 Cobalt_Rivets 1 Shark_Oil
+Cobalt_Awl 44 1 156 80 2277 5 Fire_Shard 5 Earth_Shard 1 Cobalt_Ingot 1 Mahogany_Lumber 1 Shark_Oil
+Cobalt_Culinary_Knife 44 1 156 80 2277 5 Fire_Shard 5 Earth_Shard 1 Cobalt_Ingot 1 Rosewood_Lumber 1 Basilisk_Whetstone
+Cobalt_Sledgehammer 44 1 156 80 2277 5 Fire_Shard 5 Earth_Shard 1 Cobalt_Ingot 1 Rosewood_Lumber 1 Horn_Glue
+Demilune_Bhuj 45 1 158 80 2309 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 1 Mahogany_Lumber 1 Jadeite 1 Steel_Ingot
+Mythril_Pugiones 45 1 158 80 2309 6 Fire_Shard 6 Earth_Shard 6 Mythril_Ingot 1 Mahogany_Lumber
+Cobalt_Claymore 45 1 158 80 2309 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 1 Electrum_Ingot 1 Mahogany_Lumber 1 Horn_Glue
+Cobalt-barreled_Carbine 45 1 158 80 2309 6 Fire_Shard 6 Earth_Shard 1 Cobalt_Ingot 1 Electrum_Ingot 1 Mahogany_Lumber 1 Raptor_Leather 1 Wyvern_Obsidian 1 Black_Firesand
+Wrapped_Hawksbeak_Hammer 45 1 237 80 1731 6 Fire_Shard 6 Earth_Shard 1 Cobalt_Cross-pein_Hammer 1 Rosewood_Lumber 1 Boar_Leather 1 Shark_Oil
+Cobalt_File 45 1 158 80 2309 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 1 Raptor_Leather
+Cobalt_Mortar 45 1 158 80 2309 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 1 Rosewood_Lumber
+Cobalt_Scythe 45 1 158 80 2309 6 Fire_Shard 6 Earth_Shard 1 Cobalt_Ingot 1 Rosewood_Lumber 1 Basilisk_Whetstone
+Goblin_Longsword 45 1 158 80 2309 1 Fire_Crystal 1 Blunt_Goblin_Longsword 1 Basilisk_Whetstone
+Riviera_Counter 41 1 457 80 1054 5 Fire_Shard 5 Earth_Shard 5 Steel_Ingot 5 Mahogany_Lumber 5 Undyed_Woolen_Cloth
+Apkallu_Weathervane 42 1 460 80 1073 5 Fire_Shard 5 Earth_Shard 5 Mythril_Ingot 5 Mahogany_Lumber 5 Mythril_Rivets
+Oasis_Floor_Lamp 45 1 505 80 1154 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 6 Electrum_Ingot 1 Cut_Stone 6 Clear_Glass_Lens 6 Tallow_Candle
+Cannonballs 45 1 505 80 1154 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Plate 6 Mythril_Ingot 6 Ishgardian_Steel_Ingot
+Stone_Vigil_Beacon 45 1 505 80 1154 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 6 Rosewood_Branch 6 Ishgardian_Steel_Ingot
+Bas-relief_Cobalt_Saw 46 1 159 80 2372 6 Fire_Shard 6 Earth_Shard 1 Cobalt_Ingot 1 Cobalt_Rivets 1 Rosewood_Lumber
+Electrum_Head_Knife 46 1 159 80 2372 6 Fire_Shard 6 Earth_Shard 1 Cobalt_Ingot 1 Electrum_Ingot 1 Rosewood_Lumber 1 Basilisk_Whetstone
+Cobalt_Raising_Hammer 47 1 167 80 2421 6 Fire_Shard 6 Earth_Shard 1 Cobalt_Ingot 1 Cobalt_Plate 1 Rosewood_Lumber 1 Cobalt_Rivets
+Electrum_Lapidary_Hammer 47 1 167 80 2421 6 Fire_Shard 6 Earth_Shard 1 Cobalt_Ingot 1 Cobalt_Rivets 1 Rosewood_Lumber 1 Tourmaline 1 Electrum_Ingot
+Vintage_Bill 47 1 167 80 2421 1 Earth_Crystal 1 Notched_Bill 1 Basilisk_Whetstone
+Cobalt_Zweihander 48 1 172 80 2524 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 1 Electrum_Ingot 1 Rosewood_Lumber 1 Raptor_Leather
+Cobalt-barreled_Musketoon 48 1 172 80 2524 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 1 Electrum_Ingot 1 Rosewood_Lumber 1 Wyvern_Obsidian 1 Black_Firesand
+Egret_Dolabra 48 1 172 80 2524 6 Fire_Shard 6 Earth_Shard 1 Cobalt_Ingot 1 Cobalt_Plate 1 Rosewood_Lumber 1 Boar_Leather
+Cobalt_Winglet 49 1 174 80 2551 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 1 Mahogany_Lumber 1 Horn_Glue 1 Sunrise_Tellin
+Cobalt_Claws 49 1 174 80 2551 6 Fire_Shard 6 Earth_Shard 1 Cobalt_Plate 1 Cobalt_Ingot 1 Mahogany_Lumber 1 Horn_Glue 1 Brass_Ingot
+Spiked_Cobalt_Labrys 49 1 174 80 2551 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 1 Rosewood_Lumber 6 Silver_Ingot 1 Raptor_Leather
+Cobalt_Baselards 49 1 174 80 2551 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 1 Rosewood_Lumber
+Horned_Hatchet 49 1 174 80 2551 6 Fire_Shard 6 Earth_Shard 1 Cobalt_Ingot 1 Rosewood_Lumber 1 Boar_Leather 1 Aldgoat_Horn 1 Raptor_Sinew
+Darksteel_Nugget 50 1 97 40 2646 3 Fire_Crystal 3 Darksteel_Ore
+Darksteel_Rivets 50 1 97 40 2646 3 Fire_Crystal 1 Darksteel_Nugget
+Aeolian_Scimitar 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Blunt_Aeolian_Scimitar 1 Darksteel_Nugget 1 Basilisk_Whetstone
+Barbarian's_Bardiche 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Bloody_Bardiche_Head 1 Darksteel_Nugget 1 Basilisk_Whetstone
+Militia_Claw_Hammer 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Spruce_Lumber 1 Shark_Oil
+Militia_File 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 3 Darksteel_Nugget 1 Hippogryph_Leather
+Militia_Pliers 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Darksteel_Rivets 1 Shark_Oil
+Militia_Awl 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Spruce_Lumber 1 Shark_Oil
+Militia_Mortar 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 3 Darksteel_Nugget 1 Spruce_Lumber
+Militia_Culinary_Knife 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Spruce_Lumber 1 Basilisk_Whetstone
+Militia_Sledgehammer 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Spruce_Lumber 1 Horn_Glue
+Militia_Scythe 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Spruce_Lumber 1 Basilisk_Whetstone
+Darksteel_Ingot 50 1 116 40 2921 1 Fire_Cluster 2 Darksteel_Nugget 2 Coke
+Mailbreaker_Blade 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 2 Rose_Gold_Nugget
+Avenger_Grips 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 2 Rose_Gold_Nugget
+Rampager_Head 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 2 Darksteel_Nugget
+Obelisk_Head 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 2 Darksteel_Nugget
+Misericorde_Blades 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 1 Rose_Gold_Nugget
+Mailbreaker 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Mailbreaker_Blade 1 Darksteel_Nugget 1 Rose_Gold_Nugget 1 Hippogryph_Leather
+Avengers 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Avenger_Grips 1 Darksteel_Nugget 1 Rose_Gold_Nugget 1 Spruce_Lumber
+Rampager 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Rampager_Head 2 Darksteel_Plate 1 Spruce_Lumber
+Obelisk 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Obelisk_Head 3 Darksteel_Nugget 1 Spruce_Lumber
+Misericordes 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Misericorde_Blades 1 Darksteel_Nugget 1 Rose_Gold_Nugget 1 Spruce_Lumber
+Subduer 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 3 Darksteel_Nugget 1 Rose_Gold_Nugget 1 Spruce_Lumber
+Darksteel-barreled_Blunderbuss 50 1 233 80 2921 1 Fire_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 2 Darksteel_Nugget 1 Rose_Gold_Nugget 1 Spruce_Lumber 2 Wyvern_Obsidian 1 Black_Firesand
+Model_Magitek_Bit 50 1 293 80 5783 99 Fire_Shard 1 Wootz_Ingot 1 Garlean_Steel_Joint 1 Garlean_Steel_Plate 1 Garlean_Fiber 1 Garlean_Rubber 1 Glazenut
+Riviera_Bench 46 1 508 80 1186 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 6 Rosewood_Lumber 6 Undyed_Felt 6 Undyed_Woolen_Cloth
+Knight_Captain's_Desk 46 1 508 80 1186 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Rivets 6 Rosewood_Lumber 6 Ishgardian_Steel_Ingot
+Riviera_Floor_Lamp 47 1 534 80 1210 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 6 Cut_Stone 6 Clear_Glass_Lens 6 Tallow_Candle
+Oasis_Counter 47 1 534 80 1210 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 6 Rosewood_Lumber 1 Electrum_Ingot 6 Undyed_Woolen_Cloth
+Nymian_Wall_Lantern 47 1 534 80 1210 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 6 Cobalt_Rings 6 Nymian_Orb
+Riviera_Chandelier 48 1 550 80 1262 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 6 Oak_Lumber 6 Tallow_Candle
+Mahogany_Screen 49 1 556 80 1275 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 6 Mahogany_Lumber 6 Rosewood_Lumber
+Wall_Lantern 50 1 595 80 1320 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 6 Tallow_Candle 6 Frosted_Glass_Lens
+Chocobo_Weathervane 50 1 595 80 1320 6 Fire_Shard 6 Earth_Shard 6 Cobalt_Ingot 6 Rosewood_Lumber 6 Cobalt_Rivets
+Dark_Divinity_Falleth 50 1 595 80 1320 6 Fire_Shard 6 Earth_Shard 6 Darksteel_Nugget 6 Electrum_Ingot 6 Odin's_Mantle
+Tonberry_Chandelier 50 1 624 80 1323 7 Fire_Shard 7 Earth_Shard 7 Darksteel_Nugget 7 Frosted_Glass_Lens 7 Clear_Glass_Lens 7 Electrum_Ingot 7 Tallow_Candle
+Bertha_Cannon 50 1 624 80 1323 3 Fire_Crystal 3 Earth_Crystal 3 Darksteel_Nugget 3 Cobalt_Plate 3 Ishgardian_Steel_Ingot
+Tonberry_Wall_Lantern 50 1 624 80 1323 3 Fire_Crystal 3 Earth_Crystal 3 Darksteel_Nugget 1 Frosted_Glass_Lens 3 Electrum_Ingot 3 Tallow_Candle
+Riviera_Fence 50 1 624 80 1323 28 Fire_Shard 28 Earth_Shard 28 Cobalt_Ingot 28 Cobalt_Rivets 28 Mahogany_Lumber
+Seating_Module 50 1 745 80 1460 1 Fire_Cluster 1 Earth_Cluster 1 Darksteel_Ingot 4 Darksteel_Nugget 4 Rose_Gold_Nugget 1 ADS_Frame
+Wavesoul_Fount 50 1 419 80 1460 10 Water_Crystal 1 Leviathan's_Barb 10 Rose_Gold_Nugget 10 Marble 10 Darksteel_Nugget
+Plasma_Lamp 50 1 419 80 1460 10 Lightning_Crystal 1 Levin_Orb 10 Darksteel_Ingot 10 Vanya_Silk 10 Fieldcraft_Demimateria_II
+Shower_Stand 50 1 1424 80 2490 2 Fire_Cluster 1 Earth_Cluster 2 Wolfram_Ingot 2 Cobalt_Ingot 2 Rosewood_Lumber
+Riviera_Path_Light 50 1 1424 80 2490 2 Fire_Cluster 1 Earth_Cluster 2 Wolfram_Ingot 2 Tallow_Candle 2 Frosted_Glass_Lens 2 Darksteel_Nugget
+Oasis_Path_Light 50 1 1424 80 2490 2 Fire_Cluster 1 Earth_Cluster 2 Wolfram_Ingot 2 Tallow_Candle 2 Belah'dian_Glass 2 Rose_Gold_Nugget
+Carbuncle_Garden_Bench 50 1 1424 80 2490 2 Fire_Cluster 1 Earth_Cluster 2 Ruby 2 Darksteel_Nugget 2 Mahogany_Lumber 2 Cobalt_Ingot
+Tidal_Wavesoul_Fount 50 1 801 80 2490 12 Water_Crystal 1 Barb_of_the_Whorl 1 Gold_Ingot 12 Marble 12 Darksteel_Nugget
+Summoning_Bell 50 1 1424 80 2490 2 Fire_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 1 Ancient_Lumber 1 Wildfowl_Feather
+Smithing_Bench 50 1 1424 80 2490 2 Fire_Cluster 1 Earth_Cluster 1 Glazenut 1 Wolfram_Ingot 2 Darksteel_Nugget 2 Cobalt_Ingot 1 Coke
+Cooking_Stove 50 1 1424 80 2490 2 Fire_Cluster 1 Earth_Cluster 1 Glazenut 1 Wolfram_Ingot 2 Darksteel_Nugget 2 Spruce_Lumber 2 Cut_Stone 1 Coke
+Lord_of_Levin_Lamp 50 1 801 80 2490 12 Lightning_Crystal 1 Large_Levin_Orb 12 Wolfram_Ingot 12 Vanya_Silk 12 Fieldcraft_Demimateria_III
+Head_of_the_Dreadwyrm 50 1 1875 80 2891 2 Fire_Cluster 2 Earth_Cluster 1 Burning_Auricle 2 Wootz_Ingot 2 Wolfram_Ingot 1 ADS_Illuminant
+Wolf_Winglet 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Cobalt_Ingot 1 Mahogany_Lumber 1 Horn_Glue 1 Sunrise_Tellin
+Wolf_Claws 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Cobalt_Plate 1 Mahogany_Lumber 1 Horn_Glue 1 Brass_Ingot
+Wolf_Labrys 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 3 Cobalt_Ingot 1 Rosewood_Lumber 3 Silver_Ingot 1 Raptor_Leather
+Wolf_Pugiones 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 3 Darksteel_Nugget 3 Rosewood_Lumber
+Wolf_Zweihander 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 3 Cobalt_Ingot 1 Electrum_Ingot 1 Rosewood_Lumber 1 Raptor_Leather
+Wolf_Musketoon 50 1 195 80 2646 3 Fire_Crystal 3 Earth_Crystal 1 Darksteel_Nugget 1 Cobalt_Ingot 1 Electrum_Ingot 1 Rosewood_Lumber 1 Wyvern_Obsidian 1 Black_Firesand
+Darksteel_Hook 50 1 419 80 5257 11 Fire_Shard 11 Earth_Shard 11 Darksteel_Nugget
+Airship_Repair_Materials 50 1 233 80 2921 5 Fire_Crystal 5 Earth_Crystal 1 Dark_Matter_Cluster 5 Grade_6_Dark_Matter
+Balanced_Darksteel_Hook 50 1 801 80 8964 12 Fire_Shard 12 Earth_Shard 1 Darksteel_Hook 12 Fieldcraft_Demimateria_III
+Mummer's_Daggers 50 1 222 40 4980 3 Fire_Cluster 3 Earth_Cluster 3 Composite_Whetstone 1 Scheelite 1 Ferberite
+Wolfram_Ingot 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 1 Scheelite 1 Ferberite 1 Cobalt_Ore
+Perfect_Pestle 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 1 Aged_Pestle_Pieces 2 Cypress_Log 1 Peiste_Leather
+Inferno_Blade 50 1 445 80 4980 12 Fire_Crystal 12 Demimateria_of_the_Inferno 12 Battlecraft_Demimateria_III 1 Inferno_Horn 12 Wolfram_Ingot 1 Cobalt_Ingot
+Gaze_of_the_Vortex 50 1 445 80 4980 12 Wind_Crystal 12 Demimateria_of_the_Vortex 12 Battlecraft_Demimateria_III 1 Vortex_Feather 12 Wolfram_Ingot 1 Electrum_Ingot
+Morbid_Moggle_Mogblade 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 2 Demimog_Demimateria 2 Battlecraft_Demimateria_III 1 Kingly_Whisker 2 Wolfram_Ingot 1 Electrum_Ingot
+Inferno_Claws 50 1 445 80 4980 12 Fire_Crystal 12 Demimateria_of_the_Inferno 12 Battlecraft_Demimateria_III 1 Inferno_Horn 12 Wolfram_Ingot 1 Uraeus_Leather
+Talons_of_the_Vortex 50 1 445 80 4980 12 Wind_Crystal 12 Demimateria_of_the_Vortex 12 Battlecraft_Demimateria_III 1 Vortex_Feather 12 Wolfram_Ingot 1 Uraeus_Leather
+Inferno_Battleaxe 50 1 445 80 4980 12 Fire_Crystal 12 Demimateria_of_the_Inferno 12 Battlecraft_Demimateria_III 1 Inferno_Horn 12 Wolfram_Ingot 1 Cobalt_Ingot
+Scream_of_the_Vortex 50 1 445 80 4980 12 Wind_Crystal 12 Demimateria_of_the_Vortex 12 Battlecraft_Demimateria_III 1 Vortex_Feather 12 Wolfram_Ingot 1 Cobalt_Ingot
+Malignant_Moggle_Mogaxe 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 2 Demimog_Demimateria 2 Battlecraft_Demimateria_III 1 Kingly_Whisker 2 Wolfram_Ingot 1 Cobalt_Ingot
+Inferno_Harpoon 50 1 445 80 4980 12 Fire_Crystal 12 Demimateria_of_the_Inferno 12 Battlecraft_Demimateria_III 1 Inferno_Horn 12 Wolfram_Ingot 1 Uraeus_Leather
+Melancholy_Moggle_Mogfork 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 2 Demimog_Demimateria 2 Battlecraft_Demimateria_III 1 Kingly_Whisker 2 Wolfram_Ingot 1 Cobalt_Ingot
+Inferno_Kris 50 1 445 80 4980 12 Fire_Crystal 12 Demimateria_of_the_Inferno 12 Battlecraft_Demimateria_III 1 Inferno_Horn 12 Wolfram_Ingot 1 Cobalt_Ingot
+Mortal_Moggle_Mogknives 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 2 Demimog_Demimateria 2 Battlecraft_Demimateria_III 1 Kingly_Whisker 2 Wolfram_Ingot 1 Electrum_Ingot
+Inferno_Faussar 50 1 445 80 4980 12 Fire_Crystal 12 Demimateria_of_the_Inferno 12 Battlecraft_Demimateria_III 1 Inferno_Horn 12 Wolfram_Ingot 1 Cobalt_Ingot
+Pain_of_the_Vortex 50 1 445 80 4980 12 Wind_Crystal 12 Demimateria_of_the_Vortex 12 Battlecraft_Demimateria_III 1 Vortex_Feather 12 Wolfram_Ingot 1 Cobalt_Ingot
+Monstrous_Moggle_Mogsword 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 2 Demimog_Demimateria 2 Battlecraft_Demimateria_III 1 Kingly_Whisker 2 Wolfram_Ingot 1 Electrum_Ingot
+Inferno_Musketoon 50 1 445 80 4980 12 Fire_Crystal 12 Demimateria_of_the_Inferno 12 Battlecraft_Demimateria_III 1 Inferno_Horn 12 Wolfram_Ingot 12 Wyvern_Obsidian 1 Black_Firesand
+Abandon_of_the_Vortex 50 1 445 80 4980 12 Wind_Crystal 12 Demimateria_of_the_Vortex 12 Battlecraft_Demimateria_III 1 Vortex_Feather 12 Wolfram_Ingot 12 Wyvern_Obsidian 1 Black_Firesand
+Menacing_Moggle_Mog_Gun 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 2 Demimog_Demimateria 2 Battlecraft_Demimateria_III 1 Kingly_Whisker 2 Wolfram_Ingot 2 Wyvern_Obsidian 1 Black_Firesand
+Artisan's_Claw_Hammer 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 1 Treated_Spruce_Lumber 1 Shark_Oil 2 Ehcatl_Sealant
+Artisan's_File 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 1 Darksteel_Ingot 1 Hippogryph_Leather 2 Ehcatl_Sealant
+Artisan's_Pliers 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 1 Darksteel_Ingot 1 Shark_Oil 2 Ehcatl_Sealant
+Artisan's_Awl 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 1 Treated_Spruce_Lumber 1 Shark_Oil 2 Ehcatl_Sealant
+Artisan's_Mortar 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 1 Treated_Spruce_Lumber 1 Cobalt_Ingot 2 Ehcatl_Sealant
+Artisan's_Culinary_Knife 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 1 Treated_Spruce_Lumber 1 Basilisk_Whetstone 2 Ehcatl_Sealant
+Forager's_Sledgehammer 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 1 Treated_Spruce_Lumber 1 Horn_Glue 2 Ehcatl_Sealant
+Forager's_Scythe 50 1 445 80 4980 2 Fire_Cluster 1 Earth_Cluster 1 Wolfram_Ingot 1 Treated_Spruce_Lumber 1 Basilisk_Whetstone 2 Ehcatl_Sealant
+Wootz_Ingot 50 1 586 80 5783 2 Fire_Cluster 2 Earth_Cluster 1 Allagan_Wootz_Nugget 1 Wootz_Ore
+Wootz_Scimitar 50 1 586 80 5783 2 Fire_Cluster 2 Earth_Cluster 1 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Wootz_Ingot 1 Platinum_Nugget 1 Rose_Gold_Nugget
+Wootz_Knuckles 50 1 586 80 5783 2 Fire_Cluster 2 Earth_Cluster 2 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Wootz_Ingot 2 Kirimu_Leather 1 Ancient_Lumber
+Wootz_Bhuj 50 1 586 80 5783 2 Fire_Cluster 2 Earth_Cluster 2 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Wootz_Ingot 2 Ebony_Lumber 1 Sapphire
+Wootz_Daggers 50 1 586 80 5783 2 Fire_Cluster 2 Earth_Cluster 2 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Wootz_Ingot 2 Platinum_Ingot 1 Gold_Ingot
+Wootz_Fausse 50 1 586 80 5783 2 Fire_Cluster 2 Earth_Cluster 2 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Wootz_Ingot 2 Platinum_Ingot 1 Rose_Gold_Nugget
+Wootz_Revolver 50 1 586 80 5783 2 Fire_Cluster 2 Earth_Cluster 2 Allagan_Catalyst 2 Battlecraft_Demimateria_III 2 Wootz_Ingot 2 Platinum_Ingot 2 Wyvern_Obsidian 1 Black_Firesand
+Mythrite_Nugget 51 1 169 40 3951 3 Fire_Crystal 3 Mythrite_Sand 1 Mythril_Ore
+Mythrite_Rivets 51 1 210 40 4561 3 Fire_Crystal 1 Mythrite_Nugget
+Mythrite_Katzbalger 51 1 421 80 4561 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 3 Darksteel_Nugget 1 Cedar_Lumber 1 Archaeornis_Leather 1 Void_Glue
+Mythrite_Patas 51 1 421 80 4561 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 3 Cobalt_Ingot 3 Mythrite_Rivets
+Mythrite_War_Axe 51 1 421 80 4561 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 3 Darksteel_Nugget 1 Cedar_Lumber 1 Archaeornis_Leather 1 Void_Glue
+Mythrite_Pugiones 51 1 421 80 4561 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Cobalt_Ingot 1 Archaeornis_Leather 1 Mythrite_Rivets 1 Void_Glue
+Mythrite_Claymore 51 1 421 80 4561 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Mythril_Ingot 1 Cedar_Lumber 1 Archaeornis_Leather 1 Void_Glue
+Mythrite-barreled_Arquebus 51 1 421 80 4561 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 3 Darksteel_Nugget 3 Cedar_Lumber 1 Mythrite_Rivets 3 Dragon_Obsidian 1 Black_Firesand
+Mythrite_Ingot 52 1 251 40 5172 3 Fire_Crystal 3 Mythrite_Ore 1 Mythrite_Nugget
+Mythrite_Halfheart_Saw 52 1 503 80 5172 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Archaeornis_Leather 1 Mythrite_Rivets
+Mythrite_Lump_Hammer 52 1 503 80 5172 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Cedar_Lumber 1 Electrum_Ingot 1 Void_Glue
+Mythrite_Raising_Hammer 52 1 503 80 5172 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Cedar_Lumber 1 Mythrite_Rivets
+Mythrite_Lapidary_Hammer 52 1 503 80 5172 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Cedar_Lumber 1 Turquoise
+Mythrite_Round_Knife 52 1 503 80 5172 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Cedar_Lumber 1 Archaeornis_Leather 1 Mythrite_Rivets
+Mythrite_Pickaxe 52 1 503 80 5172 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Cedar_Lumber 1 Void_Glue 1 Mythrite_Rivets
+Mythrite_Hatchet 52 1 503 80 5172 3 Fire_Crystal 3 Earth_Crystal 3 Mythrite_Nugget 1 Cedar_Branch 1 Archaeornis_Leather 1 Yeti_Fang
+Mythrite_Flametongue 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Silver_Ingot 1 Wyvern_Leather 1 Void_Glue
+Mythrite_Jamadhars 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 4 Cobalt_Ingot 1 Holy_Cedar_Lumber 1 Wyvern_Leather 1 Void_Glue
+Mythrite_Labrys 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Holy_Cedar_Lumber 1 Wyvern_Leather 1 Mythrite_Rivets 1 Void_Glue
+Mythrite_Stilettos 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Cobalt_Ingot 1 Wyvern_Leather 1 Void_Glue
+Mythrite_Zweihander 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Mythril_Ingot 1 Holy_Cedar_Lumber 1 Wyvern_Leather 1 Void_Glue
+Mythrite-barreled_Musketoon 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Holy_Cedar_Lumber 1 Cedar_Lumber 1 Mythrite_Rivets 4 Dragon_Obsidian 1 Black_Firesand
+Mythrite_Claw_Hammer 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Holy_Cedar_Lumber 1 Linseed_Oil
+Mythrite_File 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Wyvern_Leather
+Mythrite_Pliers 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Mythrite_Rivets 1 Linseed_Oil
+Mythrite_Awl 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Holy_Cedar_Lumber 1 Holy_Rainbow_Cloth
+Mythrite_Mortar 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Holy_Cedar_Lumber
+Mythrite_Culinary_Knife 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Holy_Cedar_Lumber 1 Basilisk_Whetstone
+Mythrite_Sledgehammer 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Holy_Cedar_Lumber 1 Void_Glue
+Mythrite_Scythe 53 1 586 80 5783 4 Fire_Crystal 4 Earth_Crystal 4 Mythrite_Ingot 1 Cedar_Branch 1 Basilisk_Whetstone
+Titanium_Nugget 54 1 320 40 6042 4 Fire_Crystal 4 Titanium_Ore 1 Iron_Ore 1 Grenade_Ash
+Titanium_Rivets 54 1 320 40 6042 4 Fire_Crystal 1 Titanium_Nugget
+Titanium_Bastard_Sword 54 1 641 80 6042 4 Fire_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Hardsilver_Nugget 1 Electrum_Ingot 1 Dhalmel_Leather 1 Void_Glue
+Titanium_Jamadhars 54 1 641 80 6042 4 Fire_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dark_Chestnut_Lumber 1 Dhalmel_Leather 1 Void_Glue
+Titanium_Axe 54 1 641 80 6042 4 Fire_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dark_Chestnut_Lumber 4 Titanium_Rivets 1 Void_Glue
+Titanium_Pugiones 54 1 641 80 6042 4 Fire_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Mythrite_Ingot 1 Dhalmel_Leather 1 Titanium_Rivets 1 Void_Glue
+Titanium_Claymore 54 1 641 80 6042 4 Fire_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Electrum_Ingot 1 Dark_Chestnut_Lumber 1 Dhalmel_Leather 1 Void_Glue
+Titanium-barreled_Arquebus 54 1 641 80 6042 4 Fire_Crystal 4 Earth_Crystal 4 Titanium_Nugget 4 Darksteel_Nugget 4 Dark_Chestnut_Lumber 1 Titanium_Rivets 4 Dragon_Obsidian 1 Black_Firesand
+Hardsilver_Saw 55 1 697 70 6301 4 Fire_Crystal 4 Earth_Crystal 4 Hardsilver_Nugget 1 Dark_Chestnut_Lumber 1 Titanium_Rivets
+Titanium_Cross-pein_Hammer 55 1 697 70 6301 4 Fire_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dhalmel_Leather 1 Wing_Glue
+Titanium_Ball-pein_Hammer 55 1 697 70 6301 4 Fire_Crystal 4 Earth_Crystal 4 Titanium_Nugget 4 Darksteel_Nugget 1 Dhalmel_Leather
+Hardsilver_Texture_Hammer 55 1 697 70 6301 4 Fire_Crystal 4 Earth_Crystal 4 Hardsilver_Nugget 1 Dark_Chestnut_Lumber 1 Star_Ruby
+Titanium_Creasing_Knife 55 1 697 70 6301 4 Fire_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dark_Chestnut_Lumber 1 Electrum_Ingot 1 Wing_Glue
+Hardsilver_Dolabra 55 1 697 70 6301 4 Fire_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Hardsilver_Nugget 1 Dark_Chestnut_Lumber 1 Dhalmel_Leather 1 Titanium_Rivets
+Titanium_Hatchet 55 1 697 70 6301 4 Fire_Crystal 4 Earth_Crystal 4 Titanium_Nugget 1 Dark_Chestnut_Branch 1 Dhalmel_Leather
+Garlond_Steel 52 1 503 80 5172 1 Fire_Cluster 1 Earth_Cluster 3 Vivianite 3 Coke 3 Cobalt_Ore
+Titanium_Ingot 56 1 376 35 6561 5 Fire_Crystal 5 Cloud_Mica 1 Titanium_Nugget
+Titanium_Claw_Hammer 56 1 752 70 6561 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Nugget 1 Dark_Chestnut_Lumber 1 Linseed_Oil
+Titanium_File 56 1 752 70 6561 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Nugget 1 Dhalmel_Leather
+Titanium_Pliers 56 1 752 70 6561 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Nugget 1 Titanium_Rivets 1 Linseed_Oil
+Titanium_Awl 56 1 752 70 6561 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Nugget 1 Dark_Chestnut_Lumber 1 Ramie_Cloth
+Titanium_Mortar 56 1 752 70 6561 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Nugget 1 Dark_Chestnut_Lumber
+Titanium_Culinary_Knife 56 1 752 70 6561 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Nugget 1 Dark_Chestnut_Lumber 1 Cloud_Mica_Whetstone
+Titanium_Sledgehammer 56 1 752 70 6561 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Nugget 1 Dark_Chestnut_Lumber 1 Wing_Glue
+Titanium_Scythe 56 1 752 70 6561 5 Fire_Crystal 5 Earth_Crystal 1 Titanium_Nugget 1 Dark_Chestnut_Branch 1 Cloud_Mica_Whetstone
+Titanium_Longsword 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Mythrite_Ingot 1 Hallowed_Chestnut_Lumber 1 Dragon_Leather 1 Wing_Glue
+Titanium_Knuckles 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Ingot 5 Mythrite_Ingot 1 Hallowed_Chestnut_Lumber 1 Wing_Glue
+Titanium_Battleaxe 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Hallowed_Chestnut_Lumber 5 Titanium_Rivets 1 Wing_Glue
+Titanium_Kris 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Ingot 5 Mythrite_Ingot 1 Hallowed_Chestnut_Lumber 1 Titanium_Rivets 1 Wing_Glue
+Titanium_Greatsword 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Ingot 5 Darksteel_Nugget 1 Electrum_Ingot 1 Titanium_Rivets 1 Wing_Glue
+Titanium-barreled_Snaphance 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Ingot 5 Electrum_Ingot 1 Hallowed_Chestnut_Lumber 1 Titanium_Rivets 5 Dragon_Obsidian 1 Black_Firesand
+Titanium_Halfheart_Saw 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Dragon_Leather 1 Titanium_Rivets
+Titanium_Lump_Hammer 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Hallowed_Chestnut_Lumber 1 Mythrite_Ingot 1 Wing_Glue
+Titanium_Raising_Hammer 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Hallowed_Chestnut_Lumber 1 Dragon_Leather 1 Titanium_Rivets
+Hardsilver_Lapidary_Hammer 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Hardsilver_Ingot 1 Hallowed_Chestnut_Lumber 1 Electrum_Ingot 1 Agate
+Hardsilver_Round_Knife 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Hardsilver_Ingot 1 Hallowed_Chestnut_Lumber 1 Dragon_Leather 1 Titanium_Rivets
+Titanium_Pickaxe 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 5 Titanium_Ingot 1 Hallowed_Chestnut_Lumber 1 Wing_Glue 1 Titanium_Rivets
+Hardsilver_Hatchet 57 1 808 70 6820 5 Fire_Crystal 5 Earth_Crystal 1 Titanium_Ingot 1 Hardsilver_Ingot 1 Dark_Chestnut_Branch 1 Dragon_Leather 1 Dragon_Fang
+Adamantite_Nugget 58 1 431 35 7080 5 Fire_Crystal 5 Adamantite_Ore 1 Darksteel_Ore
+Adamantite_Rivets 58 1 431 35 7080 5 Fire_Crystal 1 Adamantite_Nugget
+Adamantite_Broadsword 58 1 863 70 7080 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Titanium_Ingot 5 Aurum_Regis_Nugget 1 Amphiptere_Leather 1 Wing_Glue
+Adamantite_Jamadhars 58 1 863 70 7080 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 5 Aurum_Regis_Nugget 1 Birch_Lumber 1 Amphiptere_Leather 1 Wing_Glue
+Adamantite_Bill 58 1 863 70 7080 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Birch_Lumber 1 Amphiptere_Leather 1 Wing_Glue
+Adamantite_Knives 58 1 863 70 7080 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Aurum_Regis_Nugget 1 Archaeornis_Leather 1 Adamantite_Rivets 1 Wing_Glue
+Adamantite_Zweihander 58 1 863 70 7080 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 5 Aurum_Regis_Nugget 1 Birch_Lumber 1 Dragon_Leather 1 Wing_Glue
+Adamantite_Revolver 58 1 863 70 7080 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Titanium_Ingot 1 Mythrite_Ingot 1 Birch_Lumber 5 Wyrm_Obsidian 1 Black_Firesand
+Adamantite_Claw_Hammer 59 1 919 70 7339 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Birch_Lumber 1 Shark_Oil
+Adamantite_File 59 1 919 70 7339 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Dragon_Leather
+Adamantite_Pliers 59 1 919 70 7339 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Adamantite_Rivets 1 Shark_Oil
+Adamantite_Awl 59 1 919 70 7339 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Birch_Lumber 1 Chimerical_Felt
+Adamantite_Mortar 59 1 919 70 7339 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Birch_Lumber
+Adamantite_Culinary_Knife 59 1 919 70 7339 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Birch_Lumber 1 Dragon_Scale
+Adamantite_Sledgehammer 59 1 919 70 7339 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Birch_Lumber 1 Scale_Glue
+Adamantite_Scythe 59 1 919 70 7339 5 Fire_Crystal 5 Earth_Crystal 5 Adamantite_Nugget 1 Birch_Branch 1 Dragon_Scale
+Adamantite_Winglet 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Aurum_Regis_Nugget 1 Birch_Lumber 1 Scale_Glue
+Adamantite_Knuckles 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Aurum_Regis_Nugget 1 Ramie_Cloth 2 Larimar
+Adamantite_Headsman's_Axe 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Aurum_Regis_Nugget 1 Birch_Lumber 1 Adamantite_Rivets 1 Scale_Glue
+Adamantite_Main_Gauches 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Birch_Lumber 2 Tiger's_Eye 1 Scale_Glue
+Adamantite_Greatsword 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 2 Titanium_Ingot 1 Birch_Lumber 1 Amphiptere_Leather 1 Scale_Glue
+Adamantite-barreled_Culverin 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Hardsilver_Ingot 2 Birch_Lumber 1 Adamantite_Rivets 2 Wyrm_Obsidian 1 Black_Firesand
+Adamantite_Saw 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Birch_Lumber 1 Adamantite_Rivets
+Adamantite_Cross-pein_Hammer 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Amphiptere_Leather 1 Scale_Glue
+Adamantite_Ball-pein_Hammer 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 2 Titanium_Ingot 1 Amphiptere_Leather 1 Adamantite_Rivets
+Aurum_Regis_Texture_Hammer 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Aurum_Regis_Nugget 1 Birch_Lumber 2 Electrum_Ingot 1 Opal
+Aurum_Regis_Creasing_Knife 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Aurum_Regis_Nugget 1 Titanium_Ingot 1 Hardsilver_Ingot 1 Scale_Glue
+Adamantite_Dolabra 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Birch_Lumber 1 Scale_Glue 1 Amphiptere_Leather 1 Adamantite_Rivets
+Adamantite_Hatchet 60 1 956 70 7851 2 Fire_Cluster 1 Earth_Cluster 2 Adamantite_Nugget 1 Hardsilver_Ingot 1 Birch_Branch 1 Amphiptere_Leather
+Titanium_Alloy_Ingot 60 1 558 35 8377 2 Fire_Cluster 1 Earth_Cluster 2 Sphalerite 1 Titanium_Nugget
+Adamantite_Ingot 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 1 Sun_Mica 2 Adamantite_Nugget 1 Blue_Quartz 2 Purified_Coke
+Fortified_Claw_Hammer 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Astral_Birch_Lumber 1 Shark_Oil 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Polished_Adamantite_File 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Griffin_Leather 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Double-jointed_Adamantite_Pliers 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Adamantite_Rivets 1 Shark_Oil 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Sharpened_Adamantite_Awl 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Astral_Birch_Lumber 1 Chimerical_Felt 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Heavy_Adamantite_Mortar 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Astral_Birch_Lumber 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Wrapped_Adamantite_Culinary_Knife 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Astral_Birch_Lumber 1 Sun_Mica 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Weighted_Adamantite_Sledgehammer 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Astral_Birch_Lumber 1 Scale_Glue 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Balanced_Adamantite_Scythe 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Astral_Birch_Lumber 1 Sun_Mica 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Millmaster's_Saw 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Astral_Birch_Lumber 2 Adamantite_Rivets 2 Leafborne_Aethersand 1 Mastercraft_Demimateria
+Forgemaster's_Hammer 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Astral_Birch_Lumber 1 Adamantite_Rivets 1 Hardsilver_Ingot 2 Leafborne_Aethersand 1 Mastercraft_Demimateria
+Hammermaster's_Beetle 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Aurum_Regis_Ingot 1 Adamantite_Rivets 1 Hardsilver_Ingot 2 Leafborne_Aethersand 1 Mastercraft_Demimateria
+Gemmaster's_Mallet 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 2 Aurum_Regis_Ingot 1 Birch_Lumber 1 Hardsilver_Ingot 2 Leafborne_Aethersand 1 Mastercraft_Demimateria
+Hidemaster's_Knife 60 1 1436 70 9430 2 Fire_Cluster 2 Earth_Cluster 2 Adamantite_Ingot 1 Griffin_Leather 1 Adamantite_Rivets 1 Aurum_Regis_Nugget 2 Leafborne_Aethersand 1 Mastercraft_Demimateria

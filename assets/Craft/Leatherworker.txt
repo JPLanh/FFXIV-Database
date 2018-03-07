@@ -1,0 +1,643 @@
+Leather 1 1 9 40 312 1 Earth_Shard 1 Animal_Skin
+Leather_Calot 1 1 19 60 312 1 Earth_Shard 1 Wind_Shard 1 Leather
+Leather_Wristguards 2 1 20 60 325 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Animal_Sinew
+Leather_Duckbills 2 1 20 60 325 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Undyed_Hempen_Cloth
+Merchant's_Purse 3 1 20 60 339 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Bronze_Ingot
+Leather_Shepherd's_Belt 3 1 20 60 339 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Bronze_Ingot
+Leather_Duckbills_of_Gathering 3 1 20 60 339 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Undyed_Hempen_Cloth
+Leather_Eyepatch 4 1 21 60 352 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Animal_Sinew 1 Hempen_Yarn
+Fingerless_Leather_Gloves 4 1 21 60 352 1 Earth_Shard 1 Wind_Shard 2 Leather 1 Bronze_Rivets
+Leather_Belt 4 1 21 60 352 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Bronze_Ingot 1 Animal_Sinew
+Leather_Shoes 4 1 21 60 352 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Animal_Sinew 1 Rubber
+Leather_Culottes 5 1 33 60 451 1 Earth_Shard 1 Wind_Shard 2 Leather 2 Undyed_Hempen_Cloth
+Leather_Crakows 5 1 33 60 451 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Bronze_Ingot 1 Animal_Sinew 1 Rubber
+Leather_Choker 5 1 33 60 451 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Animal_Sinew
+Hull_Interior_Component 1 1 19 60 312 2 Earth_Shard 2 Wind_Shard 1 Hull_Interior_Component_Materials
+Bladder_Component 1 1 19 60 312 1 Earth_Shard 1 Wind_Shard 1 Bladder_Component_Materials
+Bladder_Lining_Component 1 1 28 60 234 1 Earth_Shard 1 Wind_Shard 1 Bladder_Lining_Component_Materials
+Starboard_Hull_Component 1 1 19 60 312 1 Earth_Shard 1 Wind_Shard 1 Starboard_Hull_Component_Materials
+Larboard_Hull_Component 1 1 9 40 312 1 Earth_Shard 1 Wind_Shard 1 Larboard_Hull_Component_Materials
+Propulsion_Engine_Component 3 1 30 60 254 2 Earth_Shard 2 Wind_Shard 1 Propulsion_Engine_Component_Materials
+Gyrodrive_Component 3 1 20 60 339 1 Earth_Shard 1 Wind_Shard 1 Gyrodrive_Component_Materials
+Rigging_Component 3 1 36 60 169 1 Earth_Shard 1 Wind_Shard 1 Rigging_Component_Materials
+Deck_Component 3 1 30 60 254 1 Earth_Shard 1 Wind_Shard 1 Deck_Component_Materials
+Engine_Casing_Component 3 1 10 40 339 1 Earth_Shard 1 Wind_Shard 1 Engine_Casing_Component_Materials
+Crafting_Tool_Component 3 1 30 60 254 1 Earth_Shard 1 Wind_Shard 1 Crafting_Tool_Component_Materials
+Leather_Mitts 6 1 36 60 474 1 Earth_Shard 1 Wind_Shard 2 Leather 1 Animal_Sinew
+Leather_Ringbands 6 1 36 60 474 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Bronze_Ingot 1 Hempen_Yarn
+Leather_Lightmitts 6 1 36 60 474 1 Earth_Shard 1 Wind_Shard 2 Leather 1 Animal_Sinew
+Leather_Boots 6 1 36 60 474 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Undyed_Hempen_Cloth 1 Animal_Sinew 1 Rubber
+Leather_Himantes 7 1 37 60 492 1 Earth_Shard 1 Wind_Shard 2 Leather 1 Bronze_Ingot 1 Undyed_Hempen_Cloth
+Leather_Wristbands 7 1 37 60 492 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Animal_Glue 2 Bone_Chip
+Hard_Leather 8 1 20 40 526 1 Earth_Shard 1 Animal_Hide
+Hard_Leather_Pot_Helm 8 1 41 60 526 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Hard_Leather 1 Bronze_Rivets
+Leather_Leggings 8 1 41 60 526 1 Earth_Shard 1 Wind_Shard 2 Leather 1 Undyed_Hempen_Cloth
+Leather_Sandals 8 1 41 60 526 1 Earth_Shard 1 Wind_Shard 1 Leather 1 Maple_Lumber 1 Animal_Sinew
+Amateur's_Smithing_Gloves 9 1 42 60 545 1 Earth_Shard 1 Wind_Shard 2 Hard_Leather 1 Animal_Sinew
+Amateur's_Thighboots 9 1 42 60 545 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Undyed_Hempen_Cloth 1 Rubber
+Amateur's_Duckbills 9 1 42 60 545 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Undyed_Hempen_Cloth
+Leather_Jacket 10 1 45 60 629 1 Earth_Shard 1 Wind_Shard 3 Hard_Leather 1 Animal_Sinew
+Hard_Leather_Wristguards 10 1 45 60 629 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Beast_Sinew
+Hard_Leather_Merchant's_Pouch 10 1 45 60 629 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Bronze_Ingot
+Engine_Jointing_Component 6 1 18 40 474 2 Earth_Shard 2 Wind_Shard 1 Engine_Jointing_Component_Materials
+Cockpit_Exterior_Component 6 1 18 40 474 1 Earth_Shard 1 Wind_Shard 1 Cockpit_Exterior_Component_Materials
+Cockpit_Interior_Component 6 1 18 40 474 1 Earth_Shard 1 Wind_Shard 1 Cockpit_Interior_Component_Materials
+Ballast_Component 6 1 36 60 474 1 Earth_Shard 1 Wind_Shard 1 Ballast_Component_Materials
+Instrument_Panel_Component 6 1 115 60 237 1 Earth_Shard 1 Wind_Shard 1 Instrument_Panel_Component_Materials
+Aerodynamo_Component 6 1 36 60 474 1 Earth_Shard 1 Wind_Shard 1 Aerodynamo_Component_Materials
+Starboard_Wing_Component 10 1 22 40 629 1 Earth_Shard 1 Wind_Shard 1 Starboard_Wing_Component_Materials
+Larboard_Wing_Component 10 1 22 40 629 1 Earth_Shard 1 Wind_Shard 1 Larboard_Wing_Component_Materials
+Starboard_Wing_Control_Component 10 1 67 60 471 1 Earth_Shard 1 Wind_Shard 1 Starboard_Wing_Control_Component_Materials
+Larboard_Wing_Control_Component 10 1 67 60 471 1 Earth_Shard 1 Wind_Shard 1 Larboard_Wing_Control_Component_Materials
+Transmission_Component 10 1 144 60 314 1 Earth_Shard 1 Wind_Shard 1 Transmission_Component_Materials
+Heat_Vent_Component 10 1 144 60 314 1 Earth_Shard 1 Wind_Shard 1 Heat_Vent_Component_Materials
+Amateur's_Headgear 11 1 48 60 665 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Bronze_Ingot 1 Bronze_Rivets
+Leather_Survival_Belt 11 1 48 60 665 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Undyed_Hempen_Cloth 1 Bronze_Ingot
+Hard_Leather_Shoes 11 1 48 60 665 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Beast_Sinew 1 Rubber
+Hard_Leather_Harness 12 1 53 60 702 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Leather 1 Bronze_Ingot
+Hard_Leather_Satchel_Belt 12 1 53 60 702 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Copper_Ingot 1 Hempen_Yarn
+Hard_Leather_Sandals 12 1 53 60 702 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Ash_Lumber 1 Beast_Sinew
+Leather_Jackboots 12 1 53 60 702 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Beast_Sinew 1 Undyed_Hempen_Cloth 1 Rubber
+Leather_Targe 13 1 54 60 726 1 Earth_Shard 1 Wind_Shard 2 Leather 1 Ash_Lumber 1 Bronze_Rivets
+Hard_Leather_Armguards 13 1 54 60 726 1 Earth_Shard 1 Wind_Shard 2 Hard_Leather 1 Bronze_Ingot 1 Bronze_Rivets
+Hard_Leather_Hunting_Belt 13 1 54 60 726 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Leather 1 Copper_Ingot
+Hard_Leather_Himantes 14 1 54 60 751 1 Earth_Shard 1 Wind_Shard 2 Hard_Leather 1 Iron_Ingot 1 Undyed_Hempen_Cloth
+Hard_Leather_Eyepatch 14 1 54 60 751 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Beast_Sinew 1 Hempen_Yarn
+Hard_Leather_Lightmitts 14 1 54 60 751 1 Earth_Shard 1 Wind_Shard 2 Hard_Leather 1 Beast_Sinew
+Hard_Leather_Lightpouch 14 1 54 60 751 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Iron_Ingot
+Hard_Leather_Subligar 14 1 54 60 751 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Undyed_Hempen_Cloth 1 Hempen_Yarn
+Hard_Leather_Caligae 14 1 54 60 751 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Bronze_Rivets 1 Beast_Sinew
+Fingerless_Hard_Leather_Gloves 15 1 55 70 807 1 Earth_Shard 1 Wind_Shard 2 Hard_Leather 1 Iron_Rivets
+Hard_Leather_Boots 15 1 55 70 807 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Undyed_Hempen_Cloth 1 Beast_Sinew 1 Rubber
+Hard_Leather_Crakows 15 1 55 70 807 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Bronze_Ingot 1 Beast_Sinew 1 Rubber
+Hard_Leather_Choker 15 1 55 70 807 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Beast_Sinew
+Glade_Bench 15 1 176 70 403 1 Earth_Shard 1 Wind_Shard 4 Hard_Leather 4 Ash_Lumber
+Helm_Component 15 1 99 70 1452 2 Earth_Shard 2 Wind_Shard 1 Helm_Component_Materials
+Speaking_Tube_Component 15 1 82 70 605 1 Earth_Shard 1 Wind_Shard 1 Speaking_Tube_Component_Materials
+Lamp_Component 15 1 27 40 807 1 Earth_Shard 1 Wind_Shard 1 Lamp_Component_Materials
+Exhaust_Outlet_Component 15 1 99 70 1452 1 Earth_Shard 1 Wind_Shard 1 Exhaust_Outlet_Component_Materials
+Disposal_Unit_Component 15 1 176 70 403 1 Earth_Shard 1 Wind_Shard 1 Disposal_Unit_Component_Materials
+Ceruleum_Tank_Component 15 1 176 70 403 1 Earth_Shard 1 Wind_Shard 1 Ceruleum_Tank_Component_Materials
+Steering_Mechanism_Component 15 1 82 70 605 1 Earth_Shard 1 Wind_Shard 1 Steering_Mechanism_Component_Materials
+Hard_Leather_Ringbands 16 1 63 70 866 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Iron_Ingot
+Hard_Leather_Shepherd's_Belt 16 1 63 70 866 1 Earth_Shard 1 Wind_Shard 2 Hard_Leather 1 Brass_Ingot
+Hard_Leather_Belt 16 1 63 70 866 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Iron_Ingot 1 Beast_Sinew
+Aldgoat_Leather 17 1 33 40 898 1 Earth_Shard 1 Aldgoat_Skin 1 Alumen
+Hard_Leather_Skullcap 17 1 66 70 898 1 Earth_Shard 1 Wind_Shard 2 Hard_Leather 1 Cotton_Yarn
+Hard_Leather_Espadrilles 17 1 66 70 898 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Beast_Sinew 1 Elm_Lumber
+Hard_Leather_Wristbands 17 1 66 70 898 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Fish_Glue 2 White_Coral
+Hard_Leather_Wristbands_of_Gathering 17 1 66 70 898 1 Earth_Shard 1 Wind_Shard 1 Hard_Leather 1 Fish_Glue 2 White_Coral
+Hard_Leather_Cesti 18 1 67 70 939 1 Earth_Shard 1 Wind_Shard 1 Aldgoat_Leather 1 Beast_Sinew 1 Bronze_Ingot
+Goatskin_Mitts 18 1 67 70 939 1 Earth_Shard 1 Wind_Shard 2 Aldgoat_Leather 1 Beast_Sinew
+Goatskin_Wristguards 18 1 67 70 939 1 Earth_Shard 1 Wind_Shard 1 Aldgoat_Leather 1 Beast_Sinew
+Goatskin_Pot_Helm 19 1 68 70 982 1 Earth_Shard 1 Wind_Shard 1 Aldgoat_Leather 1 Hard_Leather 1 Iron_Rivets
+Goatskin_Tool_Belt 19 1 68 70 982 1 Earth_Shard 1 Wind_Shard 2 Aldgoat_Leather 1 Iron_Rivets
+Goatskin_Leggings 19 1 68 70 982 1 Earth_Shard 1 Wind_Shard 2 Aldgoat_Leather 1 Undyed_Cotton_Cloth
+Initiate's_Gloves 20 1 74 70 1053 1 Earth_Shard 1 Wind_Shard 2 Aldgoat_Leather 1 Beast_Sinew
+Goatskin_Ring 20 1 74 70 1053 1 Earth_Shard 1 Wind_Shard 1 Aldgoat_Leather 1 Cotton_Yarn
+Escape_Flyer_Component 16 1 113 70 1558 1 Earth_Shard 1 Wind_Shard 1 Escape_Flyer_Component_Materials
+Spare_Tank_Component 16 1 201 70 433 1 Earth_Shard 1 Wind_Shard 1 Spare_Tank_Component_Materials
+Refabrication_Component 16 1 31 40 866 1 Earth_Shard 1 Wind_Shard 1 Refabrication_Component_Materials
+Isolator_Component 16 1 63 70 866 1 Earth_Shard 1 Wind_Shard 1 Isolator_Component_Materials
+Hyperconductor_Component 16 1 201 70 433 1 Earth_Shard 1 Wind_Shard 1 Hyperconductor_Component_Materials
+Auxiliary_Aerodynamo_Component 16 1 63 70 866 1 Earth_Shard 1 Wind_Shard 1 Auxiliary_Aerodynamo_Component_Materials
+Decorative_Plating_Component 16 1 201 70 433 1 Earth_Shard 1 Wind_Shard 1 Decorative_Plating_Component_Materials
+Finishing_Component 18 1 120 70 1690 2 Earth_Shard 2 Wind_Shard 1 Finishing_Component_Materials
+Figurehead_Component 18 1 214 70 469 2 Earth_Shard 2 Wind_Shard 1 Figurehead_Component_Materials
+Initiate's_Thighboots 21 1 75 70 1090 2 Earth_Shard 1 Wind_Shard 1 Aldgoat_Leather 1 Hard_Leather 1 Undyed_Cotton_Cloth 1 Rubber
+Padded_Leather_Duckbills 21 1 112 70 817 2 Earth_Shard 1 Wind_Shard 1 Leather_Duckbills 1 Leather 1 Undyed_Cotton_Cloth
+Padded_Leather_Duckbills_of_Gathering 21 1 112 70 817 2 Earth_Shard 1 Wind_Shard 1 Leather_Duckbills 1 Leather 1 Undyed_Cotton_Cloth
+Initiate's_Headgear 22 1 75 70 1122 2 Earth_Shard 1 Wind_Shard 1 Aldgoat_Leather 1 Iron_Ingot 1 Iron_Rivets
+Goatskin_Jacket 22 1 75 70 1122 2 Earth_Shard 1 Wind_Shard 2 Aldgoat_Leather 1 Beast_Sinew
+Goatskin_Armguards 22 1 75 70 1122 2 Earth_Shard 1 Wind_Shard 2 Aldgoat_Leather 1 Iron_Rivets
+Goatskin_Brais 22 1 75 70 1122 2 Earth_Shard 1 Wind_Shard 1 Aldgoat_Leather 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Beast_Sinew
+Goatskin_Eyepatch 23 1 79 70 1169 2 Earth_Shard 1 Wind_Shard 1 Aldgoat_Leather 1 Beast_Sinew 1 Cotton_Yarn
+Goatskin_Lightmitts 23 1 79 70 1169 2 Earth_Shard 1 Wind_Shard 2 Aldgoat_Leather 1 Beast_Sinew
+Voyager's_Belt 23 1 79 70 1169 2 Earth_Shard 1 Wind_Shard 1 Aldgoat_Leather 1 Beast_Sinew 1 Iron_Ingot
+Goatskin_Leg_Guards 23 1 79 70 1169 2 Earth_Shard 1 Wind_Shard 2 Aldgoat_Leather 1 Beast_Sinew 1 Iron_Ingot
+Goatskin_Belt 24 1 85 70 1239 2 Earth_Shard 2 Wind_Shard 1 Aldgoat_Leather 1 Iron_Ingot
+Goatskin_Satchel_Belt 24 1 85 70 1239 2 Earth_Shard 2 Wind_Shard 1 Aldgoat_Leather 1 Iron_Ingot
+Goatskin_Breeches 24 1 85 70 1239 2 Earth_Shard 2 Wind_Shard 2 Aldgoat_Leather 2 Undyed_Cotton_Cloth 1 Cotton_Yarn
+Goatskin_Duckbills 24 1 85 70 1239 2 Earth_Shard 2 Wind_Shard 1 Aldgoat_Leather 1 Undyed_Velveteen
+Fingerless_Goatskin_Gloves 25 1 89 70 1296 2 Earth_Shard 2 Wind_Shard 2 Aldgoat_Leather 1 Iron_Rivets
+Fingerless_Goatskin_Gloves_of_Gathering 25 1 89 70 1296 2 Earth_Shard 2 Wind_Shard 2 Aldgoat_Leather 1 Iron_Rivets
+Goatskin_Espadrilles 25 1 89 70 1296 2 Earth_Shard 2 Wind_Shard 1 Aldgoat_Leather 1 Beast_Sinew 1 Elm_Lumber
+Toad_Leather 26 1 45 40 1332 2 Earth_Shard 1 Gigantoad_Skin 1 Alumen
+Goatskin_Crakows 26 1 90 70 1332 2 Earth_Shard 2 Wind_Shard 1 Aldgoat_Leather 1 Iron_Ingot 1 Diremite_Sinew 1 Rubber
+Goatskin_Choker 26 1 90 70 1332 2 Earth_Shard 2 Wind_Shard 1 Aldgoat_Leather 1 Diremite_Sinew
+Goatskin_Ringbands 27 1 91 70 1368 3 Earth_Shard 3 Wind_Shard 1 Aldgoat_Leather 1 Steel_Ingot
+Toadskin_Survival_Belt 27 1 91 70 1368 3 Earth_Shard 3 Wind_Shard 3 Toad_Leather 1 Undyed_Cotton_Cloth 1 Iron_Ingot
+Goatskin_Boots 27 1 91 70 1368 3 Earth_Shard 3 Wind_Shard 1 Aldgoat_Leather 1 Undyed_Velveteen 1 Diremite_Sinew 1 Rubber
+Goatskin_Crakows_of_Gathering 27 1 91 70 1368 3 Earth_Shard 3 Wind_Shard 1 Aldgoat_Leather 1 Iron_Ingot 1 Diremite_Sinew 1 Rubber
+Goatskin_Wristbands_of_Gathering 27 1 91 70 1368 3 Earth_Shard 3 Wind_Shard 1 Aldgoat_Leather 1 Fish_Glue 3 White_Coral
+Toadskin_Cesti 28 1 100 70 1498 3 Earth_Shard 3 Wind_Shard 1 Toad_Leather 1 Steel_Ingot 1 Diremite_Sinew
+Toadskin_Hunting_Belt 28 1 100 70 1498 3 Earth_Shard 3 Wind_Shard 1 Toad_Leather 1 Steel_Ingot 1 Aldgoat_Leather
+Goatskin_Targe 29 1 101 70 1544 3 Earth_Shard 3 Wind_Shard 1 Aldgoat_Leather 1 Walnut_Lumber 1 Steel_Rivets
+Toadskin_Brais 29 1 101 70 1544 3 Earth_Shard 3 Wind_Shard 1 Toad_Leather 1 Undyed_Cotton_Cloth 1 Cotton_Yarn 1 Diremite_Sinew
+Goatskin_Wristbands 29 1 101 70 1544 3 Earth_Shard 3 Wind_Shard 1 Aldgoat_Leather 1 Fish_Glue 3 White_Coral
+Toadskin_Jacket 30 1 102 70 1584 3 Earth_Shard 3 Wind_Shard 3 Toad_Leather 1 Aldgoat_Leather 1 Diremite_Sinew
+Toadskin_Jerkin 30 1 102 70 1584 3 Earth_Shard 3 Wind_Shard 3 Toad_Leather 1 Undyed_Cotton_Cloth 1 Iron_Ingot
+Toadskin_Armguards 30 1 102 70 1584 3 Earth_Shard 3 Wind_Shard 3 Toad_Leather 1 Steel_Ingot 1 Steel_Rivets
+Manor_Stool 28 1 320 70 749 3 Earth_Shard 3 Wind_Shard 3 Toad_Leather 3 Steel_Ingot 1 Silver_Ingot 1 Fine_Wax
+Manor_Sofa 28 1 320 70 749 3 Earth_Shard 3 Wind_Shard 3 Toad_Leather 3 Walnut_Lumber 3 Fine_Wax
+Manor_Couch 29 1 323 70 772 3 Earth_Shard 3 Wind_Shard 3 Toad_Leather 3 Walnut_Lumber 3 Fine_Wax
+Arbor_Flooring 30 1 326 70 792 3 Earth_Shard 3 Wind_Shard 3 Aldgoat_Leather 3 Chamomile 3 Growth_Formula_Gamma
+Snow_White_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Grey_Pigment
+Soot_Black_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Grey_Pigment
+Dalamud_Red_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Red_Pigment
+Wine_Red_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Red_Pigment
+Sunset_Orange_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Brown_Pigment
+Kobold_Brown_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Brown_Pigment
+Pumpkin_Orange_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Brown_Pigment
+Loam_Brown_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Brown_Pigment
+Honey_Yellow_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Yellow_Pigment
+Millioncorn_Yellow_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Yellow_Pigment
+Hunter_Green_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Green_Pigment
+Ochu_Green_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Green_Pigment
+Deepwood_Green_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Green_Pigment
+Celeste_Green_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Green_Pigment
+Morbol_Green_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Green_Pigment
+Woad_Blue_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Othard_Blue_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Storm_Blue_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Void_Blue_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Royal_Blue_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Abyssal_Blue_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Blue_Pigment
+Lotus_Pink_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Purple_Pigment
+Colibri_Pink_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Purple_Pigment
+Plum_Purple_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Purple_Pigment
+Regal_Purple_Dye 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Purple_Pigment
+Grade_1_Glamour_Prism_(Leatherworking) 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Grade_1_Clear_Prism 2 Toad_Leather
+Grade_2_Glamour_Prism_(Leatherworking) 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Grade_2_Clear_Prism 2 Toad_Leather
+Grade_3_Glamour_Prism_(Leatherworking) 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Grade_3_Clear_Prism 2 Toad_Leather
+Grade_4_Glamour_Prism_(Leatherworking) 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Grade_4_Clear_Prism 2 Toad_Leather
+Grade_5_Glamour_Prism_(Leatherworking) 30 1 51 70 1584 1 Earth_Crystal 1 Wind_Crystal 1 Grade_5_Clear_Prism 2 Toad_Leather
+Toadskin_Voyager's_Belt 31 1 106 80 1670 3 Earth_Shard 3 Wind_Shard 1 Toad_Leather 1 Steel_Ingot 1 Diremite_Sinew
+Toadskin_Culottes 31 1 106 80 1670 3 Earth_Shard 3 Wind_Shard 3 Toad_Leather 3 Undyed_Velveteen
+Toadskin_Leg_Guards 31 1 106 80 1670 3 Earth_Shard 3 Wind_Shard 3 Toad_Leather 1 Diremite_Sinew 1 Steel_Ingot
+Toadskin_Workboots 31 1 106 80 1670 3 Earth_Shard 3 Wind_Shard 3 Toad_Leather 1 Undyed_Velveteen 1 Diremite_Sinew 1 Rubber
+Toadskin_Belt 32 1 110 80 1697 3 Earth_Shard 3 Wind_Shard 1 Toad_Leather 1 Steel_Ingot 1 Hippogryph_Sinew
+Toadskin_Breeches 32 1 110 80 1697 3 Earth_Shard 3 Wind_Shard 3 Toad_Leather 3 Undyed_Velveteen 1 Dew_Thread
+Toadskin_Ring 32 1 110 80 1697 3 Earth_Shard 3 Wind_Shard 1 Toad_Leather 1 Dew_Thread
+Boar_Leather 33 1 55 40 1757 4 Earth_Shard 1 Boar_Hide 1 Alumen
+Boarskin_Himantes 33 1 111 80 1757 4 Earth_Shard 4 Wind_Shard 1 Boar_Leather 1 Iron_Ingot 1 Hippogryph_Sinew
+Skull_Eyepatch 33 1 111 80 1757 4 Earth_Shard 4 Wind_Shard 1 Toad_Leather 1 Hippogryph_Sinew 1 Dew_Thread
+Fingerless_Boarskin_Gloves 33 1 111 80 1757 4 Earth_Shard 4 Wind_Shard 4 Boar_Leather 1 Aldgoat_Leather 1 Steel_Rivets
+Boarskin_Satchel_Belt 33 1 111 80 1757 4 Earth_Shard 4 Wind_Shard 1 Boar_Leather 1 Silver_Ingot 1 Linen_Yarn
+Fingerless_Boarskin_Gloves_of_Gathering 34 1 115 80 1811 4 Earth_Shard 4 Wind_Shard 4 Boar_Leather 1 Aldgoat_Leather 1 Steel_Rivets
+Boarskin_Choker 34 1 115 80 1811 4 Earth_Shard 4 Wind_Shard 1 Boar_Leather 1 Hippogryph_Sinew
+Boarskin_Crakows 35 1 123 80 1853 4 Earth_Shard 4 Wind_Shard 1 Boar_Leather 1 Steel_Ingot 1 Hippogryph_Sinew 1 Rubber
+Boarskin_Crakows_of_Gathering 35 1 123 80 1853 4 Earth_Shard 4 Wind_Shard 1 Boar_Leather 1 Steel_Ingot 1 Hippogryph_Sinew 1 Rubber
+Toadskin_Duckbills 35 1 123 80 1853 4 Earth_Shard 4 Wind_Shard 1 Toad_Leather 1 Undyed_Linen
+Vintage_Shepherd's_Belt 35 1 123 80 1853 1 Earth_Crystal 1 Cracked_Shepherd's_Belt 1 Boar_Leather
+Ahriman_Chair 35 1 393 80 926 4 Earth_Shard 4 Wind_Shard 1 Toad_Leather 1 Walnut_Lumber 1 Steel_Ingot 1 Steel_Rivets 1 Ahriman_Tears
+Boarskin_Ringbands 36 1 124 80 1882 4 Earth_Shard 4 Wind_Shard 1 Boar_Leather 1 Steel_Ingot
+Boarskin_Wristbands 36 1 124 80 1882 4 Earth_Shard 4 Wind_Shard 1 Boar_Leather 1 Horn_Glue 4 Blue_Coral
+Boarskin_Wristbands_of_Gathering 36 1 124 80 1882 4 Earth_Shard 4 Wind_Shard 1 Boar_Leather 1 Horn_Glue 4 Blue_Coral
+Boarskin_Pot_Helm 37 1 128 80 1905 4 Earth_Shard 4 Wind_Shard 1 Mythril_Rivets 1 Boar_Leather 1 Aldgoat_Leather 1 Brass_Ingot 1 Aquamarine
+Boarskin_Harness 37 1 128 80 1905 4 Earth_Shard 4 Wind_Shard 1 Boar_Leather 4 Steel_Ingot 1 Aldgoat_Leather
+Boarskin_Shepherd's_Belt 37 1 128 80 1905 4 Earth_Shard 4 Wind_Shard 4 Boar_Leather 1 Mythril_Ingot
+Boarskin_Subligar 37 1 128 80 1905 4 Earth_Shard 4 Wind_Shard 4 Boar_Leather 1 Undyed_Linen 1 Steel_Ingot
+Vintage_Chef's_Belt 37 1 128 80 1905 1 Earth_Crystal 1 Frayed_Chef's_Belt 1 Boar_Leather
+Peiste_Leather 38 1 64 40 1961 4 Earth_Shard 1 Peiste_Skin 1 Black_Alumen
+Fingerless_Peisteskin_Gloves 38 1 129 80 1961 4 Earth_Shard 4 Wind_Shard 4 Peiste_Leather 1 Boar_Leather 1 Steel_Rivets
+Boarskin_Breeches 38 1 129 80 1961 4 Earth_Shard 4 Wind_Shard 4 Boar_Leather 4 Undyed_Linen 1 Linen_Yarn
+Peisteskin_Crakows 38 1 129 80 1961 4 Earth_Shard 4 Wind_Shard 1 Peiste_Leather 1 Mythril_Ingot 1 Hippogryph_Sinew 1 Rubber
+Peisteskin_Crakows_of_Gathering 38 1 129 80 1961 4 Earth_Shard 4 Wind_Shard 1 Peiste_Leather 1 Mythril_Ingot 1 Hippogryph_Sinew 1 Rubber
+Peisteskin_Harness 39 1 137 80 2026 5 Earth_Shard 5 Wind_Shard 1 Peiste_Leather 1 Boar_Leather 5 Mythril_Ingot
+Fingerless_Peisteskin_Gloves_of_Gathering 39 1 137 80 2026 5 Earth_Shard 5 Wind_Shard 5 Peiste_Leather 1 Boar_Leather 1 Steel_Rivets
+Boarskin_Thighboots 39 1 137 80 2026 5 Earth_Shard 5 Wind_Shard 1 Boar_Leather 1 Toad_Leather 1 Undyed_Linen 1 Rubber
+Boarskin_Ring 39 1 137 80 2026 5 Earth_Shard 5 Wind_Shard 1 Boar_Leather 1 Woolen_Yarn
+Vintage_Smithy's_Gloves 39 1 137 80 2026 1 Wind_Crystal 1 Blackened_Smithy's_Gloves 1 Boar_Leather 1 Diremite_Sinew
+Highland_Hood 40 1 138 80 2050 5 Earth_Shard 5 Wind_Shard 1 Blue_Fox_Hide 1 Undyed_Woolen_Cloth 1 Woolen_Yarn
+Highland_Smock 40 1 138 80 2050 5 Earth_Shard 5 Wind_Shard 1 Blue_Fox_Hide 5 Undyed_Woolen_Cloth 5 Woolen_Yarn
+Boarskin_Smithy's_Gloves 40 1 138 80 2050 5 Earth_Shard 5 Wind_Shard 5 Boar_Leather 1 Steel_Ingot 1 Hippogryph_Sinew
+Highland_Mitts 40 1 138 80 2050 5 Earth_Shard 5 Wind_Shard 1 Blue_Fox_Hide 1 Undyed_Woolen_Cloth 1 Woolen_Yarn
+Boarskin_Survival_Belt 40 1 138 80 2050 5 Earth_Shard 5 Wind_Shard 5 Boar_Leather 1 Undyed_Linen 1 Silver_Ingot
+Boarskin_Tool_Belt 40 1 138 80 2050 5 Earth_Shard 5 Wind_Shard 5 Boar_Leather 1 Mythril_Rivets
+Peisteskin_Hunting_Belt 40 1 138 80 2050 5 Earth_Shard 5 Wind_Shard 1 Boar_Leather 1 Peiste_Leather 1 Mythril_Ingot
+Boarskin_Duckbills 40 1 138 80 2050 5 Earth_Shard 5 Wind_Shard 1 Boar_Leather 1 Undyed_Woolen_Cloth
+Highland_Boots 40 1 138 80 2050 5 Earth_Shard 5 Wind_Shard 1 Blue_Fox_Hide 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Rubber
+Highland_Barding 40 1 69 80 2050 5 Earth_Shard 5 Wind_Shard 5 Blue_Fox_Hide 5 Undyed_Woolen_Cloth 5 Woolen_Yarn 1 Elm_Lumber
+Oasis_Banner 36 1 396 80 941 4 Earth_Shard 4 Wind_Shard 4 Boar_Leather 4 Linen_Canvas 4 Walnut_Lumber 4 Steel_Ingot
+Glade_Counter 38 1 412 80 980 4 Earth_Shard 4 Wind_Shard 4 Peiste_Leather 4 Oak_Lumber 4 Steel_Ingot
+Retainer_Counter 39 1 438 80 1013 5 Earth_Shard 5 Wind_Shard 5 Peiste_Leather 5 Oak_Lumber 5 Steel_Ingot 1 Ink_&_Quill
+Glade_Banner 40 1 441 80 1025 5 Earth_Shard 5 Wind_Shard 5 Peiste_Leather 5 Linen_Canvas 5 Oak_Lumber 5 Steel_Ingot
+Sheep_Rug 40 1 441 80 1025 5 Earth_Shard 5 Wind_Shard 5 Boar_Leather 5 Fleece 5 Blue_Fox_Hide
+Raptor_Leather 41 1 71 40 2109 5 Earth_Shard 1 Raptor_Skin 1 Black_Alumen
+Boarskin_Belt 41 1 143 80 2109 5 Earth_Shard 5 Wind_Shard 1 Boar_Leather 1 Mythril_Ingot 1 Hippogryph_Sinew
+Boarskin_Skirt 41 1 143 80 2109 5 Earth_Shard 5 Wind_Shard 5 Boar_Leather 1 Undyed_Linen 1 Silver_Ingot
+Boarskin_Culottes 41 1 143 80 2109 5 Earth_Shard 5 Wind_Shard 5 Boar_Leather 5 Undyed_Woolen_Cloth
+Peisteskin_Subligar 41 1 143 80 2109 5 Earth_Shard 5 Wind_Shard 5 Peiste_Leather 1 Mythril_Ingot 1 Undyed_Woolen_Cloth
+Boarskin_Moccasins 41 1 143 80 2109 5 Earth_Shard 5 Wind_Shard 1 Boar_Leather 1 Aldgoat_Leather 1 Hippogryph_Sinew 1 Rubber
+Vintage_Thighboots 41 1 143 80 2109 1 Earth_Crystal 1 Mildewed_Thighboots 1 Raptor_Leather 1 Rubber 1 Iron_Rivets 1 Diremite_Sinew
+Raptorskin_Targe 42 1 144 80 2147 5 Earth_Shard 5 Wind_Shard 1 Raptor_Leather 1 Oak_Lumber 1 Mythril_Rivets 1 Aldgoat_Horn
+Boarskin_Workboots 42 1 144 80 2147 5 Earth_Shard 5 Wind_Shard 5 Boar_Leather 1 Undyed_Linen 1 Hippogryph_Sinew 1 Rubber
+Uraeus_Leather 43 1 77 40 2251 1 Earth_Crystal 1 Uraeus_Skin 1 Black_Alumen
+Boarskin_Jerkin 43 1 155 80 2251 5 Earth_Shard 5 Wind_Shard 5 Boar_Leather 1 Undyed_Woolen_Cloth 1 Silver_Ingot
+Boarskin_Ringbands_of_Flames 43 1 232 80 1688 5 Earth_Shard 5 Wind_Shard 1 Boarskin_Ringbands 1 Electrum_Ingot 1 Eye_of_Fire
+Boarskin_Ringbands_of_Frost 43 1 232 80 1688 5 Earth_Shard 5 Wind_Shard 1 Boarskin_Ringbands 1 Electrum_Ingot 1 Eye_of_Ice
+Boarskin_Ringbands_of_Gales 43 1 232 80 1688 5 Earth_Shard 5 Wind_Shard 1 Boarskin_Ringbands 1 Electrum_Ingot 1 Eye_of_Wind
+Boarskin_Ringbands_of_Tremors 43 1 232 80 1688 5 Earth_Shard 5 Wind_Shard 1 Boarskin_Ringbands 1 Electrum_Ingot 1 Eye_of_Earth
+Boarskin_Ringbands_of_Storms 43 1 232 80 1688 5 Earth_Shard 5 Wind_Shard 1 Boarskin_Ringbands 1 Electrum_Ingot 1 Eye_of_Lightning
+Boarskin_Ringbands_of_Tides 43 1 232 80 1688 5 Earth_Shard 5 Wind_Shard 1 Boarskin_Ringbands 1 Electrum_Ingot 1 Eye_of_Water
+Fingerless_Raptorskin_Gloves 43 1 155 80 2251 5 Earth_Shard 5 Wind_Shard 5 Raptor_Leather 1 Boar_Leather 1 Cobalt_Rivets
+Raptorskin_Satchel_Belt 43 1 155 80 2251 5 Earth_Shard 5 Wind_Shard 1 Raptor_Leather 1 Electrum_Ingot 1 Woolen_Yarn
+Raptorskin_Choker 43 1 155 80 2251 5 Earth_Shard 5 Wind_Shard 1 Raptor_Leather 1 Raptor_Sinew
+Silver_Tricorne 43 1 155 80 2251 1 Wind_Crystal 1 Uraeus_Leather 1 Silver_Ingot 1 Diremite_Sinew
+Peisteskin_Cesti 44 1 156 80 2277 5 Earth_Shard 5 Wind_Shard 1 Steel_Ingot 1 Peiste_Leather 1 Raptor_Sinew
+Raptorskin_Harness 44 1 156 80 2277 5 Earth_Shard 5 Wind_Shard 5 Cobalt_Ingot 1 Boar_Leather 1 Raptor_Leather
+Raptorskin_Smithy's_Gloves 44 1 156 80 2277 5 Earth_Shard 5 Wind_Shard 1 Cobalt_Ingot 5 Raptor_Leather 1 Raptor_Sinew
+Fingerless_Raptorskin_Gloves_of_Gathering 44 1 156 80 2277 5 Earth_Shard 5 Wind_Shard 5 Raptor_Leather 1 Boar_Leather 1 Cobalt_Rivets
+Raptorskin_Artisan's_Belt 44 1 156 80 2277 5 Earth_Shard 5 Wind_Shard 1 Raptor_Leather 1 Cobalt_Ingot 1 Walnut_Lumber 1 Woolen_Yarn
+Peisteskin_Belt 44 1 156 80 2277 5 Earth_Shard 5 Wind_Shard 1 Peiste_Leather 1 Cobalt_Ingot 1 Hippogryph_Sinew
+Raptorskin_Subligar 44 1 156 80 2277 5 Earth_Shard 5 Wind_Shard 1 Undyed_Felt 5 Raptor_Leather 1 Cobalt_Ingot
+Raptorskin_Breeches 44 1 156 80 2277 5 Earth_Shard 5 Wind_Shard 5 Raptor_Leather 5 Undyed_Woolen_Cloth 1 Woolen_Yarn
+Raptorskin_Pot_Helm 45 1 158 80 2309 6 Earth_Shard 6 Wind_Shard 1 Cobalt_Rivets 6 Raptor_Leather 1 Mythril_Ingot 1 Rubellite
+Raptorskin_Armguards 45 1 158 80 2309 6 Earth_Shard 6 Wind_Shard 1 Raptor_Leather 1 Cobalt_Ingot 1 Cobalt_Rivets
+Raptorskin_Survival_Belt 45 1 158 80 2309 6 Earth_Shard 6 Wind_Shard 1 Boar_Leather 1 Raptor_Leather 1 Undyed_Felt 1 Silver_Ingot
+Raptorskin_Merchant's_Purse 45 1 158 80 2309 6 Earth_Shard 6 Wind_Shard 1 Raptor_Leather 1 Mythril_Ingot
+Raptorskin_Culottes 45 1 158 80 2309 6 Earth_Shard 6 Wind_Shard 6 Raptor_Leather 6 Undyed_Woolen_Cloth
+Raptorskin_Workboots 45 1 158 80 2309 6 Earth_Shard 6 Wind_Shard 1 Rubber 6 Raptor_Leather 1 Undyed_Linen 1 Raptor_Sinew
+Raptorskin_Wristbands 45 1 158 80 2309 6 Earth_Shard 6 Wind_Shard 1 Raptor_Leather 1 Horn_Glue 6 Red_Coral
+Raptorskin_Wristbands_of_Gathering 45 1 158 80 2309 6 Earth_Shard 6 Wind_Shard 1 Raptor_Leather 1 Horn_Glue 6 Red_Coral
+Riviera_Oval_Rug 41 1 457 80 1054 5 Earth_Shard 5 Wind_Shard 5 Peiste_Leather 5 Undyed_Woolen_Cloth 5 Woolen_Yarn
+Riviera_Banner 44 1 499 80 1138 5 Earth_Shard 5 Wind_Shard 5 Raptor_Leather 5 Linen_Canvas 5 Mahogany_Lumber 5 Steel_Ingot
+Glade_Blossom_Rug 44 1 499 80 1138 5 Earth_Shard 5 Wind_Shard 5 Raptor_Leather 5 Bloodgrass 5 Mythril_Rivets
+Raptorskin_Brais 46 1 159 80 2372 6 Earth_Shard 6 Wind_Shard 1 Raptor_Leather 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Raptor_Sinew
+Raptorskin_Thighboots 46 1 159 80 2372 6 Earth_Shard 6 Wind_Shard 1 Rubber 1 Raptor_Leather 1 Boar_Leather 1 Undyed_Linen
+Dodore_Leather 47 1 83 40 2421 1 Earth_Crystal 1 Dodore_Wing 1 Black_Alumen
+Raptorskin_Jerkin 47 1 167 80 2421 6 Earth_Shard 6 Wind_Shard 1 Boar_Leather 6 Raptor_Leather 1 Undyed_Felt 1 Electrum_Ingot
+Hunting_Moccasins 47 1 167 80 2421 6 Earth_Shard 6 Wind_Shard 6 Boar_Leather 1 Raptor_Sinew 1 Rubber
+Dodore_Doublet 47 1 167 80 2421 1 Earth_Crystal 2 Dodore_Leather 2 Aldgoat_Leather 1 Silver_Ingot 1 Undyed_Woolen_Cloth
+Oxblood_Targe 48 1 172 80 2524 6 Earth_Shard 6 Wind_Shard 1 Raptor_Leather 1 Spoken_Blood 1 Rosewood_Lumber 1 Cobalt_Rivets
+Raptorskin_Ring 48 1 172 80 2524 6 Earth_Shard 6 Wind_Shard 1 Raptor_Leather 1 Raptor_Sinew
+Raptorskin_Jacket 49 1 174 80 2551 6 Earth_Shard 6 Wind_Shard 6 Raptor_Leather 1 Raptor_Sinew
+Raptorskin_Voyager's_Belt 49 1 174 80 2551 6 Earth_Shard 6 Wind_Shard 1 Raptor_Leather 1 Raptor_Sinew 1 Cobalt_Ingot
+Raptorskin_Leg_Guards 49 1 174 80 2551 6 Earth_Shard 6 Wind_Shard 6 Raptor_Leather 1 Raptor_Sinew 1 Mythril_Ingot
+Hippogryph_Leather 50 1 97 40 2646 3 Earth_Crystal 1 Hippogryph_Skin 1 Black_Alumen
+Coeurl_Fur 50 1 97 40 2646 3 Earth_Crystal 1 Coeurl_Skin 1 Black_Alumen
+Wildling's_Cesti 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Bloody_Cesti_Covers 1 Darksteel_Nugget
+Imperial_Operative_Tricorne 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Rose_Gold_Nugget 1 Raptor_Sinew
+Militia_Harness 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Boar_Leather 3 Darksteel_Nugget
+Glacial_Coat 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Chinchilla_Hide 1 Boar_Leather 3 Twinthread
+Militia_Ringbands 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Darksteel_Nugget 1 Woolen_Yarn
+Militia_Belt 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Darksteel_Nugget 1 Raptor_Sinew
+Militia_Subligar 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Undyed_Woolen_Cloth 1 Twinthread
+Militia_Caligae 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Darksteel_Rivets 1 Raptor_Sinew
+Militia_Duckbills 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Undyed_Woolen_Cloth
+Sailor_Deck_Shoes 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Mariner_Cotton_Cloth 1 Raptor_Leather 1 Twinthread 1 Rubber
+Glacial_Boots 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Chinchilla_Hide 1 Twinthread 1 Rose_Gold_Nugget 1 Rubber
+Militia_Choker 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Raptor_Sinew
+Leatherworker's_Hat 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Hippogryph_Sinew 1 Turquoise
+Hamlet_Puller's_Hat 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Rose_Gold_Nugget 1 Whitelip_Oyster 1 Sinking_Minnow
+Blacksmith's_Apron 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 3 Raptor_Leather 1 Twinthread 1 Darksteel_Nugget
+Leatherworker's_Shirt 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Twinthread
+Miner's_Shirt 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 3 Undyed_Felt 1 Woolen_Yarn 1 Twinthread 1 Brass_Ingot
+Botanist's_Doublet 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 3 Undyed_Woolen_Cloth 1 Twinthread
+Fisher's_Shirt 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 3 Undyed_Felt 1 Undyed_Woolen_Cloth 1 Silver_Ingot
+Carpenter's_Gloves 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Raptor_Sinew 1 Rose_Gold_Nugget
+Blacksmith's_Gloves 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Raptor_Sinew 1 Darksteel_Nugget
+Armorer's_Gloves 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Undyed_Felt 1 Twinthread
+Goldsmith's_Gloves 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 1 Woolen_Yarn 1 Electrum_Ingot
+Leatherworker's_Gloves 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Twinthread 1 Raptor_Sinew
+Weaver's_Gloves 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Twinthread
+Miner's_Gloves 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Undyed_Felt 1 Twinthread
+Fisher's_Gloves 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Twinthread 1 Silver_Ingot
+Carpenter's_Slops 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 1 Raptor_Sinew 1 Electrum_Ingot
+Miner's_Slops 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 1 Undyed_Felt 1 Woolen_Yarn
+Carpenter's_Workboots 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Twinthread 1 Rubber
+Armorer's_Workboots 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Raptor_Sinew 1 Darksteel_Nugget
+Goldsmith's_Boots 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Woolen_Yarn 3 Electrum_Ingot 1 Rubber
+Leatherworker's_Workboots 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Twinthread 1 Rubber
+Weaver's_Thighboots 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 1 Woolen_Yarn 1 Rubber
+Alchemist's_Thighboots 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 1 Hippogryph_Sinew 1 Rubber
+Culinarian's_Gaiters 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 1 Electrum_Ingot 1 Rubber
+Miner's_Workboots 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Undyed_Felt 1 Darksteel_Nugget
+Botanist's_Workboots 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 1 Undyed_Felt 1 Hippogryph_Sinew
+Fisher's_Wading_Boots 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Undyed_Felt 1 Twinthread 1 Silver_Ingot
+Hard_Hippogryph_Leather 50 1 116 40 2921 1 Earth_Cluster 2 Hippogryph_Leather 2 Animal_Fat
+Gryphonskin_Shoulder_Guards 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Hippogryph_Leather 1 Raptor_Sinew
+Gryphonskin_Shin_Guards 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Hippogryph_Leather 1 Raptor_Sinew
+Gryphonskin_Elbow_Pads 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Hippogryph_Leather 1 Raptor_Sinew
+Gryphonskin_Knee_Pads 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Hippogryph_Leather 1 Raptor_Sinew
+Gryphonskin_Bandana 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Undyed_Felt 1 Tourmaline
+Gryphonskin_Hat 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Undyed_Felt 1 Linen_Yarn 1 Wildfowl_Feather
+Gryphonskin_Jerkin 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Gryphonskin_Shoulder_Guards 1 Coeurl_Fur 1 Raptor_Sinew 1 Undyed_Felt 1 Rose_Gold_Nugget
+Gryphonskin_Tunic 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Garlean_Steel_Joint 1 Hard_Hippogryph_Leather 1 Hippogryph_Sinew 1 Undyed_Felt 1 Undyed_Linen
+Gryphonskin_Bracers 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Undyed_Felt 1 Twinthread
+Gryphonskin_Gloves 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Gryphonskin_Elbow_Pads 1 Coeurl_Fur 1 Raptor_Sinew 1 Rose_Gold_Nugget
+Gryphonskin_Voyager's_Belt 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Darksteel_Nugget 1 Hippogryph_Sinew
+Gryphonskin_Belt 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Darksteel_Nugget 1 Cobalt_Rivets
+Gryphonskin_Trousers 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Gryphonskin_Shin_Guards 1 Coeurl_Fur 1 Raptor_Sinew 1 Undyed_Felt
+Gryphonskin_Kecks 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Hippogryph_Leather 1 Undyed_Felt 1 Hippogryph_Sinew
+Gryphonskin_Thighboots 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Gryphonskin_Knee_Pads 2 Coeurl_Fur 1 Raptor_Sinew 1 Rose_Gold_Nugget
+Gryphonskin_Moccasins 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Hippogryph_Leather 1 Hippogryph_Sinew
+Gryphonskin_Choker 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Hippogryph_Leather 1 Hippogryph_Sinew
+Gryphonskin_Wristbands 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Horn_Glue 1 Darksteel_Nugget
+Gryphonskin_Ring 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Hippogryph_Leather 2 Twinthread
+Levin_Barding 50 1 222 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Levin_Orb 1 Saurian_Leather 1 Rose_Gold_Nugget 2 Twinthread
+Ice_Barding 50 1 293 80 5783 2 Earth_Cluster 2 Wind_Cluster 1 Diamond_Tear 1 Allagan_Leather 1 Cashmere_Cloth 1 Platinum_Nugget
+Glade_Armchair 46 1 508 80 1186 6 Earth_Shard 6 Wind_Shard 6 Raptor_Leather 6 Oak_Lumber 6 Cobalt_Rivets 6 Apkallu_Down
+Riviera_Fringed_Rug 47 1 534 80 1210 6 Earth_Shard 6 Wind_Shard 6 Raptor_Leather 6 Boar_Hide 6 Woolen_Yarn
+Glade_Couch 48 1 550 80 1262 6 Earth_Shard 6 Wind_Shard 6 Raptor_Leather 6 Oak_Lumber 6 Cobalt_Rivets 6 Apkallu_Down
+Morbol_Chair 50 1 595 80 1320 6 Earth_Shard 6 Wind_Shard 6 Hippogryph_Leather 6 Rosewood_Lumber 6 Morbol_Vine 1 Undyed_Woolen_Cloth 1 Sandworm_Fang 1 Morbol_Saliva
+Morbol_Chandelier 50 1 595 80 1320 6 Earth_Shard 6 Wind_Shard 6 Hippogryph_Leather 6 Rosewood_Lumber 6 Morbol_Vine 1 Morbol_Seedling 6 Morbol_Saliva 6 Tallow_Candle
+Morbol_Bookshelf 50 1 595 80 1320 6 Earth_Shard 6 Wind_Shard 6 Hippogryph_Leather 6 Rosewood_Lumber 6 Morbol_Vine 1 Undyed_Woolen_Cloth 1 Sandworm_Fang 1 Morbol_Saliva
+Morbol_Screen 50 1 595 80 1320 6 Earth_Shard 6 Wind_Shard 6 Hippogryph_Leather 1 Rosewood_Lumber 6 Morbol_Vine 1 Undyed_Woolen_Cloth 1 Sandworm_Fang 1 Morbol_Saliva
+Morbol_Rug 50 1 595 80 1320 6 Earth_Shard 6 Wind_Shard 6 Hippogryph_Leather 1 Snurble_Tufts 6 Morbol_Vine 1 Undyed_Woolen_Cloth 1 Morbol_Saliva
+Tonberry_Armchair 50 1 624 80 1323 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 1 Blue_Fox_Hide 3 Mahogany_Lumber 3 Electrum_Ingot 3 Apkallu_Down
+Stuffed_Goblin 50 1 624 80 1323 3 Earth_Crystal 3 Wind_Crystal 3 Floss_Silk 3 Exquisite_Buttons 3 Boar_Leather 3 Undyed_Felt 3 Linen_Yarn
+Drinking_Apkallu 50 1 624 80 1323 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 1 Silver_Ingot 1 Distilled_Water 3 Apkallu_Down 1 Frosted_Glass_Lens
+Tonberry_Couch 50 1 624 80 1323 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 1 Blue_Fox_Hide 3 Mahogany_Lumber 3 Electrum_Ingot 3 Apkallu_Down
+Behemoth_Wall_Trophy 50 1 624 80 1323 3 Earth_Crystal 3 Wind_Crystal 3 Hippogryph_Leather 3 Rosewood_Lumber 3 Darksteel_Nugget 3 Behemoth_Horn 3 Chinchilla_Hide
+Carbuncle_Armchair 50 1 1424 80 2490 2 Earth_Cluster 1 Wind_Cluster 1 Ruby 2 Hippogryph_Leather 2 Undyed_Woolen_Cloth 2 Apkallu_Down 2 Cobalt_Ingot
+Carbuncle_Rug 50 1 1424 80 2490 2 Earth_Cluster 1 Wind_Cluster 2 Ruby 2 Jute_Yarn 2 Hippogryph_Leather 2 Raptor_Leather
+Wolf_Jacket 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 3 Raptor_Leather 1 Raptor_Sinew
+Wolf_Armguards 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Cobalt_Ingot 1 Cobalt_Rivets
+Wolf_Ringbands 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Cobalt_Ingot 1 Electrum_Ingot 1 Eye_of_Fire
+Wolf_Whipping_Belt 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Hippogryph_Sinew 1 Cobalt_Ingot
+Wolf_Belt 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Raptor_Sinew 1 Mythril_Ingot
+Wolf_Satchel_Belt 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Electrum_Ingot 1 Woolen_Yarn
+Wolf_Breeches 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Raptor_Leather 3 Undyed_Woolen_Cloth 1 Woolen_Yarn
+Wolf_Brais 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Undyed_Woolen_Cloth 1 Woolen_Yarn 1 Raptor_Sinew
+Wolf_Leg_Guards 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Raptor_Leather 1 Raptor_Sinew 1 Mythril_Ingot
+Wolf_Moccasins 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Boar_Leather 1 Raptor_Sinew 1 Rubber
+Wolf_Duckbills 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Hippogryph_Leather 1 Undyed_Woolen_Cloth
+Coeurl_Talisman 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Waterproof_Cotton 1 Coeurl_Fur 1 Silver_Ingot 1 Lapis_Lazuli 3 Fieldcraft_Demimateria_I
+Coeurl_Beach_Halter 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Waterproof_Cotton 3 Coeurl_Fur 1 Twinthread 3 Fieldcraft_Demimateria_I
+Dodore_Belt 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Dodore_Leather 1 Darksteel_Rivets 3 Fieldcraft_Demimateria_I
+Dodore_Survival_Belt 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 3 Dodore_Leather 1 Undyed_Felt 1 Darksteel_Nugget 3 Fieldcraft_Demimateria_I
+Coeurl_Beach_Maro 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Waterproof_Cotton 3 Coeurl_Fur 1 Twinthread 3 Fieldcraft_Demimateria_I
+Coeurl_Beach_Briefs 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Waterproof_Cotton 1 Coeurl_Fur 1 Twinthread 3 Fieldcraft_Demimateria_I
+Coeurl_Beach_Pareo 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Waterproof_Cotton 3 Coeurl_Fur 1 Twinthread 3 Fieldcraft_Demimateria_I
+Coeurl_Beach_Tanga 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Waterproof_Cotton 1 Coeurl_Fur 1 Twinthread 3 Fieldcraft_Demimateria_I
+Dodore_Choker 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Dodore_Leather 1 Raptor_Sinew 3 Fieldcraft_Demimateria_I
+Dodore_Ring 50 1 195 80 2646 3 Earth_Crystal 3 Wind_Crystal 1 Dodore_Leather 1 Twinthread 3 Fieldcraft_Demimateria_I
+Gryphonskin_Strap 50 1 419 80 5257 11 Earth_Shard 11 Wind_Shard 11 Hippogryph_Leather
+Airship_Repair_Materials 50 1 233 80 2921 5 Earth_Crystal 5 Wind_Crystal 1 Dark_Matter_Cluster 5 Grade_6_Dark_Matter
+Gryphonskin_Eyepatch 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Raptor_Sinew 1 Twinthread 1 Darksteel_Ingot 1 Fieldcraft_Demimateria_II
+Best_Man's_Gaiters 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Undyed_Woolen_Cloth 1 Fieldcraft_Demimateria_II
+Bridesmaid's_Sandals 50 1 233 80 2921 1 Earth_Cluster 1 Wind_Cluster 1 Hard_Hippogryph_Leather 1 Spruce_Lumber 1 Fieldcraft_Demimateria_II
+Patent_Leather 50 1 222 40 4980 3 Earth_Cluster 3 Wind_Cluster 3 Lampblack_Linseed_Oil 1 Saurian_Skin 1 Shroud_Tea_Leaves
+Water-hardened_Hippogryph_Strap 50 1 801 80 8964 12 Earth_Shard 12 Wind_Shard 1 Gryphonskin_Strap 12 Fieldcraft_Demimateria_III
+Saurian_Leather 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Skin 1 Shroud_Tea_Leaves
+Perfect_Vellum 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Aged_Vellum 2 Pumice 1 Shark_Oil
+Murderous_Moggle_Mogfists 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 2 Demimog_Demimateria 2 Battlecraft_Demimateria_III 1 Kingly_Whisker 2 Saurian_Leather 1 Cobalt_Ingot
+Saurian_Bandana_of_Striking 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 2 Terminus_Putty 1 Undyed_Felt 1 Twinthread 1 Rose_Gold_Nugget
+Saurian_Shirt_of_Striking 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 2 Saurian_Leather 2 Terminus_Putty 1 Hippogryph_Leather 1 Undyed_Felt 1 Twinthread 1 Rose_Gold_Nugget
+Saurian_Tabard_of_Aiming 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 2 Saurian_Leather 2 Terminus_Putty 1 Hippogryph_Leather 1 Darksteel_Rings 1 Rose_Gold_Nugget
+Saurian_Gloves_of_Striking 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 2 Terminus_Putty 1 Undyed_Felt 1 Twinthread 1 Rose_Gold_Nugget 1 Raptor_Sinew
+Saurian_Gloves_of_Aiming 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 2 Terminus_Putty 1 Hippogryph_Leather 1 Rose_Gold_Nugget 1 Raptor_Sinew
+Saurian_Gloves_of_Casting 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 2 Terminus_Putty 1 Hippogryph_Leather 1 Raptor_Sinew
+Saurian_Gloves_of_Healing 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 2 Terminus_Putty 1 Undyed_Felt 2 Twinthread 1 Raptor_Sinew
+Saurian_Belt_of_Striking 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 1 Terminus_Putty 2 Darksteel_Rivets
+Saurian_Belt_of_Aiming 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 1 Terminus_Putty 1 Coeurl_Fur 1 Rose_Gold_Nugget
+Saurian_Belt_of_Casting 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 1 Terminus_Putty 1 Rose_Gold_Nugget 1 Twinthread
+Saurian_Belt_of_Healing 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 1 Terminus_Putty 1 Darksteel_Nugget 1 Raptor_Sinew
+Saurian_Trousers 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 2 Saurian_Leather 2 Terminus_Putty 2 Hippogryph_Leather 1 Raptor_Sinew
+Saurian_Boots_of_Striking 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 2 Terminus_Putty 1 Undyed_Felt 1 Twinthread 2 Rose_Gold_Nugget
+Saurian_Boots_of_Aiming 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 2 Terminus_Putty 2 Hippogryph_Leather 1 Raptor_Sinew
+Saurian_Crakows_of_Casting 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 2 Terminus_Putty 1 Undyed_Felt 1 Twinthread 1 Rose_Gold_Nugget
+Saurian_Boots_of_Healing 50 1 445 80 4980 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Leather 2 Terminus_Putty 1 Hippogryph_Leather 1 Raptor_Sinew 1 Rose_Gold_Nugget
+Augmented_Saurian_Shirt_of_Striking 50 1 667 80 3735 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Shirt_of_Striking 1 Battlecraft_Demimateria_III 2 Battlecraft_Demimateria_II 2 Saurian_Leather
+Augmented_Saurian_Tabard_of_Aiming 50 1 667 80 3735 2 Earth_Cluster 1 Wind_Cluster 1 Saurian_Tabard_of_Aiming 1 Battlecraft_Demimateria_III 2 Battlecraft_Demimateria_II 2 Saurian_Leather
+Kirimu_Leather 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 1 Allagan_Leather 1 Dubbin
+Kirimu_Tricorne 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Saurian_Leather 1 Rose_Gold_Nugget
+Kirimu_Coat 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Sapphire 1 Rose_Gold_Nugget 1 Twinthread
+Kirimu_Bracers 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Cashmere_Cloth 1 Twinthread
+Kirimu_Gloves_of_Casting 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Cashmere_Cloth 1 Twinthread
+Kirimu_Gloves_of_Healing 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Cashmere_Cloth 1 Twinthread
+Artisan's_Mitts 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 1 Mastercraft_Demimateria 1 Platinum_Nugget 1 Hard_Hippogryph_Leather 2 Twinthread 2 Ehcatl_Sealant
+Forager's_Wristguards 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 1 Mastercraft_Demimateria 1 Platinum_Nugget 1 Hard_Hippogryph_Leather 2 Twinthread 2 Ehcatl_Sealant
+Kirimu_Belt_of_Maiming 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Wolfram_Ingot 1 Twinthread
+Kirimu_Belt_of_Striking 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Wolfram_Ingot 1 Twinthread
+Kirimu_Belt_of_Scouting 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Wolfram_Ingot 1 Twinthread
+Kirimu_Belt_of_Casting 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Cashmere_Cloth 1 Twinthread
+Kirimu_Belt_of_Healing 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Cashmere_Cloth 1 Twinthread
+Kirimu_Breeches_of_Fending 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Cashmere_Cloth 1 Darksteel_Rings 1 Twinthread
+Kirimu_Breeches_of_Maiming 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Cashmere_Cloth 1 Darksteel_Nugget 1 Twinthread
+Kirimu_Brais 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Cashmere_Cloth 2 Twinthread
+Kirimu_Sandals_of_Striking 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 1 Kirimu_Leather 1 Platinum_Nugget 2 Ebony_Lumber 1 Saurian_Leather 1 Twinthread
+Kirimu_Boots_of_Aiming 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Saurian_Leather 1 Twinthread
+Kirimu_Sandals_of_Scouting 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 1 Kirimu_Leather 1 Platinum_Nugget 2 Ebony_Lumber 1 Saurian_Leather 1 Twinthread
+Kirimu_Boots_of_Casting 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Cashmere_Cloth 1 Twinthread
+Kirimu_Boots_of_Healing 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 2 Kirimu_Leather 1 Platinum_Nugget 1 Cashmere_Cloth 1 Twinthread
+Forager's_Shoes 50 1 586 80 5783 2 Earth_Cluster 2 Wind_Cluster 1 Mastercraft_Demimateria 1 Platinum_Nugget 1 Hard_Hippogryph_Leather 2 Twinthread 2 Ehcatl_Sealant
+Archaeornis_Leather 51 1 169 40 3951 3 Earth_Crystal 3 Archaeornis_Skin 1 Coerthan_Tea_Leaves
+Archaeoskin_Gloves_of_Striking 51 1 339 80 3951 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Mythrite_Nugget 3 Jadeite
+Archaeoskin_Gloves_of_Aiming 51 1 339 80 3951 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread 3 Agate
+Archaeoskin_Gloves_of_Casting 51 1 339 80 3951 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread 3 Agate
+Archaeoskin_Gloves_of_Healing 51 1 339 80 3951 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread 3 Agate
+Archaeoskin_Belt_of_Striking 51 1 339 80 3951 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread
+Archaeoskin_Gloves_of_Crafting 51 1 421 80 4561 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread 1 Mythrite_Nugget
+Archaeoskin_Gloves_of_Gathering 51 1 421 80 4561 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread 1 Mythrite_Nugget
+Archaeoskin_Breeches_of_Maiming 51 1 421 80 4561 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Cloth 1 Rainbow_Thread
+Archaeoskin_Breeches_of_Fending 51 1 421 80 4561 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Cloth 1 Rainbow_Thread
+Archaeoskin_Boots_of_Striking 51 1 421 80 4561 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread 3 Cloud_Coral 1 Rubber
+Archaeoskin_Shoes_of_Aiming 51 1 421 80 4561 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread 1 Electrum_Ingot 1 Rubber
+Archaeoskin_Boots_of_Scouting 51 1 421 80 4561 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Cloth 1 Rainbow_Thread 1 Rubber
+Archaeoskin_Shoes_of_Casting 51 1 421 80 4561 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread 1 Electrum_Ingot 1 Rubber
+Archaeoskin_Shoes_of_Healing 51 1 421 80 4561 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread 1 Electrum_Ingot 1 Rubber
+Wyvern_Leather 52 1 251 40 5172 3 Earth_Crystal 3 Wyvern_Skin 1 Coerthan_Tea_Leaves
+Archaeoskin_Jackcoat_of_Crafting 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Cloth 1 Rainbow_Thread 1 Mythrite_Nugget
+Archaeoskin_Jackcoat_of_Gathering 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Cloth 1 Rainbow_Thread 1 Mythrite_Nugget
+Wyvernskin_Gloves_of_Maiming 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 1 Wyvern_Leather 3 Mythrite_Ingot 3 Rose_Gold_Nugget
+Wyvernskin_Gloves_of_Striking 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 1 Wyvern_Leather 3 Mythrite_Ingot 3 Rose_Gold_Nugget
+Wyvernskin_Cuffs_of_Aiming 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Rainbow_Cloth 1 Rose_Gold_Nugget
+Wyvernskin_Cuffs_of_Scouting 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Rainbow_Cloth 1 Rose_Gold_Nugget
+Wyvernskin_Gloves_of_Casting 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Mythrite_Ingot 1 Rainbow_Thread
+Wyvernskin_Gloves_of_Healing 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Mythrite_Ingot 1 Rainbow_Thread
+Wyvernskin_Gloves_of_Fending 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Archaeornis_Leather 1 Rainbow_Cloth
+Wyvernskin_Belt_of_Maiming 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Rainbow_Thread
+Wyvernskin_Belt_of_Striking 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Rainbow_Thread
+Wyvernskin_Belt_of_Aiming 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Rainbow_Thread
+Wyvernskin_Belt_of_Scouting 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Rainbow_Thread
+Wyvernskin_Belt_of_Casting 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Rainbow_Thread
+Wyvernskin_Belt_of_Healing 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Rainbow_Thread
+Wyvernskin_Belt_of_Fending 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Wyvern_Leather 1 Rainbow_Thread
+Archaeoskin_Breeches_of_Crafting 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread 1 Mythrite_Nugget
+Archaeoskin_Breeches_of_Gathering 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Thread 1 Mythrite_Nugget
+Archaeoskin_Jackboots_of_Crafting 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Cloth 1 Rainbow_Thread 1 Rubber
+Archaeoskin_Jackboots_of_Gathering 52 1 503 80 5172 3 Earth_Crystal 3 Wind_Crystal 3 Archaeornis_Leather 1 Rainbow_Cloth 1 Rainbow_Thread 1 Rubber
+Wyvernskin_Pot_Helm_of_Maiming 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Archaeornis_Leather 1 Rose_Gold_Nugget
+Wyvernskin_Eyepatch_of_Striking 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Archaeornis_Leather 1 Rainbow_Thread
+Wyvernskin_Mask_of_Casting 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Mythrite_Ingot 4 Yeti_Fang
+Wyvernskin_Mane_of_Fending 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 4 Snurble_Tufts 4 Tiger's_Eye
+Wyvernskin_Boots_of_Maiming 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Rainbow_Cloth 1 Mythrite_Nugget 1 Rubber
+Wyvernskin_Boots_of_Striking 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Archaeornis_Leather 1 Mythrite_Rivets 1 Rubber
+Wyvernskin_Boots_of_Aiming 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Rainbow_Cloth 1 Mythrite_Rivets 1 Rubber
+Wyvernskin_Boots_of_Scouting 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Rainbow_Cloth 1 Mythrite_Rivets 1 Rubber
+Wyvernskin_Boots_of_Casting 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Rainbow_Cloth 1 Rainbow_Thread 1 Rose_Gold_Nugget 1 Rubber
+Archaeoskin_Boots_of_Healing 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Rainbow_Cloth 1 Rainbow_Thread 1 Rose_Gold_Nugget 1 Rubber
+Wyvernskin_Boots_of_Fending 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 4 Archaeornis_Leather 1 Rose_Gold_Nugget 1 Rubber
+Wyvernskin_Workboots 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Rubber
+Wyvernskin_Wristbands 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Mythrite_Ingot 4 Jadeite
+Wyvernskin_Ring 53 1 586 80 5783 4 Earth_Crystal 4 Wind_Crystal 1 Wyvern_Leather 1 Mythrite_Ingot
+Dhalmel_Leather 54 1 320 40 6042 4 Earth_Crystal 4 Dhalmel_Hide 1 Dark_Chestnut_Log
+Wyvernskin_Jerkin 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Holy_Rainbow_Cloth 1 Rainbow_Thread 1 Darksteel_Nugget
+Dhalmelskin_Armguards_of_Striking 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 4 Hardsilver_Nugget
+Dhalmelskin_Armguards_of_Aiming 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 4 Hardsilver_Nugget
+Dhalmelskin_Armguards_of_Scouting 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 4 Hardsilver_Nugget
+Dhalmelskin_Belt_of_Striking 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Titanium_Nugget
+Dhalmelskin_Belt_of_Aiming 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Titanium_Nugget
+Dhalmelskin_Belt_of_Scouting 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Titanium_Nugget
+Dhalmelskin_Belt_of_Casting 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Titanium_Nugget
+Dhalmelskin_Belt_of_Healing 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Titanium_Nugget
+Wyvernskin_Field_Belt 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Mythrite_Ingot
+Wyvernskin_Culottes 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 4 Wyvern_Leather 1 Holy_Rainbow_Cloth 1 Rainbow_Thread
+Wyvernskin_Choker 54 1 641 80 6042 4 Earth_Crystal 4 Wind_Crystal 1 Wyvern_Leather 1 Mythrite_Ingot 1 Rainbow_Thread
+Dhalmelskin_Bush_Hat 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Ramie_Cloth 1 Hardsilver_Nugget
+Dhalmelskin_Jacket_of_Striking 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Ramie_Cloth 1 Titanium_Nugget 1 Rose_Gold_Nugget
+Dhalmelskin_Jacket_of_Aiming 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Ramie_Cloth 1 Titanium_Nugget 1 Rose_Gold_Nugget
+Dhalmelskin_Jacket_of_Scouting 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Ramie_Cloth 1 Titanium_Nugget 1 Rose_Gold_Nugget
+Dhalmelskin_Halfgloves_of_Crafting 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Ramie_Thread
+Dhalmelskin_Gloves 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Wyvern_Leather 1 Ramie_Thread
+Dhalmelskin_Breeches_of_Maiming 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Wyvern_Leather 1 Ramie_Cloth
+Dhalmelskin_Breeches_of_Fending 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Wyvern_Leather 1 Ramie_Cloth
+Dhalmelskin_Leggings_of_Striking 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Ramie_Cloth 1 Titanium_Nugget 1 Rubber
+Dhalmelskin_Leggings_of_Aiming 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Ramie_Cloth 1 Titanium_Nugget 1 Rubber
+Dhalmelskin_Leggings_of_Scouting 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Ramie_Cloth 1 Titanium_Nugget 1 Rubber
+Dhalmelskin_Crakows_of_Casting 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Ramie_Cloth 1 Hardsilver_Nugget 1 Rubber
+Dhalmelskin_Crakows_of_Healing 55 1 697 70 6301 4 Earth_Crystal 4 Wind_Crystal 4 Dhalmel_Leather 1 Ramie_Cloth 1 Hardsilver_Nugget 1 Rubber
+High_Allagan_Chimera_Leather 55 1 697 70 6301 1 Earth_Cluster 1 Wind_Cluster 3 Chemically_Treated_Chimera_Hide 3 Animal_Fat 3 Black_Alumen
+Company_Hat 55 1 697 70 6301 1 Earth_Cluster 1 Wind_Cluster 2 Dusk_Leather 1 Ramie_Cloth 1 Ramie_Thread 1 Rose_Gold_Nugget
+Dragon_Leather 56 1 376 35 6561 5 Earth_Crystal 5 Dragon_Skin 1 Dark_Chestnut_Log
+Dhalmelskin_Vest 56 1 752 70 6561 5 Earth_Crystal 5 Wind_Crystal 5 Dhalmel_Leather 5 Ramie_Cloth 1 Ramie_Thread 1 Hardsilver_Nugget
+Dragonskin_Gloves_of_Aiming 56 1 752 70 6561 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Dhalmel_Leather 1 Ramie_Thread 1 Grade_1_Dexterity_Dissolvent
+Dragonskin_Gloves_of_Casting 56 1 752 70 6561 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Dhalmel_Leather 1 Ramie_Thread 1 Grade_1_Intelligence_Dissolvent
+Dragonskin_Gloves_of_Healing 56 1 752 70 6561 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Dhalmel_Leather 1 Ramie_Thread 1 Grade_1_Mind_Dissolvent
+Dragonskin_Belt_of_Maiming 56 1 752 70 6561 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Titanium_Ingot 1 Grade_1_Strength_Dissolvent
+Dragonskin_Belt_of_Striking 56 1 752 70 6561 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Titanium_Ingot 1 Grade_1_Strength_Dissolvent
+Dragonskin_Belt_of_Scouting 56 1 752 70 6561 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Titanium_Ingot 1 Grade_1_Dexterity_Dissolvent
+Dragonskin_Bottoms 56 1 752 70 6561 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Ramie_Cloth 1 Ramie_Thread 1 Cobalt_Ingot
+Dhalmelskin_Shoes 56 1 752 70 6561 5 Earth_Crystal 5 Wind_Crystal 5 Dhalmel_Leather 1 Wyvern_Leather 1 Ramie_Thread 1 Rubber
+Dhalmelskin_Fringe_Boots 56 1 752 70 6561 5 Earth_Crystal 5 Wind_Crystal 5 Dhalmel_Leather 1 Wyvern_Leather 1 Ramie_Thread 1 Rubber
+Dragonskin_Boots 56 1 752 70 6561 5 Earth_Crystal 5 Wind_Crystal 1 Dragon_Leather 1 Ramie_Thread 1 Rubber
+Dragonskin_Breeches_of_Fending 57 1 808 70 6820 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 5 Dhalmel_Leather 1 Hardsilver_Ingot 5 Grade_1_Vitality_Dissolvent
+Dragonskin_Breeches_of_Maiming 57 1 808 70 6820 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 5 Dhalmel_Leather 1 Hardsilver_Ingot 5 Grade_1_Strength_Dissolvent
+Dragonskin_Breeches_of_Striking 57 1 808 70 6820 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 5 Dhalmel_Leather 1 Hardsilver_Ingot 5 Grade_1_Strength_Dissolvent
+Dragonskin_Breeches_of_Scouting 57 1 808 70 6820 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 5 Dhalmel_Leather 1 Hardsilver_Ingot 5 Grade_1_Dexterity_Dissolvent
+Dragonskin_Boots_of_Aiming 57 1 808 70 6820 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Dhalmel_Leather 1 Hardsilver_Nugget 1 Rubber 1 Grade_1_Dexterity_Dissolvent
+Dragonskin_Boots_of_Casting 57 1 808 70 6820 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Dhalmel_Leather 1 Hardsilver_Nugget 1 Rubber 1 Grade_1_Intelligence_Dissolvent
+Dragonskin_Boots_of_Healing 57 1 808 70 6820 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Dhalmel_Leather 1 Hardsilver_Nugget 1 Rubber 1 Grade_1_Mind_Dissolvent
+Dragonskin_Ring 57 1 808 70 6820 5 Earth_Crystal 5 Wind_Crystal 1 Dragon_Leather 1 Hardsilver_Ingot
+Amphiptere_Leather 58 1 431 35 7080 5 Earth_Crystal 5 Amphiptere_Skin 1 Dark_Chestnut_Log
+Serpentskin_Hat_of_Casting 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Hallowed_Ramie_Cloth 1 Rose_Gold_Nugget 1 Grade_1_Intelligence_Dissolvent
+Serpentskin_Armguards_of_Striking 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Titanium_Ingot 1 Titanium_Rivets 1 Grade_1_Strength_Dissolvent
+Serpentskin_Armguards_of_Aiming 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Titanium_Ingot 1 Titanium_Rivets 1 Grade_1_Dexterity_Dissolvent
+Serpentskin_Armguards_of_Scouting 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Titanium_Ingot 1 Titanium_Rivets 1 Grade_1_Dexterity_Dissolvent
+Serpentskin_Dress_Gloves_of_Casting 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Crawler_Silk 1 Jadeite 1 Grade_1_Intelligence_Dissolvent
+Serpentskin_Ringbelt_of_Striking 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Titanium_Ingot 1 Grade_1_Strength_Dissolvent
+Serpentskin_Ringbelt_of_Aiming 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Titanium_Ingot 1 Grade_1_Dexterity_Dissolvent
+Serpentskin_Ringbelt_of_Scouting 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Titanium_Ingot 1 Grade_1_Dexterity_Dissolvent
+Dragonskin_Belt_of_Crafting 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Hardsilver_Ingot
+Dragonskin_Belt_of_Gathering 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Hardsilver_Ingot
+Dragonskin_Choker 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 1 Dragon_Leather 1 Hardsilver_Ingot 1 Ramie_Thread
+Dragonskin_Wristbands 58 1 863 70 7080 5 Earth_Crystal 5 Wind_Crystal 5 Dragon_Leather 1 Hardsilver_Ingot 5 Larimar
+Serpentskin_Boots_of_Striking 59 1 919 70 7339 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Hardsilver_Ingot 1 Crawler_Silk 1 Rubber 1 Grade_1_Strength_Dissolvent
+Serpentskin_Boots_of_Aiming 59 1 919 70 7339 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Hardsilver_Ingot 1 Crawler_Silk 1 Rubber 1 Grade_1_Dexterity_Dissolvent
+Serpentskin_Boots_of_Scouting 59 1 919 70 7339 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Hardsilver_Ingot 1 Crawler_Silk 1 Rubber 1 Grade_1_Dexterity_Dissolvent
+Serpentskin_Thighboots_of_Casting 59 1 919 70 7339 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Hallowed_Ramie_Cloth 1 Titanium_Ingot 1 Rubber 1 Grade_1_Intelligence_Dissolvent
+Serpentskin_Thighboots_of_Healing 59 1 919 70 7339 5 Earth_Crystal 5 Wind_Crystal 5 Amphiptere_Leather 1 Hallowed_Ramie_Cloth 1 Titanium_Ingot 1 Rubber 1 Grade_1_Mind_Dissolvent
+Serpentskin_Armguards_of_Maiming 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Chimerical_Felt 1 Aurum_Regis_Nugget 1 Grade_1_Strength_Dissolvent
+Serpentskin_Bracers_of_Striking 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Crawler_Silk 1 Grade_1_Strength_Dissolvent
+Serpentskin_Bracers_of_Aiming 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Crawler_Silk 1 Grade_1_Dexterity_Dissolvent
+Serpentskin_Bracers_of_Scouting 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Crawler_Silk 1 Grade_1_Dexterity_Dissolvent
+Serpentskin_Gloves_of_Casting 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Crawler_Silk 1 Hardsilver_Ingot 1 Grade_1_Intelligence_Dissolvent
+Serpentskin_Gloves_of_Healing 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Crawler_Silk 1 Grade_1_Mind_Dissolvent
+Serpentskin_Halfgloves_of_Crafting 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Crawler_Silk
+Serpentskin_Gloves 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Dragon_Leather 1 Crawler_Silk
+Serpentskin_Voyager's_Belt_of_Maiming 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Adamantite_Nugget 1 Grade_1_Strength_Dissolvent
+Serpentskin_Hunting_Belt_of_Striking 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Adamantite_Nugget 1 Grade_1_Strength_Dissolvent
+Serpentskin_Hunting_Belt_of_Scouting 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Adamantite_Nugget 1 Grade_1_Dexterity_Dissolvent
+Serpentskin_Satchel_Belt_of_Healing 59 1 919 70 7339 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Grade_1_Mind_Dissolvent
+Serpentskin_Helm_of_Maiming 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 2 Aurum_Regis_Nugget 1 Grade_1_Strength_Dissolvent
+Serpentskin_Bush_Hat 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Chimerical_Felt 1 Hardsilver_Ingot
+Serpentskin_Vest 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 2 Chimerical_Felt 1 Crawler_Silk 1 Hardsilver_Ingot
+Serpentskin_Hose_of_Maiming 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 2 Chimerical_Felt 1 Crawler_Silk 2 Grade_1_Strength_Dissolvent
+Serpentskin_Brais_of_Striking 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Crawler_Silk 2 Grade_1_Strength_Dissolvent
+Serpentskin_Brais_of_Aiming 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Crawler_Silk 2 Grade_1_Dexterity_Dissolvent
+Serpentskin_Brais_of_Scouting 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Aurum_Regis_Nugget 1 Crawler_Silk 2 Grade_1_Dexterity_Dissolvent
+Serpentskin_Tights_of_Casting 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 2 Chimerical_Felt 1 Crawler_Silk 2 Grade_1_Intelligence_Dissolvent
+Serpentskin_Thighboots_of_Striking 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 2 Aurum_Regis_Nugget 1 Rubber 1 Grade_1_Strength_Dissolvent
+Serpentskin_Thighboots_of_Aiming 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 2 Aurum_Regis_Nugget 1 Rubber 1 Grade_1_Dexterity_Dissolvent
+Serpentskin_Thighboots_of_Scouting 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 2 Aurum_Regis_Nugget 1 Rubber 1 Grade_1_Dexterity_Dissolvent
+Serpentskin_Bootlets_of_Casting 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Chimerical_Felt 1 Crawler_Silk 1 Rubber 1 Grade_1_Intelligence_Dissolvent
+Serpentskin_Shoes 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Dragon_Leather 1 Crawler_Silk 1 Rubber
+Serpentskin_Fringe_Boots 60 1 956 70 7851 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Dragon_Leather 1 Crawler_Silk 1 Rubber
+Pterodactyl_Leather 60 1 558 35 8377 2 Earth_Cluster 1 Wind_Cluster 2 Pterodactyl 1 Dark_Chestnut_Log
+High_House_Cloche 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 1 Dinosaur_Leather 1 Crawler_Silk 1 Chocobo_Feather 1 Wildfowl_Feather
+Chivalric_Coat_of_Striking 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Chimerical_Felt 1 Aurum_Regis_Nugget 2 Star_Ruby 2 Grade_1_Strength_Dissolvent 2 Dawnborne_Aethersand
+Chivalric_Battledress_of_Aiming 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Chimerical_Felt 2 Aurum_Regis_Nugget 2 Grade_1_Dexterity_Dissolvent 2 Dawnborne_Aethersand
+Chivalric_Coat_of_Scouting 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 2 Amphiptere_Leather 1 Chimerical_Felt 1 Aurum_Regis_Nugget 2 Star_Sapphire 2 Grade_1_Dexterity_Dissolvent 2 Dawnborne_Aethersand
+Thavnairian_Bolero 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 2 Thavnairian_Leather 1 Thavnairian_Silk 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Chrysolite 2 Dawnborne_Aethersand
+Thavnairian_Gloves 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 2 Thavnairian_Leather 1 Crawler_Silk 1 Aurum_Regis_Nugget 1 Dawnborne_Aethersand
+Thavnairian_Tights 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 1 Thavnairian_Leather 1 Thavnairian_Silk 1 Crawler_Silk 1 Aurum_Regis_Nugget 1 Dawnborne_Aethersand
+Falconer's_Bottoms 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 2 Pterodactyl_Leather 1 Falconer's_Hemp 1 Crawler_Silk 1 Titanium_Ingot
+Thavnairian_Babouches 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 2 Thavnairian_Leather 1 Crawler_Silk 1 Aurum_Regis_Nugget 1 Rubber 1 Dawnborne_Aethersand
+Thavnairian_Sandals 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 2 Thavnairian_Leather 1 Crawler_Silk 1 Aurum_Regis_Nugget 1 Rubber 1 Dawnborne_Aethersand
+High_House_Boots 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 1 Dinosaur_Leather 1 Crawler_Silk 1 Rubber
+High_House_Halfboots 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 1 Dinosaur_Leather 1 Hardsilver_Ingot 1 Rubber
+Falconer's_Boots 60 1 1116 70 8377 2 Earth_Cluster 1 Wind_Cluster 1 Pterodactyl_Leather 1 Crawler_Silk 1 Rubber
+Bearskin_Rug 60 1 2008 70 4188 2 Earth_Cluster 1 Wind_Cluster 2 Bearskin 2 Fine_Alumen 1 Animal_Fat
+Griffin_Leather 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Hide 1 Red_Alumen 1 Wattle_Bark 2 Odorless_Animal_Fat
+Sky_Pirate's_Beret_of_Aiming 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Chimerical_Felt 1 Hardsilver_Nugget 1 Grade_1_Dexterity_Dissolvent 1 Dawnborne_Aethersand
+Griffin_Leather_Tricorne_of_Striking 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 2 Crawler_Silk 1 Grade_2_Strength_Dissolvent 2 Landborne_Aethersand
+Griffin_Leather_Blinder_of_Aiming 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Adamantite_Nugget 1 Aurum_Regis_Nugget 1 Grade_2_Dexterity_Dissolvent 2 Landborne_Aethersand
+Griffin_Leather_Tricorne_of_Scouting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 2 Crawler_Silk 1 Grade_2_Dexterity_Dissolvent 2 Landborne_Aethersand
+Hidemaster's_Cap 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Archaeornis_Leather 1 Larimar 1 Hardsilver_Ingot 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Sky_Pirate's_Jacket_of_Striking 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Rainbow_Cloth 1 Titanium_Nugget 2 Grade_1_Strength_Dissolvent 2 Dawnborne_Aethersand
+Sky_Pirate's_Jacket_of_Scouting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Rainbow_Cloth 1 Titanium_Nugget 2 Grade_1_Dexterity_Dissolvent 2 Dawnborne_Aethersand
+Griffin_Leather_Coat_of_Striking 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Silk 1 Aurum_Regis_Nugget 2 Star_Ruby 2 Grade_2_Strength_Dissolvent 2 Landborne_Aethersand
+Griffin_Leather_Longcoat_of_Aiming 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Silk 2 Aurum_Regis_Nugget 2 Grade_2_Dexterity_Dissolvent 2 Landborne_Aethersand
+Griffin_Leather_Coat_of_Scouting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Silk 1 Aurum_Regis_Nugget 2 Star_Sapphire 2 Grade_2_Dexterity_Dissolvent 2 Landborne_Aethersand
+Hammermaster's_Waist_Apron 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Silk 2 Crawler_Silk 1 Hardsilver_Ingot 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Hidemaster's_Apron 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Silk 2 Crawler_Silk 1 Larimar 2 Landborne_Aethersand 2 Fieldcraft_Demimateria_III
+Sky_Pirate's_Gloves_of_Striking 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Crawler_Silk 1 Titanium_Nugget 1 Grade_1_Strength_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Gloves_of_Aiming 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Crawler_Silk 1 Hardsilver_Nugget 1 Grade_1_Dexterity_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Gloves_of_Scouting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Crawler_Silk 1 Titanium_Nugget 1 Grade_1_Dexterity_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Gloves_of_Casting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Crawler_Silk 1 Hardsilver_Nugget 1 Grade_1_Intelligence_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Gloves_of_Healing 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Crawler_Silk 1 Hardsilver_Nugget 1 Grade_1_Mind_Dissolvent 1 Dawnborne_Aethersand
+Griffin_Leather_Bracers_of_Striking 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 2 Adamantite_Nugget 1 Grade_2_Strength_Dissolvent 2 Leafborne_Aethersand
+Griffin_Leather_Gloves_of_Aiming 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Aurum_Regis_Nugget 1 Archaeornis_Leather 1 Grade_2_Dexterity_Dissolvent 2 Leafborne_Aethersand
+Griffin_Leather_Bracers_of_Scouting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 2 Adamantite_Nugget 1 Grade_2_Dexterity_Dissolvent 2 Leafborne_Aethersand
+Millmaster's_Gloves 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Silk 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Leafborne_Aethersand 2 Fieldcraft_Demimateria_III
+Forgemaster's_Gloves 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Leafborne_Aethersand 2 Fieldcraft_Demimateria_III
+Hammermaster's_Work_Gloves 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Archaeornis_Leather 1 Crawler_Silk 1 Hardsilver_Ingot 2 Leafborne_Aethersand 2 Fieldcraft_Demimateria_III
+Hidemaster's_Gloves 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Crawler_Silk 2 Larimar 2 Leafborne_Aethersand 2 Fieldcraft_Demimateria_III
+Boltmaster's_Gloves 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Leafborne_Aethersand 2 Fieldcraft_Demimateria_III
+Galleymaster's_Gloves 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Chimerical_Felt 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Leafborne_Aethersand 2 Fieldcraft_Demimateria_III
+Griffin_Leather_Twinbelt_of_Fending 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Adamantite_Nugget 1 Grade_2_Vitality_Dissolvent 1 Seaborne_Aethersand
+Griffin_Leather_Twinbelt_of_Maiming 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Adamantite_Nugget 1 Grade_2_Strength_Dissolvent 1 Seaborne_Aethersand
+Griffin_Leather_Corset_of_Casting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Crawler_Silk 1 Grade_2_Intelligence_Dissolvent 1 Seaborne_Aethersand
+Griffin_Leather_Corset_of_Healing 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Crawler_Silk 1 Grade_2_Mind_Dissolvent 1 Seaborne_Aethersand
+Griffin_Leather_Tool_Belt 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Amphiptere_Leather 1 Crawler_Silk 1 Adamantite_Nugget 1 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Griffin_Leather_Survival_Belt 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Chimerical_Felt 1 Crawler_Silk 1 Adamantite_Nugget 1 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Griffin_Leather_Skirt_of_Fending 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Silk 2 Crawler_Silk 2 Grade_2_Vitality_Dissolvent 2 Seaborne_Aethersand
+Griffin_Leather_Skirt_of_Maiming 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Silk 2 Crawler_Silk 2 Grade_2_Strength_Dissolvent 2 Seaborne_Aethersand
+Griffin_Leather_Brais_of_Striking 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Silk 2 Aurum_Regis_Nugget 2 Grade_2_Strength_Dissolvent 2 Seaborne_Aethersand
+Griffin_Leather_Brais_of_Scouting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Silk 2 Aurum_Regis_Nugget 2 Grade_2_Dexterity_Dissolvent 2 Seaborne_Aethersand
+Sky_Pirate's_Boots_of_Fending 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Amphiptere_Leather 1 Titanium_Nugget 1 Grade_1_Vitality_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Boots_of_Maiming 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Amphiptere_Leather 1 Titanium_Nugget 1 Grade_1_Strength_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Boots_of_Striking 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Amphiptere_Leather 1 Titanium_Nugget 1 Grade_1_Strength_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Boots_of_Aiming 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Amphiptere_Leather 1 Hardsilver_Nugget 1 Grade_1_Dexterity_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Boots_of_Scouting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Amphiptere_Leather 1 Titanium_Nugget 1 Grade_1_Dexterity_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Shoes_of_Casting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Amphiptere_Leather 1 Hardsilver_Nugget 1 Grade_1_Intelligence_Dissolvent 1 Dawnborne_Aethersand
+Sky_Pirate's_Shoes_of_Healing 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Pterodactyl_Leather 1 Amphiptere_Leather 1 Hardsilver_Nugget 1 Grade_1_Mind_Dissolvent 1 Dawnborne_Aethersand
+Griffin_Leather_Boots_of_Striking 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 2 Adamantite_Nugget 1 Grade_2_Strength_Dissolvent 2 Seaborne_Aethersand
+Griffin_Leather_Thighboots_of_Aiming 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 2 Chimerical_Felt 1 Grade_2_Dexterity_Dissolvent 2 Seaborne_Aethersand
+Griffin_Leather_Boots_of_Scouting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 2 Adamantite_Nugget 1 Grade_2_Dexterity_Dissolvent 2 Seaborne_Aethersand
+Griffin_Leather_Boots_of_Casting 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Birch_Lumber 1 Chimerical_Felt 1 Crawler_Silk 1 Grade_2_Intelligence_Dissolvent 2 Seaborne_Aethersand
+Griffin_Leather_Boots_of_Healing 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Birch_Lumber 1 Chimerical_Felt 1 Crawler_Silk 1 Grade_2_Mind_Dissolvent 2 Seaborne_Aethersand
+Millmaster's_Workboots 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Astral_Silk 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Forgemaster's_Sandals 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Crawler_Silk 1 Hardsilver_Ingot 1 Garlean_Rubber 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Hammermaster's_Workboots 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Adamantite_Nugget 1 Adamantite_Rivets 1 Hardsilver_Ingot 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Gemmaster's_Sandals 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 2 Larimar 1 Hardsilver_Ingot 1 Garlean_Rubber 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Hidemaster's_Workboots 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Crawler_Silk 2 Larimar 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Boltmaster's_Top_Boots 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Crawler_Silk 1 Garlean_Rubber 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Cauldronmaster's_Jackboots 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Galleymaster's_Top_Boots 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Crawler_Silk 1 Aurum_Regis_Nugget 2 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Griffin_Leather_Choker 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 1 Griffin_Leather 1 Aurum_Regis_Ingot 1 Crawler_Silk 1 Seaborne_Aethersand 2 Fieldcraft_Demimateria_III
+Griffin_Leather_Wristbands 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 2 Griffin_Leather 1 Aurum_Regis_Nugget 2 Star_Sapphire 1 Leafborne_Aethersand 2 Fieldcraft_Demimateria_III
+Griffin_Leather_Ring 60 1 1436 70 9430 2 Earth_Cluster 2 Wind_Cluster 1 Griffin_Leather 1 Aurum_Regis_Nugget 1 Leafborne_Aethersand 1 Fieldcraft_Demimateria_III

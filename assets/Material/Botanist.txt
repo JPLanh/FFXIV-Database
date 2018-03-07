@@ -1,0 +1,252 @@
+Earth_Shard 1 X / Lower_La_Noscea 10 Cedarwood 32 16 27 18 / Lower_La_Noscea 20 Cedarwood 34 17 / North_Shroud 5 Gelmorra_Ruins 22 21 25 22 / North_Shroud 5 Treespeak 29 25 26 27 / North_Shroud 10 Treespeak 27 24 28 24 / North_Shroud 30 Peacegarden 25 21 26 22
+Fire_Shard 1 X / Middle_La_Noscea 30 Three-malm_Bend 16 13 17 13 / Middle_La_Noscea 50 Summerford 19 21 20 22
+Ice_Shard 1 X / Western_La_Noscea 20 Skull_Valley 27 24 28 22 26 24 / Central_Shroud 5 Jadeite_Thick 22 17 / South_Shroud 25 Upper_Paths 23 21 16 19 22 21 / South_Shroud 30 Upper_Paths 17 22 17 21 / South_Shroud 30 Silent_Arbor 26 18 / South_Shroud 35 Lower_Paths 17 28 16 30 / Coerthas_Central_Highlands 5 Whitebrim 26 19 27 16 / Coerthas_Central_Highlands 45 Whitebrim 22 17
+Latex 1 X / Central_Shroud 5 Jadeite_Thick 22 17 / North_Shroud 5 Treespeak 29 25
+Lightning_Shard 1 X / Central_Thanalan 10 Spineless_Basin 22 26 / Central_Thanalan 20 Black_Brush 20 20 / Central_Thanalan 30 Spineless_Basin 24 29 24 30 / Central_Thanalan 50 The_Clutch 29 19 29 19 / Mor_Dhona 5 The_Tangle 14 14 15 14
+Water_Shard 1 X / Eastern_La_Noscea 30 Bloodshore 27 33 27 34 / Eastern_La_Noscea 40 Raincatcher_Gully 21 29 19 25 / Eastern_La_Noscea 50 Raincatcher_Gully 16 32 17 31
+Wind_Shard 1 X / Central_Shroud 5 Jadeite_Thick 22 17 / Central_Shroud 10 Greentear 26 20 / Central_Shroud 15 Bentbranch 18 19 22 24 20 20 / Central_Shroud 30 Bentbranch 24 30 24 30 / East_Shroud 20 Nine_Ivies 18 29 15 27 / East_Shroud 50 The_Bramble_Patch 16 23 18 24 18 25
+Allagan_Snail 2 X / Central_Shroud 5 Jadeite_Thick 22 17
+Maple_Sap 2 X / North_Shroud 5 Treespeak 26 27
+Maple_Log 3 X / Central_Shroud 5 Jadeite_Thick 22 17 / North_Shroud 5 Treespeak 29 25
+Cinnamon 4 X / North_Shroud 5 Treespeak 26 27
+Beehive_Chip 5 X / North_Shroud 5 Treespeak 26 27
+Maple_Branch 5 X / Central_Shroud 5 Jadeite_Thick 22 17 / North_Shroud 5 Treespeak 29 25
+Cock_Feather 6 X / Central_Thanalan 10 Spineless_Basin 22 26
+Tinolqa_Mistletoe 6 X / Central_Shroud 10 Greentear 26 20 / North_Shroud 10 Treespeak 27 24
+La_Noscean_Orange 7 X / Lower_La_Noscea 10 Cedarwood 32 16
+La_Noscean_Orange_Seeds 7 Hidden / Lower_La_Noscea 10 Cedarwood 32 16
+Ash_Log 8 X / Central_Shroud 10 Greentear 26 20 / North_Shroud 10 Treespeak 27 24
+Ash_Branch 9 X / Central_Shroud 10 Greentear 26 20 / North_Shroud 10 Treespeak 27 24
+Kukuru_Bean 9 X / Lower_La_Noscea 10 Cedarwood 32 16
+Cloves 10 X / Central_Thanalan 10 Spineless_Basin 22 26
+Crow_Feather 10 X / Central_Shroud 10 Greentear 26 20
+Elm_Log 12 X / Central_Shroud 15 Bentbranch 20 20
+Gridanian_Chestnut 14 X / Central_Shroud 15 Bentbranch 20 20
+Faerie_Apple 16 X / East_Shroud 20 Nine_Ivies 15 27
+Faerie_Apple_Seeds 16 Hidden / East_Shroud 20 Nine_Ivies 15 27
+Sun_Lemon 17 X / Lower_La_Noscea 20 Cedarwood 34 17
+Sun_Lemon_Seeds 17 Hidden / Lower_La_Noscea 20 Cedarwood 34 17
+Nopales 18 X / Central_Thanalan 20 Black_Brush 20 20
+Yew_Log 19 X / East_Shroud 20 Nine_Ivies 15 27
+Grade_1_Carbonized_Matter 20 X / Western_La_Noscea 20 Skull_Valley 27 24
+Yew_Branch 20 X / East_Shroud 20 Nine_Ivies 15 27
+Gridanian_Walnut 21 X / South_Shroud 25 Upper_Paths 23 21
+Matron's_Mistletoe 23 X / South_Shroud 25 Upper_Paths 23 21
+Walnut_Log 24 X / South_Shroud 25 Upper_Paths 23 21
+Earth_Crystal 26 X / North_Shroud 30 Peacegarden 25 21
+Fire_Crystal 26 X / Middle_La_Noscea 30 Three-malm_Bend 16 13 / Middle_La_Noscea 50 Summerford 20 22 / The_Dravanian_Forelands 55 The_Smoldering_Wastes 28 25 26 28 26 25 28 29 28 32 25 33
+Ice_Crystal 26 X / South_Shroud 30 Upper_Paths 17 22 / Coerthas_Western_Highlands 50 Riversmeet 31 33 30 33 31 30 30 29 27 28 29 25 
+Lightning_Crystal 26 X / Central_Thanalan 30 Spineless_Basin 24 30 / Central_Thanalan 50 The_Clutch 29 19
+Water_Crystal 26 X / Eastern_La_Noscea 30 Bloodshore 27 33 / Eastern_La_Noscea 50 Raincatcher_Gully 17 31 / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Wind_Crystal 26 X / Central_Shroud 30 Bentbranch 24 30
+Blue_Pigment 28 X / Eastern_La_Noscea 30 Bloodshore 27 33 27 34
+Brown_Pigment 28 X / North_Shroud 30 Peacegarden 25 21 26 22
+Green_Pigment 28 X / Central_Shroud 30 Bentbranch 24 30 24 30
+Grey_Pigment 28 X / South_Shroud 30 Upper_Paths 17 22 17 21
+Purple_Pigment 28 X / Central_Thanalan 30 Spineless_Basin 24 29 24 30
+Red_Pigment 28 X / Middle_La_Noscea 30 Three-malm_Bend 16 13 17 13
+Yellow_Pigment 28 X / North_Shroud 30 Peacegarden 25 21 26 22
+Chocobo_Feather 29 X / South_Shroud 30 Silent_Arbor 26 18
+Alligator_Pear 30 X / South_Shroud 30 Silent_Arbor 26 18
+Grade_2_Carbonized_Matter 30 X / Middle_La_Noscea 30 Three-malm_Bend 16 13 17 13 / Eastern_La_Noscea 30 Bloodshore 27 33 27 34 / Central_Shroud 30 Bentbranch 24 30 24 30 / South_Shroud 30 Upper_Paths 17 22 17 21 / North_Shroud 30 Peacegarden 25 21 26 22 / Central_Thanalan 30 Spineless_Basin 24 29 24 30
+Oak_Branch 31 X / South_Shroud 35 Lower_Paths 16 30
+Oak_Log 32 X / South_Shroud 35 Lower_Paths 16 30
+Tarantula 35 X / South_Shroud 35 Lower_Paths 16 30
+Iron_Acorn 36 X / Eastern_La_Noscea 40 Raincatcher_Gully 19 25
+Mahogany_Log 37 X / Eastern_La_Noscea 40 Raincatcher_Gully 19 25
+Nutmeg 39 X / Eastern_La_Noscea 40 Raincatcher_Gully 19 25
+Almond_Seeds 40 Hidden / Eastern_La_Noscea 40 Raincatcher_Gully 19 25
+Almonds 40 X / Eastern_La_Noscea 40 Raincatcher_Gully 19 25
+Mirror_Apple 42 X / Coerthas_Central_Highlands 45 Whitebrim 22 17
+Mirror_Apple_Seeds 42 Hidden / Coerthas_Central_Highlands 45 Whitebrim 22 17
+Mistletoe 44 X / Coerthas_Central_Highlands 45 Whitebrim 22 17
+Rosewood_Log 46 X / East_Shroud 50 The_Bramble_Patch 16 23
+Rosewood_Branch 47 X / East_Shroud 50 The_Bramble_Patch 16 23
+Earth_Cluster 50 X / Mor_Dhona 50 ?? 00 00
+Fire_Cluster 50 X / Mor_Dhona 50 ?? 00 00
+Grade_3_Carbonized_Matter 50 X / Middle_La_Noscea 50 Summerford 19 21 20 22 / Eastern_La_Noscea 50 Raincatcher_Gully 16 32 17 31 / Central_Thanalan 50 The_Clutch 29 19 29 19
+Ice_Cluster 50 X / Mor_Dhona 50 ?? 00 00
+Lightning_Cluster 50 X / Mor_Dhona 50 ?? 00 00
+Water_Cluster 50 X / Mor_Dhona 50 ?? 00 00
+Wind_Cluster 50 X / Mor_Dhona 50 ?? 00 00
+Fragrant_Log 50 X / South_Shroud 50 ?? 00 00
+Grade_4_Carbonized_Matter 50 X / Mor_Dhona 50 ?? 00 00
+Prickly_Pineapple 50 X / Eastern_La_Noscea 50 ?? 00 00
+Prickly_Pineapple_Seeds 50 X / Eastern_La_Noscea 50 ?? 00 00
+Spruce_Log 50 X / Coerthas_Central_Highlands 50 ?? 00 00
+Thavnairian_Mistletoe 50 X / Coerthas_Central_Highlands 50 ?? 00 00
+Unaspected_Crystal 50 Hidden / Middle_La_Noscea 50 ?? 00 00 / Eastern_La_Noscea 50 ?? 00 00 / Upper_La_Noscea 50 ?? 00 00 / Central_Shroud 50 ?? 00 00 / South_Shroud 50 ?? 00 00 / North_Shroud 50 ?? 00 00 / Coerthas_Central_Highlands 50 ?? 00 00 / Mor_Dhona 50 ?? 00 00
+Vampire_Plant 50 X / Coerthas_Central_Highlands 50 ?? 00 00
+Apricot 50 X / Middle_La_Noscea 50 ?? 00 00
+Bamboo_Stick 50 X / Upper_La_Noscea 50 ?? 00 00
+Blood_Orange 50 X / Upper_La_Noscea 50 ?? 00 00
+Dark_Matter_Cluster 50 Hidden / Middle_La_Noscea 50 ?? 00 00 / Eastern_La_Noscea 50 ?? 00 00 / Upper_La_Noscea 50 ?? 00 00 / Central_Shroud 50 ?? 00 00 / South_Shroud 50 ?? 00 00 / North_Shroud 50 ?? 00 00 / Coerthas_Central_Highlands 50 ?? 00 00 / Mor_Dhona 50 ?? 00 00
+Redolent_Log 50 X / Central_Shroud 50 ?? 00 00
+Scarlet_Sap 50 X / North_Shroud 50 ?? 00 00
+Cedar_Branch 50 X / Coerthas_Western_Highlands 50 Riversmeet 31 33 30 33 31 30
+Cedar_Log 50 X / Coerthas_Western_Highlands 50 Riversmeet 31 33 30 33 31 30
+Cypress_Log 50 X / Central_Shroud 50 ?? 00 00
+Ebony_Log 50 X / Middle_La_Noscea 50 ?? 00 00
+Porcini 51 X / The_Churning_Mists 55 ?? 00 00
+Dark_Chestnut_Log 54 X / The_Dravanian_Forelands 55 The_Smoldering_Wastes 28 25 26 28 26 25
+Dravanian_Mistletoe 54 X / The_Churning_Mists 55 ?? 00 00
+Dark_Chestnut 55 Hidden / The_Dravanian_Forelands 55 The_Smoldering_Wastes 28 25 26 28 26 25
+Dark_Chestnut_Branch 55 X / The_Dravanian_Forelands 55 The_Smoldering_Wastes 28 25 26 28 26 25
+Heavens_Lemon 56 X / The_Sea_of_Clouds 60 ?? 00 00
+Cloud_Banana 57 X / The_Dravanian_Hinterlands 60 ?? 00 00
+Abalathian_Mistletoe 58 X / The_Sea_of_Clouds 60 ?? 00 00
+Birch_Branch 58 X / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Birch_Log 58 Hidden / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Birch_Sap 59 X / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Morel 59 X / The_Dravanian_Hinterlands 60 ?? 00 00
+Grade_5_Carbonized_Matter 60 Hidden / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00 / The_Dravanian_Forelands 55 The_Smoldering_Wastes 28 25 26 28 26 25 28 29 28 32 25 33 25 18 25 18 / The_Dravanian_Hinterlands 60 ?? 00 00
+Earth_Shard 1 X / Lower_La_Noscea 15 Moraby_Bay 26 22 / Upper_La_Noscea 25 Oakwood 14 24 12 23 / Upper_La_Noscea 45 Bronze_Lake 34 24 29 24 28 22 / North_Shroud 30 Alder_Springs 23 26
+Fire_Shard 1 X / Middle_La_Noscea 15 Summerford 22 19 / Eastern_Thanalan 20 Sandgate 16 27 / Eastern_Thanalan 25 Drybone 14 20
+Ice_Shard 1 X / Western_La_Noscea 20 Quarterstone 32 28 / South_Shroud 35 Lower_Paths 17 28 16 30 / South_Shroud 40 Lower_Paths 21 28
+Lightning_Shard 1 X / Central_Thanalan 15 The_Clutch 25 20 / Southern_Thanalan 35 Broken_Water 20 8 / Southern_Thanalan 50 Sagolii_Desert 13 31
+Water_Shard 1 X / Eastern_La_Noscea 35 Bloodshore 26 30 29 26 / Eastern_La_Noscea 40 Raincatcher_Gully 21 29 19 25 / Western_Thanalan 15 Horizon's_Edge 24 18 27 17 24 18 / Western_Thanalan 15 Nophica's_Wells 23 23
+Wind_Shard 1 X / Central_Shroud 15 Bentbranch 18 19 22 24 20 20 / East_Shroud 20 Nine_Ivies 18 29 15 27
+Chanterelle 11 X / Central_Shroud 15 Bentbranch 22 24
+Garlean_Garlic 11 X / Western_Thanalan 15 Nophica's_Wells 23 23
+Garlic_Cloves 11 Hidden / Western_Thanalan 15 Nophica's_Wells 23 23
+Lowland_Grape_Seeds 11 Hidden / Lower_La_Noscea 15 Moraby_Bay 26 22
+Lowland_Grapes 11 X / Lower_La_Noscea 15 Moraby_Bay 26 22
+Moko_Grass 11 X / Western_Thanalan 15 Horizon's_Edge 24 18
+Rye 11 X / Western_Thanalan 15 Horizon's_Edge 24 18
+Sunset_Wheat 11 X / Middle_La_Noscea 15 Summerford 22 19
+Tree_Toad 11 X / Central_Shroud 15 Bentbranch 18 19
+Yellow_Ginseng 11 X / Central_Thanalan 15 The_Clutch 25 20
+Buffalo_Beans 12 X / Central_Shroud 15 Bentbranch 18 19
+Grass_Viper 12 X / Western_Thanalan 15 Horizon's_Edge 24 18
+Lavender 12 X / Central_Shroud 15 Bentbranch 22 24
+Lavender_Seeds 12 Hidden / Central_Shroud 15 Bentbranch 22 24
+Straw 12 X / Middle_La_Noscea 15 Summerford 22 19
+Wild_Onion 12 X / Western_Thanalan 15 Nophica's_Wells 23 23
+Wild_Onion_Set 12 Hidden / Western_Thanalan 15 Nophica's_Wells 23 23
+Carnation 13 X / Central_Shroud 15 Bentbranch 22 24
+Cinderfoot_Olive 13 X / Lower_La_Noscea 15 Moraby_Bay 26 22
+Coerthan_Carrot 13 X / Western_Thanalan 15 Horizon's_Edge 24 18
+Coerthan_Carrot_Seeds 13 Hidden / Western_Thanalan 15 Horizon's_Edge 24 18
+Humus 13 X / Central_Shroud 15 Bentbranch 18 19
+La_Noscean_Lettuce 13 X / Middle_La_Noscea 15 Summerford 22 19
+La_Noscean_Lettuce_Seeds 13 Hidden / Middle_La_Noscea 15 Summerford 22 19
+Ogre_Pumpkin 13 X / Western_Thanalan 15 Nophica's_Wells 23 23
+Olive_Seeds 13 Hidden / Lower_La_Noscea 15 Moraby_Bay 26 22
+Black_Pepper 14 X / Central_Thanalan 15 The_Clutch 25 20
+Black_Pepper_Seeds 14 Hidden / Central_Thanalan 15 The_Clutch 25 20
+Cieldalaes_Spinach 14 X / Lower_La_Noscea 15 Moraby_Bay 26 22
+Cotton_Boll 14 X / Central_Shroud 15 Bentbranch 22 24
+Alpine_Parsnip 15 X / Central_Thanalan 15 The_Clutch 25 20
+Highland_Parsley 15 X / Lower_La_Noscea 15 Moraby_Bay 26 22
+Marjoram 15 X / Central_Shroud 15 Bentbranch 18 19
+Ruby_Tomato 15 X / Middle_La_Noscea 15 Summerford 22 19
+Galago_Mint 16 X / East_Shroud 20 Nine_Ivies 18 29
+Paprika 16 X / Western_La_Noscea 20 Quarterstone 32 28
+Paprika_Seeds 16 X / Western_La_Noscea 20 Quarterstone 32 28
+Lalafellin_Lentil 17 Hidden / Western_La_Noscea 20 Quarterstone 32 28
+Belladonna 18 X / East_Shroud 20 Nine_Ivies 18 29
+Popoto 18 X / Eastern_Thanalan 20 Sandgate 16 27
+Popoto_Set 18 Hidden / Eastern_Thanalan 20 Sandgate 16 27
+Gil_Bun 19 X / East_Shroud 20 Nine_Ivies 18 29
+Desert_Seedling 20 X / Eastern_Thanalan 20 Sandgate 16 27
+Island_Seedling 20 X / Western_La_Noscea 20 Quarterstone 32 28
+Shroud_Seedling 20 X / East_Shroud 20 Nine_Ivies 18 29
+White_Scorpion 20 X / Eastern_Thanalan 20 Sandgate 16 27
+Pixie_Plum_Seeds 21 Hidden / Upper_La_Noscea 25 Oakwood 14 24
+Pixie_Plums 21 X / Upper_La_Noscea 25 Oakwood 14 24
+Button_Mushroom 22 X / Eastern_Thanalan 25 Drybone 14 20
+Noble_Grapes 22 X / Upper_La_Noscea 25 Oakwood 14 24
+Ala_Mhigan_Mustard 23 X / Eastern_Thanalan 25 Drybone 14 20
+Ala_Mhigan_Mustard_Seeds 23 Hidden / Eastern_Thanalan 25 Drybone 14 20
+Chamomile 24 X / Upper_La_Noscea 25 Oakwood 14 24
+Chamomile_Seeds 24 Hidden / Upper_La_Noscea 25 Oakwood 14 24
+Pearl_Ginger 24 X / Eastern_Thanalan 25 Drybone 14 20
+Pearl_Ginger_Root 24 Hidden / Eastern_Thanalan 25 Drybone 14 20
+Millioncorn 25 X / Eastern_Thanalan 25 Drybone 14 20
+Millioncorn_Seeds 25 Hidden / Eastern_Thanalan 25 Drybone 14 20
+Sticky_Rice 25 X / Upper_La_Noscea 25 Oakwood 14 24
+Earth_Crystal 26 X / The_Churning_Mists 55 Landlord_Colony 22 25 23 20 21 21 / The_Churning_Mists 60 Four_Arms 2 230 20 31 18 27
+Fire_Crystal 26 X / The_Dravanian_Forelands 55 Chocobo_Forest 36 20 38 20 37 17 32 13 28 13 29 17 / The_Dravanian_Forelands 60 Avalonia_Fallen 16 28 19 30 20 27 11 31 10 33 8 34
+Ice_Crystal 26 X / Coerthas_Western_Highlands 55 Twinpools 19 18 19 15 15 16 18 14 14 14 16 10 / Coerthas_Western_Highlands 60 Twinpools 12 17 8 15 12 13
+Jade_Peas 26 X / North_Shroud 30 Alder_Springs 23 26
+Lightning_Crystal 26 X / The_Sea_of_Clouds 60 The_Blue_Window 21 11 24 10 22 13
+Wind_Crystal 26 X / The_Dravanian_Hinterlands 60 The_Answering_Quarter 10 20 12 17 14 18
+Wizard_Eggplant 27 X / North_Shroud 30 Alder_Springs 23 26
+Wizard_Eggplant_Seeds 27 Hidden / North_Shroud 30 Alder_Springs 23 26
+Midland_Cabbage 28 X / North_Shroud 30 Alder_Springs 23 26
+Midland_Cabbage_Seeds 28 Hidden / North_Shroud 30 Alder_Springs 23 26
+Moor_Leech 30 X / North_Shroud 30 Alder_Springs 23 26
+Flax 31 X / South_Shroud 35 Lower_Paths 17 28
+Linseed 31 Hidden / South_Shroud 35 Lower_Paths 17 28
+Yafaem_Wildgrass 31 Hidden / Southern_Thanalan 35 Broken_Water 20 8
+Aloe 32 X / Southern_Thanalan 35 Broken_Water 20 8
+Midland_Basil 32 X / Eastern_La_Noscea 35 Bloodshore 26 30
+Midland_Basil_Seeds 32 Hidden / Eastern_La_Noscea 35 Bloodshore 26 30
+Bloodgrass 33 X / Southern_Thanalan 35 Broken_Water 20 8
+Mandrake 33 X / Eastern_La_Noscea 35 Bloodshore 26 30
+Mandrake_Seeds 33 Hidden / Eastern_La_Noscea 35 Bloodshore 26 30
+White_Truffle 33 X / South_Shroud 35 Lower_Paths 17 28
+Laurel 34 X / Southern_Thanalan 35 Broken_Water 20 8
+Salt_Leek 34 X / Eastern_La_Noscea 35 Bloodshore 26 30
+Wildfowl_Feather 34 X / South_Shroud 35 Lower_Paths 17 28
+Desert_Saffron 35 X / Southern_Thanalan 35 Broken_Water 20 8
+Dragon_Pepper 35 X / Eastern_La_Noscea 35 Bloodshore 26 30
+Blood_Currant_Seeds 36 Hidden / South_Shroud 40 Lower_Paths 21 28
+Blood_Currants 36 X / South_Shroud 40 Lower_Paths 21 28
+Mugwort 37 X / Eastern_La_Noscea 40 Raincatcher_Gully 21 29
+Maiden_Artichoke 38 X / Eastern_La_Noscea 40 Raincatcher_Gully 21 29
+Ramhorn_Zucchini 39 X / Eastern_La_Noscea 40 Raincatcher_Gully 21 29
+Thyme 39 X / South_Shroud 40 Lower_Paths 21 28
+Sagolii_Sage 41 X / Upper_La_Noscea 45 Bronze_Lake 34 24
+Black_Scorpion 42 X / Upper_La_Noscea 45 Bronze_Lake 34 24
+Rolanberry 43 X / Upper_La_Noscea 45 Bronze_Lake 34 24
+Rolanberry_Seeds 43 Hidden / Upper_La_Noscea 45 Bronze_Lake 34 24
+Dart_Frog 45 X / Upper_La_Noscea 45 Bronze_Lake 34 24
+Thanalan_Tea_Leaves 48 X / Southern_Thanalan 50 Sagolii_Desert 13 31
+Lava_Toad 49 X / Southern_Thanalan 50 Sagolii_Desert 13 31
+Earth_Cluster 50 X / The_Dravanian_Forelands 60 Avalonia_Fallen 10 32
+Maiden_Grass 50 X / Southern_Thanalan 50 Sagolii_Desert 13 31
+Wind_Cluster 50 X / Coerthas_Western_Highlands 60 Twinpools 10 14 / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Black_Truffle 50 X / Eastern_Thanalan 50 ?? 00 00
+Dark_Matter_Cluster 50 Hidden / Lower_La_Noscea 50 ?? 00 00 / Eastern_La_Noscea 50 ?? 00 00 / Central_Shroud 50 ?? 00 00 / East_Shroud 50 ?? 00 00 / Eastern_Thanalan 50 ?? 00 00 / The_Dravanian_Forelands 50 ?? 00 00
+Dzemael_Tomato 50 X / Eastern_La_Noscea 50 ?? 00 00
+Dzemael_Tomato_Seeds 50 X / Eastern_La_Noscea 50 ?? 00 00
+Honey_Lemon 50 X / Eastern_La_Noscea 50 ?? 00 00
+Honey_Lemon_Seeds 50 X / Eastern_La_Noscea 50 ?? 00 00
+Kidragora 50 X / East_Shroud 50 ?? 00 00
+Mazlaya_Greens 50 X / Eastern_Thanalan 50 ?? 00 00
+Silkworm_Cocoon 50 X / East_Shroud 50 ?? 00 00
+Trillium 50 X / East_Shroud 50 ?? 00 00
+Trillium_Bulb 50 X / East_Shroud 50 ?? 00 00
+Unaspected_Crystal 50 Hidden / Lower_La_Noscea 50 ?? 00 00 / Eastern_La_Noscea 50 ?? 00 00 / Western_La_Noscea 50 ?? 00 00 / Central_Shroud 50 ?? 00 00 / East_Shroud 50 ?? 00 00 / Eastern_Thanalan 50 ?? 00 00
+La_Noscean_Leek 50 X / Western_La_Noscea 50 ?? 00 00
+Shroud_Tea_Leaves 50 X / Central_Shroud 50 ?? 00 00
+Waterfowl_Feather 50 Hidden / Western_La_Noscea 50 ?? 00 00
+Young_Cieldalaes_Spinach 50 X / Lower_La_Noscea 50 ?? 00 00
+Old_World_Fig 50 X / The_Dravanian_Forelands 50 ?? 00 00
+Rosemary 50 X / East_Shroud 50 ?? 00 00
+Rainbow_Cotton_Boll 51 X / Coerthas_Western_Highlands 55 Twinpools 19 18 19 15 15 16
+Pearl_Sprouts 52 X / Coerthas_Western_Highlands 55 ?? 00 00
+Sprig_of_Mist_Dill 52 X / Coerthas_Western_Highlands 55 Twinpools 19 18 19 15 15 16
+Coerthan_Tea_Leaves 53 X / Coerthas_Western_Highlands 55 ?? 00 00
+Cyclops_Onion 53 Hidden / The_Dravanian_Forelands 55 Chocobo_Forest 36 20 38 20 37 17
+Highland_Wheat 53 X / The_Dravanian_Forelands 55 Chocobo_Forest 36 20 38 20 37 17
+Stalk_of_Ramie 54 X / The_Dravanian_Forelands 55 Chocobo_Forest 36 20 38 20 37 17
+Chives 55 X / Coerthas_Western_Highlands 55 ?? 00 00
+Emerald_Beans 55 Hidden / The_Churning_Mists 55 Landlord_Colony 22 25 23 20 21 21
+Magma_Beet 55 X / The_Churning_Mists 55 Landlord_Colony 22 25 23 20 21 21
+Coneflower 56 X / The_Dravanian_Forelands 60 Avalonia_Fallen 11 31 10 33 8 34
+Granular_Clay 56 X / The_Dravanian_Forelands 60 Avalonia_Fallen 00 00
+Highland_Oregano 56 X / Coerthas_Western_Highlands 60 Twinpools 00 00 / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Cow_Bitter 57 X / The_Dravanian_Hinterlands 60 The_Answering_Quarter 10 20 12 17 14 18
+Sesame_Seeds 57 X / The_Sea_of_Clouds 60 The_Blue_Window 21 11 24 10 22 13
+Furymint 58 Hidden / Coerthas_Western_Highlands 60 Twinpools 00 00 / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Peat_Moss 58 Hidden / The_Dravanian_Forelands 60 Avalonia_Fallen 00 00
+Rue 58 X / Coerthas_Western_Highlands 60 Twinpools 12 17 8 15 12 13
+Coriander 59 X / Coerthas_Western_Highlands 60 Twinpools 12 17 8 15 12 13
+Dandelion 59 X / The_Churning_Mists 60 Four_Arms 2 230 20 31 18 27
+Black_Soil 60 Hidden / The_Dravanian_Forelands 60 Avalonia_Fallen 00 00
+Chysahl_Greens 60 X / Coerthas_Western_Highlands 60 ?? 00 00
+Clary_Sage 60 Hidden / Coerthas_Western_Highlands 60 Twinpools 00 00 / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Gaelicatnip 60 X / The_Dravanian_Hinterlands 60 The_Answering_Quarter 10 20 12 17 14 18
+Grade_5_Carbonized_Matter 60 Hidden / Coerthas_Western_Highlands 55 Twinpools 19 18 19 15 15 16 18 14 14 14 16 10 / Coerthas_Western_Highlands 60 Twinpools 12 17 8 15 12 13 / The_Sea_of_Clouds 60 The_Blue_Window 21 11 24 10 22 13 / The_Dravanian_Forelands 50 ?? 00 00 / The_Dravanian_Forelands 55 Chocobo_Forest 36 20 38 20 37 17 32 13 28 13 29 17 / The_Dravanian_Forelands 60 Avalonia_Fallen 16 28 19 30 20 27 11 31 10 33 8 34

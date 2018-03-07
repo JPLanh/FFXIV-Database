@@ -1,0 +1,411 @@
+Distilled_Water 1 1 9 40 312 1 Water_Shard 1 Muddy_Water
+Quicksilver 1 1 9 40 312 1 Water_Shard 2 Cinnabar
+Animal_Glue 2 1 10 40 325 1 Water_Shard 1 Animal_Skin 2 Bone_Chip
+Growth_Formula_Alpha 3 1 10 40 339 1 Water_Shard 1 Shriekshroom 1 Quicksilver 1 Rock_Salt
+Enchanted_Copper_Ink 4 1 10 40 352 1 Water_Shard 2 Copper_Sand 1 Beastkin_Blood
+Maple_Wand 4 1 21 60 352 1 Water_Shard 1 Lightning_Shard 1 Maple_Branch 1 Growth_Formula_Alpha
+Leather_Grimoire 5 1 33 60 451 1 Water_Shard 1 Lightning_Shard 1 Enchanted_Copper_Ink 1 Leather 1 Maple_Log 1 Hempen_Yarn
+Antidote 5 3 33 60 451 1 Water_Shard 1 Lightning_Shard 1 Rock_Salt 1 Grass_Viper
+Hull_Interior_Component 1 1 19 60 312 2 Water_Shard 2 Lightning_Shard 1 Hull_Interior_Component_Materials
+Bladder_Component 1 1 19 60 312 1 Water_Shard 1 Lightning_Shard 1 Bladder_Component_Materials
+Bladder_Lining_Component 1 1 28 60 234 1 Water_Shard 1 Lightning_Shard 1 Bladder_Lining_Component_Materials
+Starboard_Hull_Component 1 1 19 60 312 1 Water_Shard 1 Lightning_Shard 1 Starboard_Hull_Component_Materials
+Larboard_Hull_Component 1 1 9 40 312 1 Water_Shard 1 Lightning_Shard 1 Larboard_Hull_Component_Materials
+Propulsion_Engine_Component 3 1 30 60 254 2 Water_Shard 2 Lightning_Shard 1 Propulsion_Engine_Component_Materials
+Gyrodrive_Component 3 1 20 60 339 1 Water_Shard 1 Lightning_Shard 1 Gyrodrive_Component_Materials
+Rigging_Component 3 1 36 60 169 1 Water_Shard 1 Lightning_Shard 1 Rigging_Component_Materials
+Deck_Component 3 1 30 60 254 1 Water_Shard 1 Lightning_Shard 1 Deck_Component_Materials
+Engine_Casing_Component 3 1 10 40 339 1 Water_Shard 1 Lightning_Shard 1 Engine_Casing_Component_Materials
+Crafting_Tool_Component 3 1 30 60 254 1 Water_Shard 1 Lightning_Shard 1 Crafting_Tool_Component_Materials
+Eye_Drops 6 3 36 60 474 1 Water_Shard 1 Lightning_Shard 1 Rock_Salt 1 Yellow_Ginseng
+Rubber 7 1 18 40 492 1 Water_Shard 1 Latex
+Whispering_Maple_Wand 8 1 61 60 394 1 Water_Shard 1 Lightning_Shard 1 Maple_Wand 2 Growth_Formula_Alpha
+Maple_Picatrix 8 1 41 60 526 1 Water_Shard 1 Lightning_Shard 1 Enchanted_Copper_Ink 1 Maple_Lumber 1 Maple_Log 1 Hempen_Yarn
+Fish_Oil 10 1 22 40 629 1 Water_Shard 2 Princess_Trout
+Fish_Glue 10 1 22 40 629 1 Water_Shard 2 Coral_Butterfly
+Beeswax 10 1 22 40 629 1 Water_Shard 3 Beehive_Chip
+Engraved_Leather_Grimoire 10 1 67 60 471 1 Water_Shard 1 Lightning_Shard 1 Leather_Grimoire 2 Leather 1 Ash_Log
+Engine_Jointing_Component 6 1 18 40 474 2 Water_Shard 2 Lightning_Shard 1 Engine_Jointing_Component_Materials
+Cockpit_Exterior_Component 6 1 18 40 474 1 Water_Shard 1 Lightning_Shard 1 Cockpit_Exterior_Component_Materials
+Cockpit_Interior_Component 6 1 18 40 474 1 Water_Shard 1 Lightning_Shard 1 Cockpit_Interior_Component_Materials
+Ballast_Component 6 1 36 60 474 1 Water_Shard 1 Lightning_Shard 1 Ballast_Component_Materials
+Instrument_Panel_Component 6 1 115 60 237 1 Water_Shard 1 Lightning_Shard 1 Instrument_Panel_Component_Materials
+Aerodynamo_Component 6 1 36 60 474 1 Water_Shard 1 Lightning_Shard 1 Aerodynamo_Component_Materials
+Starboard_Wing_Component 10 1 22 40 629 1 Water_Shard 1 Lightning_Shard 1 Starboard_Wing_Component_Materials
+Larboard_Wing_Component 10 1 22 40 629 1 Water_Shard 1 Lightning_Shard 1 Larboard_Wing_Component_Materials
+Starboard_Wing_Control_Component 10 1 67 60 471 1 Water_Shard 1 Lightning_Shard 1 Starboard_Wing_Control_Component_Materials
+Larboard_Wing_Control_Component 10 1 67 60 471 1 Water_Shard 1 Lightning_Shard 1 Larboard_Wing_Control_Component_Materials
+Transmission_Component 10 1 144 60 314 1 Water_Shard 1 Lightning_Shard 1 Transmission_Component_Materials
+Heat_Vent_Component 10 1 144 60 314 1 Water_Shard 1 Lightning_Shard 1 Heat_Vent_Component_Materials
+Roof_Tile 11 1 24 40 665 1 Water_Shard 2 Potter's_Clay 1 Straw
+Budding_Maple_Wand 11 1 72 60 498 1 Water_Shard 1 Lightning_Shard 1 Whispering_Maple_Wand 1 Growth_Formula_Alpha 1 Beastkin_Blood
+Potion 12 3 53 60 702 1 Water_Shard 1 Lightning_Shard 1 Distilled_Water 1 Tinolqa_Mistletoe 1 Chanterelle
+Ash_Picatrix 13 1 54 60 726 1 Water_Shard 1 Lightning_Shard 1 Enchanted_Copper_Ink 1 Ash_Lumber 1 Ash_Log 1 Cotton_Yarn
+Clove_Oil 14 1 27 40 751 1 Water_Shard 2 Cloves
+Enchanted_Iron_Ink 14 1 27 40 751 1 Water_Shard 2 Iron_Sand 1 Viscous_Secretions
+Growth_Formula_Beta 15 1 27 40 807 1 Water_Shard 1 Jellyfish_Umbrella 1 Quicksilver 1 Rock_Salt
+Ether 15 3 55 70 807 1 Water_Shard 1 Lightning_Shard 1 Distilled_Water 1 Tinolqa_Mistletoe 1 Imp_Wing
+Terracotta_Pot 13 1 172 60 363 1 Water_Shard 1 Lightning_Shard 9 Potter's_Clay 9 Straw
+Ink_&_Quill 15 1 176 70 403 1 Water_Shard 1 Lightning_Shard 3 Enchanted_Iron_Ink 1 Cock_Feather
+Helm_Component 15 1 99 70 1452 2 Water_Shard 2 Lightning_Shard 1 Helm_Component_Materials
+Speaking_Tube_Component 15 1 82 70 605 1 Water_Shard 1 Lightning_Shard 1 Speaking_Tube_Component_Materials
+Lamp_Component 15 1 27 40 807 1 Water_Shard 1 Lightning_Shard 1 Lamp_Component_Materials
+Exhaust_Outlet_Component 15 1 99 70 1452 1 Water_Shard 1 Lightning_Shard 1 Exhaust_Outlet_Component_Materials
+Disposal_Unit_Component 15 1 176 70 403 1 Water_Shard 1 Lightning_Shard 1 Disposal_Unit_Component_Materials
+Ceruleum_Tank_Component 15 1 176 70 403 1 Water_Shard 1 Lightning_Shard 1 Ceruleum_Tank_Component_Materials
+Steering_Mechanism_Component 15 1 82 70 605 1 Water_Shard 1 Lightning_Shard 1 Steering_Mechanism_Component_Materials
+Ash_Wand 16 1 63 70 866 1 Water_Shard 1 Lightning_Shard 1 Ash_Branch 1 Growth_Formula_Beta
+Hard_Leather_Grimoire 16 1 63 70 866 1 Water_Shard 1 Lightning_Shard 1 Enchanted_Iron_Ink 1 Hard_Leather 1 Elm_Log 1 Cotton_Yarn
+Potion_of_Intelligence 16 3 63 70 866 1 Water_Shard 1 Lightning_Shard 1 Rock_Salt 1 Beastkin_Blood 1 Red_Landtrap_Leaf
+Potion_of_Dexterity 17 3 66 70 898 1 Water_Shard 1 Lightning_Shard 1 Rock_Salt 1 Bat_Fang
+Firebricks 18 1 33 40 939 1 Water_Shard 2 Mudstone 1 Potter's_Clay
+Potion_of_Vitality 18 3 67 70 939 1 Water_Shard 1 Lightning_Shard 1 Rock_Salt 1 Goobbue_Fang 1 Lavender
+Jellyfish_Humours 19 1 34 40 982 1 Water_Shard 2 Jellyfish_Umbrella
+Potion_of_Strength 19 3 68 70 982 1 Water_Shard 1 Lightning_Shard 1 Rock_Salt 1 Yellow_Yarzon_Leg 1 White_Scorpion
+Mortar 20 1 37 40 1053 1 Water_Shard 2 Limestone 1 Fine_Sand 1 Distilled_Water
+Engraved_Hard_Leather_Grimoire 20 1 111 70 789 1 Water_Shard 1 Lightning_Shard 1 Hard_Leather_Grimoire 2 Hard_Leather 1 Yew_Log
+Potion_of_Mind 20 3 74 70 1053 1 Water_Shard 1 Lightning_Shard 1 Rock_Salt 1 Viscous_Secretions 1 Jellyfish_Umbrella
+Low_Barrel_Planter 17 1 211 70 449 1 Water_Shard 1 Lightning_Shard 2 Growth_Formula_Beta 2 Elm_Lumber 1 Bronze_Rivets 2 Shroud_Seedling 2 Humus
+Glade_Tiled_Awning 20 1 236 70 526 1 Water_Shard 1 Lightning_Shard 3 Roof_Tile 3 Elm_Lumber 3 Limestone
+Island_Palm 20 1 236 70 526 1 Water_Shard 1 Lightning_Shard 4 Growth_Formula_Beta 4 Island_Seedling 4 Humus
+Shroud_Broadleaf 20 1 236 70 526 1 Water_Shard 1 Lightning_Shard 4 Growth_Formula_Beta 4 Shroud_Seedling 4 Humus
+Desert_Ironwood 20 1 236 70 526 1 Water_Shard 1 Lightning_Shard 4 Growth_Formula_Beta 4 Desert_Seedling 4 Humus
+Riviera_Cottage_Roof_(Wood) 20 1 236 70 526 4 Water_Shard 4 Lightning_Shard 4 Roof_Tile 4 Yew_Lumber 4 Iron_Joint_Plate 4 Iron_Nails
+Escape_Flyer_Component 16 1 113 70 1558 1 Water_Shard 1 Lightning_Shard 1 Escape_Flyer_Component_Materials
+Spare_Tank_Component 16 1 201 70 433 1 Water_Shard 1 Lightning_Shard 1 Spare_Tank_Component_Materials
+Refabrication_Component 16 1 31 40 866 1 Water_Shard 1 Lightning_Shard 1 Refabrication_Component_Materials
+Isolator_Component 16 1 63 70 866 1 Water_Shard 1 Lightning_Shard 1 Isolator_Component_Materials
+Hyperconductor_Component 16 1 201 70 433 1 Water_Shard 1 Lightning_Shard 1 Hyperconductor_Component_Materials
+Auxiliary_Aerodynamo_Component 16 1 63 70 866 1 Water_Shard 1 Lightning_Shard 1 Auxiliary_Aerodynamo_Component_Materials
+Decorative_Plating_Component 16 1 201 70 433 1 Water_Shard 1 Lightning_Shard 1 Decorative_Plating_Component_Materials
+Finishing_Component 18 1 120 70 1690 2 Water_Shard 2 Lightning_Shard 1 Finishing_Component_Materials
+Figurehead_Component 18 1 214 70 469 2 Water_Shard 2 Lightning_Shard 1 Figurehead_Component_Materials
+Budding_Ash_Wand 21 1 112 70 817 2 Water_Shard 1 Lightning_Shard 1 Ash_Wand 2 Growth_Formula_Beta
+Weak_Poisoning_Potion 21 3 75 70 1090 2 Water_Shard 1 Lightning_Shard 1 Quicksilver 1 Grass_Viper 1 Jellyfish_Cnida
+Weak_Blinding_Potion 21 3 75 70 1090 2 Water_Shard 1 Lightning_Shard 1 Quicksilver 1 Bat_Wing 1 Bat_Fang
+Weak_Sleeping_Potion 21 3 75 70 1090 2 Water_Shard 1 Lightning_Shard 1 Quicksilver 1 Red_Landtrap_Leaf 1 Jellyfish_Humours
+Weak_Paralyzing_Potion 21 3 75 70 1090 2 Water_Shard 1 Lightning_Shard 1 Quicksilver 1 Jellyfish_Cnida 1 Jellyfish_Humours
+Yew_Picatrix 22 1 75 70 1122 2 Water_Shard 1 Lightning_Shard 1 Enchanted_Iron_Ink 1 Yew_Lumber 1 Yew_Log 1 Cotton_Yarn
+Echo_Drops 22 3 75 70 1122 2 Water_Shard 1 Lightning_Shard 1 Rock_Salt 1 Lavender 1 Marjoram
+Weak_Silencing_Potion 22 3 75 70 1122 2 Water_Shard 1 Lightning_Shard 1 Quicksilver 1 Blowfish 1 Bat_Wing
+Enchanted_Silver_Ink 23 1 39 40 1169 2 Water_Shard 2 Silver_Sand 1 Acidic_Secretions
+Goatskin_Grimoire 24 1 85 70 1239 2 Water_Shard 2 Lightning_Shard 1 Enchanted_Silver_Ink 1 Aldgoat_Leather 1 Yew_Log 1 Dew_Thread
+Natron 25 1 44 40 1296 2 Water_Shard 1 Effervescent_Water 1 Rock_Salt
+Hi-Potion 25 3 89 70 1296 2 Water_Shard 2 Lightning_Shard 1 Distilled_Water 1 Matron's_Mistletoe 1 Gil_Bun
+Potted_Maguey 22 1 240 70 561 2 Water_Shard 1 Lightning_Shard 2 Growth_Formula_Beta 2 Potter's_Clay 2 Desert_Seedling 1 Humus
+Riviera_Flower_Vase 23 1 252 70 584 2 Water_Shard 1 Lightning_Shard 2 Growth_Formula_Beta 2 Island_Seedling 2 Iron_Ingot
+Glade_Flower_Vase 23 1 252 70 584 2 Water_Shard 1 Lightning_Shard 2 Growth_Formula_Beta 2 Shroud_Seedling 2 Elm_Lumber
+Oasis_Flower_Vase 23 1 252 70 584 2 Water_Shard 1 Lightning_Shard 2 Growth_Formula_Beta 2 Desert_Seedling 2 Brass_Ingot
+Ghostmaws 23 1 252 70 584 2 Water_Shard 1 Lightning_Shard 2 Growth_Formula_Beta 2 Weak_Blinding_Potion 2 Dungeon_Seedling 2 Humus
+Glade_Cottage_Roof_(Composite) 23 1 252 70 584 8 Water_Shard 8 Lightning_Shard 8 Roof_Tile 8 Elm_Lumber 8 Iron_Joint_Plate 8 Iron_Nails
+Unbreakable_Rock 24 1 272 70 619 2 Water_Shard 2 Lightning_Shard 2 Effervescent_Water 2 Limestone
+Pyrepods 24 1 272 70 619 2 Water_Shard 2 Lightning_Shard 2 Growth_Formula_Beta 2 Weak_Poisoning_Potion 2 Dungeon_Seedling 2 Humus
+Half_Barrel_Planter 25 1 284 70 648 2 Water_Shard 2 Lightning_Shard 2 Growth_Formula_Beta 2 Walnut_Lumber 1 Iron_Rivets 2 Shroud_Seedling 2 Humus
+Blue_Coral_Formation 25 1 284 70 648 2 Water_Shard 2 Lightning_Shard 2 Blue_Coral 2 Seagrot_Water
+Turnkey's_Cups 25 1 284 70 648 2 Water_Shard 2 Lightning_Shard 2 Growth_Formula_Beta 2 Weak_Silencing_Potion 2 Dungeon_Seedling 2 Humus
+Crab_Oil 26 1 45 40 1332 2 Water_Shard 2 Megalocrab_Leg
+Whispering_Ash_Wand 27 1 136 70 1026 3 Water_Shard 3 Lightning_Shard 1 Budding_Ash_Wand 1 Growth_Formula_Beta 1 Scalekin_Blood
+Clear_Glass_Lens 28 1 50 40 1498 3 Water_Shard 1 Silex 1 Natron
+Yew_Wand 28 1 100 70 1498 3 Water_Shard 3 Lightning_Shard 1 Yew_Branch 1 Growth_Formula_Beta
+Linseed_Oil 29 1 50 40 1544 3 Water_Shard 3 Flax
+Engraved_Goatskin_Grimoire 29 1 151 70 1158 3 Water_Shard 3 Lightning_Shard 1 Goatskin_Grimoire 3 Aldgoat_Leather 1 Walnut_Log
+Growth_Formula_Gamma 30 1 51 40 1584 3 Water_Shard 1 Blue_Landtrap_Leaf 1 Quicksilver 1 Rock_Salt
+Horn_Glue 30 1 51 40 1584 3 Water_Shard 3 Aldgoat_Horn
+Spine_Drops 30 3 102 70 1584 3 Water_Shard 3 Lightning_Shard 1 Rock_Salt 1 Wolf_Fang 1 Pearl_Ginger
+Bisque_Flooring 26 1 288 70 666 2 Water_Shard 2 Lightning_Shard 2 Mudstone 2 Potter's_Clay 2 Mortar
+Wall_Planter 27 1 291 70 684 3 Water_Shard 3 Lightning_Shard 3 Island_Seedling 3 Walnut_Lumber 3 Iron_Rivets 3 Humus
+Campfire 28 1 320 70 749 3 Water_Shard 3 Lightning_Shard 3 Bomb_Ash 3 Yew_Branch 3 Mudstone
+Stone_Interior_Wall 30 1 326 70 792 3 Water_Shard 3 Lightning_Shard 3 Fine_Sand 3 Mortar 3 Steel_Rivets
+Stone_Flooring 30 1 326 70 792 3 Water_Shard 3 Lightning_Shard 3 Fine_Sand 3 Mortar 3 Steel_Rivets
+Snow_White_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Grey_Pigment
+Soot_Black_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Grey_Pigment
+Dalamud_Red_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Red_Pigment
+Wine_Red_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Red_Pigment
+Sunset_Orange_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Brown_Pigment
+Kobold_Brown_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Brown_Pigment
+Pumpkin_Orange_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Brown_Pigment
+Loam_Brown_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Brown_Pigment
+Honey_Yellow_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Yellow_Pigment
+Millioncorn_Yellow_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Yellow_Pigment
+Hunter_Green_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Green_Pigment
+Ochu_Green_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Green_Pigment
+Deepwood_Green_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Green_Pigment
+Celeste_Green_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Green_Pigment
+Morbol_Green_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Green_Pigment
+Woad_Blue_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Blue_Pigment
+Othard_Blue_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Blue_Pigment
+Storm_Blue_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Blue_Pigment
+Void_Blue_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Blue_Pigment
+Royal_Blue_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Blue_Pigment
+Abyssal_Blue_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Blue_Pigment
+Lotus_Pink_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Purple_Pigment
+Colibri_Pink_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Purple_Pigment
+Plum_Purple_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Purple_Pigment
+Regal_Purple_Dye 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Purple_Pigment
+Grade_1_Glamour_Prism_(Alchemy) 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Grade_1_Clear_Prism 2 Growth_Formula_Gamma
+Grade_2_Glamour_Prism_(Alchemy) 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Grade_2_Clear_Prism 2 Growth_Formula_Gamma
+Grade_3_Glamour_Prism_(Alchemy) 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Grade_3_Clear_Prism 2 Growth_Formula_Gamma
+Grade_4_Glamour_Prism_(Alchemy) 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Grade_4_Clear_Prism 2 Growth_Formula_Gamma
+Grade_5_Glamour_Prism_(Alchemy) 30 1 51 70 1584 1 Water_Crystal 1 Lightning_Crystal 1 Grade_5_Clear_Prism 2 Growth_Formula_Gamma
+Hi-Potion_of_Dexterity 31 3 106 80 1670 3 Water_Shard 3 Lightning_Shard 1 Rock_Salt 1 Scalekin_Blood 1 Belladonna
+Hi-Potion_of_Mind 31 3 106 80 1670 3 Water_Shard 3 Lightning_Shard 1 Rock_Salt 1 Treant_Sap 1 Moor_Leech
+Black_Firesand 32 1 55 40 1697 3 Water_Shard 3 Saltpeter 3 Brimstone 1 Oak_Log
+Hi-Potion_of_Vitality 32 3 110 80 1697 3 Water_Shard 3 Lightning_Shard 1 Rock_Salt 1 Treant_Sap 1 Puk_Wing
+Hi-Potion_of_Intelligence 32 3 110 80 1697 3 Water_Shard 3 Lightning_Shard 1 Rock_Salt 1 Pearl_Ginger 1 Treant_Sap
+Enchanted_Mythril_Ink 33 1 55 40 1757 4 Water_Shard 4 Mythril_Sand 1 Scalekin_Blood
+Hi-Potion_of_Strength 33 3 111 80 1757 4 Water_Shard 4 Lightning_Shard 1 Rock_Salt 1 Blue_Yarzon_Leg 1 Gil_Bun
+Budding_Yew_Wand 34 1 172 80 1358 4 Water_Shard 4 Lightning_Shard 1 Yew_Wand 4 Growth_Formula_Beta 1 Scalekin_Blood
+Book_of_Silver 34 1 115 80 1811 4 Water_Shard 4 Lightning_Shard 1 Enchanted_Silver_Ink 1 Silver_Ingot 1 Oak_Log 1 Linen_Yarn
+Fire_Ward_Potion 34 3 115 80 1811 4 Water_Shard 4 Lightning_Shard 1 Rock_Salt 1 Sunstone 1 Blue_Landtrap_Leaf
+Ice_Ward_Potion 34 3 115 80 1811 4 Water_Shard 4 Lightning_Shard 1 Rock_Salt 1 Danburite 1 Blue_Landtrap_Leaf
+Wind_Ward_Potion 34 3 115 80 1811 4 Water_Shard 4 Lightning_Shard 1 Rock_Salt 1 Malachite 1 Blue_Landtrap_Leaf
+Earth_Ward_Potion 34 3 115 80 1811 4 Water_Shard 4 Lightning_Shard 1 Rock_Salt 1 Sphene 1 Blue_Landtrap_Leaf
+Lightning_Ward_Potion 34 3 115 80 1811 4 Water_Shard 4 Lightning_Shard 1 Rock_Salt 1 Fluorite 1 Blue_Landtrap_Leaf
+Water_Ward_Potion 34 3 115 80 1811 4 Water_Shard 4 Lightning_Shard 1 Rock_Salt 1 Lapis_Lazuli 1 Blue_Landtrap_Leaf
+Maddening_Daggers 35 1 123 80 1853 1 Earth_Crystal 1 Cracked_Daggers 1 Paralyzing_Potion
+Vintage_Picatrix 35 1 123 80 1853 1 Water_Crystal 1 Brittle_Picatrix 1 Oak_Log
+Hi-Ether 35 3 123 80 1853 4 Water_Shard 4 Lightning_Shard 1 Distilled_Water 1 Matron's_Mistletoe 1 Mandrake
+Poisoning_Potion 35 3 123 80 1853 4 Water_Shard 4 Lightning_Shard 1 Quicksilver 1 Morbol_Vine 1 Formic_Acid
+Paralyzing_Potion 35 3 123 80 1853 4 Water_Shard 4 Lightning_Shard 1 Quicksilver 1 Morbol_Vine 1 Mandrake
+Oasis_Interior_Wall 31 1 339 80 835 3 Water_Shard 3 Lightning_Shard 3 Mortar 3 Brass_Ingot
+Potted_Axilflower 33 1 355 80 878 4 Water_Shard 4 Lightning_Shard 4 Growth_Formula_Gamma 4 Island_Seedling 4 Steel_Ingot 4 Potter's_Clay 1 Humus
+Potted_Azalea 33 1 355 80 878 4 Water_Shard 4 Lightning_Shard 4 Growth_Formula_Gamma 4 Shroud_Seedling 4 Yew_Lumber 4 Iron_Ingot 1 Humus
+Potted_Spider_Plant 33 1 355 80 878 4 Water_Shard 4 Lightning_Shard 4 Growth_Formula_Gamma 4 Desert_Seedling 4 Brass_Ingot 4 Potter's_Clay 1 Humus
+Mossy_Rock 33 1 355 80 878 4 Water_Shard 4 Lightning_Shard 4 Growth_Formula_Gamma 4 Siltstone
+Oak_Low_Barrel_Planter 34 1 368 80 905 4 Water_Shard 4 Lightning_Shard 4 Growth_Formula_Gamma 4 Oak_Lumber 4 Steel_Rivets 4 Island_Seedling 4 Humus
+Rounded_Shrub 35 1 393 80 926 4 Water_Shard 4 Lightning_Shard 4 Shroud_Seedling 4 Growth_Formula_Gamma
+Blinding_Potion 36 3 124 80 1882 4 Water_Shard 4 Lightning_Shard 1 Quicksilver 1 Morbol_Vine 1 Blue_Landtrap_Leaf
+Sleeping_Potion 36 3 124 80 1882 4 Water_Shard 4 Lightning_Shard 1 Quicksilver 1 Morbol_Vine 1 Belladonna
+Silencing_Potion 37 3 128 80 1905 4 Water_Shard 4 Lightning_Shard 1 Quicksilver 1 Morbol_Vine 1 Tarantula
+Budding_Oak_Wand 38 1 129 80 1961 4 Water_Shard 4 Lightning_Shard 1 Oak_Branch 1 Growth_Formula_Alpha 1 Hi-Potion_of_Mind
+Embossed_Book_of_Silver 38 1 193 80 1470 4 Water_Shard 4 Lightning_Shard 1 Book_of_Silver 4 Silver_Ingot
+Clinker_Bricks 39 1 68 40 2026 5 Water_Shard 1 Grenade_Ash 5 Siltstone 1 Potter's_Clay
+Wand_of_Frost 39 1 137 80 2026 5 Water_Shard 5 Lightning_Shard 1 Oak_Branch 1 Eye_of_Ice 1 Growth_Formula_Gamma
+Wand_of_Tremors 39 1 137 80 2026 5 Water_Shard 5 Lightning_Shard 1 Oak_Branch 1 Eye_of_Earth 1 Growth_Formula_Gamma
+Wand_of_Tides 39 1 137 80 2026 5 Water_Shard 5 Lightning_Shard 1 Oak_Branch 1 Eye_of_Water 1 Growth_Formula_Gamma
+Lanolin 40 1 69 40 2050 5 Water_Shard 1 Karakul_Skin
+Smelling_Salts 40 3 138 80 2050 5 Water_Shard 5 Lightning_Shard 1 Rock_Salt 1 Desert_Saffron 1 Blue_Landtrap_Leaf
+Riviera_House_Roof_(Wood) 36 1 396 80 941 16 Water_Shard 16 Lightning_Shard 16 Roof_Tile 16 Oak_Lumber 16 Steel_Joint_Plate 16 Steel_Nails
+Lotus_Parasol 37 1 409 80 952 4 Water_Shard 4 Lightning_Shard 1 Lotus_Leaf 4 Walnut_Lumber 4 Beeswax
+Planter_Partition 39 1 438 80 1013 5 Water_Shard 5 Lightning_Shard 5 Island_Seedling 5 Mahogany_Lumber 5 Elm_Lumber 5 Humus
+Glade_House_Roof_(Composite) 40 1 441 80 1025 20 Water_Shard 20 Lightning_Shard 20 Roof_Tile 20 Walnut_Lumber 20 Steel_Joint_Plate 20 Steel_Nails
+Shark_Oil 41 1 71 40 2109 5 Water_Shard 1 Silver_Shark 1 Hammerhead_Shark
+Varnish 41 1 71 40 2109 5 Water_Shard 5 Raw_Amber 1 Linseed_Oil 1 Terebinth
+Book_of_Mythril 42 1 144 80 2147 5 Water_Shard 5 Lightning_Shard 5 Mythril_Ingot 1 Flax 1 Enchanted_Mythril_Ink
+Enchanted_Electrum_Ink 43 1 77 40 2251 5 Water_Shard 5 Electrum_Sand 1 Spoken_Blood
+Mega-Potion 43 3 155 80 2251 5 Water_Shard 5 Lightning_Shard 1 Distilled_Water 1 Mistletoe 1 Mugwort
+Mega-Potion_of_Mind 44 3 156 80 2277 5 Water_Shard 5 Lightning_Shard 1 Rock_Salt 1 Ahriman_Wing 1 Blue_Yarzon_Leg
+Wand_of_Flames 45 1 158 80 2309 6 Water_Shard 6 Lightning_Shard 1 Rosewood_Branch 1 Eye_of_Fire 1 Growth_Formula_Gamma
+Wand_of_Gales 45 1 158 80 2309 6 Water_Shard 6 Lightning_Shard 1 Rosewood_Branch 1 Eye_of_Wind 1 Growth_Formula_Gamma
+Wand_of_Storms 45 1 158 80 2309 6 Water_Shard 6 Lightning_Shard 1 Rosewood_Branch 1 Eye_of_Lightning 1 Growth_Formula_Gamma
+Book_of_Electrum 45 1 158 80 2309 6 Water_Shard 6 Lightning_Shard 1 Enchanted_Electrum_Ink 6 Electrum_Ingot 1 Cobalt_Ingot 1 Rosewood_Log 1 Woolen_Yarn
+Mega-Potion_of_Strength 45 3 158 80 2309 6 Water_Shard 6 Lightning_Shard 1 Rock_Salt 1 Shark_Oil 1 Sagolii_Sage
+Mega-Potion_of_Intelligence 45 3 158 80 2309 6 Water_Shard 6 Lightning_Shard 1 Rock_Salt 1 Black_Scorpion 1 Sandworm_Fang
+Water_Lilies 41 1 457 80 1054 5 Water_Shard 5 Lightning_Shard 5 Young_Water_Lily 5 Potter's_Clay 5 Growth_Formula_Gamma
+Sylphic_Flower_Vase 43 1 496 80 1125 5 Water_Shard 5 Lightning_Shard 5 Growth_Formula_Gamma 5 Shroud_Seedling 5 Electrum_Ingot 1 Mahogany_Lumber 1 Sylphic_Silk
+Planter_Box 45 1 505 80 1154 6 Water_Shard 6 Lightning_Shard 6 Shroud_Seedling 6 Rosewood_Lumber 6 Growth_Formula_Gamma 6 Potter's_Clay
+Gold_Needle 46 3 159 80 2372 6 Water_Shard 6 Lightning_Shard 1 Electrum_Ingot 1 Ahriman_Wing 1 Spoken_Blood
+Mega-Potion_of_Dexterity 46 3 159 80 2372 6 Water_Shard 6 Lightning_Shard 1 Rock_Salt 1 Dart_Frog 1 Spoken_Blood
+Mega-Potion_of_Vitality 46 3 159 80 2372 6 Water_Shard 6 Lightning_Shard 1 Rock_Salt 1 Grenade_Ash 1 Pudding_Flesh
+Potent_Poisoning_Potion 47 3 167 80 2421 6 Water_Shard 6 Lightning_Shard 1 Quicksilver 1 Ochu_Vine 1 Pudding_Flesh
+Potent_Paralyzing_Potion 47 3 167 80 2421 6 Water_Shard 6 Lightning_Shard 1 Quicksilver 1 Ochu_Vine 1 Black_Scorpion
+Potent_Silencing_Potion 48 3 172 80 2524 6 Water_Shard 6 Lightning_Shard 1 Quicksilver 1 Ochu_Vine 1 Dart_Frog
+Potent_Sleeping_Potion 48 3 172 80 2524 6 Water_Shard 6 Lightning_Shard 1 Quicksilver 1 Ochu_Vine 1 Desert_Saffron
+Budding_Rosewood_Wand 49 1 174 80 2551 6 Water_Shard 6 Lightning_Shard 1 Rosewood_Branch 1 Growth_Formula_Gamma 1 Spoken_Blood 1 Mega-Potion_of_Mind
+Embossed_Book_of_Electrum 49 1 261 80 1913 6 Water_Shard 6 Lightning_Shard 1 Book_of_Electrum 6 Electrum_Ingot 1 Cobalt_Ingot
+Potent_Blinding_Potion 49 3 174 80 2551 6 Water_Shard 6 Lightning_Shard 1 Quicksilver 1 Ochu_Vine 1 Formic_Acid
+Tane_Mahuta 50 1 186 80 2641 6 Water_Shard 6 Lightning_Shard 1 Rosewood_Branch 1 Growth_Formula_Gamma 1 Spoken_Blood 1 Ochu_Vine
+Mega-Ether 50 3 186 80 2641 6 Water_Shard 6 Lightning_Shard 1 Distilled_Water 1 Mistletoe 1 Mugwort
+Elixir 50 3 186 80 2641 6 Water_Shard 6 Lightning_Shard 1 Distilled_Water 1 Mistletoe 1 Nutmeg
+Fire_Ward_Hi-Potion 50 3 186 80 2641 6 Water_Shard 6 Lightning_Shard 1 Rock_Salt 1 Raw_Garnet 1 Mugwort
+Ice_Ward_Hi-Potion 50 3 186 80 2641 6 Water_Shard 6 Lightning_Shard 1 Rock_Salt 1 Raw_Goshenite 1 Mugwort
+Wind_Ward_Hi-Potion 50 3 186 80 2641 6 Water_Shard 6 Lightning_Shard 1 Rock_Salt 1 Raw_Peridot 1 Mugwort
+Earth_Ward_Hi-Potion 50 3 186 80 2641 6 Water_Shard 6 Lightning_Shard 1 Rock_Salt 1 Raw_Heliodor 1 Mugwort
+Lightning_Ward_Hi-Potion 50 3 186 80 2641 6 Water_Shard 6 Lightning_Shard 1 Rock_Salt 1 Raw_Amethyst 1 Mugwort
+Water_Ward_Hi-Potion 50 3 186 80 2641 6 Water_Shard 6 Lightning_Shard 1 Rock_Salt 1 Raw_Aquamarine 1 Mugwort
+Growth_Formula_Delta 50 1 97 40 2646 3 Water_Crystal 1 Trillium_Bulb 1 Quicksilver 1 Rock_Salt
+Enchanted_Gold_Ink 50 1 97 40 2646 3 Water_Crystal 3 Gold_Sand 1 Spoken_Blood
+Vamper's_Knives 50 1 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Bloody_Knife_Blades 1 Potent_Sleeping_Potion 1 Rosewood_Lumber
+Madman's_Whispering_Rod 50 1 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Thavnairian_Mistletoe 1 Growth_Formula_Delta 1 Vampire_Plant
+Erudite's_Picatrix_of_Casting 50 1 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Bloody_Grimoire_Binding 1 Enchanted_Gold_Ink
+Erudite's_Picatrix_of_Healing 50 1 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Bloody_Grimoire_Binding 1 Enchanted_Gold_Ink
+Growth_Formula_Delta_Concentrate 50 1 116 40 2921 1 Water_Cluster 2 Growth_Formula_Delta 2 Lime_Sulphur
+Enchanted_Rose_Gold_Ink 50 1 116 40 2921 1 Water_Cluster 1 Enchanted_Gold_Ink 9 Minium
+Diluted_Vitriol 50 9 116 40 2921 1 Water_Cluster 9 Filtered_Water 9 Vitriol
+Crystal_Glass 50 1 116 40 2921 5 Water_Crystal 5 Silex 1 Natron 1 Minium
+Suspended_Trillium_Flower 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Growth_Formula_Delta_Concentrate 1 Trillium 1 Growth_Formula_Delta
+Alkalurops 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Suspended_Trillium_Flower 1 Darksteel_Nugget 2 Spruce_Lumber
+Deus_Ex_Verbis 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Enchanted_Rose_Gold_Ink 3 Darksteel_Nugget 1 Silver_Ingot 1 Hippogryph_Leather 1 Twinthread
+Deus_Ex_Gratia 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Enchanted_Rose_Gold_Ink 3 Darksteel_Nugget 1 Silver_Ingot 1 Hippogryph_Leather 1 Twinthread
+X-Potion 50 3 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Filtered_Water 1 Thavnairian_Mistletoe 1 Vampire_Plant
+X-Ether 50 3 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Voidsent_Blood 1 Thavnairian_Mistletoe 1 Mugwort
+Hi-Elixir 50 3 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Lime_Sulphur 1 Growth_Formula_Delta 1 Thavnairian_Mistletoe 1 Treant_Sap
+X-Potion_of_Strength 50 3 233 80 2921 8 Water_Shard 8 Lightning_Shard 1 Volcanic_Rock_Salt 1 Shark_Oil 1 Thavnairian_Mistletoe
+X-Potion_of_Dexterity 50 3 233 80 2921 8 Water_Shard 8 Lightning_Shard 1 Volcanic_Rock_Salt 1 Dart_Frog 1 Thavnairian_Mistletoe
+X-Potion_of_Vitality 50 3 233 80 2921 8 Water_Shard 8 Lightning_Shard 1 Volcanic_Rock_Salt 1 Grenade_Ash 1 Thavnairian_Mistletoe
+X-Potion_of_Intelligence 50 3 233 80 2921 8 Water_Shard 8 Lightning_Shard 1 Volcanic_Rock_Salt 1 Black_Scorpion 1 Thavnairian_Mistletoe
+X-Potion_of_Mind 50 3 233 80 2921 8 Water_Shard 8 Lightning_Shard 1 Volcanic_Rock_Salt 1 Pudding_Flesh 1 Thavnairian_Mistletoe
+Fire_Ward_Mega-Potion 50 3 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Volcanic_Rock_Salt 1 Raw_Rubellite 1 Trillium_Bulb
+Ice_Ward_Mega-Potion 50 3 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Volcanic_Rock_Salt 1 Raw_Zircon 1 Trillium_Bulb
+Wind_Ward_Mega-Potion 50 3 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Volcanic_Rock_Salt 1 Raw_Tourmaline 1 Trillium_Bulb
+Earth_Ward_Mega-Potion 50 3 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Volcanic_Rock_Salt 1 Raw_Amber 1 Trillium_Bulb
+Lightning_Ward_Mega-Potion 50 3 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Volcanic_Rock_Salt 1 Raw_Spinel 1 Trillium_Bulb
+Water_Ward_Mega-Potion 50 3 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Volcanic_Rock_Salt 1 Raw_Turquoise 1 Trillium_Bulb
+Grade_1_Wheel_of_Confrontation 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Productivity 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Industry 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Longeing 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Rivalry 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Company 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Initiation 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Capacity 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Observation 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Efficiency 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Precision 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Dedication 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Nutriment 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Permanence 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Revival 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Pilgrimage 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Grade_1_Wheel_of_Recreation 50 1 116 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Unaspected_Crystal 1 Silver_Ingot 1 Enchanted_Gold_Ink 1 Minium
+Bloodblossoms 46 1 508 80 1186 6 Water_Shard 6 Lightning_Shard 6 Growth_Formula_Gamma 6 Spoken_Blood 6 Carnivorous_Seedling 6 Humus
+Death's_Fingers 49 1 556 80 1275 6 Water_Shard 6 Lightning_Shard 6 Growth_Formula_Gamma 6 Potent_Poisoning_Potion 6 Carnivorous_Seedling 6 Humus
+Country_Interior_Wall 50 1 595 80 1320 6 Water_Shard 6 Lightning_Shard 6 Clinker_Bricks 6 Mortar 6 Marble
+Country_Flooring 50 1 595 80 1320 6 Water_Shard 6 Lightning_Shard 6 Marble 6 Cut_Stone 6 Mortar
+Large_Planter_Box 50 1 595 80 1320 6 Water_Shard 6 Lightning_Shard 6 Mahogany_Lumber 6 Island_Seedling 6 Growth_Formula_Gamma 6 Rosewood_Lumber
+Potted_Dragon_Tree 50 1 624 80 1323 3 Water_Crystal 3 Lightning_Crystal 3 Desert_Seedling 3 Spruce_Lumber 3 Darksteel_Nugget 3 Humus
+Potted_Oliphaunt's_Ear 50 1 624 80 1323 3 Water_Crystal 3 Lightning_Crystal 3 Spruce_Lumber 3 Island_Seedling 3 Humus 3 Rose_Gold_Nugget
+Stuffed_Mazlaya_Marlin 50 1 624 80 1323 3 Water_Crystal 3 Lightning_Crystal 1 Mazlaya_Marlin 3 Darksteel_Nugget 3 Black_Alumen 1 Rope_Belt 3 Zircon
+Riviera_Mansion_Roof_(Wood) 50 1 624 80 1323 12 Water_Crystal 12 Lightning_Crystal 12 Roof_Tile 12 Spruce_Lumber 12 Cobalt_Joint_Plate 12 Cobalt_Nails 12 Felt_Lining
+Glade_Mansion_Roof_(Composite) 50 1 624 80 1323 12 Water_Crystal 12 Lightning_Crystal 12 Roof_Tile 12 Rosewood_Lumber 12 Cobalt_Joint_Plate 12 Cobalt_Nails 12 Clinker_Bricks
+Glade_Hedgewall 50 1 624 80 1323 28 Water_Shard 28 Lightning_Shard 28 Shroud_Seedling 28 Rosewood_Lumber 28 Growth_Formula_Delta
+Potted_Umbrella_Fig 50 1 745 80 1460 1 Water_Cluster 1 Lightning_Cluster 3 Umbrella_Fig_Seeds 3 Potter's_Clay 3 Humus 3 Growth_Formula_Delta_Concentrate
+Wild_Banana_Tree 50 1 745 80 1460 1 Water_Cluster 1 Lightning_Cluster 3 Wild_Banana_Shoot 3 Growth_Formula_Delta_Concentrate 3 Humus
+Stuffed_Takitaro 50 1 745 80 1460 1 Water_Cluster 1 Lightning_Cluster 1 Takitaro 1 Treated_Spruce_Lumber 2 Black_Alumen 2 Darksteel_Rivets 2 Black_Pearl
+Wolf_Grimoire_of_Casting 50 1 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Enchanted_Gold_Ink 3 Electrum_Ingot 1 Cobalt_Ingot 1 Rosewood_Log 1 Woolen_Yarn
+Wolf_Grimoire_of_Healing 50 1 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Enchanted_Gold_Ink 3 Electrum_Ingot 1 Cobalt_Ingot 1 Rosewood_Log 1 Woolen_Yarn
+Icarus_Wing 50 3 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Eagle_Feather 1 Gold_Sand 1 Beeswax
+Regain_Feather 50 3 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Swan_Feather 1 Growth_Formula_Delta
+Slow_Ward_Potion 50 3 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Trillium 1 Ochu_Vine 1 Cactuar_Needle
+Silence_Ward_Potion 50 3 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Trillium 1 Ochu_Vine 1 Dart_Frog
+Blind_Ward_Potion 50 3 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Trillium 1 Ochu_Vine 1 Formic_Acid
+Poison_Ward_Potion 50 3 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Trillium 1 Ochu_Vine 1 Pudding_Flesh
+Stun_Ward_Potion 50 3 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Trillium 1 Ochu_Vine 1 Night_Milk
+Sleep_Ward_Potion 50 3 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Trillium 1 Ochu_Vine 1 Desert_Saffron
+Bind_Ward_Potion 50 3 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Trillium 1 Ochu_Vine 1 Treant_Sap
+Heavy_Ward_Potion 50 3 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 1 Trillium 1 Ochu_Vine 1 Gysahl_Greens
+Spiritbond_Potion 50 3 195 80 2646 3 Water_Crystal 3 Lightning_Crystal 3 Vampire_Plant 3 Thavnairian_Mistletoe 1 Battlecraft_Demimateria_II 1 Fieldcraft_Demimateria_II
+Spirits_of_Salt 50 1 419 80 5257 11 Water_Shard 11 Lightning_Shard 11 Volcanic_Rock_Salt 1 Vitriol
+Airship_Repair_Materials 50 1 233 80 2921 5 Water_Crystal 5 Lightning_Crystal 1 Dark_Matter_Cluster 5 Grade_6_Dark_Matter
+Giantsgall_Longsword 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Mossy_Stone_Sword 9 Diluted_Vitriol
+Giantsgall_Claws 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Mossy_Stone_Claws 9 Diluted_Vitriol
+Giantsgall_War_Axe 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Mossy_Stone_Axe 9 Diluted_Vitriol
+Giantsgall_Trident 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Mossy_Stone_Spear 9 Diluted_Vitriol
+Giantsgall_Longbow 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Mossy_Stone_Bow 9 Diluted_Vitriol
+Giantsgall_Cleavers 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Mossy_Stone_Daggers 9 Diluted_Vitriol
+Giantsgall_Guillotine 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Mossy_Stone_Greatsword 9 Diluted_Vitriol
+Giantsgall_Knifelock 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Mossy_Stone_Cannon 9 Diluted_Vitriol 9 Wyvern_Obsidian 1 Black_Firesand
+Giantsgall_Cane 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Mossy_Stone_Rod 9 Diluted_Vitriol
+Giantsgall_Longstaff 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Mossy_Stone_Staff 9 Diluted_Vitriol
+Cantamina_Thavnaria 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Weathered_Tome 1 Enchanted_Rose_Gold_Ink 1 Hippogryph_Leather 1 Rose_Gold_Nugget
+Medica_Thavnaria 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Faded_Tome 1 Enchanted_Rose_Gold_Ink 1 Hippogryph_Leather 1 Rose_Gold_Nugget
+Giantsgall_Star_Globe 50 1 233 80 2921 1 Water_Cluster 1 Lightning_Cluster 1 Mossy_Stone_Globe 9 Diluted_Vitriol 1 Enchanted_Rose_Gold_Ink
+Enchanted_Platinum_Ink 50 1 445 80 4980 3 Water_Cluster 3 Lightning_Cluster 1 Platinum_Ore 1 Voidsent_Blood 1 Minium
+Concentrated_Spirits_of_Salt 50 1 801 80 8964 12 Water_Shard 12 Lightning_Shard 1 Spirits_of_Salt 12 Fieldcraft_Demimateria_III
+Enchanted_Quicksilver 50 1 222 40 4980 3 Water_Cluster 3 Lightning_Cluster 3 Black_Cinnabar 1 Raziqsand 3 Tarantula
+Terminus_Putty 50 3 445 80 4980 2 Water_Cluster 1 Lightning_Cluster 2 Tawny_Latex 1 Filtered_Water
+Perfect_Pounce 50 1 445 80 4980 2 Water_Cluster 1 Lightning_Cluster 1 Dried_Ether 1 Aetherlouse 1 Electrum_Sand
+Gallant_Armor_Augmentation 50 1 222 40 4980 7 Water_Crystal 7 Lightning_Crystal 1 Terminus_Putty 1 Wolfram_Square 1 Wolfram_Ingot 7 Darksteel_Ingot
+Temple_Attire_Augmentation 50 1 222 40 4980 7 Water_Crystal 7 Lightning_Crystal 1 Terminus_Putty 1 Saurian_Leather 1 Wolfram_Ingot 1 Hard_Hippogryph_Leather 1 Darksteel_Ingot
+Fighter's_Armor_Augmentation 50 1 222 40 4980 7 Water_Crystal 7 Lightning_Crystal 1 Terminus_Putty 1 Wolfram_Square 1 Wolfram_Ingot 7 Darksteel_Ingot
+Drachen_Armor_Augmentation 50 1 222 40 4980 7 Water_Crystal 7 Lightning_Crystal 1 Terminus_Putty 1 Wolfram_Square 1 Ancient_Lumber 1 Darksteel_Ingot 1 Treated_Spruce_Lumber
+Choral_Attire_Augmentation 50 1 222 40 4980 7 Water_Crystal 7 Lightning_Crystal 1 Terminus_Putty 1 Saurian_Leather 1 Ancient_Lumber 1 Hard_Hippogryph_Leather 1 Treated_Spruce_Lumber
+Ninja_Garb_Augmentation 50 1 222 40 4980 7 Water_Crystal 7 Lightning_Crystal 1 Terminus_Putty 1 Wolfram_Square 1 Cashmere_Cloth 1 Vanya_Silk 1 Darksteel_Ingot
+Wizard's_Attire_Augmentation 50 1 222 40 4980 7 Water_Crystal 7 Lightning_Crystal 1 Terminus_Putty 1 Saurian_Leather 1 Gold_Ingot 1 Hard_Hippogryph_Leather 1 Rose_Gold_Ingot
+Healer's_Attire_Augmentation 50 1 222 40 4980 7 Water_Crystal 7 Lightning_Crystal 1 Terminus_Putty 1 Cashmere_Cloth 1 Ancient_Lumber 1 Vanya_Silk 1 Treated_Spruce_Lumber
+Evoker's_Attire_Augmentation 50 1 222 40 4980 7 Water_Crystal 7 Lightning_Crystal 1 Terminus_Putty 1 Cashmere_Cloth 1 Gold_Ingot 1 Vanya_Silk 1 Rose_Gold_Ingot
+Scholar's_Attire_Augmentation 50 1 222 40 4980 7 Water_Crystal 7 Lightning_Crystal 1 Terminus_Putty 1 Cashmere_Cloth 1 Gold_Ingot 1 Vanya_Silk 1 Rose_Gold_Ingot
+Tremor_Knuckles 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Uraeus_Leather
+Tremor_Axe 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Spoken_Blood
+Tremor_Spear 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Shark_Oil
+Tremor_Bow 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Raptor_Sinew
+Tremor_Cleavers 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Shark_Oil
+Tremor_Guillotine 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Shark_Oil
+Tremor_Culverin 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 12 Wyvern_Obsidian 1 Black_Firesand
+Malevolent_Moggle_Mogwand 50 1 445 80 4980 2 Water_Cluster 1 Lightning_Cluster 2 Demimog_Demimateria 2 Battlecraft_Demimateria_III 1 Kingly_Whisker 2 Terminus_Putty 1 Growth_Formula_Delta
+Tremor_Cane 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Growth_Formula_Delta
+Tremor_Cudgel 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Amber
+Inferno_Grimoire 50 1 445 80 4980 12 Fire_Crystal 12 Demimateria_of_the_Inferno 12 Battlecraft_Demimateria_III 1 Inferno_Horn 12 Terminus_Putty 1 Enchanted_Gold_Ink
+Inferno_Codex 50 1 445 80 4980 12 Fire_Crystal 12 Demimateria_of_the_Inferno 12 Battlecraft_Demimateria_III 1 Inferno_Horn 12 Terminus_Putty 1 Enchanted_Gold_Ink
+Will_of_the_Vortex 50 1 445 80 4980 12 Wind_Crystal 12 Demimateria_of_the_Vortex 12 Battlecraft_Demimateria_III 1 Vortex_Feather 12 Terminus_Putty 1 Enchanted_Gold_Ink
+Embrace_of_the_Vortex 50 1 445 80 4980 12 Wind_Crystal 12 Demimateria_of_the_Vortex 12 Battlecraft_Demimateria_III 1 Vortex_Feather 12 Terminus_Putty 1 Enchanted_Gold_Ink
+The_Greater_Key_of_Tremors 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Enchanted_Gold_Ink
+The_Holy_Key_of_Tremors 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Enchanted_Gold_Ink
+Majestic_Moggle_Mogtome 50 1 445 80 4980 2 Water_Cluster 1 Lightning_Cluster 2 Demimog_Demimateria 2 Battlecraft_Demimateria_III 1 Kingly_Whisker 2 Terminus_Putty 1 Enchanted_Gold_Ink
+Munificent_Moggle_Mogtome 50 1 445 80 4980 2 Water_Cluster 1 Lightning_Cluster 2 Demimog_Demimateria 2 Battlecraft_Demimateria_III 1 Kingly_Whisker 2 Terminus_Putty 1 Enchanted_Gold_Ink
+Tremor_Star_Globe 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Enchanted_Gold_Ink
+Tremor_Shield 50 1 445 80 4980 12 Earth_Crystal 12 Demimateria_of_Crags 12 Battlecraft_Demimateria_III 1 Crag_Heart 12 Terminus_Putty 1 Cobalt_Ingot
+Kirimu_Grimoire 50 1 586 80 5783 2 Water_Cluster 2 Lightning_Cluster 2 Allagan_Catalyst 2 Battlecraft_Demimateria_III 1 Enchanted_Platinum_Ink 2 Wootz_Ingot 2 Kirimu_Leather
+Kirimu_Codex 50 1 586 80 5783 2 Water_Cluster 2 Lightning_Cluster 2 Allagan_Catalyst 2 Battlecraft_Demimateria_III 1 Enchanted_Platinum_Ink 2 Ebony_Lumber 2 Kirimu_Leather
+Tinker's_Calm 50 1 586 80 5783 2 Water_Cluster 2 Lightning_Cluster 2 Virgin_Basilisk_Egg 2 Rosemary 1 Allagan_Catalyst
+Carpentry_for_Beginners 50 1 586 80 5783 2 Water_Cluster 2 Lightning_Cluster 1 Xelphatol_Spring_Water 1 Enchanted_Rose_Gold_Ink 1 Hippogryph_Leather 1 Raziqsap 2 Fieldcraft_Demimateria_II
+Blacksmithing_for_Beginners 50 1 586 80 5783 2 Water_Cluster 2 Lightning_Cluster 1 Xelphatol_Spring_Water 1 Enchanted_Rose_Gold_Ink 1 Hippogryph_Leather 1 Raziqsap 2 Fieldcraft_Demimateria_II
+Armoring_for_Beginners 50 1 586 80 5783 2 Water_Cluster 2 Lightning_Cluster 1 Xelphatol_Spring_Water 1 Enchanted_Rose_Gold_Ink 1 Hippogryph_Leather 1 Raziqsap 2 Fieldcraft_Demimateria_II
+Goldsmithing_for_Beginners 50 1 586 80 5783 2 Water_Cluster 2 Lightning_Cluster 1 Xelphatol_Spring_Water 1 Enchanted_Rose_Gold_Ink 1 Hippogryph_Leather 1 Raziqsap 2 Fieldcraft_Demimateria_II
+Leatherworking_for_Beginners 50 1 586 80 5783 2 Water_Cluster 2 Lightning_Cluster 1 Xelphatol_Spring_Water 1 Enchanted_Rose_Gold_Ink 1 Hippogryph_Leather 1 Raziqsap 2 Fieldcraft_Demimateria_II
+Weaving_for_Beginners 50 1 586 80 5783 2 Water_Cluster 2 Lightning_Cluster 1 Xelphatol_Spring_Water 1 Enchanted_Rose_Gold_Ink 1 Hippogryph_Leather 1 Raziqsap 2 Fieldcraft_Demimateria_II
+Alchemy_for_Beginners 50 1 586 80 5783 2 Water_Cluster 2 Lightning_Cluster 1 Xelphatol_Spring_Water 1 Enchanted_Rose_Gold_Ink 1 Hippogryph_Leather 1 Raziqsap 2 Fieldcraft_Demimateria_II
+Cooking_for_Beginners 50 1 586 80 5783 2 Water_Cluster 2 Lightning_Cluster 1 Xelphatol_Spring_Water 1 Enchanted_Rose_Gold_Ink 1 Hippogryph_Leather 1 Raziqsap 2 Fieldcraft_Demimateria_II
+Enchanted_Mythrite_Ink 51 1 169 40 3951 3 Water_Crystal 3 Mythrite_Sand 3 Deepeye_Tears
+Archaeoskin_Grimoire 51 1 339 80 3951 3 Water_Crystal 3 Lightning_Crystal 3 Archaeornis_Leather 1 Hippogryph_Leather 1 Electrum_Ingot 1 Enchanted_Mythrite_Ink
+Archaeoskin_Codex 51 1 339 80 3951 3 Water_Crystal 3 Lightning_Crystal 3 Archaeornis_Leather 1 Hippogryph_Leather 1 Electrum_Ingot 1 Enchanted_Mythrite_Ink
+Growth_Formula_Epsilon 51 1 210 40 4561 3 Water_Crystal 3 Icetrap_Leaf 1 Quicksilver 3 Volcanic_Rock_Salt
+Void_Glue 51 1 210 40 4561 3 Water_Crystal 3 Gelato_Flesh 3 Pudding_Flesh
+Holy_Water 52 1 251 40 5172 3 Water_Crystal 3 Dravanian_Spring_Water 3 Dravanian_Mistletoe
+Holy_Cedar_Wand 52 1 503 80 5172 3 Water_Crystal 3 Lightning_Crystal 1 Holy_Cedar_Lumber 1 Rainbow_Cloth 1 Rainbow_Thread 3 Growth_Formula_Epsilon
+Wyvernskin_Grimoire 52 1 503 80 5172 3 Water_Crystal 3 Lightning_Crystal 3 Wyvern_Leather 1 Mythrite_Ingot 1 Enchanted_Mythrite_Ink
+Wyvernskin_Codex 52 1 503 80 5172 3 Water_Crystal 3 Lightning_Crystal 3 Wyvern_Leather 1 Mythrite_Ingot 1 Enchanted_Mythrite_Ink
+Grade_1_Strength_Dissolvent 53 1 293 40 5783 4 Water_Crystal 4 Deepeye_Tears 2 Bear_Fat 1 Volcanic_Rock_Salt
+Grade_1_Dexterity_Dissolvent 53 1 293 40 5783 4 Water_Crystal 4 Deepeye_Tears 2 Sprig_of_Mist_Dill 1 Volcanic_Rock_Salt
+Enchanted_Hardsilver_Ink 54 1 320 40 6042 4 Water_Crystal 4 Hardsilver_Sand 4 Dhalmel_Saliva 1 Dravanian_Spring_Water
+Grade_1_Vitality_Dissolvent 54 1 320 40 6042 4 Water_Crystal 4 Deepeye_Tears 2 Wyvern_Wing 1 Volcanic_Rock_Salt
+Grade_1_Intelligence_Dissolvent 54 1 320 40 6042 4 Water_Crystal 4 Deepeye_Tears 2 Mogpom 1 Volcanic_Rock_Salt
+Grade_1_Mind_Dissolvent 54 1 320 40 6042 4 Water_Crystal 4 Deepeye_Tears 2 Blue_Cloud_Coral 1 Volcanic_Rock_Salt
+Wing_Glue 55 1 348 35 6301 4 Water_Crystal 4 Wyvern_Wing 4 Ahriman_Wing 4 Dhalmel_Saliva
+Dhalmelskin_Grimoire 55 1 697 70 6301 4 Water_Crystal 4 Lightning_Crystal 4 Dhalmel_Leather 1 Hardsilver_Nugget 1 Spinel 1 Enchanted_Hardsilver_Ink
+Dhalmelskin_Codex 55 1 697 70 6301 4 Water_Crystal 4 Lightning_Crystal 4 Dhalmel_Leather 1 Hardsilver_Nugget 1 Rubellite 1 Enchanted_Hardsilver_Ink
+Topiary_Moogle 55 1 1254 70 3150 4 Water_Crystal 4 Lightning_Crystal 4 Shrub_Seedling 1 Dark_Chestnut_Branch 4 Growth_Formula_Epsilon
+Lupin_Plot 55 1 1254 70 3150 4 Water_Crystal 4 Lightning_Crystal 4 Lupin_Seedling 4 Growth_Formula_Epsilon
+Deep_Red_Enchanted_Ink 51 1 421 80 4561 1 Water_Cluster 1 Lightning_Cluster 3 Deep_Red_Crystal 3 Deepeye_Tears
+Deep_Green_Enchanted_Ink 51 1 421 80 4561 1 Water_Cluster 1 Lightning_Cluster 3 Deep_Green_Crystal 3 Deepeye_Tears
+Deep_Blue_Enchanted_Ink 51 1 421 80 4561 1 Water_Cluster 1 Lightning_Cluster 3 Deep_Blue_Crystal 3 Deepeye_Tears
+Hallowed_Water 56 1 376 35 6561 5 Water_Crystal 5 Abalathian_Spring_Water 5 Abalathian_Mistletoe
+Hallowed_Chestnut_Wand 56 1 752 70 6561 5 Water_Crystal 5 Lightning_Crystal 1 Hallowed_Chestnut_Lumber 1 Hardsilver_Ingot 5 Growth_Formula_Epsilon
+Dragonskin_Grimoire 57 1 808 70 6820 5 Water_Crystal 5 Lightning_Crystal 5 Dragon_Leather 1 Hardsilver_Ingot 1 Mythrite_Ingot 1 Enchanted_Hardsilver_Ink
+Dragonskin_Codex 57 1 808 70 6820 5 Water_Crystal 5 Lightning_Crystal 5 Dragon_Leather 1 Hardsilver_Ingot 1 Mythrite_Ingot 1 Enchanted_Hardsilver_Ink
+Growth_Formula_Theta 58 1 431 35 7080 5 Water_Crystal 5 Rue 1 Dhalmel_Saliva 5 Red_Quartz
+Enchanted_Aurum_Regis_Ink 58 1 431 35 7080 5 Water_Crystal 5 Aurum_Regis_Sand 5 Dragon_Blood 1 Abalathian_Spring_Water
+Book_of_Aurum_Regis 58 1 863 70 7080 5 Water_Crystal 5 Lightning_Crystal 5 Aurum_Regis_Nugget 1 Hardsilver_Ingot 5 Star_Ruby 1 Enchanted_Aurum_Regis_Ink
+Noble's_Picatrix 58 1 863 70 7080 5 Water_Crystal 5 Lightning_Crystal 5 Aurum_Regis_Nugget 1 Hardsilver_Ingot 5 Star_Sapphire 1 Enchanted_Aurum_Regis_Ink
+Scale_Glue 59 1 459 35 7339 5 Water_Crystal 5 Dragon_Scale 5 Drake_Scales 5 Biast_Scales
+Max-Potion 60 2 956 70 7851 6 Water_Crystal 6 Lightning_Crystal 1 Royal_Mistletoe 1 Gem_Marimo 1 Coneflower 1 Cow_Bitter 1 Filtered_Water
+Max-Ether 60 2 956 70 7851 6 Water_Crystal 6 Lightning_Crystal 1 Royal_Mistletoe 1 Gem_Marimo 1 Highland_Oregano 1 Dandelion 1 Filtered_Water
+Oriental_Grass 59 1 1654 70 3669 5 Water_Crystal 5 Lightning_Crystal 5 Oriental_Grass 5 Growth_Formula_Theta
+Draconian_Potion_of_Strength 58 1 863 70 7080 2 Water_Cluster 1 Lightning_Cluster 1 Abalathian_Rock_Salt 2 Dragon_Blood 2 Furymint 2 Rue 1 Duskborne_Aethersand
+Draconian_Potion_of_Dexterity 58 1 863 70 7080 2 Water_Cluster 1 Lightning_Cluster 1 Abalathian_Rock_Salt 2 Dragon_Blood 2 Furymint 2 Coneflower 1 Duskborne_Aethersand
+Draconian_Potion_of_Vitality 59 1 919 70 7339 2 Water_Cluster 1 Lightning_Cluster 1 Abalathian_Rock_Salt 2 Dragon_Blood 2 Furymint 2 Cow_Bitter 1 Duskborne_Aethersand
+Draconian_Potion_of_Intelligence 59 1 919 70 7339 2 Water_Cluster 1 Lightning_Cluster 1 Abalathian_Rock_Salt 2 Dragon_Blood 2 Furymint 2 Coriander 1 Duskborne_Aethersand
+Draconian_Potion_of_Mind 59 1 919 70 7339 2 Water_Cluster 1 Lightning_Cluster 1 Abalathian_Rock_Salt 2 Dragon_Blood 2 Furymint 2 Dandelion 1 Duskborne_Aethersand
+Noble_Gold 60 1 956 70 7851 2 Water_Cluster 1 Lightning_Cluster 2 Aurum_Regis_Nugget 2 Hardsilver_Ingot 1 Chrysolite 1 Mormorion 1 Enchanted_Aurum_Regis_Ink
+Noble's_Codex 60 1 956 70 7851 2 Water_Cluster 1 Lightning_Cluster 2 Aurum_Regis_Nugget 2 Hardsilver_Ingot 1 Chrysolite 1 Dragon_Leather 1 Enchanted_Aurum_Regis_Ink
+Astral_Oil 60 1 1116 70 8377 2 Water_Cluster 1 Lightning_Cluster 2 Seventh_Heaven 2 Astral_Moraine 1 Bear_Fat
+Superior_Deep-red_Enchanted_Ink 60 1 1116 70 8377 2 Water_Cluster 1 Lightning_Cluster 2 Deep-red_Cluster 1 Astral_Oil 2 Duskborne_Aethersand
+Superior_Deep-green_Enchanted_Ink 60 1 1116 70 8377 2 Water_Cluster 1 Lightning_Cluster 2 Deep-green_Cluster 1 Astral_Oil 2 Duskborne_Aethersand
+Superior_Deep-blue_Enchanted_Ink 60 1 1116 70 8377 2 Water_Cluster 1 Lightning_Cluster 2 Deep-blue_Cluster 1 Astral_Oil 2 Duskborne_Aethersand
+Atrophied_Atomos 60 1 558 70 8377 99 Water_Shard 99 Atomos_Corpulence 99 Gelato_Flesh 99 Dragon_Blood 99 Growth_Formula_Theta 1 Glazenut 1 Dawnborne_Aethersand
+Grade_2_Strength_Dissolvent 60 1 1436 70 9430 2 Water_Cluster 2 Lightning_Cluster 1 Clary_Sage 1 Morel 2 Skyspring_Water 2 Dawnborne_Aethersand
+Grade_2_Dexterity_Dissolvent 60 1 1436 70 9430 2 Water_Cluster 2 Lightning_Cluster 1 Clary_Sage 1 Gaelicatnip 2 Skyspring_Water 2 Dawnborne_Aethersand
+Grade_2_Vitality_Dissolvent 60 1 1436 70 9430 2 Water_Cluster 2 Lightning_Cluster 1 Clary_Sage 1 Griffin_Talon 2 Skyspring_Water 2 Dawnborne_Aethersand
+Grade_2_Intelligence_Dissolvent 60 1 1436 70 9430 2 Water_Cluster 2 Lightning_Cluster 1 Clary_Sage 1 Chysahl_Greens 2 Skyspring_Water 2 Dawnborne_Aethersand
+Grade_2_Mind_Dissolvent 60 1 1436 70 9430 2 Water_Cluster 2 Lightning_Cluster 1 Clary_Sage 1 Gloaming_Coral 2 Skyspring_Water 2 Dawnborne_Aethersand
+Dravanian_Down_Tree 60 1 2584 70 4715 2 Water_Cluster 2 Lightning_Cluster 1 Dravanian_Mote 2 Growth_Formula_Theta

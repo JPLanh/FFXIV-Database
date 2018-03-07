@@ -1,0 +1,180 @@
+Copper_Ore 1 X / Western_Thanalan 5 Hammerlea 26 24 / Central_Thanalan 5 Spineless_Basin 19 26
+Earth_Shard 1 X / Lower_La_Noscea 10 Cedarwood 32 16 27 18 / Upper_La_Noscea 45 Bronze_Lake 34 24 29 24 28 22 / North_Shroud 5 Gelmorra_Ruins 22 21 25 22 / North_Shroud 10 Treespeak 27 24 28 24 / North_Shroud 20 Peacegarden 29 22
+Fire_Shard 1 X / Western_Thanalan 5 Hammerlea 26 24 / Eastern_Thanalan 20 Drybone 17 20 / Eastern_Thanalan 30 Wellwick_Wood 26 17 24 19 23 19 / Eastern_Thanalan 45 Drybone 12 19
+Ice_Shard 1 X / Western_La_Noscea 20 Skull_Valley 27 24 28 22 26 24 / South_Shroud 25 Upper_Paths 23 21 16 19 22 21 / South_Shroud 40 Urth's_Gift 28 22 / Coerthas_Central_Highlands 5 Whitebrim 26 19 27 16 / Coerthas_Central_Highlands 40 Dragonhead 24 19
+Lightning_Shard 1 X / Central_Thanalan 5 Spineless_Basin 19 26 23 26 / Central_Thanalan 10 Black_Brush 20 22 / Southern_Thanalan 35 Sagolii_Desert 25 40 / Mor_Dhona 5 The_Tangle 14 14 15 14
+Water_Shard 1 X / Eastern_La_Noscea 35 Bloodshore 26 30 29 26 / Western_Thanalan 5 Hammerlea 26 24 / Western_Thanalan 10 Hammerlea 22 28 / Western_Thanalan 15 Horizon's_Edge 24 18 27 17 24 18
+Wind_Shard 1 X / Central_Shroud 35 Sorrel_Haven 14 21 / Central_Thanalan 5 Spineless_Basin 19 26 23 26 / Northern_Thanalan 50 Bluefog 23 24
+Muddy_Water 3 X / Western_Thanalan 5 Hammerlea 26 24 / Central_Thanalan 5 Spineless_Basin 19 26
+Bone_Chip 5 X / Central_Thanalan 5 Spineless_Basin 23 26
+Tin_Ore 6 X / Western_Thanalan 10 Hammerlea 22 28 / Central_Thanalan 10 Black_Brush 20 22
+Raw_Lapis_Lazuli 7 X / North_Shroud 10 Treespeak 28 24
+Raw_Sunstone 7 X / Lower_La_Noscea 10 Cedarwood 27 18
+Soiled_Femur 8 X / Western_Thanalan 10 Hammerlea 22 28 / Central_Thanalan 10 Black_Brush 20 22
+Zinc_Ore 9 X / Western_Thanalan 10 Hammerlea 22 28 / Central_Thanalan 10 Black_Brush 20 22
+Obsidian 10 X / Western_Thanalan 10 Hammerlea 22 28
+Potter's_Clay 10 X / North_Shroud 10 Treespeak 28 24
+Iron_Ore 14 X / Western_Thanalan 15 Horizon's_Edge 27 17
+Raw_Malachite 16 X / Eastern_Thanalan 20 Drybone 17 20
+Raw_Fluorite 17 X / Eastern_Thanalan 20 Drybone 17 20
+Raw_Sphene 17 X / North_Shroud 20 Peacegarden 29 22
+Raw_Danburite 18 X / Western_La_Noscea 20 Skull_Valley 28 22
+Alumen 19 X / Eastern_Thanalan 20 Drybone 17 20
+Sunrise_Tellin 19 X / Western_La_Noscea 20 Skull_Valley 28 22
+Effervescent_Water 24 X / South_Shroud 25 Upper_Paths 16 19
+Silver_Ore 25 X / South_Shroud 25 Upper_Paths 16 19
+Fire_Crystal 26 X / The_Dravanian_Forelands 55 Chocobo_Forest 36 20 38 20 37 17 32 13 28 13 29 17 / The_Dravanian_Forelands 60 Avalonia_Fallen 16 28 19 30 20 27 11 31 10 33 8 34
+Ice_Crystal 26 X / Coerthas_Western_Highlands 50 Riversmeet 31 33 30 33 31 30 30 29 27 28 29 25 / Coerthas_Western_Highlands 55 Gorgagne_Holding 00 00 / Coerthas_Western_Highlands 60 Red_Rim 23 30 20 26 23 27
+Lightning_Crystal 26 X / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Water_Crystal 26 X / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Wind_Crystal 26 X / The_Dravanian_Hinterlands 60 The_Makers'_Quarter 24 23 27 25 23 25
+Wyvern_Obsidian 28 X / Eastern_Thanalan 30 Wellwick_Wood 26 17
+Saltpeter 30 X / Eastern_Thanalan 30 Wellwick_Wood 26 17
+Granite 31 X / Central_Shroud 35 Sorrel_Haven 14 21
+Little_Worm 31 Hidden / Southern_Thanalan 35 Sagolii_Desert 25 40
+Raw_Garnet 31 X / Eastern_La_Noscea 35 Bloodshore 29 26
+Raw_Heliodor 32 X / Southern_Thanalan 35 Sagolii_Desert 25 40
+Raw_Goshenite 33 X / Eastern_La_Noscea 35 Bloodshore 29 26
+Raw_Peridot 33 X / Central_Shroud 35 Sorrel_Haven 14 21
+Mythril_Ore 34 X / Southern_Thanalan 35 Sagolii_Desert 25 40
+Raw_Amethyst 34 X / Central_Shroud 35 Sorrel_Haven 14 21
+Raw_Aquamarine 35 X / Eastern_La_Noscea 35 Bloodshore 29 26
+Raw_Tourmaline 36 X / South_Shroud 40 Urth's_Gift 28 22
+Raw_Spinel 37 X / South_Shroud 40 Urth's_Gift 28 22
+Raw_Zircon 38 X / Coerthas_Central_Highlands 40 Dragonhead 24 19
+Jade 39 X / Coerthas_Central_Highlands 40 Dragonhead 24 19
+Black_Alumen 40 X / South_Shroud 40 Urth's_Gift 28 22
+Raw_Turquoise 41 X / Upper_La_Noscea 45 Bronze_Lake 29 24
+Electrum_Ore 43 X / Upper_La_Noscea 45 Bronze_Lake 29 24
+Raw_Amber 44 X / Eastern_Thanalan 45 Drybone 12 19
+Raw_Rubellite 45 X / Eastern_Thanalan 45 Drybone 12 19
+Basilisk_Egg 46 X / Northern_Thanalan 50 Bluefog 23 24
+Cobalt_Ore 47 X / Northern_Thanalan 50 Bluefog 23 24
+Adamantoise_Shell 49 X / Northern_Thanalan 50 Bluefog 23 24
+Ogre_Horn 50 X / Northern_Thanalan 50 Bluefog 23 24
+Coblyn_Larva 50 X / Eastern_Thanalan 50 ?? 00 00
+Darksteel_Ore 50 X / Coerthas_Central_Highlands 50 ?? 00 00
+Gold_Ore 50 X / Eastern_Thanalan 50 ?? 00 00
+Gregarious_Worm 50 X / Eastern_Thanalan 50 ?? 00 00
+Unaspected_Crystal 50 Hidden / Lower_La_Noscea 50 ?? 00 00 / Central_Thanalan 50 ?? 00 00 / Eastern_Thanalan 50 ?? 00 00 / Southern_Thanalan 50 ?? 00 00 / Northern_Thanalan 50 ?? 00 00 / Coerthas_Central_Highlands 50 ?? 00 00
+Dark_Matter_Cluster 50 Hidden / Lower_La_Noscea 50 ?? 00 00 / Central_Thanalan 50 ?? 00 00 / Eastern_Thanalan 50 ?? 00 00 / Southern_Thanalan 50 ?? 00 00 / Northern_Thanalan 50 ?? 00 00 / Coerthas_Western_Highlands 50 ?? 00 00 / Coerthas_Central_Highlands 50 ?? 00 00
+Ferberite 50 X / Northern_Thanalan 50 ?? 00 00
+Native_Gold 50 X / Central_Thanalan 50 ?? 00 00
+Raw_Diamond 50 X / Central_Thanalan 50 ?? 00 00
+Raw_Emerald 50 X / Central_Thanalan 50 ?? 00 00
+Raw_Iolite 50 X / Northern_Thanalan 50 ?? 00 00
+Raw_Ruby 50 X / Lower_La_Noscea 50 ?? 00 00
+Raw_Sapphire 50 X / Lower_La_Noscea 50 ?? 00 00
+Raw_Topaz 50 X / Northern_Thanalan 50 ?? 00 00
+Dragon_Obsidian 50 X / Coerthas_Western_Highlands 50 Riversmeet 30 29 27 28 29 25
+Platinum_Ore 50 X / Southern_Thanalan 50 ?? 00 00
+Virgin_Basilisk_Egg 50 X / Northern_Thanalan 50 ?? 00 00
+Yellow_Copper_Ore 50 X / Coerthas_Western_Highlands 50 ?? 00 00
+Pyrite 51 X / The_Dravanian_Forelands 55 ?? 00 00
+Raw_Agate 51 X / The_Dravanian_Forelands 55 The_Smoldering_Wastes 28 29 28 32 25 33
+Raw_Tiger's_Eye 52 X / The_Dravanian_Forelands 55 The_Smoldering_Wastes 28 29 28 32 25 33
+Chalcocite 53 X / The_Dravanian_Forelands 55 ?? 00 00
+Mythrite_Ore 53 Hidden / Coerthas_Western_Highlands 55 Gorgagne_Holding 00 00
+Raw_Larimar 53 X / Coerthas_Western_Highlands 55 Gorgagne_Holding 00 00
+Dravanian_Spring_Water 54 X / The_Dravanian_Forelands 55 The_Smoldering_Wastes 28 29 28 32 25 33
+Limonite 54 X / The_Dravanian_Forelands 55 ?? 00 00
+Raw_Mormorion 54 X / Coerthas_Western_Highlands 55 Gorgagne_Holding 00 00
+Raw_Star_Ruby 55 X / The_Dravanian_Forelands 55 Chocobo_Forest 32 13 28 13 29 17
+Raw_Star_Sapphire 55 X / The_Dravanian_Forelands 55 Chocobo_Forest 32 13 28 13 29 17 
+Titanium_Ore 55 Hidden / The_Dravanian_Forelands 55 Chocobo_Forest 32 13 28 13 29 17
+Abalathian_Spring_Water 57 X / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Light_Kidney_Ore 57 X / The_Dravanian_Hinterlands 60 ?? 00 00
+Raw_Opal 57 X / The_Dravanian_Forelands 60 Avalonia_Fallen 16 28 19 30 20 27 
+Hardsilver_Ore 58 Hidden / The_Dravanian_Hinterlands 60 The_Makers'_Quarter 24 23 27 25 23 25
+Raw_Carnelian 58 X / The_Dravanian_Forelands 60 Avalonia_Fallen 16 28 19 30 20 27
+Aurum_Regis_Sand 59 X / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Cuprite 59 X / The_Dravanian_Hinterlands 60 ?? 00 00
+Raw_Citrine 59 X / Coerthas_Western_Highlands 60 Red_Rim 23 30 20 26 23 27
+Adamantite_Ore 60 X / Azys_Lla 60 ?? 00 00
+Grade_5_Carbonized_Matter 60 Hidden / Coerthas_Western_Highlands 50 ?? 00 00 / Coerthas_Western_Highlands 55 Gorgagne_Holding 00 00 / Coerthas_Western_Highlands 60 Red_Rim 23 30 20 26 23 27 / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00 / The_Dravanian_Forelands 55 Chocobo_Forest 36 20 38 20 37 17 32 13 28 13 29 17 / The_Dravanian_Forelands 60 Avalonia_Fallen 16 28 19 30 20 27 11 31 10 33 8 34
+Raw_Chrysolite 60 X / The_Dravanian_Hinterlands 60 The_Makers'_Quarter 24 23 27 25 23 25
+Wyrm_Obsidian 60 X / The_Dravanian_Hinterlands 60 The_Makers'_Quarter 24 23 27 25 23 25
+Earth_Shard 1 X / Lower_La_Noscea 30 Cedarwood 26 15 26 15 / Lower_La_Noscea 50 The_Gods'_Grip 21 34 21 34 / Upper_La_Noscea 25 Oakwood 14 24 12 23 / Upper_La_Noscea 30 Oakwood 12 25 / Upper_La_Noscea 45 Bronze_Lake 34 24 29 24 28 22
+Fire_Shard 1 X / Middle_La_Noscea 20 Three-malm_Bend 15 10 / Eastern_Thanalan 30 Wellwick_Wood 26 17 24 19 23 19
+Ice_Shard 1 X / Western_La_Noscea 20 Skull_Valley 27 24 28 22 26 24 / Western_La_Noscea 30 Quarterstone 31 28 31 27 / Western_La_Noscea 50 Quarterstone 35 29 34 29 / South_Shroud 25 Upper_Paths 23 21 16 19 22 21
+Lightning_Shard 1 X / Central_Thanalan 15 Black_Brush 14 22 / Southern_Thanalan 30 Broken_Water 18 11 19 11 / Southern_Thanalan 30 Sagolii_Desert 22 29 / Southern_Thanalan 35 The_Red_Labyrinth 18 18
+Water_Shard 1 X / Western_Thanalan 15 Horizon's_Edge 24 18 27 17 24 18 / Western_Thanalan 30 Nophica's_Wells 23 22 24 23 / Western_Thanalan 50 The_Silver_Bazaar 00 00
+Wind_Shard 1 X / East_Shroud 30 Nine_Ivies 20 27 20 27 / East_Shroud 50 The_Bramble_Patch 16 23 18 24 18 25 / Northern_Thanalan 40 Bluefog 21 28
+Copper_Sand 11 X / Western_Thanalan 15 Horizon's_Edge 24 18
+Fine_Sand 11 X / Central_Thanalan 15 Black_Brush 14 22
+Rock_Salt 12 X / Central_Thanalan 15 Black_Brush 14 22
+Ragstone 13 X / Central_Thanalan 15 Black_Brush 14 22
+Iron_Sand 14 X / Western_Thanalan 15 Horizon's_Edge 24 18
+Cinnabar 15 X / Western_Thanalan 15 Horizon's_Edge 24 18
+Limestone 17 X / Western_La_Noscea 20 Skull_Valley 26 24
+Grade_1_Carbonized_Matter 20 X / Middle_La_Noscea 20 Three-malm_Bend 15 10
+Mudstone 20 X / Western_La_Noscea 20 Skull_Valley 26 24
+Earth_Rock 21 X / South_Shroud 25 Upper_Paths 22 21
+Silver_Sand 22 X / South_Shroud 25 Upper_Paths 22 21
+Fire_Rock 23 X / Upper_La_Noscea 25 Oakwood 12 23
+Ice_Rock 23 X / South_Shroud 25 Upper_Paths 22 21
+Lightning_Rock 24 X / Upper_La_Noscea 25 Oakwood 12 23
+Wind_Rock 24 X / South_Shroud 25 Upper_Paths 22 21
+Water_Rock 25 X / Upper_La_Noscea 25 Oakwood 12 23
+Bomb_Ash 26 X / Southern_Thanalan 30 Sagolii_Desert 22 29
+Earth_Crystal 26 X / Lower_La_Noscea 30 Cedarwood 26 15 / Lower_La_Noscea 50 The_Gods'_Grip 21 34 / The_Churning_Mists 60 Landlord_Colony 25 18 28 20 29 18
+Fire_Crystal 26 X / Eastern_Thanalan 30 Wellwick_Wood 24 19
+Ice_Crystal 26 X / Western_La_Noscea 30 Quarterstone 31 27 / Western_La_Noscea 50 Quarterstone 35 29
+Lightning_Crystal 26 X / Southern_Thanalan 30 Broken_Water 18 11
+Water_Crystal 26 X / Western_Thanalan 30 Nophica's_Wells 23 22
+Wind_Crystal 26 X / East_Shroud 30 Nine_Ivies 20 27 / East_Shroud 50 The_Bramble_Patch 18 24
+Silex 27 X / Southern_Thanalan 30 Sagolii_Desert 22 29
+Blue_Pigment 28 X / Western_Thanalan 30 Nophica's_Wells 23 22 24 23
+Brown_Pigment 28 X / Lower_La_Noscea 30 Cedarwood 26 15 26 15
+Green_Pigment 28 X / East_Shroud 30 Nine_Ivies 20 27 20 27
+Grey_Pigment 28 X / Western_La_Noscea 30 Quarterstone 31 28 31 27
+Purple_Pigment 28 X / Southern_Thanalan 30 Broken_Water 18 11 19 11
+Red_Pigment 28 X / Eastern_Thanalan 30 Wellwick_Wood 24 19 23 19
+Yellow_Pigment 28 X / Lower_La_Noscea 30 Cedarwood 26 15 26 15
+Brimstone 29 X / Upper_La_Noscea 30 Oakwood 12 25
+Grade_1_La_Noscean_Topsoil 30 Hidden / Lower_La_Noscea 30 Cedarwood 26 15 26 15
+Grade_1_Shroud_Topsoil 30 Hidden / East_Shroud 30 Nine_Ivies 20 27 20 27
+Grade_1_Thanalan_Topsoil 30 Hidden / Eastern_Thanalan 30 Wellwick_Wood 24 19 23 19
+Grade_2_Carbonized_Matter 30 X / Lower_La_Noscea 30 Cedarwood 26 15 26 15 / Western_La_Noscea 30 Quarterstone 31 28 31 27 / East_Shroud 30 Nine_Ivies 20 27 20 27 / Western_Thanalan 30 Nophica's_Wells 23 22 24 23 / Eastern_Thanalan 30 Wellwick_Wood 24 19 23 19 / Southern_Thanalan 30 Broken_Water 18 11 19 11
+Siltstone 30 X / Upper_La_Noscea 30 Oakwood 12 25
+Mythril_Sand 33 X / Southern_Thanalan 35 The_Red_Labyrinth 18 18
+Grenade_Ash 40 X / Northern_Thanalan 40 Bluefog 21 28
+Electrum_Sand 42 X / Upper_La_Noscea 45 Bronze_Lake 28 22
+Marble 45 X / Upper_La_Noscea 45 Bronze_Lake 28 22
+Grade_2_La_Noscean_Topsoil 46 Hidden / Lower_La_Noscea 50 The_Gods'_Grip 21 34 21 34
+Grade_2_Shroud_Topsoil 46 Hidden / East_Shroud 50 The_Bramble_Patch 18 24 18 25
+Grade_2_Thanalan_Topsoil 46 Hidden / Western_Thanalan 50 The_Silver_Bazaar 00 00
+Black_Limestone 50 X / Western_La_Noscea 50 Quarterstone 35 29 34 29
+Earth_Cluster 50 X / Mor_Dhona 50 ?? 00 00
+Fire_Cluster 50 X / Middle_La_Noscea 50 ?? 00 00 / Mor_Dhona 50 ?? 00 00 / The_Dravanian_Forelands 60 Avalonia_Fallen 17 27
+Grade_3_Carbonized_Matter 50 X / Lower_La_Noscea 50 The_Gods'_Grip 21 34 21 34 / Western_La_Noscea 50 Quarterstone 35 29 34 29 / East_Shroud 50 The_Bramble_Patch 18 24 18 25 / Western_Thanalan 50 The_Silver_Bazaar 00 00
+Ice_Cluster 50 X / Mor_Dhona 50 ?? 00 00
+Lightning_Cluster 50 X / Coerthas_Western_Highlands 60 Red_Rim 21 28 / Mor_Dhona 50 ?? 00 00 / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Water_Cluster 50 X / Western_Thanalan 50 ?? 00 00 / Mor_Dhona 50 ?? 00 00
+Wind_Cluster 50 X / Mor_Dhona 50 ?? 00 00
+Astral_Rock 50 X / Coerthas_Central_Highlands 50 ?? 00 00
+Gold_Sand 50 X / Eastern_Thanalan 50 ?? 00 00
+Grade_3_La_Noscean_Topsoil 50 X / Middle_La_Noscea 50 ?? 00 00
+Grade_3_Shroud_Topsoil 50 X / South_Shroud 50 ?? 00 00
+Grade_3_Thanalan_Topsoil 50 X / Western_Thanalan 50 ?? 00 00
+Grade_4_Carbonized_Matter 50 X / Mor_Dhona 50 ?? 00 00
+Umbral_Rock 50 X / South_Shroud 50 ?? 00 00
+Unaspected_Crystal 50 Hidden / Middle_La_Noscea 50 ?? 00 00 / Eastern_La_Noscea 50 ?? 00 00 / South_Shroud 50 ?? 00 00 / Western_Thanalan 50 ?? 00 00 / Eastern_Thanalan 50 ?? 00 00 / Coerthas_Central_Highlands 50 ?? 00 00 / Mor_Dhona 50 ?? 00 00
+Volcanic_Rock_Salt 50 X / Eastern_La_Noscea 50 ?? 00 00
+Antumbral_Rock 50 X / Eastern_Thanalan 50 ?? 00 00
+Dark_Matter_Cluster 50 Hidden / Middle_La_Noscea 50 ?? 00 00 / Eastern_La_Noscea 50 ?? 00 00 / South_Shroud 50 ?? 00 00 / Western_Thanalan 50 ?? 00 00 / Eastern_Thanalan 50 ?? 00 00 / Coerthas_Central_Highlands 50 ?? 00 00 / Mor_Dhona 50 ?? 00 00
+Pumice 50 X / Eastern_La_Noscea 50 ?? 00 00
+Mythrite_Sand 51 X / Coerthas_Western_Highlands 55 Twinpools 18 14 14 14 16 10
+Yellow_Quartz 52 X / The_Churning_Mists 55 ?? 00 00
+Green_Quartz 55 X / The_Churning_Mists 55 ?? 00 00
+Abalathian_Rock_Salt 56 X / The_Sea_of_Clouds 60 ?? 00 00
+Fire_Moraine 56 X / The_Dravanian_Forelands 60 Avalonia_Fallen 00 00
+Hardsilver_Sand 56 X / The_Churning_Mists 60 Landlord_Colony 25 18 28 20 29 18
+Lightning_Moraine 56 X / Coerthas_Western_Highlands 60 Red_Rim 00 00 / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Bright_Fire_Rock 58 Hidden / The_Dravanian_Forelands 60 Avalonia_Fallen 00 00
+Bright_Lightning_Rock 58 Hidden / Coerthas_Western_Highlands 60 Red_Rim 00 00 / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
+Cloud_Mica 58 X / The_Churning_Mists 60 Landlord_Colony 25 18 28 20 29 18
+Red_Quartz 58 X / The_Sea_of_Clouds 60 ?? 00 00
+Grade_5_Carbonized_Matter 60 Hidden / Coerthas_Western_Highlands 55 Twinpools 19 18 19 15 15 16 18 14 14 14 16 10 / The_Sea_of_Clouds 60 ?? 00 00 / The_Churning_Mists 55 ?? 00 00 / The_Churning_Mists 60 Landlord_Colony 25 18 28 20 29 18
+Radiant_Fire_Moraine 60 Hidden / The_Dravanian_Forelands 60 Avalonia_Fallen 00 00
+Radiant_Lightning_Moraine 60 Hidden / Coerthas_Western_Highlands 60 Red_Rim 00 00 / The_Sea_of_Clouds 60 Voor_Sian_Siran 00 00
